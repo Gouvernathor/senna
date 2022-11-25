@@ -22,7 +22,11 @@ ces textes fondent une nouvelle république parlementaire délibérative, plus �
 .. organique
 .. reglement_interieur
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Pour comparaison :
 
+   constitution_5
 
 Index
 =====
