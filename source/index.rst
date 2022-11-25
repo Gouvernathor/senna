@@ -6,15 +6,25 @@
 Bienvenue sur la Constitution Senna !
 =====================================
 
+La Constitution Senna est un projet de nouvelle constitution pour la république française, en
+remplacement de la constitution ô combien dysfonctionnelle de la Vème République.
+
+Elle est accompagnée de textes organiques et du règlement des assemblées parlementaires. Ensemble,
+ces textes fondent une nouvelle république parlementaire délibérative, plus équilibrée et laissant
+à la souveraineté du peuple la place qu'elle mérite.
+
 .. toctree::
    :maxdepth: 2
-   :caption: Textes:
+   :caption: Textes constitutifs :
+
+   constitution
 
 
+Index
+=====
 
-Indices and tables
-==================
+:ref:`genindex`
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
