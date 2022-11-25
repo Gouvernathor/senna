@@ -18,6 +18,10 @@ ces textes fondent une nouvelle république parlementaire délibérative, plus �
    :caption: Textes constitutifs :
 
    constitution
+   droits_fondamentaux
+.. organique
+.. reglement_interieur
+
 
 
 Index
