@@ -29,12 +29,16 @@ html_static_path = ['_static']
 html_permalinks = True
 html_permalinks_icon = '¶'
 
+html_title = project
+
 html_theme_options = dict(
-    # repository_url="",
-    # repository_branch="main",
-    # use_repository_button=True,
-    # use_issues_button=True,
-    # use_edit_page_button=True,
+    repository_url='https://github.com/Gouvernathor/senna',
+    repository_branch='main',
+    use_repository_button=True,
+    use_issues_button=True,
+    use_edit_page_button=True,
 
     use_download_button=True,
+
+    extra_navbar='',
 )
