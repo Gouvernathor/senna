@@ -27,12 +27,3 @@ ces textes fondent une nouvelle république parlementaire délibérative, plus �
    :caption: Pour comparaison :
 
    constitution_5
-
-Index
-=====
-
-:ref:`genindex`
-
-.. * :ref:`genindex`
-.. * :ref:`modindex`
-.. * :ref:`search`
