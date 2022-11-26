@@ -6,8 +6,8 @@ Constitution de la République Française
 Article liminaire
 -----------------
 
-Principes fondamentaux
------------------------
+.. article:: principes fondamentaux
+
 La France est une République indivisible, laïque, démocratique et sociale. Elle assure l’égalité
 devant la loi de tous les citoyens. Elle respecte toutes les croyances.
 
@@ -17,8 +17,8 @@ Les droits énumérés dans la :doc:`droits_fondamentaux` ont valeur constitutio
 Titre premier - De la souveraineté
 ----------------------------------
 
-Symboles
---------
+.. article:: symboles
+
 La langue de la République est le français.
 
 Le symbole de l'état est le drapeau tricolore, bleu, blanc, rouge.
@@ -27,8 +27,8 @@ La devise de la République est "Liberté, Égalité, Fraternité".
 
 Son principe est : gouvernement du peuple, par le peuple, pour le peuple.
 
-Souveraineté
-------------
+.. article:: souveraineté
+
 La souveraineté nationale appartient au peuple.
 
 Aucune section du peuple ni aucun individu ne peut s'en attribuer l'exercice.
@@ -39,8 +39,8 @@ toujours universel, égal et secret.
 Sont électeurs, dans les conditions déterminées par la loi, tous les citoyens majeurs du territoire
 français, jouissant de leurs droits civils et politiques.
 
-Droits et libertés des groupements politiques
----------------------------------------------
+.. article:: droits et libertés des groupements politiques
+
 Les partis et groupements politiques concourent à l'expression du suffrage. Ils se forment et
 exercent leur activité librement.
 
@@ -51,8 +51,8 @@ et groupements politiques à la vie démocratique de la Nation.
 Titre II - Le Parlement
 -----------------------
 
-Principe du parlement
----------------------
+.. article:: principe du parlement
+
 Le Parlement vote la loi. Il contrôle et nomme le gouvernement. Il détermine et conduit la
 politique de l'État, sous mandature et contrôle des citoyens du territoire français.
 
@@ -66,8 +66,8 @@ jamais excéder le nombre de députés.
 Les assemblées peuvent être renouvelées de manière anticipée, dans le cadre déterminé par la loi
 organique.
 
-Modalités de mandat parlementaire
----------------------------------
+.. article:: modalités de mandat parlementaire
+
 Une loi organique fixe la durée des pouvoirs de chaque assemblée, le nombre de ses membres, leur
 mode d'élection, les conditions d'éligibilité, le régime des inéligibilités et des
 incompatibilités.
@@ -76,10 +76,10 @@ Elle fixe également les conditions dans lesquelles sont élues les personnes ap
 cas de vacance du siège, le remplacement des députés ou des sénateurs jusqu'au renouvellement
 général ou partiel de l'assemblée à laquelle ils appartenaient.
 
-Irresponsabilité et immunité parlementaires
--------------------------------------------
-Sauf dans les cas prévus par la Constitution, notamment dans le premier alinéa de l'article sur le
-`Principe du parlement`_ ainsi que dans l'article sur la `Responsabilité parlementaire`_, aucun
+.. article:: irresponsabilité et immunité parlementaires
+
+Sauf dans les cas prévus par la Constitution, notamment dans le premier alinéa de
+:artref:`principe-du-parlement` ainsi que dans :artref:`responsabilité-parlementaire`, aucun
 membre du Parlement ne peut être poursuivi, recherché, arrêté, détenu ou jugé à l'occasion des
 opinions ou votes émis par lui dans l'exercice de ses fonctions.
 
@@ -92,8 +92,8 @@ La détention, les mesures privatives ou restrictives de liberté ou la poursuit
 Parlement sont suspendues pour la durée de la session si l’assemblée dont il fait partie le
 requiert.
 
-Responsabilité parlementaire
-----------------------------
+.. article:: responsabilité parlementaire
+
 Tout mandat implique de manière impérative le candidat élu dans ses engagements électoraux, dans la
 limite des pouvoirs qu'il détient.
 
@@ -103,8 +103,8 @@ contrôle du respect de ces engagements.
 Le règlement intérieur des assemblées parlementaires prévoit les conditions de la délégation de
 vote.
 
-Présidence et bureau des assemblées
------------------------------------
+.. article:: présidence et bureau des assemblées
+
 Chaque assemblée élit un Président après son renouvellement, partiel ou total.
 
 Le Bureau de chaque assemblée est élu de manière proportionnelle en même temps que son président.
@@ -112,16 +112,16 @@ Le Bureau de chaque assemblée est élu de manière proportionnelle en même tem
 Un renouvellement du président ou du Bureau peut avoir lieu dans des conditions prévues par le
 règlement intérieur de l'assemblée concernée, ou par la loi.
 
-Publication des travaux du Parlement
-------------------------------------
+.. article:: publication des travaux du Parlement
+
 Les séances des deux assemblées sont publiques. Le compte rendu intégral des débats est publié au
 Journal officiel.
 
 Chaque assemblée peut siéger en comité secret à la demande d’un dixième de ses membres, et selon
 les modalités prévues par son règlement.
 
-Droit de grâce
---------------
+.. article:: droit de grâce
+
 Le Parlement peut, à la majorité absolue des membres de chacunes des assemblées, faire grâce à
 titre exceptionnel et individuel, avec l'accord de l'individu gracié, qui quitte alors tout mandat
 électif ou représentatif et devient inéligible à vie.
@@ -129,8 +129,8 @@ titre exceptionnel et individuel, avec l'accord de l'individu gracié, qui quitt
 La loi fixe les modalités d'annulation de cette grâce, condition nécessaire à l'annulation de
 l'inéligibilité qui en découle.
 
-Réunion en Congrès
-------------------
+.. article:: réunion en Congrès
+
 Le Parlement a la faculté de réunir ses membres en session commune de Congrès par l'adoption d'une
 motion de réunion adoptée en termes identiques par les deux assemblées.
 
@@ -158,30 +158,30 @@ Congrès, ou en cas de renouvellement partiel ou total d'une des assemblées par
 Les deux assemblées parlementaires se réunissent de plein droit pendant la session commune de
 Congrès, notamment afin d'amender la motion de réunion de la session en cours.
 
-Résolutions parlementaires
---------------------------
+.. article:: résolutions parlementaires
+
 Les assemblées peuvent voter des résolutions dans les conditions fixées par la loi organique.
 
-Initiative législative
-----------------------
+.. article:: initiative législative
+
 L'initiative législative appartient aux membres du Parlement.
 
-Examen en commission
---------------------
+.. article:: examen en commission
+
 Les propositions de loi sont envoyées pour examen à l'une des commissions permanentes de chaque
 assemblée.
 
 À la demande de l'assemblée qui en est saisie, les propositions de loi sont envoyées pour examen à
 une commission spécialement désignée à cet effet.
 
-Droit d'amendement
-------------------
+.. article:: droit d'amendement
+
 Les membres du Parlement ont le droit d'amendement. Ce droit s'exerce en séance ou en commission
 selon les conditions fixées par les règlements des assemblées, dans le cadre déterminé par une loi
 organique.
 
-Navette parlementaire et CMP
-----------------------------
+.. article:: navette parlementaire et CMP
+
 Tout projet ou proposition de loi est examiné successivement dans les deux assemblées du Parlement
 en vue de l’adoption d’un texte identique.
 
@@ -198,11 +198,10 @@ un texte sur les dispositions restant en discussion.
 
 Le texte élaboré par la commission mixte est soumis pour approbation aux deux Assemblées.
 
-Adoption sans le Sénat
-----------------------
+.. article:: adoption sans le Sénat
+
 Si la commission mixte paritaire ne parvient pas à l'adoption d'un texte commun ou si ce texte
-n'est pas adopté, la procédure prévue à l'article sur la
-`Navette parlementaire <#navette-parlementaire-et-cmp>`_ se poursuit.
+n'est pas adopté, la procédure prévue à :artref:`navette-parlementaire-et-cmp` se poursuit.
 
 Cependant, après une nouvelle lecture par l'Assemblée nationale et par le Sénat, l'Assemblée
 nationale peut statuer définitivement à la majorité des trois cinquièmes de ses membres, ou porter
@@ -210,16 +209,15 @@ le texte à l'approbation du peuple par référendum. En ce cas, l'Assemblée na
 soit le texte élaboré par la commission mixte paritaire, soit le dernier texte voté par elle,
 modifié le cas échéant par un ou plusieurs des amendements adoptés par le Sénat.
 
-Lois organiques
----------------
+.. article:: lois organiques
 
 Les lois auxquelles la Constitution confère le caractère de loi organique sont votées et modifiées
 dans les conditions suivantes.
 
-La procédure des articles sur la `Réunion en Congrès`_, sur la
-`Navette parlementaire <#navette-parlementaire-et-cmp>`_ et sur l'`Adoption sans le Sénat`_ est
-applicable. Toutefois, faute d'accord entre les deux Assemblées, le texte ne peut être adopté par
-l'Assemblée nationale en dernière lecture qu'à la majorité des trois quarts de ses membres.
+La procédure des articles :artnumref:`réunion-en-congrès`,
+:artnumref:`navette-parlementaire-et-cmp` et :artnumref:`adoption-sans-le-sénat` est applicable.
+Toutefois, faute d'accord entre les deux Assemblées, le texte ne peut être adopté par l'Assemblée
+nationale en dernière lecture qu'à la majorité des trois quarts de ses membres.
 
 Les lois organiques relatives, au moins en partie, au Sénat, ou susceptibles d'altérer l'équilibre
 des pouvoirs entre les assemblées, doivent être votées dans les mêmes termes par les deux
@@ -228,49 +226,49 @@ assemblées, sauf en cas d'adoption par référendum.
 Les lois organiques ne peuvent être promulguées qu’après déclaration par le Conseil constitutionnel
 de leur conformité à la Constitution.
 
-Lois de finances et de financement de la sécurité sociale
----------------------------------------------------------
+.. article:: lois de finances et de financement de la sécurité sociale
+
 Le Parlement vote les propositions de loi de finances et de loi de financement de la sécurité
 sociale dans les conditions prévues par une loi organique.
 
 Si l'Assemblée nationale ne s'est pas prononcée en première lecture dans un délai de quarante jours
 après le dépôt d'une proposition, le Sénat en est saisi et doit statuer dans un délai de quinze
-jours. Il est ensuite procédé dans les conditions prévues à l'article sur la
-`Navette parlementaire <#navette-parlementaire-et-cmp>`_.
+jours. Il est ensuite procédé dans les conditions prévues à :artref:`navette-parlementaire-et-cmp`.
 
 Les délais prévus au présent article peuvent être réduits par la loi organique.
 
-Ordre du jour des assemblées
-----------------------------
+.. article:: ordre du jour des assemblées
+
 Sans préjudice des alinéas suivants du présent article, l'ordre du jour des assemblées est fixé par
 chaque assemblée.
 
 L'examen des propositions de loi de finances, des propositions de loi de financement de la sécurité
 sociale et des textes transmis par l'autre assemblée depuis six semaines au moins, des propositions
-relatives aux états de crise et des demandes d'autorisation visées à l'article sur la
-`Guerre et l'intervention armée`_ est inscrit à l'ordre du jour par priorité.
+relatives aux états de crise et des demandes d'autorisation visées à
+:artref:`guerre-et-intervention-armée` est inscrit à l'ordre du jour par priorité.
 
-Groupes parlementaires
-----------------------
+.. article:: groupes parlementaires
+
 Le règlement de chaque assemblée détermine les droits des groupes parlementaires constitués en son
 sein. Il reconnaît des droits spécifiques aux groupes d’opposition de l’assemblée intéressée ainsi
 qu’aux groupes minoritaires.
 
-Commissions d'enquête parlementaires
-------------------------------------
+.. article:: commissions d'enquête parlementaires
+
 Des commissions d’enquête peuvent être créées au sein de chaque assemblée pour recueillir, dans les
 conditions prévues par la loi, des éléments d’information.
 
 La loi détermine leurs règles d’organisation et de fonctionnement. Leurs conditions de création
 sont fixées par le règlement de chaque assemblée.
 
-Amendement de la Constitution
------------------------------
+.. article:: amendement de la Constitution
+
 L'initiative de la révision de la Constitution appartient concurremment aux citoyens de la
 République par voie de pétition et aux membres du Parlement.
 
 La révision est définitive après avoir été approuvée par référendum selon les modalités prévues à
-l'article sur les `Référendums`_, ou après avoir été adoptée par le Parlement rassemblé en Congrès.
+:artref:`référendums`, ou après avoir été adoptée par le Parlement rassemblé en
+Congrès.
 
 Lorsque les assemblées parlementaires décident de convoquer le Parlement en Congrès, le projet de
 révision n'est approuvé que si sa considération a été prévue par la motion de réunion de la session
@@ -280,19 +278,18 @@ cinquièmes des suffrages exprimés.
 Dans le cas d'une révision adoptée en Congrès, le délai de ratification est alors de trois mois à
 compter de son adoption. Une pétition pour l'annulation de cette révision recevant le soutien d'un
 centième des citoyens suspend l'application de la révision, ainsi que le délai de ratification le
-cas échéant, et la porte en référendum en dérogation du premier alinéa de l'article sur les
-`Référendums`_.
+cas échéant, et la porte en référendum en dérogation du premier alinéa de :artref:`référendums`.
 
 Aucune procédure de révision ne peut être engagée ou poursuivie lorsqu’il est porté atteinte à
 l’intégrité du territoire.
 
-Référendums
------------
+.. article:: référendums
+
 Le Parlement, ou une pétition rassemblant trois centièmes des citoyens, ont la faculté de
 déclencher un référendum, afin de soumettre un texte législatif à l'approbation du peuple ou de lui
 poser une question sans valeur législative. Toutefois, dans le cas d'une question sans valeur
 législative, une assemblée parlementaire peut le déclencher seule ; et dans le cadre prévu par
-l'article sur l'`Adoption sans le Sénat`_, l'Assemblée Nationale a la faculté de le déclencher
+:artref:`adoption-sans-le-sénat`, l'Assemblée Nationale a la faculté de le déclencher
 seule. Une loi organique peut établir d'autres circonstances de déclenchement d'un référendum.
 
 Le vote doit avoir lieu dans les trois mois suivant le déclenchement du référendum, sauf par
@@ -314,8 +311,8 @@ n'est pas d'origine populaire et où le texte n'a pas valeur constitutionnelle.
 Titre III - Le gouvernement
 ---------------------------
 
-Principe de l'administration
-----------------------------
+.. article:: principe de l'administration
+
 L'administration assure l'application des lois.
 
 Le gouvernement dirige l'administration, dont il fait partie, ainsi que la force armée, à
@@ -325,15 +322,15 @@ Il est responsable devant le Parlement.
 
 L'administration assure la continuité territoriale et temporelle de l'État.
 
-Le Chancelier de la République
-------------------------------
+.. article:: le Chancelier de la République
+
 Le Chancelier de la République dirige l'action du gouvernement, dont il fait partie. Au nom et sous
 le contrôle du Parlement, il nomme aux emplois civils et militaires.
 
 Il peut déléguer certains de ses pouvoirs au gouvernement.
 
-Contreseing par le gouvernement
--------------------------------
+.. article:: contreseing par le gouvernement
+
 Les actes du Chancelier de la République sont contresignés, le cas échéant, par les ministres
 chargés de leur exécution.
 
@@ -341,16 +338,17 @@ chargés de leur exécution.
 Titre IV - Des rapports entre le gouvernement et le Parlement
 -------------------------------------------------------------
 
-Nomination du gouvernement
---------------------------
+.. article:: nomination du gouvernement
+
 Le gouvernement est nommé par une pétition de gouvernement, citant les postes gouvernementaux,
 incluant la Chancellerie, et l'identité des individus qui y correspondent. Une pétition de
 gouvernement n'est valide que si elle est signée par l'intégralité des individus qu'elle cite, et
-si les individus cités correspondent aux conditions fixées par l'article sur
-l'`Incompatibilité de mandat représentatif`_. Un même individu ne peut signer qu'une seule pétition
-le citant au poste de Chancelier. Tant que le gouvernement cité n'est pas en fonction, les postes
-et noms cités sur une pétition, sauf celui cité au poste de Chancelier, peuvent être modifiés avec
-l'accord de l'individu cité au poste de Chancelier et de chaque individu ajouté à la pétition.
+si les individus cités correspondent aux conditions fixées par
+:artref:`incompatibilité-de-mandat-représentatif`. Un même individu ne peut signer qu'une seule
+pétition le citant au poste de Chancelier. Tant que le gouvernement cité n'est pas en fonction, les
+postes et noms cités sur une pétition, sauf celui cité au poste de Chancelier, peuvent être
+modifiés avec l'accord de l'individu cité au poste de Chancelier et de chaque individu ajouté à la
+pétition.
 
 Ces pétitions, ainsi que la liste des membres du Parlement qui leur accordent leur approbation,
 sont publiques. Les approbations s'accordent et se retirent selon les modalités prévues par le
@@ -377,3 +375,13 @@ désigné par la procédure prévue aux alinéas précédents, ainsi que durant 
 Chancellerie.
 
 La loi organique prévoit les critères de recevabilité des pétitions de gouvernement.
+
+.. article:: responsabilité politique du gouvernement
+
+La pétition du gouvernement contient une déclaration de politique publique. Chaque individu cité
+par la pétition y est lié et est tenu, une fois nommé au gouvernement et dans le respect de la loi
+et des instructions du Parlement, de se conformer à cette déclaration.
+
+Amender le contenu de cette déclaration après la nomination du gouvernement nécessite l'accord de
+la ou des assemblées parlementaires au nom desquelles il a été nommé, après que le Chancelier leur
+ait présenté l'amendement, ainsi que le consentement de tous les membres du gouvernement.
