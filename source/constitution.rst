@@ -383,5 +383,509 @@ par la pétition y est lié et est tenu, une fois nommé au gouvernement et dans
 et des instructions du Parlement, de se conformer à cette déclaration.
 
 Amender le contenu de cette déclaration après la nomination du gouvernement nécessite l'accord de
-la ou des assemblées parlementaires au nom desquelles il a été nommé, après que le Chancelier leur
-ait présenté l'amendement, ainsi que le consentement de tous les membres du gouvernement.
+la ou des assemblées parlementaires au nom desquelles il a été nommé, après la présentation de
+l'amendement par le Chancelier, ainsi que le consentement de tous les membres du gouvernement.
+
+.. article:: motions de censure
+
+Le Parlement met en cause la responsabilité d'un membre du gouvernement par le vote d’une motion de
+censure dans une des deux assemblées, ou en Congrès.
+
+Une telle motion n’est recevable que si le gouvernement est majoritaire dans l'assemblée concernée,
+ou si elle est signée par la moitié des membres approuvant le gouvernement au sein de l'assemblée
+concernée.
+
+De plus, une motion de censure à l'encontre du Chancelier n'est recevable au Sénat que si le
+gouvernement est uniquement majoritaire au Sénat. Lorsque c'est le cas, une telle motion n'est pas
+recevable à l'Assemblée nationale.
+
+La loi organique peut fixer des conditions supplémentaires à la recevabilité d'une motion de
+censure à l'encontre d'un membre du gouvernement autre que le Chancelier.
+
+En dérogation aux conditions citées aux alinéas précédents, le Chancelier a la faculté de déposer
+une motion de censure recevable contre n'importe quel membre du gouvernement.
+
+Les motions de censure à l'encontre du Chancelier, y compris en application de l'alinéa précédent,
+ne sont recevables que lorsqu'il existe une pétition de gouvernement ayant la même priorité que
+celle du gouvernement en fonction, ou lorsque la motion de censure prévoit le nom d'un successeur
+pour la fonction de Chancelier. Dans ce dernier cas, ce nom doit recevoir l'approbation de la
+majorité des membres approuvant le gouvernement dans l'assemblée votant la motion, et en cas
+d'adoption de la motion ce nom remplace alors le Chancelier dans la pétition de gouvernement
+concernée.
+
+.. article:: démissions au gouvernement
+
+L'adoption d'une motion de censure, ainsi que le décès ou l'empêchement, ont pour effet la
+destitution du ou des individus visés, qui sont retirés des pétitions de gouvernement qui les
+citent. Les pétitions citant comme Chancelier un individu destitué sont rendues caduques par la
+destitution.
+
+Lorsque le Chancelier est censuré, la destitution prend effet à compter de la prise de fonction de
+son successeur.
+
+Lors de la vacance d'un autre poste de membre du gouvernement, le Chancelier nomme l'individu
+devant remplacer le membre destitué au gouvernement, il en informe le Parlement, et la pétition du
+gouvernement est modifiée pour refléter le remplacement. Une assemblée dans laquelle le
+gouvernement est majoritaire a la faculté de remplacer cette nomination par une autre.
+
+.. article:: guerre et intervention armée
+
+La déclaration de guerre est autorisée par le Parlement.
+
+Le gouvernement informe le Parlement de sa décision de faire intervenir les forces armées à
+l’étranger, au plus tard trois jours après le début de l’intervention. Il précise les objectifs
+poursuivis.
+
+Cette information doit être suivie d'une autorisation à poursuivre ou non l'intervention de la part
+du Parlement.
+
+Les actes susceptibles de troubler la coexistence pacifique des peuples et accomplis dans cette
+intention, notamment en vue de préparer une guerre d’agression, sont inconstitutionnels. Ils sont
+réprimés pénalement.
+
+.. article:: le règlement
+
+Le Parlement délègue à l'administration l'élaboration de législation secondaire, dans des domaines
+fixés par la loi de manière limitative.
+
+Cette législation est adoptée selon les conditions et limitations fixées par le Parlement, sous la
+responsabilité du Chancelier de la République, et ils ont un caractère réglementaire.
+
+Le gouvernement en rend compte devant le Parlement.
+
+La loi prime en cas de contradiction avec le règlement.
+
+.. article:: la Cour des Comptes
+
+La Cour des comptes assiste le Parlement dans le contrôle de l’action du gouvernement. Elle assiste
+le Parlement et le gouvernement dans le contrôle de l’exécution des lois de finances et de
+l’application des lois de financement de la sécurité sociale ainsi que dans l’évaluation des
+politiques publiques. Par ses rapports publics, elle contribue à l’information des citoyens.
+
+Les comptes des administrations publiques sont réguliers et sincères. Ils donnent une image fidèle
+du résultat de leur gestion, de leur patrimoine et de leur situation financière.
+
+.. article:: déclaration du gouvernement
+
+Devant l’une ou l’autre des assemblées, le gouvernement peut, de sa propre initiative ou à la
+demande d’un groupe parlementaire au sens de :artref:`groupes-parlementaires`, faire, sur un sujet
+déterminé, une déclaration qui donne lieu à débat.
+
+----------------------------------------------------
+Titre V - Du contrôle de la représentation du peuple
+----------------------------------------------------
+
+.. article:: inéligibilité post-mandature
+
+Tout détenteur d'un mandat électif ou représentatif est inéligible pendant sa mandature, ainsi que
+pendant une période débutant à la fin de ses fonctions et dont la durée est au moins égale à celle
+passée en fonction.
+
+.. article:: révocation des élus
+
+Tout détenteur d'un mandat électif ou représentatif peut être révoqué par les citoyens ainsi que,
+le cas échéant, par l'organe l'ayant élu ou nommé.
+
+La révocation par les citoyens s'exerce par voie de pétition suivie d'un référendum. Une pétition
+réunissant trois centièmes des électeurs du territoire que le mandat représente ou, le cas échéant,
+un dixième des suffrages exprimés lors de l'élection concernée, déclenche la tenue d'un référendum
+révocatoire, respectivement dans le territoire national ou dans le territoire où l'élection a eu
+lieu. Elle initie de plus une information judiciaire sur l'éventuel non-respect de ses engagements
+électoraux par l'individu visé.
+
+La loi organique fixe le délai de tenue du référendum et peut prévoir des causes supplémentaires
+provoquant sa tenue.
+
+.. article:: incompatibilité de mandat représentatif
+
+Les fonctions de membre du gouvernement, de membre du Conseil Constitutionnel, de Défenseur des
+Droits, d'élu de collectivité territoriale, ainsi que de personnalité qualifiée membre du Conseil
+National de la Magistrature, sont incompatibles entre elles, ainsi qu'avec toute appartenance à
+l'ordre judiciaire et à l'ordre administratif, et avec l’exercice de tout mandat parlementaire, de
+toute fonction de représentation professionnelle à caractère national, et de tout emploi public ou
+de toute activité professionnelle.
+
+L'exercice de ces fonctions requiert de plus la qualité d'électeur, ainsi que l'éligibilité.
+
+La loi établit les autres conditions de prise de fonctions de membre du gouvernement, de Défenseur
+des Droits, d'élu de collectivité territoriale ou de personnalité qualifiée membre du Conseil
+National de la Magistrature.
+
+La loi organique établit les autres conditions de prise de fonctions au Conseil Constitutionnel.
+
+.. article:: commission de contrôle parlementaire
+
+Une commission indépendante, dont la loi organique fixe la composition et les règles d’organisation
+et de fonctionnement, se prononce par un avis public sur les propositions de loi et de loi
+organique visant à appliquer :artref:`responsabilité-parlementaire` ou le premier alinéa de
+:artref:`principe-du-parlement`.
+
+------------------------------------------------
+Titre VI - Des traités et accords internationaux
+------------------------------------------------
+
+.. article:: ratification des traités
+
+Les traités de paix, les traités de commerce, les traités ou accords relatifs à l’organisation
+internationale, ceux qui engagent les finances de l’État, ceux qui modifient des dispositions non
+déléguées au gouvernement par le Parlement dans le cadre de :artref:`le-règlement`, ceux qui
+sont relatifs à l’état des personnes, ceux qui comportent cession, échange ou adjonction de
+territoire, ne peuvent être ratifiés ou approuvés qu’en vertu d’une loi.
+
+Ils ne prennent effet qu’après avoir été ratifiés ou approuvés.
+
+Nulle cession, nul échange, nulle adjonction de territoire n’est valable sans le consentement des
+populations intéressées.
+
+Sauf décision contraire du Parlement, le gouvernement peut ratifier les traités non concernés par
+les conditions des alinéas précédents.
+
+.. article:: droit d'asile
+
+La République peut conclure avec les États qui sont liés par des engagements identiques aux siens
+en matière d’asile et de protection des Droits de l’homme et des libertés fondamentales, des
+accords déterminant leurs compétences respectives pour l’examen des demandes d’asile qui leur sont
+présentées.
+
+Toutefois, même si la demande n’entre pas dans leur compétence en vertu de ces accords, les
+autorités de la République ont toujours le droit de donner asile à tout étranger persécuté en
+raison de son action en faveur de la liberté ou qui sollicite la protection de la France pour un
+autre motif.
+
+.. article:: Cour Pénale Internationale
+
+La République peut reconnaître la juridiction de la Cour pénale internationale dans les conditions
+prévues par le traité signé le 18 juillet 1998.
+
+.. article:: constitutionnalité des traités
+
+Si le Conseil constitutionnel, saisi par un nombre de citoyens fixé par loi organique, par le
+Chancelier de la République, par le Bureau ou un vingtième des membres de l'une ou l'autre
+assemblée ou du Congrès, a déclaré qu'un engagement international comporte une clause contraire à
+la Constitution, l’autorisation de ratifier ou d’approuver l’engagement international en cause ne
+peut intervenir qu’après révision de la Constitution.
+
+.. article:: hiérarchie des normes
+
+Les traités ou accords régulièrement ratifiés ou approuvés ont, dès leur publication, une autorité
+supérieure à celle des lois, sous réserve, pour chaque accord ou traité, de son application par
+l’autre partie ; mais cette autorité reste cependant inférieure à celle de la Constitution.
+
+--------------------------------------
+Titre VII - Le Conseil constitutionnel
+--------------------------------------
+
+.. article:: composition du Conseil constitutionnel
+
+Le Conseil constitutionnel veille au respect de la Constitution. Il assure, par son arbitrage, le
+fonctionnement régulier des pouvoirs publics.
+
+Il comprend neuf membres, dont le mandat dure neuf ans. Le Conseil constitutionnel se renouvelle
+par tiers ; tous les trois ans, un membre est nommé par le président de l'Assemblée nationale, un
+par le président du Sénat, et un par une commission spéciale. Les nominations effectuées par le
+président de chaque assemblée sont soumises au seul avis de la commission permanente compétente de
+l’assemblée concernée. La commission spéciale est composée à moitié par les membres de la formation
+plénière du Conseil supérieur de la magistrature, et à moitié par des membres des deux assemblées
+parlementaires présents en nombres égaux pour chaque assemblée.
+
+Le président est le plus ancien membre en date à avoir été désigné par commission spéciale. Il a
+voix prépondérante en cas de partage.
+
+La durée de la période d'inéligibilité prévue à :artref:`inéligibilité-post-mandature` est doublée
+dans le cas des membres du Conseil constitutionnel.
+
+.. article:: contrôle de la nomination du gouvernement
+
+Le Conseil Constitutionnel veille au respect des modalités de :artref:`nomination-du-gouvernement`.
+Il statue sur la nomination du gouvernement, en cas de désaccord entre le président du Sénat et le
+président de l'Assemblée Nationale ou en cas de contestation.
+
+Il veille également à la légalité des motions de censure.
+
+.. article:: contrôle des élections législatives
+
+Le Conseil constitutionnel statue, en cas de contestation, sur la régularité de l’élection des
+députés et des sénateurs.
+
+.. article:: contrôle des référendums
+
+Le Conseil constitutionnel veille à la régularité des opérations de référendum prévues à
+:artref:`référendums`. Il en proclame les résultats qui sont aussitôt promulgués.
+
+.. article:: contrôle de constitutionnalité en instance législative
+
+Les lois organiques, avant leur promulgation, doivent être soumis au Conseil constitutionnel qui se
+prononce sur leur conformité à la Constitution. Dans les modalités prévues par
+:artref:`référendums`, il en est fait de même pour les référendums législatifs.
+
+Aux mêmes fins, les lois ainsi que les règlements des assemblées parlementaires et du Congrès
+peuvent être déférées au Conseil constitutionnel, avant leur promulgation, par le gouvernement, un
+nombre de citoyens fixé par loi organique, le Bureau de l’Assemblée nationale, le Bureau du Sénat
+ou un vingtième des membres d'une assemblée parlementaire ou du Congrès, ou si le Conseil
+constitutionnel s'en saisit lui-même.
+
+Dans les cas prévus aux alinéas précédents, le Conseil constitutionnel doit statuer dans le délai
+d’un mois. Toutefois, à la demande du Parlement, s’il y a urgence, ce délai est ramené à huit
+jours.
+
+Dans ces mêmes cas, la saisine du Conseil constitutionnel suspend le délai de promulgation.
+
+.. article:: contrôle de constitutionnalité en instance juridictionnelle
+
+Lorsque, à l’occasion d’une instance en cours devant une juridiction, il est soutenu qu’une
+disposition législative porte atteinte à la Constitution, le Conseil constitutionnel peut être
+saisi de cette question sur renvoi du Conseil d'État ou de la Cour de cassation qui se prononce
+dans un délai déterminé.
+
+Une loi organique détermine les conditions d’application du présent article.
+
+.. article:: conséquence du contrôle
+
+Une disposition déclarée inconstitutionnelle sur le fondement de
+:artref:`contrôle-de-constitutionnalité-en-instance-législative` ne peut être promulguée ni mise en
+application.
+
+Une disposition déclarée inconstitutionnelle sur le fondement de
+:artref:`contrôle-de-constitutionnalité-en-instance-juridictionnelle` est abrogée à compter de la
+publication de la décision du Conseil constitutionnel ou d’une date ultérieure fixée par cette
+décision. Le Conseil constitutionnel détermine les conditions et limites dans lesquelles les effets
+que la disposition a produits sont susceptibles d’être remis en cause.
+
+Les décisions du Conseil constitutionnel ne sont susceptibles d’aucun recours. Elles s’imposent aux
+pouvoirs publics et à toutes les autorités administratives et juridictionnelles.
+
+.. article:: fonctionnement du Conseil constitutionnel
+
+Une loi organique détermine les règles d’organisation et de fonctionnement du Conseil
+constitutionnel, la procédure qui est suivie devant lui et notamment les délais ouverts pour le
+saisir de contestations.
+
+-------------------------------------
+Titre VIII - De l’autorité judiciaire
+-------------------------------------
+
+.. article:: l'autorité judiciaire
+
+Le Conseil supérieur de la magistrature est garant de l'indépendance de l'autorité judiciaire.
+
+Une loi organique porte statut des magistrats.
+
+Les magistrats du siège sont inamovibles.
+
+.. article:: Conseil Supérieur de la Magistrature
+
+Le Conseil supérieur de la magistrature comprend une formation compétente à l’égard des magistrats
+du siège et une formation compétente à l’égard des magistrats du parquet.
+
+La formation compétente à l’égard des magistrats du siège est présidée par le premier président de
+la Cour de cassation. Elle comprend, en outre, cinq magistrats du siège et un magistrat du parquet,
+un conseiller d’État désigné par le Conseil d’État, un avocat ainsi que six personnalités
+qualifiées qui n’appartiennent ni au Parlement, ni à l’ordre judiciaire, ni à l’ordre
+administratif. Le président de l’Assemblée nationale et le président du Sénat désignent chacun
+trois personnalités qualifiées. Les nominations effectuées par le président de chaque assemblée du
+Parlement sont soumises au seul avis de la commission permanente compétente de l’assemblée
+intéressée.
+
+La formation compétente à l’égard des magistrats du parquet est présidée par le procureur général
+près la Cour de cassation. Elle comprend, en outre, cinq magistrats du parquet et un magistrat du
+siège, ainsi que le conseiller d’État, l’avocat et les six personnalités qualifiées mentionnés au
+deuxième alinéa.
+
+La formation du Conseil supérieur de la magistrature compétente à l’égard des magistrats du siège
+fait des propositions pour les nominations des magistrats du siège à la Cour de cassation, pour
+celles de premier président de cour d’appel et pour celles de président de tribunal de grande
+instance. Les autres magistrats du siège sont nommés sur son avis conforme.
+
+La formation du Conseil supérieur de la magistrature compétente à l’égard des magistrats du parquet
+donne son avis sur les nominations qui concernent les magistrats du parquet.
+
+La formation du Conseil supérieur de la magistrature compétente à l’égard des magistrats du siège
+statue comme conseil de discipline des magistrats du siège. Elle comprend alors, outre les membres
+visés au deuxième alinéa, le magistrat du siège appartenant à la formation compétente à l’égard des
+magistrats du parquet.
+
+La formation du Conseil supérieur de la magistrature compétente à l’égard des magistrats du parquet
+donne son avis sur les sanctions disciplinaires qui les concernent. Elle comprend alors, outre les
+membres visés au troisième alinéa, le magistrat du parquet appartenant à la formation compétente à
+l’égard des magistrats du siège.
+
+Le Conseil supérieur de la magistrature se réunit en formation plénière au titre de
+:artref:`lautorité-judiciaire`. Il se prononce, dans la même formation, sur les questions relatives
+à la déontologie des magistrats ainsi que sur toute question relative au fonctionnement de la
+justice dont le saisit le gouvernement. La formation plénière comprend trois des cinq magistrats du
+siège mentionnés au deuxième alinéa, trois des cinq magistrats du parquet mentionnés au troisième
+alinéa, ainsi que le conseiller d’État, l’avocat et les six personnalités qualifiées mentionnés au
+deuxième alinéa. Elle est présidée par le premier président de la Cour de cassation, que peut
+suppléer le procureur général près cette cour.
+
+Sauf en matière disciplinaire ou en commission spéciale, un délégué du gouvernement désigné par le
+Chancelier de la République peut participer aux séances des formations du Conseil supérieur de la
+magistrature.
+
+Le Conseil supérieur de la magistrature peut être saisi par un justiciable dans les conditions
+fixées par une loi organique.
+
+La loi organique détermine les conditions d’application du présent article.
+
+.. article:: habeas corpus
+
+Nul ne peut être arbitrairement détenu.
+
+L’autorité judiciaire, gardienne de la liberté individuelle, assure le respect de ce principe dans
+les conditions prévues par la loi.
+
+.. article:: peine de mort
+
+Nul ne peut être condamné à la peine de mort.
+
+------------------------------------------------------------------
+Titre IX - De la responsabilité pénale des membres du gouvernement
+------------------------------------------------------------------
+
+.. article:: responsabilité ministérielle
+
+Les membres du gouvernement sont pénalement responsables des actes accomplis dans l’exercice de
+leurs fonctions et qualifiés crimes ou délits au moment où ils ont été commis, ainsi que des
+manquements, sauf si rendus nécessaires par la loi ou par les instructions du Parlement, à la
+déclaration de politique de leur pétition de gouvernement.
+
+Ils sont jugés par la Cour de justice de la République.
+
+La Cour de justice de la République est liée par la définition des crimes et délits ainsi que par
+la détermination des peines telles qu’elles résultent de la loi.
+
+.. article:: composition et fonctionnement de la CJR
+
+La Cour de justice de la République comprend quinze juges : douze parlementaires élus, en leur
+sein, de manière proportionnelle et en nombre égal, par l’Assemblée nationale et par le Sénat après
+chaque renouvellement général ou partiel de ces assemblées et trois magistrats du siège à la Cour
+de cassation, dont l’un préside la Cour de justice de la République.
+
+Toute personne qui se prétend lésée par un crime ou un délit commis par un membre du gouvernement
+dans l’exercice de ses fonctions, ou qui l'accuse de ne pas avoir respecté les termes de son mandat
+politique, peut porter plainte auprès du procureur général près la Cour de cassation aux fins de
+saisine de la Cour de justice de la République.
+
+Le procureur général près la Cour de cassation peut aussi saisir d’office la Cour de justice de la
+République.
+
+La Cour de justice de la République peut, une fois saisie et sauf l'opposition de la majorité de
+ses membres non-parlementaires, lever les conditions de recevabilité listées à l'article sur les
+motions de censure pour les motions de censure à l'encontre du ou des membres du gouvernement visés
+par la saisine. Dans ce cas, les conditions supplémentaires éventuellement fixées par loi organique
+dans le cadre de l'article sur les motions de censure sont également levées.
+
+Une loi organique détermine les conditions d’application du présent article.
+
+---------------------------------
+Titre X - Le Défenseur des droits
+---------------------------------
+
+.. article:: le Défenseur des droits
+
+Le Défenseur des droits veille au respect des droits et libertés par les administrations de l’État,
+les collectivités territoriales, les établissements publics, ainsi que par tout organisme investi
+d’une mission de service public, ou à l’égard duquel la loi organique lui attribue des compétences.
+
+Il peut être saisi, dans les conditions prévues par la loi organique, par toute personne s’estimant
+lésée par le fonctionnement d’un service public ou d’un organisme visé au premier alinéa. Il peut
+se saisir d’office.
+
+La loi organique définit les attributions et les modalités d’intervention du Défenseur des droits.
+Elle détermine les conditions dans lesquelles il peut être assisté par un collège pour l’exercice
+de certaines de ses attributions.
+
+Le Défenseur des droits est nommé par le Parlement pour un mandat de six ans non renouvelable. Les
+incompatibilités ainsi que le mode de désignation sont fixés par la loi organique.
+
+Le Défenseur des droits rend compte de son activité au Parlement et au gouvernement.
+
+------------------------------------------
+Titre XI - Des collectivités territoriales
+------------------------------------------
+
+.. article:: principe des collectivités territoriales
+
+Les collectivités territoriales de la République sont les communes, les départements et les
+régions. Toute autre collectivité territoriale est créée par la loi, le cas échéant en lieu et
+place d'une ou de plusieurs collectivités mentionnées au présent alinéa.
+
+Les collectivités territoriales ont vocation à prendre les décisions pour l’ensemble des
+compétences qui peuvent le mieux être mises en œuvre à leur échelon, afin d'apporter dans un
+domaine qui ne serait pas couvert par la loi, et en attendant qu'il le soit, une réponse rapide et
+adaptée au territoire concerné.
+
+Dans les conditions prévues par la loi, ces collectivités s’administrent librement et disposent
+d’un pouvoir réglementaire pour l’exercice de leurs compétences. La représentation des citoyens
+dans les collectivités se fait de manière proportionnelle. Les communes sont administrées par des
+conseils municipaux élus de manière proportionnelle. Les collectivités de même nature sont régies
+par les mêmes règles de fonctionnement. Les élus des collectivités sont soumis aux contraintes
+décrites dans :artref:`responsabilité-parlementaire`.
+
+Aucune collectivité territoriale ne peut exercer une tutelle sur une autre. Cependant, lorsque
+l’exercice d’une compétence nécessite le concours de plusieurs collectivités territoriales, la loi
+peut autoriser l’une d’entre elles ou un de leurs groupements à organiser les modalités de leur
+action commune.
+
+Dans les collectivités territoriales de la République, le représentant de l’État, représentant le
+Parlement et le gouvernement, a la charge des intérêts nationaux, du contrôle administratif et du
+respect des lois.
+
+Il rapporte au Parlement les mesures prises par les collectivités territoriales afin qu'elles
+puissent être remplacées par des mesures nationales. L'annulation des mesures locales du fait de
+leur remplacement fait partie de sa mission dans le cadre de l'alinéa précédent.
+
+.. article:: pétition et référendums locaux
+
+La loi fixe les conditions dans lesquelles les citoyens de chaque collectivité territoriale
+peuvent, par l’exercice du droit de pétition, demander l’inscription à l’ordre du jour de
+l’assemblée délibérante de cette collectivité d’une question relevant de sa compétence.
+
+Dans les conditions prévues par la loi organique, les projets de délibération ou d’acte relevant de
+la compétence d’une collectivité territoriale peuvent, à son initiative, être soumis, par la voie
+du référendum, à la décision des électeurs de cette collectivité.
+
+Lorsqu’il est envisagé de créer une collectivité territoriale dotée d’un statut particulier ou de
+modifier son organisation, il peut être décidé par la loi de consulter les électeurs inscrits dans
+les collectivités intéressées. La modification des limites des collectivités territoriales peut
+également donner lieu à la consultation des électeurs dans les conditions prévues par la loi.
+
+Chaque collectivité dispose du droit inaliénable de convoquer un référendum local d'indépendance,
+afin d'assurer le droit des peuples à l'autodétermination. Si l'indépendance vis-à-vis de la France
+prévue par le référendum est totale, la France l'accepte sans condition. Une pétition rassemblant
+un centième des citoyens d'une collectivité pour la tenue d'un référendum entraîne sa tenue. La loi
+organique fixe les conditions suffisantes pour lesquelles une collectivité doit convoquer un
+référendum.
+
+.. article:: ressources locales
+
+Les collectivités territoriales bénéficient de ressources dont elles peuvent disposer librement
+dans les conditions fixées par la loi.
+
+Elles peuvent recevoir tout ou partie du produit des impositions de toutes natures. La loi peut les
+autoriser à en fixer l’assiette et le taux dans les limites qu’elle détermine.
+
+Les recettes fiscales et les autres ressources propres des collectivités territoriales
+représentent, pour chaque catégorie de collectivités, une part déterminante de l’ensemble de leurs
+ressources. La loi organique fixe les conditions dans lesquelles cette règle est mise en œuvre.
+
+Tout transfert de compétences entre l’État et les collectivités territoriales s’accompagne de
+l’attribution de ressources équivalentes à celles qui étaient consacrées à leur exercice. Toute
+création ou extension de compétences ayant pour conséquence d’augmenter les dépenses des
+collectivités territoriales est accompagnée de ressources déterminées par la loi.
+
+La loi prévoit des dispositifs de péréquation destinés à favoriser l’égalité entre les
+collectivités territoriales.
+
+------------------------------------------------------------------------
+Titre XII - De la solidarité internationale et des accords d'association
+------------------------------------------------------------------------
+
+.. article:: solidarité internationale
+
+La République participe au développement de la solidarité et de la coopération entre les États et
+les peuples du monde entier.
+
+.. article:: accords internationaux d'association
+
+La République peut conclure des accords avec des États qui désirent s’associer à elle.
