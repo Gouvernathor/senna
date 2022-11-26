@@ -1,4 +1,5 @@
 from collections import defaultdict
+import warnings
 import docutils.nodes
 import docutils.transforms
 from docutils.parsers.rst import Directive
@@ -31,10 +32,15 @@ class ArticleDirective(Directive):
                                        ids=[id, id2])]
 
 delayed = object()
+delayedshort = object()
 
 def art_role(name, rawtext, text, lineno, inliner, options=None, content=None):
-    nod = docutils.nodes.reference(text, delayed, refid=text)
-    nod.flag = delayed
+    if name == "artref":
+        sentinel = delayed
+    elif name == "artrefshort":
+        sentinel = delayedshort
+    nod = docutils.nodes.reference(text, None, refid=text)
+    nod.flag = sentinel
     return [nod], []
 
 class SennaTransform(docutils.transforms.Transform):
@@ -42,11 +48,20 @@ class SennaTransform(docutils.transforms.Transform):
 
     def apply(self):
         for node in self.document.traverse(docutils.nodes.reference):
-            if getattr(node, "flag", None) is delayed:
-                node.children[:] = [docutils.nodes.Text(f"article {registered_articles[node['refid']]}")]
+            flag = getattr(node, "flag", None)
+            if flag is not None:
+                if flag is delayed:
+                    st = "l'article {}"
+                elif flag is delayedshort:
+                    st = "{}"
+                rf = registered_articles.get(node["refid"], None)
+                if rf is None:
+                    warnings.warn(f"Article {node['refid']!r} not found, a faulty artref was issued.")
+                node.children[:] = [docutils.nodes.Text(st.format(rf))]
 
 def setup(app):
     app.add_directive("article", cls=ArticleDirective)
     app.add_role("artref", art_role)
+    app.add_role("artrefshort", art_role)
 
     app.add_transform(SennaTransform)
