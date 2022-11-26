@@ -13,10 +13,12 @@ class ArticleDirective(Directive):
 
     def run(self):
         name, = self.arguments
-        id = name.lower().replace(" ", "-")
+        id = name.lower().replace("'", "").replace(" ", "-")
         docname = self.state.document.current_source
 
         counters[docname] += 1
+        if id in registered_articles:
+            warnings.warn(f"Article {id} registered twice")
         registered_articles[id] = counters[docname]
         name = f"Article {counters[docname]} : {name}"
         id2 = f"article-{counters[docname]}"
