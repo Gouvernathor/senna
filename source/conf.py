@@ -30,7 +30,6 @@ html_theme = 'sphinx_book_theme'
 html_static_path = ['_static']
 
 html_permalinks = True
-html_permalinks_icon = '¶'
 
 html_title = project
 
