@@ -31,7 +31,7 @@ delayedshort = object()
 def art_role(name, rawtext, text, lineno, inliner, options=None, content=None):
     if name == "artref":
         sentinel = delayed
-    elif name == "artrefshort":
+    elif name == "artnumref":
         sentinel = delayedshort
     nod = docutils.nodes.reference(text, None, refid=text)
     nod.flag = sentinel
@@ -56,6 +56,6 @@ class SennaTransform(docutils.transforms.Transform):
 def setup(app):
     app.add_directive("article", cls=ArticleDirective)
     app.add_role("artref", art_role)
-    app.add_role("artrefshort", art_role)
+    app.add_role("artnumref", art_role)
 
     app.add_transform(SennaTransform)
