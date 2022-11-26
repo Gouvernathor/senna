@@ -8,7 +8,6 @@ counters = defaultdict(int)
 registered_articles = {}
 
 class ArticleDirective(Directive):
-    has_content = True
     required_arguments = 1
     final_argument_whitespace = True
 
@@ -22,13 +21,8 @@ class ArticleDirective(Directive):
         name = f"Article {counters[docname]} : {name}"
         id2 = f"article-{counters[docname]}"
 
-        children = [docutils.nodes.title(id, name)]
-        content = " ".join(self.content)
-        if content:
-            children.append(docutils.nodes.paragraph("", content))
-
         return [docutils.nodes.section(id,
-                                       *children,
+                                       docutils.nodes.title(id, name),
                                        ids=[id, id2])]
 
 delayed = object()
