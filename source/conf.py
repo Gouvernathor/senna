@@ -10,10 +10,13 @@ project = 'Constitution Senna'
 copyright = '2022, Pierre Pavia'
 author = 'Pierre Pavia'
 
+import sys, os
+sys.path.append(os.path.abspath('.'))
+
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = ['sennadoc']
 
 templates_path = ['_templates']
 exclude_patterns = []
