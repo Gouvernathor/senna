@@ -14,7 +14,7 @@ devant la loi de tous les citoyens. Elle respecte toutes les croyances.
 Les droits énumérés dans la :doc:`droits_fondamentaux` ont valeur constitutionnelle.
 
 ----------------------------------
-Titre premier - De la souveraineté
+Titre premier — De la souveraineté
 ----------------------------------
 
 .. article:: symboles
@@ -48,7 +48,7 @@ La loi garantit les expressions pluralistes des opinions et la participation éq
 et groupements politiques à la vie démocratique de la Nation.
 
 -----------------------
-Titre II - Le Parlement
+Titre II — Le Parlement
 -----------------------
 
 .. article:: principe du parlement
@@ -308,7 +308,7 @@ public. Toutefois, le Parlement peut décider de modifier ces délais dans les c
 n'est pas d'origine populaire et où le texte n'a pas valeur constitutionnelle.
 
 ---------------------------
-Titre III - Le gouvernement
+Titre III — Le gouvernement
 ---------------------------
 
 .. article:: principe de l'administration
@@ -335,7 +335,7 @@ Les actes du Chancelier de la République sont contresignés, le cas échéant, 
 chargés de leur exécution.
 
 -------------------------------------------------------------
-Titre IV - Des rapports entre le gouvernement et le Parlement
+Titre IV — Des rapports entre le gouvernement et le Parlement
 -------------------------------------------------------------
 
 .. article:: nomination du gouvernement
@@ -472,7 +472,7 @@ demande d’un groupe parlementaire au sens de :artref:`groupes-parlementaires`,
 déterminé, une déclaration qui donne lieu à débat.
 
 ----------------------------------------------------
-Titre V - Du contrôle de la représentation du peuple
+Titre V — Du contrôle de la représentation du peuple
 ----------------------------------------------------
 
 .. article:: inéligibilité post-mandature
@@ -521,7 +521,7 @@ organique visant à appliquer :artref:`responsabilité-parlementaire` ou le prem
 :artref:`principe-du-parlement`.
 
 ------------------------------------------------
-Titre VI - Des traités et accords internationaux
+Titre VI — Des traités et accords internationaux
 ------------------------------------------------
 
 .. article:: ratification des traités
@@ -572,7 +572,7 @@ supérieure à celle des lois, sous réserve, pour chaque accord ou traité, de 
 l’autre partie ; mais cette autorité reste cependant inférieure à celle de la Constitution.
 
 --------------------------------------
-Titre VII - Le Conseil constitutionnel
+Titre VII — Le Conseil constitutionnel
 --------------------------------------
 
 .. article:: composition du Conseil constitutionnel
@@ -661,7 +661,7 @@ constitutionnel, la procédure qui est suivie devant lui et notamment les délai
 saisir de contestations.
 
 -------------------------------------
-Titre VIII - De l’autorité judiciaire
+Titre VIII — De l’autorité judiciaire
 -------------------------------------
 
 .. article:: l'autorité judiciaire
@@ -739,7 +739,7 @@ les conditions prévues par la loi.
 Nul ne peut être condamné à la peine de mort.
 
 ------------------------------------------------------------------
-Titre IX - De la responsabilité pénale des membres du gouvernement
+Titre IX — De la responsabilité pénale des membres du gouvernement
 ------------------------------------------------------------------
 
 .. article:: responsabilité ministérielle
@@ -778,7 +778,7 @@ dans le cadre de l'article sur les motions de censure sont également levées.
 Une loi organique détermine les conditions d’application du présent article.
 
 ---------------------------------
-Titre X - Le Défenseur des droits
+Titre X — Le Défenseur des droits
 ---------------------------------
 
 .. article:: le Défenseur des droits
@@ -801,7 +801,7 @@ incompatibilités ainsi que le mode de désignation sont fixés par la loi organ
 Le Défenseur des droits rend compte de son activité au Parlement et au gouvernement.
 
 ------------------------------------------
-Titre XI - Des collectivités territoriales
+Titre XI — Des collectivités territoriales
 ------------------------------------------
 
 .. article:: principe des collectivités territoriales
@@ -878,7 +878,7 @@ La loi prévoit des dispositifs de péréquation destinés à favoriser l’éga
 collectivités territoriales.
 
 ------------------------------------------------------------------------
-Titre XII - De la solidarité internationale et des accords d'association
+Titre XII — De la solidarité internationale et des accords d'association
 ------------------------------------------------------------------------
 
 .. article:: solidarité internationale
