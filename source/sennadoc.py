@@ -20,7 +20,7 @@ class ArticleDirective(Directive):
         if id in registered_articles:
             warnings.warn(f"Article {id} registered twice")
         registered_articles[id] = counters[docname]
-        name = f"Article {counters[docname]} : {name}"
+        name = f"Article {counters[docname]} - {name}"
         id2 = f"article-{counters[docname]}"
 
         return [docutils.nodes.section(id,
