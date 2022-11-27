@@ -19,7 +19,7 @@ ces textes fondent une nouvelle république parlementaire délibérative, plus �
 
    constitution
    droits_fondamentaux
-.. organique
+   organique
 .. reglement_interieur
 
 .. toctree::
