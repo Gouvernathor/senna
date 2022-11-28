@@ -2,28 +2,29 @@
 Règlement intérieur du Parlement
 ================================
 
-------------
-Introduction
-------------
+.. ------------
+.. Introduction
+.. ------------
 
-Ce texte établit le règlement intérieur des assemblées parlementaires. Sauf indication contraire,
-ses dispositions s'appliquent à ces deux assemblées, qui sont l'Assemblée Nationale et le Sénat.
 
-Les lettres AN pour l'Assemblée Nationale, S pour le Sénat et C pour le Congrès, indiquent que
-l'article ne s'applique qu'à cette assemblée quand elles figurent à côté du numéro d'un article, et
-idem pour un alinéa quand elles y figurent en retrait.
+.. note::
+    Ce texte établit le règlement intérieur des assemblées parlementaires. Sauf indication contraire,
+    ses dispositions s'appliquent à ces deux assemblées, qui sont l'Assemblée Nationale et le Sénat.
 
-Au sein d'un article, l'assemblée à laquelle il s'applique est désignée sous le terme
-"l'assemblée". Sauf mention contraire, les membres, président et Bureau mentionnés sont ceux de
-l'assemblée en question.
+    Les lettres AN pour l'Assemblée Nationale, S pour le Sénat et C pour le Congrès, indiquent que
+    l'article ne s'applique qu'à cette assemblée quand elles figurent à côté du numéro d'un article, et
+    idem pour un alinéa quand elles y figurent en retrait.
 
-Cette introduction ne fait pas partie du règlement intérieur.
+    Au sein d'un article, l'assemblée à laquelle il s'applique est désignée sous le terme
+    "l'assemblée". Sauf mention contraire, les membres, président et Bureau mentionnés sont ceux de
+    l'assemblée en question.
 
-Ce réglement n'est pas inspiré du règlement de l'Assemblée Nationale française, mais de celui de
-l'Assemblée Générale des Nations Unies - plus délibératif et moins autoritaire.
+    Cette note ne fait pas partie du règlement intérieur.
 
-..
-    NOTES
+    Ce règlement n'est pas tant inspiré du règlement de l'Assemblée Nationale française, que de
+    celui de l'Assemblée Générale des Nations Unies - plus délibératif et moins autoritaire.
+
+.. NOTES
     motion de "clôture concurrente"?, où on fixe une date à laquelle la version du texte recevant la plus grande majorité sera considérée comme adoptée
 
     quand aucune motion n'est à l'ordre du jour, un membre peut proposer une motion qui sera aussitôt ajoutée
@@ -55,6 +56,17 @@ l'Assemblée Générale des Nations Unies - plus délibératif et moins autorita
     ajouter une commission plénière (committee of the whole) : son président est le premier des vice-présidents de l'assemblée, et ses vice-présidents sont les vice-présidents suivants de l'assemblée
 
     vérifier que la parole est bien distribuée à la proportionnelle pendant les QAG
+
+    ajouter une partie sur le parcours d'un texte, comment il part en commission et revient et tout
+    article 78 du docs
+
+    idem pour la CMP
+
+    convocation et odj des sessions extraordinaires
+
+    discipline ?
+
+    rapporteur d'un texte
 
 -----------
 I. Sessions
@@ -241,6 +253,57 @@ Le président, dans l'exercice de ses fonctions, demeure sous l'autorité de l'a
 
 Le président de séance ne prend part aux votes que lorsque sa voix peut en changer l'issue.
 
+-----------------------------
+XVI. Administration et budget
+-----------------------------
+
+.. article:: questure
+
+L'assemblée arrête le règlement relatif à sa gestion financière.
+
+Les questeurs, sous la direction du Bureau restreint, sont chargés des services financiers et
+administratifs. Aucune dépense nouvelle ne peut être engagée sans leur accord préalable.
+
+.. article:: nomination des questeurs
+
+Trois questeurs sont désignés au sein des membres de l'assemblée selon la procédure prévue au
+deuxième, quatrième et cinquième alinéas de :artref:`nomination des vide-présidents`.
+
+Si aucun des trois membres désignés ne fait partie d'un groupe d'opposition, le troisième est
+remplacé par un membre désigné au sein exclusif des groupes d'opposition, selon le même principe de
+proportionnalité.
+
+Les questeurs quittent leur fonction dès qu'aucun d'entre eux ne fait partie d'un groupe
+d'opposition.
+
+Des questeurs désignés selon la procédure décrite au deuxième alinéa du présent article quittent
+leurs fonctions lors de chaque changement de gouvernement.
+
+Une motion de destitution peut être présentée contre un questeur en suivant la même procédure que
+pour le président.
+
+.. article:: commission spéciale
+
+Au début de chaque session ordinaire et au moins une fois par an, l’assemblée nomme, à la
+représentation proportionnelle des forces en présence, une commission spéciale de quinze membres
+chargée de vérifier et d’apurer les comptes, qui élit un président en son sein. Ne peut être élu à
+la présidence qu’un député appartenant à un groupe s’étant déclaré d’opposition.
+
+La commission donne quitus aux questeurs de leur gestion ou rend compte à l’Assemblée. À l’issue de
+chaque exercice, elle établit un rapport public.
+
+Les membres du Bureau étendu de l’assemblée ne peuvent faire partie de cette commission.
+
+.. article:: personnel de l'assemblée
+
+Les services de l'assemblée sont assurés exclusivement par un personnel civil et militaire nommé
+dans les conditions déterminées par le Bureau. Est interdite, en conséquence, la collaboration de
+caractère permanent de tout fonctionnaire relevant d'une administration extérieure à l'assemblée.
+
+Les membres peuvent employer sous contrat de droit privé des collaborateurs parlementaires, qui les
+assistent dans l'exercice de leurs fonctions et dont ils sont les seuls employeurs. Les membres
+bénéficient à cet effet d'un crédit financier affecté à la rémunération de leurs collaborateurs.
+
 -----------
 VI. Bureaux
 -----------
@@ -346,6 +409,13 @@ de l’assemblée sous la signature du membre intéressé s’il s’agit d’un
 du président du groupe s’il s’agit d’une radiation et sous la double signature du député et du
 président du groupe s’il s’agit d’une adhésion. Elles sont publiées au Journal officiel.
 
+.. article:: représentant de groupe
+
+Au cours de la séance, le représentant d'un groupe est le président de ce groupe, sauf si une
+délégation adressée au Bureau restreint désigne un autre membre du groupe pour le représenter.
+
+Toute délégation annule la précédente.
+
 --------------------------------
 VIII. Nomination du gouvernement
 --------------------------------
@@ -400,3 +470,310 @@ secrets si un ou plusieurs membres s'y opposent.
 
 L'assemblée fait connaître lors de la séance publique suivante toutes les décisions prises en
 comité secret.
+
+----------------------
+XII. Séances plénières
+----------------------
+
+.. article:: ouverture et levée de séance
+
+Les séances sont ouvertes aux heures déterminées par le Bureau de l'assemblée.
+
+Elles sont levées aux heures déterminées par le Bureau de l'assemblée, sauf si les représentants de
+groupes réunissant au moins la moitié des membres demandent une prolongation de séance.
+
+.. article:: quorum
+
+L'assemblée est toujours en nombre pour délibérer et pour régler son ordre du jour.
+
+Les votes émis en séance sont valables quel que soit le nombre des présents.
+
+Toutefois, si une disposition de la constitution ou de la loi exige une majorité par rapport au
+nombre total de membres, et si ce scrutin n'a pas été annoncé au moins trois jours calendaires à
+l'avance, il est procédé à la vérification du nombre de membres présents. Cette vérification peut
+en outre être faite sur demande d'un représentant d'un groupe parlementaire au plus une fois par
+séance, ou sur décision du président de séance. Si la majorité absolue des membres n'est pas
+présente, le scrutin est reporté d'un jour calendaire, sauf dans le cas d'une demande d'un
+représentant de groupe parlementaire ou du président de séance, dans lequel cas le scrutin est
+reporté de quinze minutes. Le scrutin est alors valable quel que soit le nombre de membres
+présents, sauf disposition contraire de la constitution ou de la loi.
+
+Conduite des débats
+===================
+
+.. article:: parole
+
+Nul ne peut prendre la parole en séance sans avoir au préalable obtenu l'autorisation du président
+de séance. Sauf disposition contraire du présent règlement, une limite de trois minutes est imposée
+pour chaque prise de parole.
+
+Lors d'un débat libre, le président de séance donne la parole aux orateurs de manière à représenter
+chaque groupe de manière proportionnelle à son nombre de membres, puis dans l'ordre où les orateurs
+ont demandé la parole.
+
+Lors d'un débat par groupe, le président de séance accorde une prise de parole par groupe
+parlementaire, dans l'ordre où les orateurs ont demandé la parole.
+
+Lors d'un débat au nombre d'orateurs fixé pour-contre, le président de séance accorde la parole au
+même nombre d'orateurs pour et contre la question, dans l'ordre où les orateurs ont demandé la
+parole.
+
+Le représentant d'un groupe parlementaire peut accorder tout ou une partie des droits et temps de
+parole de son groupe à un autre groupe parlementaire.
+
+.. article:: suspension de parole
+
+Le président peut rappeler à l'ordre un orateur dont les remarques n'ont pas trait au sujet pour
+lequel la parole lui a été donnée, ou dont le temps de parole dépasse celui qui lui a été alloué.
+
+.. article:: motion d'ordre ou renvoi au règlement
+
+Au cours de la discussion d'une question, un membre peut présenter une motion d'ordre, aussi
+appelée "renvoi au règlement", et le président de séance statue immédiatement sur cette motion
+conformément au règlement.
+
+Un membre présentant une motion d'ordre a un temps de parole accordé de deux minutes, sous réserve
+des dispositions de :artref:`suspension de parole`.
+
+Tout membre peut en appeler de la décision du président. L'appel est immédiatement mis aux voix, et
+si elle n'est pas annulée par la majorité des membres présents et votants, la décision du président
+est maintenue.
+
+Toute motion d'ordre ayant le même objet qu'une motion précédemment présentée peut être interrompue
+et rejetée par le président de séance.
+
+.. article:: limitation du temps de parole
+
+L'assemblée peut fixer ou repousser une limite sur le temps de parole de chaque orateur sur une ou
+plusieurs questions. Avant qu'une décision n'intervienne, deux orateurs peuvent prendre la parole
+en faveur d'une proposition tendant à fixer une telle limite, et deux contre, avec une minute
+accordée à chaque orateur.
+
+.. article:: clôture de la liste des orateurs
+
+Au cours d'un débat, à la demande d'un représentant de groupe parlementaire, le président de
+séance peut donner lecture de la liste des orateurs et, avec l'assentiment de la majorité des
+membres présents dans l'assemblée, déclarer cette liste close. Cette liste inclut les orateurs
+ayant déjà pris la parole sur la même question.
+
+Cependant, après clôture de cette liste, un membre y est inscrit de droit à sa demande si son
+groupe parlementaire était sous-représenté dans la liste au moment de la clôture, et si tel est
+toujours le cas au moment de sa demande. La représentation d'un groupe à cette fin se fait au
+prorata du nombre de ses membres.
+
+La réouverture de la liste des orateurs se fait selon les mêmes modalités que sa clôture.
+
+.. .. article:: ajournement du débat
+
+.. .. article:: clôture du débat
+
+.. article:: pré-adoption et clôture
+
+À tout moment, un représentant de groupe parlementaire peut proposer une motion de pré-adoption
+d'un texte. La motion inclut une date de clôture à laquelle le texte tel qu'amendé à cette date
+sera considéré comme adopté par l'assemblée.
+
+Toutefois, si la motion le prévoit, ou si une majorité qualifiée requise pour l'adoption du texte
+n'est pas réunie par le vote sur la motion, un vote final a lieu sur le texte tel qu'amendé à la
+date de clôture.
+
+La motion peut contenir des conditions supplémentaires nécessaires à sa propre application.
+
+Outre l'auteur de la motion, deux orateurs peuvent prendre la parole en faveur de l'ajournement, et
+deux en opposition, après quoi la motion est immédiatement mise aux voix.
+
+Une motion d'abrogation d'une motion de pré-adoption est présentée, discutée et votée dans les
+mêmes conditions.
+
+Deux motions de pré-adoption ne peuvent être adoptées sur le même texte. Une seule motion
+d'abrogation peut être présentée par motion de pré-adoption. Ces limites ne s'appliquent pas à des
+motions de pré-adoption visant à remplacer une motion déjà en vigueur sur un texte.
+
+.. article:: délégation de décision
+
+L'assemblée peut soumettre un texte à une commission par une motion de délégation.
+
+Cette motion est identique à une :artref:`motion de pré-adoption <pré-adoption et clôture>`, à
+ceci près que le texte et déféré à la commission et n'est plus discutable par l'assemblée.
+
+.. article:: suspension ou ajournement de séance
+
+Au cours de la discussion d'une question, un représentant de groupe parlementaire peut demander
+une suspension ou un ajournement de la séance. Seules trois demandes de suspension sont accordées
+par groupe et par séance, et seule une demande d'ajournement est accordée par groupe et par
+semaine.
+
+La motion de suspension de séance d'au plus cinq minutes de droit. Une durée plus longue peut être
+accordée par le président de séance.
+
+La motion d'ajournement n'est pas discutée, mais est immédiatement mise aux voix.
+
+Le président de l'assemblée prononce sans appel l'ajournement de la séance en cas de menace
+imminente sur la sécurité de l'assemblée.
+
+.. article:: priorité des motions de procédure
+
+Les motions suivantes ont priorité, dans l'ordre indiqué, sur toutes les autres propositions ou
+motions présentées :
+
+#. renvoi au règlement ;
+#. ajournement de séance ;
+#. suspension de séance ;
+#. limitation du temps de parole ;
+#. modification de l'ordre du jour ;
+#. pré-adoption ;
+#. clôture de la liste des orateurs.
+
+.. article:: nouvel examen
+
+Avant un vote final sur un texte ou une partie d'un texte, une motion peut être déposée afin
+d'examiner à nouveau le texte, et de nouveaux amendements y étant déposés, dans une prochaine
+séance.
+
+La demande de nouvel examen n'est pas discutée.
+
+Lorsqu'elle est demandée par des représentants de groupes parlementaires réunissant deux cinquièmes
+des membres de l'assemblée, la première demande de nouvel examen sur un texte ou une partie d'un
+texte est de droit. Dans le cas contraire, elle est immédiatement mise aux voix.
+
+.. article:: discussion des textes et articles
+
+La discussion d'un texte se fait en accordant la parole au rapporteur, puis en débat libre, limité
+à dix minutes pour le groupe comportant le plus de membres.
+
+La discussion d'un article se fait en accordant la parole au rapporteur, puis en débat par groupe,
+sauf si le président de séance décide de la porter en débat libre.
+
+Un tour de parole est accordé en débat par groupe avant le vote final sur un texte, sur décision du
+président de séance ou sur demande de représentants de groupes réunissant au moins un dixième des
+membres de l'assemblée.
+
+.. article:: discussion des amendements
+
+Les amendements sont examinés entre la discussion et le vote du texte auquel ils se rapportent.
+
+Les amendements sont examinés et votés dans l'ordre suivant : d'abord les amendements de
+suppression, ensuite les autres dans l'ordre dans lequel ils interviennent dans le texte proposé.
+
+Lorsque plusieurs amendements sont mutuellement exclusifs, ils sont soumis à une discussion
+commune : chacun des amendements est discuté avant le vote sur ces amendements.
+
+Les amendements identiques ne sont pas examinés, à l'exception de celui d'entre eux déposé le plus
+tôt d'entre eux.
+
+Les amendements sont présentés par leur dépositaire, puis discutés en débat fixé à un orateur pour
+et un contre, sauf si le président de séance décide de les porter en débat par groupe.
+
+Votes
+=====
+
+.. article:: délégation de vote
+
+Chaque membre de l'assemblée dispose d'une voix.
+
+En l'absence d'un membre, une délégation de vote désignant nommément un autre membre peut être
+utilisée par cet autre membre pour voter en son nom, dans le cadre éventuel des conditions fixées
+par cette délégation qui peut autoriser ou non son usage en scrutin secret.
+
+En l'absence d'une telle délégation, et à moins que le membre absent s'y soit expressément opposé,
+ou que le réglement intérieur de son groupe parlementaire en dispose autrement, le vote de ce
+membre est délégué au président de son groupe.
+
+Les délégations de vote et oppositions précitées doivent être communiquées au Bureau de l'assemblée
+avant l'ouverture du premier des scrutins auxquels elle s'applique. Toute nouvelle délégation
+annule la précédente.
+
+.. article:: modes de vote
+
+Aux fins du présent règlement, l'expression "membres présents et votants" s'entend de l'ensemble
+des membres votant pour ou contre ou pour une option portée au vote, en incluant les votes par
+délégation.
+
+Le vote par approbation est un mode de scrutin où chaque votant peut approuver ou désapprouver
+chacune des propositions. Sauf indication contraire, la proposition recevant le plus de voix est
+adoptée.
+
+Le vote à choix unique est un mode de scrutin où chaque votant peut choisir une ou aucune des
+propositions. Sauf indication contraire, la proposition recevant le plus de voix est adoptée.
+
+Le vote binaire, ou vote simple, est un mode de scrutin où chaque votant peut choisir approuver et
+rejeter l'option proposée.
+
+L'assemblée vote normalement à main levée ou par assis et débout.
+
+Le vote solennel, ou par appel nominal, a lieu par appel des membres dans l'ordre alphabétique de
+leurs noms à partir d'une lettre tirée au sort par le président de séance. Chaque membre, ou son
+délégué, répond de l'une des options qui lui sont offertes, ou "abstention". Un membre absent ou ne
+répondant pas est compté comme une abstention.
+
+Lorsque l'assemblée vote à l'aide du dispositif mécanique, il remplace le vote par appel nominal.
+
+Le vote solennel est de droit quand demandé par les représentants de groupes réunissant au moins un
+tiers des membres de l'assemblée, ou sur décision du Bureau. Lorsqu'il est possible de voter à
+l'aide du dispositif mécanique, le vote enregistré est de droit sur demande d'un représentant de
+groupe ou sur décision du président de séance.
+
+.. article::
+
+Lorsque le début du vote est annoncé par le président de séance, aucun membre ne peut interrompre
+le vote, sauf pour présenter une motion d'ordre ayant trait à la manière dont s'effectue le vote.
+
+.. article:: division de vote
+
+Tout représentant de groupe peut demande que des parties d'une proposition ou d'un amendement
+soient mises aux voix séparément. S'il est fait objection à la demande de division par un autre
+représentant de groupe, la motion de division est immédiatement au vote sans être discutée. Elle
+est adoptée sauf opposition des deux tiers des membres présents et votants.
+
+Si la motion de division est adoptée, les parties de la proposition ou de l'amendement qui ont été
+adoptées séparément sont ensuite mises aux voix en bloc. Si toutes les parties d'une proposition ou
+d'un amendement sont rejetées, la proposition ou l'amendement est considéré comme rejeté dans son
+ensemble.
+
+.. article:: vote des textes, articles et amendements
+
+Excepté lorsqu'un texte ne comporte qu'un unique article, le vote de chaque article a lieu avant le
+vote final sur le texte.
+
+Le vote sur un article a lieu après le vote sur les amendements qui s'y rapportent.
+
+Le vote sur des amendements mutuellement exclusifs a lieu par approbation, en offrant comme options
+chacun de ces amendements et le rejet de tous ces amendements. En cas d'égalité entre plusieurs
+options arrivées en tête des votes, un second tour de scrutin a lieu entre ces options au scrutin à
+choix unique.
+
+.. article:: élections plurinominales
+
+Les élections visant à désigner deux ou plusieurs postes ou positions sont organisées, sauf
+indication contraire, au scrutin public par approbation.
+
+Au premier tour de scrutin, les candidats réunissant la majorité absolue ou requise des suffrages
+exprimés à leur égard sont élus dans l'ordre décroissant des votes reçus par chacun jusqu'à ce que
+le nombre de sièges à pourvoir soit atteint. Si des sièges restent encore à pourvoir, un second
+tour de scrutin a lieu avec le même fonctionnement. Si un troisième tour de scrutin est nécessaire,
+et sauf si une majorité qualifiée est requise, les candidats réunissant le plus de votes sont élus
+aux sièges restants.
+
+.. article:: élections uninominales
+
+Les élections visant à désigner un seul poste ou position sont organisées, sauf indication
+contraire, au scrutin public par approbation.
+
+Si aucun candidat n'obtient la majorité absolue ou requise au premier tour, un second tour de
+scrutin a lieu avec le même fonctionnement. Si un troisième tour de scrutin est nécessaire, et sauf
+si une majorité qualifiée est requise, le candidat réunissant le plus de votes est élu.
+
+-----------------
+XIII. Commissions
+-----------------
+
+.. (...)
+
+------------------------------
+XVIII. Amendement du règlement
+------------------------------
+
+.. article:: amendement du règlement
+
+Le présent règlement peut être amendé par décision de l'assemblée, à la majorité des membres
+présents et votants, après rapport d'une commission sur l'amendement proposé.
