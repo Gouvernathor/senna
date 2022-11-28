@@ -3,7 +3,7 @@ Loi organique
 =============
 
 -------------------------------------------------------------
-Relative à :artref:`principe-du-parlement` de la Constitution
+Relative à :artref:`principe du parlement` de la Constitution
 -------------------------------------------------------------
 
 Article unique
@@ -25,7 +25,7 @@ pétitions référendaires prévues par l'article sur les référendums de la co
 Le scrutin qui résulte d'un renouvellement anticipé doit avoir lieu dans un délai d'un mois.
 
 -------------------------------------------------------------------------
-Relative à :artref:`modalités-de-mandat-parlementaire` de la Constitution
+Relative à :artref:`modalités de mandat parlementaire` de la Constitution
 -------------------------------------------------------------------------
 
 Article premier - élections au Parlement
@@ -95,19 +95,19 @@ dans leurs fonctions. La sélection des sénateurs suspendus ne doit pas atteind
 représentativité au sein du Sénat des forces politiques y ayant été élues.
 
 .. -------------------------------------------------------------------------
-.. Relative à :artref:`responsabilité-parlementaire` de la Constitution
+.. Relative à :artref:`responsabilité parlementaire` de la Constitution
 .. -------------------------------------------------------------------------
 
 .. -------------------------------------------------------------------------
-.. Relative à :artref:`résolutions-parlementaires` de la Constitution
+.. Relative à :artref:`résolutions parlementaires` de la Constitution
 .. -------------------------------------------------------------------------
 
 .. -------------------------------------------------------------------------
-.. Relative à :artref:`droit-damendement` de la Constitution
+.. Relative à :artref:`droit d'amendement` de la Constitution
 .. -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
-Relative à :artref:`navette-parlementaire-et-cmp` de la Constitution
+Relative à :artref:`navette parlementaire et CMP` de la Constitution
 -------------------------------------------------------------------------
 
 Article unique - délai de refus d'office
@@ -128,7 +128,7 @@ Les délais des alinéas précédents peuvent être réduits de moitié sur déc
 membres d'une assemblée lors de sa première lecture du texte.
 
 .. -------------------------------------------------------------------------------------------------
-.. Relative à :artref:`lois-de-finances-et-de-financement-de-la-sécurité-sociale` de la Constitution
+.. Relative à :artref:`lois de finances et de financement de la sécurité sociale` de la Constitution
 .. -------------------------------------------------------------------------------------------------
 
 .. -------------------------------------------------------------------------
@@ -136,7 +136,7 @@ membres d'une assemblée lors de sa première lecture du texte.
 .. -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
-Relative à :artref:`nomination-du-gouvernement` de la Constitution
+Relative à :artref:`nomination du gouvernement` de la Constitution
 -------------------------------------------------------------------------
 
 Article premier - délai de nomination
@@ -157,11 +157,11 @@ S'il est mentionné au poste de Chancelier, il ne peut être cité au même post
 pétition reconnue recevable.
 
 .. -------------------------------------------------------------------------
-.. Relative à :artref:`motions-de-censure` de la Constitution
+.. Relative à :artref:`motions de censure` de la Constitution
 .. -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
-Relative à :artref:`révocation-des-élus` de la Constitution
+Relative à :artref:`révocation des élus` de la Constitution
 -------------------------------------------------------------------------
 
 Article unique - délai de tenue du référendum révocatoire
@@ -170,39 +170,39 @@ Le référendum révocatoire doit avoir lieu dans les trente jours suivant la qu
 de la constitution de la pétition demandant sa tenue.
 
 .. -------------------------------------------------------------------------------
-.. Relative à :artref:`incompatibilité-de-mandat-représentatif` de la Constitution
+.. Relative à :artref:`incompatibilité de mandat représentatif` de la Constitution
 .. -------------------------------------------------------------------------------
 
 .. -------------------------------------------------------------------------------
-.. Relative à :artref:`commission-de-contrôle-parlementaire` de la Constitution
+.. Relative à :artref:`commission de contrôle parlementaire` de la Constitution
 .. -------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------
-Relative à :artref:`constitutionnalité-des-traités` de la Constitution
+Relative à :artref:`constitutionnalité des traités` de la Constitution
 -------------------------------------------------------------------------------
 
 Article unique - quorum populaire
 ---------------------------------
-Le nombre de citoyens nécessaire pour la saisine prévue à :artref:`constitutionnalité-des-traités`
+Le nombre de citoyens nécessaire pour la saisine prévue à :artref:`constitutionnalité des traités`
 de la constitution est le nombre prévu pour les pétitions référendaires prévues par
 :artref:`référendums` de la constitution.
 
 ----------------------------------------------------------------------------------------------
-Relative à :artref:`contrôle-de-constitutionnalité-en-instance-législative` de la Constitution
+Relative à :artref:`contrôle de constitutionnalité en instance législative` de la Constitution
 ----------------------------------------------------------------------------------------------
 
 Article unique - quorum populaire
 ---------------------------------
 Le nombre de citoyens nécessaire pour la saisine prévue à
-:artref:`contrôle-de-constitutionnalité-en-instance-législative` de la constitution est le nombre
+:artref:`contrôle de constitutionnalité en instance législative` de la constitution est le nombre
 prévu pour les pétitions référendaires prévues par :artref:`référendums` de la constitution.
 
 .. ---------------------------------------------------------------------------------------------------
-.. Relative à :artref:`contrôle-de-constitutionnalité-en-instance-juridictionnelle` de la Constitution
+.. Relative à :artref:`contrôle de constitutionnalité en instance juridictionnelle` de la Constitution
 .. ---------------------------------------------------------------------------------------------------
 
 ---------------------------------------------------------------------------------
-Relative à :artref:`fonctionnement-du-conseil-constitutionnel` de la Constitution
+Relative à :artref:`fonctionnement du Conseil constitutionnel` de la Constitution
 ---------------------------------------------------------------------------------
 
 Article premier - conséquences du contrôle en instance législative
@@ -216,25 +216,25 @@ pourra être promulgué dépourvu de ses dispositions inconstitutionnelles, apr�
 Conseil Constitutionnel, sans être renvoyé au Parlement.
 
 .. -------------------------------------------------------------------------
-.. Relative à :artref:`lautorité-judiciaire` de la Constitution
+.. Relative à :artref:`l'autorité judiciaire` de la Constitution
 .. -------------------------------------------------------------------------
 
 .. ----------------------------------------------------------------------------
-.. Relative à :artref:`conseil-supérieur-de-la-magistrature` de la Constitution
+.. Relative à :artref:`conseil supérieur de la magistrature` de la Constitution
 .. ----------------------------------------------------------------------------
 
 .. -------------------------------------------------------------------------------
-.. Relative à :artref:`composition-et-fonctionnement-de-la-cjr` de la Constitution
+.. Relative à :artref:`composition et fonctionnement de la CJR` de la Constitution
 .. -------------------------------------------------------------------------------
 
 .. -------------------------------------------------------------------------
-.. Relative à :artref:`le-défenseur-des-droits` de la Constitution
+.. Relative à :artref:`le défenseur des droits` de la Constitution
 .. -------------------------------------------------------------------------
 
 .. -------------------------------------------------------------------------
-.. Relative à :artref:`pétition-et-référendums-locaux` de la Constitution
+.. Relative à :artref:`pétition et référendums locaux` de la Constitution
 .. -------------------------------------------------------------------------
 
 .. -------------------------------------------------------------------------
-.. Relative à :artref:`ressources-locales` de la Constitution
+.. Relative à :artref:`ressources locales` de la Constitution
 .. -------------------------------------------------------------------------

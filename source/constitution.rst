@@ -79,7 +79,7 @@ général ou partiel de l'assemblée à laquelle ils appartenaient.
 .. article:: irresponsabilité et immunité parlementaires
 
 Sauf dans les cas prévus par la Constitution, notamment dans le premier alinéa de
-:artref:`principe-du-parlement` ainsi que dans :artref:`responsabilité-parlementaire`, aucun
+:artref:`principe du parlement` ainsi que dans :artref:`responsabilité parlementaire`, aucun
 membre du Parlement ne peut être poursuivi, recherché, arrêté, détenu ou jugé à l'occasion des
 opinions ou votes émis par lui dans l'exercice de ses fonctions.
 
@@ -201,7 +201,7 @@ Le texte élaboré par la commission mixte est soumis pour approbation aux deux 
 .. article:: adoption sans le Sénat
 
 Si la commission mixte paritaire ne parvient pas à l'adoption d'un texte commun ou si ce texte
-n'est pas adopté, la procédure prévue à :artref:`navette-parlementaire-et-cmp` se poursuit.
+n'est pas adopté, la procédure prévue à :artref:`navette parlementaire et CMP` se poursuit.
 
 Cependant, après une nouvelle lecture par l'Assemblée nationale et par le Sénat, l'Assemblée
 nationale peut statuer définitivement à la majorité des trois cinquièmes de ses membres, ou porter
@@ -214,8 +214,8 @@ modifié le cas échéant par un ou plusieurs des amendements adoptés par le S�
 Les lois auxquelles la Constitution confère le caractère de loi organique sont votées et modifiées
 dans les conditions suivantes.
 
-La procédure des articles :artnumref:`réunion-en-congrès`,
-:artnumref:`navette-parlementaire-et-cmp` et :artnumref:`adoption-sans-le-sénat` est applicable.
+La procédure des articles :artnumref:`réunion en Congrès`,
+:artnumref:`navette parlementaire et CMP` et :artnumref:`adoption sans le Sénat` est applicable.
 Toutefois, faute d'accord entre les deux Assemblées, le texte ne peut être adopté par l'Assemblée
 nationale en dernière lecture qu'à la majorité des trois quarts de ses membres.
 
@@ -233,7 +233,7 @@ sociale dans les conditions prévues par une loi organique.
 
 Si l'Assemblée nationale ne s'est pas prononcée en première lecture dans un délai de quarante jours
 après le dépôt d'une proposition, le Sénat en est saisi et doit statuer dans un délai de quinze
-jours. Il est ensuite procédé dans les conditions prévues à :artref:`navette-parlementaire-et-cmp`.
+jours. Il est ensuite procédé dans les conditions prévues à :artref:`navette parlementaire et CMP`.
 
 Les délais prévus au présent article peuvent être réduits par la loi organique.
 
@@ -245,7 +245,7 @@ chaque assemblée.
 L'examen des propositions de loi de finances, des propositions de loi de financement de la sécurité
 sociale et des textes transmis par l'autre assemblée depuis six semaines au moins, des propositions
 relatives aux états de crise et des demandes d'autorisation visées à
-:artref:`guerre-et-intervention-armée` est inscrit à l'ordre du jour par priorité.
+:artref:`guerre et intervention armée` est inscrit à l'ordre du jour par priorité.
 
 .. article:: groupes parlementaires
 
@@ -289,7 +289,7 @@ Le Parlement, ou une pétition rassemblant trois centièmes des citoyens, ont la
 déclencher un référendum, afin de soumettre un texte législatif à l'approbation du peuple ou de lui
 poser une question sans valeur législative. Toutefois, dans le cas d'une question sans valeur
 législative, une assemblée parlementaire peut le déclencher seule ; et dans le cadre prévu par
-:artref:`adoption-sans-le-sénat`, l'Assemblée Nationale a la faculté de le déclencher
+:artref:`adoption sans le Sénat`, l'Assemblée Nationale a la faculté de le déclencher
 seule. Une loi organique peut établir d'autres circonstances de déclenchement d'un référendum.
 
 Le vote doit avoir lieu dans les trois mois suivant le déclenchement du référendum, sauf par
@@ -344,7 +344,7 @@ Le gouvernement est nommé par une pétition de gouvernement, citant les postes 
 incluant la Chancellerie, et l'identité des individus qui y correspondent. Une pétition de
 gouvernement n'est valide que si elle est signée par l'intégralité des individus qu'elle cite, et
 si les individus cités correspondent aux conditions fixées par
-:artref:`incompatibilité-de-mandat-représentatif`. Un même individu ne peut signer qu'une seule
+:artref:`incompatibilité de mandat représentatif`. Un même individu ne peut signer qu'une seule
 pétition le citant au poste de Chancelier. Tant que le gouvernement cité n'est pas en fonction, les
 postes et noms cités sur une pétition, sauf celui cité au poste de Chancelier, peuvent être
 modifiés avec l'accord de l'individu cité au poste de Chancelier et de chaque individu ajouté à la
@@ -468,7 +468,7 @@ du résultat de leur gestion, de leur patrimoine et de leur situation financièr
 .. article:: déclaration du gouvernement
 
 Devant l’une ou l’autre des assemblées, le gouvernement peut, de sa propre initiative ou à la
-demande d’un groupe parlementaire au sens de :artref:`groupes-parlementaires`, faire, sur un sujet
+demande d’un groupe parlementaire au sens de :artref:`groupes parlementaires`, faire, sur un sujet
 déterminé, une déclaration qui donne lieu à débat.
 
 ----------------------------------------------------
@@ -517,8 +517,8 @@ La loi organique établit les autres conditions de prise de fonctions au Conseil
 
 Une commission indépendante, dont la loi organique fixe la composition et les règles d’organisation
 et de fonctionnement, se prononce par un avis public sur les propositions de loi et de loi
-organique visant à appliquer :artref:`responsabilité-parlementaire` ou le premier alinéa de
-:artref:`principe-du-parlement`.
+organique visant à appliquer :artref:`responsabilité parlementaire` ou le premier alinéa de
+:artref:`principe du parlement`.
 
 ------------------------------------------------
 Titre VI — Des traités et accords internationaux
@@ -528,7 +528,7 @@ Titre VI — Des traités et accords internationaux
 
 Les traités de paix, les traités de commerce, les traités ou accords relatifs à l’organisation
 internationale, ceux qui engagent les finances de l’État, ceux qui modifient des dispositions non
-déléguées au gouvernement par le Parlement dans le cadre de :artref:`le-règlement`, ceux qui
+déléguées au gouvernement par le Parlement dans le cadre de :artref:`le règlement`, ceux qui
 sont relatifs à l’état des personnes, ceux qui comportent cession, échange ou adjonction de
 territoire, ne peuvent être ratifiés ou approuvés qu’en vertu d’une loi.
 
@@ -591,12 +591,12 @@ parlementaires présents en nombres égaux pour chaque assemblée.
 Le président est le plus ancien membre en date à avoir été désigné par commission spéciale. Il a
 voix prépondérante en cas de partage.
 
-La durée de la période d'inéligibilité prévue à :artref:`inéligibilité-post-mandature` est doublée
+La durée de la période d'inéligibilité prévue à :artref:`inéligibilité post-mandature` est doublée
 dans le cas des membres du Conseil constitutionnel.
 
 .. article:: contrôle de la nomination du gouvernement
 
-Le Conseil Constitutionnel veille au respect des modalités de :artref:`nomination-du-gouvernement`.
+Le Conseil Constitutionnel veille au respect des modalités de :artref:`nomination du gouvernement`.
 Il statue sur la nomination du gouvernement, en cas de désaccord entre le président du Sénat et le
 président de l'Assemblée Nationale ou en cas de contestation.
 
@@ -642,11 +642,11 @@ Une loi organique détermine les conditions d’application du présent article.
 .. article:: conséquence du contrôle
 
 Une disposition déclarée inconstitutionnelle sur le fondement de
-:artref:`contrôle-de-constitutionnalité-en-instance-législative` ne peut être promulguée ni mise en
+:artref:`contrôle de constitutionnalité en instance législative` ne peut être promulguée ni mise en
 application.
 
 Une disposition déclarée inconstitutionnelle sur le fondement de
-:artref:`contrôle-de-constitutionnalité-en-instance-juridictionnelle` est abrogée à compter de la
+:artref:`contrôle de constitutionnalité en instance juridictionnelle` est abrogée à compter de la
 publication de la décision du Conseil constitutionnel ou d’une date ultérieure fixée par cette
 décision. Le Conseil constitutionnel détermine les conditions et limites dans lesquelles les effets
 que la disposition a produits sont susceptibles d’être remis en cause.
@@ -710,7 +710,7 @@ membres visés au troisième alinéa, le magistrat du parquet appartenant à la 
 l’égard des magistrats du siège.
 
 Le Conseil supérieur de la magistrature se réunit en formation plénière au titre de
-:artref:`lautorité-judiciaire`. Il se prononce, dans la même formation, sur les questions relatives
+:artref:`l'autorité judiciaire`. Il se prononce, dans la même formation, sur les questions relatives
 à la déontologie des magistrats ainsi que sur toute question relative au fonctionnement de la
 justice dont le saisit le gouvernement. La formation plénière comprend trois des cinq magistrats du
 siège mentionnés au deuxième alinéa, trois des cinq magistrats du parquet mentionnés au troisième
@@ -820,7 +820,7 @@ d’un pouvoir réglementaire pour l’exercice de leurs compétences. La repré
 dans les collectivités se fait de manière proportionnelle. Les communes sont administrées par des
 conseils municipaux élus de manière proportionnelle. Les collectivités de même nature sont régies
 par les mêmes règles de fonctionnement. Les élus des collectivités sont soumis aux contraintes
-décrites dans :artref:`responsabilité-parlementaire`.
+décrites dans :artref:`responsabilité parlementaire`.
 
 Aucune collectivité territoriale ne peut exercer une tutelle sur une autre. Cependant, lorsque
 l’exercice d’une compétence nécessite le concours de plusieurs collectivités territoriales, la loi
