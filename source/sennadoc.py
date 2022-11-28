@@ -31,7 +31,7 @@ class ArticleDirective(sphinx.domains.std.Target):
             node_id = f"dummy-{dummy_id}"
         else:
             rv = super().run()
-            node_id, *_ = rv[0]["ids"][0]
+            node_id = rv[0]["ids"][0]
             # recompute fullname - Target doesn't save it properly
             fullname = sphinx.domains.std.ws_re.sub(' ', self.arguments[0].strip())
             if fullname in registered_articles:
