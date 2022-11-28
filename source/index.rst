@@ -20,10 +20,13 @@ ces textes fondent une nouvelle république parlementaire délibérative, plus �
    constitution
    droits_fondamentaux
    organique
-.. reglement_interieur
+   reglement_interieur
 
 .. toctree::
    :maxdepth: 2
    :caption: Pour comparaison :
 
    constitution_5
+.. reglement_unga
+
+`Règlement intérieur de l'Assemblée Générale des Nations-Unies <https://digitallibrary.un.org/record/3896201/files/A_520_Rev.19-FR.pdf>`_
