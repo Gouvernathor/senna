@@ -64,25 +64,30 @@ class ArtrefTransform(docutils.transforms.Transform):
     default_priority = 750
 
     def apply(self):
+        name = None
         for node in self.document.traverse(sphinx.addnodes.pending_xref):
             if node["refexplicit"]:
-                continue
-            # print(node)
-            flag = getattr(node, "flag", None)
-            # print(flag)
-            if flag is not None:
-                rf = registered_articles.get(node["reftarget"], None)
-                # print(rf)
-                if rf is None:
-                    print(f"number of article {node['reftarget']!r} not found")
-                    continue
-                if flag is artnumrefflag:
-                    name = str(rf)
-                elif flag is artrefflag:
-                    name = f"l'article {rf}"
-                else:
-                    raise ExtensionError(f"unknown flag {flag!r}")
+                name = node.children[0].children[0]
+            else:
+                # print(node)
+                flag = getattr(node, "flag", None)
+                # print(flag)
+                if flag is not None:
+                    rf = registered_articles.get(node["reftarget"], None)
+                    # print(rf)
+                    if rf is None:
+                        print(f"number of article {node['reftarget']!r} not found")
+                        continue
+                    if flag is artnumrefflag:
+                        name = str(rf)
+                    elif flag is artrefflag:
+                        name = f"l'article {rf}"
+                    else:
+                        raise ExtensionError(f"unknown flag {flag!r}")
+
+            if name:
                 node.children[:] = [docutils.nodes.generated(node.children[0].rawsource, name)]
+            name = None
 
 def setup(app):
     app.add_directive_to_domain("std", "article", ArticleDirective)
