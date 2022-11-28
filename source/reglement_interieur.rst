@@ -2,11 +2,6 @@
 Règlement intérieur du Parlement
 ================================
 
-.. ------------
-.. Introduction
-.. ------------
-
-
 .. note::
     Ce texte établit le règlement intérieur des assemblées parlementaires. Sauf indication contraire,
     ses dispositions s'appliquent à ces deux assemblées, qui sont l'Assemblée Nationale et le Sénat.
@@ -25,22 +20,12 @@ Règlement intérieur du Parlement
     celui de l'Assemblée Générale des Nations Unies - plus délibératif et moins autoritaire.
 
 .. NOTES
-    motion de "clôture concurrente"?, où on fixe une date à laquelle la version du texte recevant la plus grande majorité sera considérée comme adoptée
-
-    quand aucune motion n'est à l'ordre du jour, un membre peut proposer une motion qui sera aussitôt ajoutée
-
     chercher toutes les mentions d'assemblée générale
-
-    indiquer comment sont reçues et gérées les demandes de 10% des membres prévues dans la constitution
 
     les approbations de pétitions de gouvernement viennent au Bureau
     vérifier la signature du citoyen dénommé chancelier
 
-    Après constitution des groupes, le Président de l’assemblée réunit ses représentants en vue de procéder à la division de la salle des séances en autant de secteurs qu’il y a de groupes, et de déterminer la place des membres non-inscrits par rapport aux groupes.
-
-    les lois retoquées par le conseil constit reviennent à la dernière assemblée
-
-    chapitre VI et VII du règlement actuel de l'assnat à mettre dans le nouveau titre XV
+    chapitre VI et VII du règlement actuel de l'assnat à mettre dans le nouveau titre XV, élections par l'assemblée
 
     fusionner les chapitres VIII, IX et X dans le titre XIII
 
@@ -52,19 +37,21 @@ Règlement intérieur du Parlement
     règles de l'attribution des sièges d'une commissions
     thèmes des grandes commissions (à renommer "commissions permanentes" ?)
     règles pour la réunion d'une commission pendant une séance de l'assemblée (au moins interdire les prises de décision de la commission)
-    chaque membre n'est que dans une seule grande commission
+    chaque membre n'est membre que d'une seule grande commission
     ajouter une commission plénière (committee of the whole) : son président est le premier des vice-présidents de l'assemblée, et ses vice-présidents sont les vice-présidents suivants de l'assemblée
 
     vérifier que la parole est bien distribuée à la proportionnelle pendant les QAG
 
     ajouter une partie sur le parcours d'un texte, comment il part en commission et revient et tout
     article 78 du docs
+    les lois retoquées par le conseil constit reviennent à la dernière assemblée
+    référendum lors de l'adoption sans le sénat
 
     idem pour la CMP
 
     convocation et odj des sessions extraordinaires
 
-    discipline ?
+    discipline
 
     rapporteur d'un texte
 
@@ -267,7 +254,7 @@ administratifs. Aucune dépense nouvelle ne peut être engagée sans leur accord
 .. article:: nomination des questeurs
 
 Trois questeurs sont désignés au sein des membres de l'assemblée selon la procédure prévue au
-deuxième, quatrième et cinquième alinéas de :artref:`nomination des vide-présidents`.
+deuxième, quatrième et cinquième alinéas de :artref:`nomination des vice-présidents`.
 
 Si aucun des trois membres désignés ne fait partie d'un groupe d'opposition, le troisième est
 remplacé par un membre désigné au sein exclusif des groupes d'opposition, selon le même principe de
