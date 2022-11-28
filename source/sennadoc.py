@@ -9,30 +9,41 @@ import sphinx.util.docutils
 
 counters = defaultdict(int)
 registered_articles = {}
+dummy_id = 0
 
 class ArticleDirective(sphinx.domains.std.Target):
     """
     Piggyback Target and recompute fullname (but not node_id)
     """
-    def run(self):
-        node, = super().run()
-        node_id, *_ = node["ids"]
-        # recompute fullname - Target doesn't save it properly
-        fullname = sphinx.domains.std.ws_re.sub(' ', self.arguments[0].strip())
+    required_arguments = 0
+    optional_arguments = 1
 
+    def run(self):
         docname = self.state.document.current_source
         counters[docname] += 1
-        if fullname in registered_articles:
-            raise ExtensionError(f"an article {fullname!r} is already registered")
-        registered_articles[fullname] = counters[docname]
-        name = f"Article {counters[docname]} - {fullname}"
-        # yes, the name is longer than the fullname
+        name = f"Article {counters[docname]}"
 
-        return [node,
-                docutils.nodes.section(name,
-                                       docutils.nodes.title(node_id, name),
-                                       ids=[node_id]),
-                ]
+        if not self.arguments:
+            # anonymous article - not referenceable, no target
+            rv = []
+            global dummy_id
+            dummy_id += 1
+            node_id = f"dummy-{dummy_id}"
+        else:
+            rv = super().run()
+            node_id, *_ = rv[0]["ids"][0]
+            # recompute fullname - Target doesn't save it properly
+            fullname = sphinx.domains.std.ws_re.sub(' ', self.arguments[0].strip())
+            if fullname in registered_articles:
+                raise ExtensionError(f"an article {fullname!r} is already registered")
+            registered_articles[fullname] = counters[docname]
+            name = f"{name} - {fullname}"
+            # yes, the name is longer than the fullname
+
+        rv.append(docutils.nodes.section(name,
+                                         docutils.nodes.title(name, name),
+                                         ids=[node_id]))
+        return rv
 
 artrefflag = object()
 artnumrefflag = object()
