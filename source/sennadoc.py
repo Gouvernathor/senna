@@ -38,7 +38,7 @@ artrefflag = object()
 artnumrefflag = object()
 
 class ArtRole(sphinx.roles.XRefRole):
-    innernodeclass = docutils.nodes.generated
+    # no innernodeclass, on purpose
 
     def __init__(self, *args, flag, **kwargs):
         self.flag = flag
@@ -64,13 +64,14 @@ class ArtrefTransform(docutils.transforms.Transform):
                 # print(rf)
                 if rf is None:
                     print(f"number of article {node['reftarget']!r} not found")
+                    continue
                 if flag is artnumrefflag:
                     name = str(rf)
                 elif flag is artrefflag:
                     name = f"l'article {rf}"
                 else:
                     raise ExtensionError(f"unknown flag {flag!r}")
-                node.children[:] = [docutils.nodes.Text(name)]
+                node.children[:] = [docutils.nodes.generated(node.children[0].rawsource, name)]
 
 def setup(app):
     app.add_directive_to_domain("std", "article", ArticleDirective)
