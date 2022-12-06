@@ -747,6 +747,10 @@ tour de scrutin a lieu avec le même fonctionnement. Si un troisième tour de sc
 et sauf si une majorité qualifiée est requise, les candidats réunissant le plus de votes sont élus
 aux sièges restants.
 
+Si plusieurs candidats arrivent à égalité, ils sont départagés en un tour de scrutin où eux seuls
+sont candidats, et où le nombre d'approbation par électeur est limité au nombre de sièges devant
+être attribués aux candidats restants à départager.
+
 .. article:: élections uninominales
 
 Les élections visant à désigner un seul poste ou position sont organisées, sauf indication
@@ -755,6 +759,8 @@ contraire, au scrutin public par approbation.
 Si aucun candidat n'obtient la majorité absolue ou requise au premier tour, un second tour de
 scrutin a lieu avec le même fonctionnement. Si un troisième tour de scrutin est nécessaire, et sauf
 si une majorité qualifiée est requise, le candidat réunissant le plus de votes est élu.
+
+Si plusieurs candidats arrivent à égalité, ils sont départagés au scrutin à choix unique.
 
 -----------------
 XIII. Commissions
