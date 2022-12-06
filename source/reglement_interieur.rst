@@ -749,7 +749,7 @@ aux sièges restants.
 
 Si plusieurs candidats arrivent à égalité, ils sont départagés en un tour de scrutin où eux seuls
 sont candidats, et où le nombre d'approbation par électeur est limité au nombre de sièges devant
-être attribués aux candidats restants à départager.
+être attribués aux candidats à départager.
 
 .. article:: élections uninominales
 
