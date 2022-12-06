@@ -494,7 +494,9 @@ Nul ne peut prendre la parole en séance sans avoir au préalable obtenu l'autor
 de séance. Sauf disposition contraire du présent règlement, une limite de trois minutes est imposée
 pour chaque prise de parole.
 
-Lors d'un débat libre, le président de séance donne la parole aux orateurs de manière à représenter
+Lors d'un débat libre, la parole est donnée aux orateurs dans l'ordre où ils la demandent.
+
+Lors d'un débat proportionnel, le président de séance donne la parole aux orateurs de manière à représenter
 chaque groupe de manière proportionnelle à son nombre de membres, puis dans l'ordre où les orateurs
 ont demandé la parole.
 
@@ -626,11 +628,11 @@ texte est de droit. Dans le cas contraire, elle est immédiatement mise aux voix
 
 .. article:: discussion des textes et articles
 
-La discussion d'un texte se fait en accordant la parole au rapporteur, puis en débat libre, limité
-à dix minutes pour le groupe comportant le plus de membres.
+La discussion d'un texte se fait en accordant la parole au rapporteur, puis en débat proportionnel,
+limité à dix minutes pour le groupe comportant le plus de membres.
 
 La discussion d'un article se fait en accordant la parole au rapporteur, puis en débat par groupe,
-sauf si le président de séance décide de la porter en débat libre.
+sauf si le président de séance décide de la porter en débat proportionnel.
 
 Un tour de parole est accordé en débat par groupe avant le vote final sur un texte, sur décision du
 président de séance ou sur demande de représentants de groupes réunissant au moins un dixième des
