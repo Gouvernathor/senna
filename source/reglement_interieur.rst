@@ -40,6 +40,7 @@ Règlement intérieur du Parlement
     chaque membre n'est membre que d'une seule grande commission
     ajouter une commission plénière (committee of the whole) : son président est le premier des vice-présidents de l'assemblée, et ses vice-présidents sont les vice-présidents suivants de l'assemblée
 
+    questions au gouvernement ?
     vérifier que la parole est bien distribuée à la proportionnelle pendant les QAG
 
     ajouter une partie sur le parcours d'un texte, comment il part en commission et revient et tout
@@ -54,6 +55,9 @@ Règlement intérieur du Parlement
     discipline
 
     rapporteur d'un texte
+
+    motions de censure
+    autres trucs prévus par la constitution
 
 -----------
 I. Sessions

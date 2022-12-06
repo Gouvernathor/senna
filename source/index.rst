@@ -1,7 +1,8 @@
-.. Constitution Senna documentation master file, created by
-   sphinx-quickstart on Thu Nov 24 15:05:06 2022.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+..
+   restent :
+   les annotations à la constitution
+   les explications mises sur un document à part
+   le schéma des institutions, exporté et inclus dans le document d'explications
 
 Bienvenue sur la Constitution Senna !
 =====================================
