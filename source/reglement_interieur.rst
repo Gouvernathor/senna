@@ -568,8 +568,8 @@ d'un texte. La motion inclut une date de clôture à laquelle le texte tel qu'am
 sera considéré comme adopté par l'assemblée.
 
 Toutefois, si la motion le prévoit, ou si une majorité qualifiée requise pour l'adoption du texte
-n'est pas réunie par le vote sur la motion, un vote final a lieu sur le texte tel qu'amendé à la
-date de clôture.
+n'est pas réunie par le vote sur la motion, un vote final a lieu à la date de clôture sur le texte
+tel qu'amendé.
 
 La motion peut contenir des conditions supplémentaires nécessaires à sa propre application.
 
@@ -615,8 +615,8 @@ motions présentées :
 #. suspension de séance ;
 #. limitation du temps de parole ;
 #. modification de l'ordre du jour ;
-#. pré-adoption ;
-#. clôture de la liste des orateurs.
+#. clôture de la liste des orateurs ;
+#. pré-adoption.
 
 .. article:: nouvel examen
 
@@ -626,9 +626,9 @@ séance.
 
 La demande de nouvel examen n'est pas discutée.
 
-Lorsqu'elle est demandée par des représentants de groupes parlementaires réunissant deux cinquièmes
-des membres de l'assemblée, la première demande de nouvel examen sur un texte ou une partie d'un
-texte est de droit. Dans le cas contraire, elle est immédiatement mise aux voix.
+Lorsqu'une première demande de nouvel examen sur un texte ou une partie d'un texte est demandée par
+des représentants de groupes parlementaires réunissant deux cinquièmes des membres de l'assemblée,
+elle est de droit. Dans les cas contraires, la demande est immédiatement mise aux voix.
 
 .. article:: discussion des textes et articles
 
@@ -638,7 +638,7 @@ limité à dix minutes pour le groupe comportant le plus de membres.
 La discussion d'un article se fait en accordant la parole au rapporteur, puis en débat par groupe,
 sauf si le président de séance décide de la porter en débat proportionnel.
 
-Un tour de parole est accordé en débat par groupe avant le vote final sur un texte, sur décision du
+Un tour de parole en débat par groupe avant le vote final sur un texte est accordé sur décision du
 président de séance ou sur demande de représentants de groupes réunissant au moins un dixième des
 membres de l'assemblée.
 
@@ -652,8 +652,7 @@ suppression, ensuite les autres dans l'ordre dans lequel ils interviennent dans 
 Lorsque plusieurs amendements sont mutuellement exclusifs, ils sont soumis à une discussion
 commune : chacun des amendements est discuté avant le vote sur ces amendements.
 
-Les amendements identiques ne sont pas examinés, à l'exception de celui d'entre eux déposé le plus
-tôt d'entre eux.
+Parmi des amendements identiques, seul est examiné celui d'entre eux déposé le plus tôt.
 
 Les amendements sont présentés par leur dépositaire, puis discutés en débat fixé à un orateur pour
 et un contre, sauf si le président de séance décide de les porter en débat par groupe.
@@ -731,10 +730,10 @@ vote final sur le texte.
 
 Le vote sur un article a lieu après le vote sur les amendements qui s'y rapportent.
 
-Le vote sur des amendements mutuellement exclusifs a lieu par approbation, en offrant comme options
-chacun de ces amendements et le rejet de tous ces amendements. En cas d'égalité entre plusieurs
-options arrivées en tête des votes, un second tour de scrutin a lieu entre ces options au scrutin à
-choix unique.
+Le vote sur des amendements mutuellement exclusifs a lieu par approbation, en offrant comme
+propositions chacun de ces amendements et le rejet de tous ces amendements. En cas d'égalité entre
+plusieurs propositions arrivées en tête des votes, un second tour de scrutin a lieu entre ces
+propositions au scrutin à choix unique.
 
 .. article:: élections plurinominales
 
