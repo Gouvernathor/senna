@@ -253,7 +253,7 @@ administratifs. Aucune dépense nouvelle ne peut être engagée sans leur accord
 
 .. article:: nomination des questeurs
 
-Trois questeurs sont désignés au sein des membres de l'assemblée selon la procédure prévue au
+Trois questeurs sont désignés au sein des membres de l'assemblée selon la procédure prévue aux
 deuxième, quatrième et cinquième alinéas de :artref:`nomination des vice-présidents`.
 
 Si aucun des trois membres désignés ne fait partie d'un groupe d'opposition, le troisième est
@@ -324,7 +324,7 @@ Lorsque le président d'une commission s'absente du Bureau étendu, le remplaça
 les vice-présidents de la commission.
 
 Les présidents de groupes parlementaires votent au prorata du nombre de membres de leur groupe
-respectif, retranché du nombr de membres du groupe déjà présents.
+respectif, retranché du nombre de membres du groupe déjà présents.
 
 .. article::
 
@@ -510,8 +510,9 @@ parole de son groupe à un autre groupe parlementaire.
 
 .. article:: suspension de parole
 
-Le président peut rappeler à l'ordre un orateur dont les remarques n'ont pas trait au sujet pour
-lequel la parole lui a été donnée, ou dont le temps de parole dépasse celui qui lui a été alloué.
+Le président de séance peut rappeler à l'ordre un orateur dont les remarques n'ont pas trait au
+sujet pour lequel la parole lui a été donnée, ou dont le temps de parole dépasse celui qui lui a
+été alloué.
 
 .. article:: motion d'ordre ou renvoi au règlement
 
@@ -590,13 +591,13 @@ une suspension ou un ajournement de la séance. Seules trois demandes de suspens
 par groupe et par séance, et seule une demande d'ajournement est accordée par groupe et par
 semaine.
 
-La motion de suspension de séance d'au plus cinq minutes de droit. Une durée plus longue peut être
-accordée par le président de séance.
+La motion de suspension de séance d'au plus cinq minutes est de droit. Une durée plus longue peut
+être accordée par le président de séance.
 
 La motion d'ajournement n'est pas discutée, mais est immédiatement mise aux voix.
 
-Le président de l'assemblée prononce sans appel l'ajournement de la séance en cas de menace
-imminente sur la sécurité de l'assemblée.
+Le président prononce sans appel l'ajournement de la séance en cas de menace imminente sur la
+sécurité de l'assemblée.
 
 .. article:: priorité des motions de procédure
 
@@ -664,7 +665,7 @@ par cette délégation qui peut autoriser ou non son usage en scrutin secret.
 
 En l'absence d'une telle délégation, et à moins que le membre absent s'y soit expressément opposé,
 ou que le réglement intérieur de son groupe parlementaire en dispose autrement, le vote de ce
-membre est délégué au président de son groupe.
+membre est délégué au représentant de son groupe.
 
 Les délégations de vote et oppositions précitées doivent être communiquées au Bureau de l'assemblée
 avant l'ouverture du premier des scrutins auxquels elle s'applique. Toute nouvelle délégation
