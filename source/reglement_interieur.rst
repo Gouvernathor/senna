@@ -458,7 +458,7 @@ Les motions suivantes ont priorité, dans l'ordre indiqué, sur toutes les autre
 
 .. article:: nouvel examen
 
-Avant un vote final sur un texte ou une partie d'un texte, une motion peut être déposée afin d'examiner à nouveau le texte, et de nouveaux amendements y étant déposés, dans une prochaine séance.
+Avant un vote final sur un texte ou une partie d'un texte, une motion peut être déposée afin d'examiner à nouveau le texte et de nouveaux amendements y étant déposés. La motion peut inclure le report de ce nouvel examen à une séance future.
 
 La demande de nouvel examen n'est pas discutée.
 
