@@ -8,19 +8,13 @@ Relative à :artref:`principe du parlement` de la Constitution
 
 Article unique
 --------------
-Le renouvellement anticipé d'une assemblée est ordonné dans les conditions prévues par son
-règlement intérieur, ou par réception d'un recours citoyen en dissolution.
+Le renouvellement anticipé d'une assemblée est ordonné dans les conditions prévues par son règlement intérieur, ou par réception d'un recours citoyen en dissolution.
 
-De plus, si aucun gouvernement n'est majoritaire dans au moins une assemblée dans les trois mois
-suivant le dernier renouvellement, partiel ou total, d'une des assemblées, les deux assemblées sont
-renouvelées de manière anticipée. Après ce renouvellement, la période prévue au présent alinéa est
-portée à huit mois.
+De plus, si aucun gouvernement n'est majoritaire dans au moins une assemblée dans les trois mois suivant le dernier renouvellement, partiel ou total, d'une des assemblées, les deux assemblées sont renouvelées de manière anticipée. Après ce renouvellement, la période prévue au présent alinéa est portée à huit mois.
 
-En outre, le Sénat a le pouvoir de dissoudre l'Assemblée Nationale si aucun gouvernement n'y a été
-majoritaire durant l'année précédant ce renouvellement.
+En outre, le Sénat a le pouvoir de dissoudre l'Assemblée Nationale si aucun gouvernement n'y a été majoritaire durant l'année précédant ce renouvellement.
 
-Les conditions de recevabilité d'un recours citoyen en dissolution sont celles prévues pour les
-pétitions référendaires prévues par l'article sur les référendums de la constitution.
+Les conditions de recevabilité d'un recours citoyen en dissolution sont celles prévues pour les pétitions référendaires prévues par l'article sur les référendums de la constitution.
 
 Le scrutin qui résulte d'un renouvellement anticipé doit avoir lieu dans un délai d'un mois.
 
@@ -34,53 +28,37 @@ Le renouvellement partiel ou intégral des assemblées a lieu par scrutin propor
 
 Le renouvellement de l'Assemblée Nationale se fait de manière intégrale.
 
-Le renouvellement partiel du Sénat se fait par moitié, au plus tard après que la moitié du mandat
-des membres élus au dernier renouvellement du Sénat se soit écoulée.
+Le renouvellement partiel du Sénat se fait par moitié, au plus tard après que la moitié du mandat des membres élus au dernier renouvellement du Sénat se soit écoulée.
 
 Lors du scrutin, chaque électeur peut voter pour une des listes déclarées, ou voter blanc.
 
-Les sièges à pourvoir sont attribués à chaque liste selon la méthode de la plus forte moyenne, sans
-seuil, et sans attribuer plus d'un siège à chaque individu.
+Les sièges à pourvoir sont attribués à chaque liste selon la méthode de la plus forte moyenne, sans seuil, et sans attribuer plus d'un siège à chaque individu.
 
 Article 2 - listes de candidats
 -------------------------------
-Chaque liste de candidats doit réunir au moins autant d'individus que de sièges à pourvoir, ainsi
-qu'un candidat supplémentaire pour chaque individu présent sur au moins une autre liste.
+Chaque liste de candidats doit réunir au moins autant d'individus que de sièges à pourvoir, ainsi qu'un candidat supplémentaire pour chaque individu présent sur au moins une autre liste.
 
-L'ordre des candidats au sein d'une liste ne peut être modifié moins de vingt-quatre heures avant
-la tenue du vote.
+L'ordre des candidats au sein d'une liste ne peut être modifié moins de vingt-quatre heures avant la tenue du vote.
 
-Chaque liste de candidats prévoit un individu ou une association qui la représente et décide en son
-nom de l'ordre des candidats la composant, ainsi que de leur remplacement. À défaut, ces décisions
-sont prises à la majorité absolue des membres de la liste.
+Chaque liste de candidats prévoit un individu ou une association qui la représente et décide en son nom de l'ordre des candidats la composant, ainsi que de leur remplacement. À défaut, ces décisions sont prises à la majorité absolue des membres de la liste.
 
-Le remplacement d'un parlementaire élu se fait par le premier membre non-élu de la liste à partir
-de laquelle il avait été élu.
+Le remplacement d'un parlementaire élu se fait par le premier membre non-élu de la liste à partir de laquelle il avait été élu.
 
-Un parlementaire élu ne peut faire partie que de la liste à partir de laquelle il a été élu. Il est
-d'office retiré de toutes les autres au moment de son élection.
+Un parlementaire élu ne peut faire partie que de la liste à partir de laquelle il a été élu. Il est d'office retiré de toutes les autres au moment de son élection.
 
-Après la proclamation des résultats de l'élection par le conseil constitutionnel, et jusqu'à
-l'élection suivante, des membres non-élus peuvent être ajoutés et réorganisés au sein de la liste,
-dans les conditions et modalités prévues par la loi.
+Après la proclamation des résultats de l'élection par le conseil constitutionnel, et jusqu'à l'élection suivante, des membres non-élus peuvent être ajoutés et réorganisés au sein de la liste, dans les conditions et modalités prévues par la loi.
 
 Article 3 - éligibilité et électorat
 ------------------------------------
-Sont éligibles à l'assemblée nationale, et électeurs aux scrutins concernés, tous les citoyens
-résidant sur le territoire national, sous réserve des conditions fixées par la constitution.
+Sont éligibles à l'assemblée nationale, et électeurs aux scrutins concernés, tous les citoyens résidant sur le territoire national, sous réserve des conditions fixées par la constitution.
 
-Sont éligibles au Sénat, et électeurs aux scrutins concernés, les individus occupant sur le
-territoire national un emploi caractérisé par la loi comme sujet au fait sénatorial, sous réserve
-des conditions fixées par la constitution.
+Sont éligibles au Sénat, et électeurs aux scrutins concernés, les individus occupant sur le territoire national un emploi caractérisé par la loi comme sujet au fait sénatorial, sous réserve des conditions fixées par la constitution.
 
 Article 4 - durée de mandat
 ---------------------------
-La durée de mandat est de deux ans à l'Assemblée Nationale, et de quatre ans au Sénat. Cependant,
-les parlementaires restent de droit en fonction jusqu'à la prise de fonction des parlementaires
-nouvellement élus.
+La durée de mandat est de deux ans à l'Assemblée Nationale, et de quatre ans au Sénat. Cependant, les parlementaires restent de droit en fonction jusqu'à la prise de fonction des parlementaires nouvellement élus.
 
-Le vote renouvelant une assemblée doit avoir lieu au moins quinze jours calendaires avant la fin de
-mandat des membres concernés par le renouvellement.
+Le vote renouvelant une assemblée doit avoir lieu au moins quinze jours calendaires avant la fin de mandat des membres concernés par le renouvellement.
 
 Article 5 - tailles des assemblées
 ----------------------------------
@@ -88,11 +66,7 @@ Le nombre de sièges à l'Assemblée Nationale est fixé à 360.
 
 Le nombre de sièges au Sénat est fixé à 240.
 
-Quand les conditions fixées par la constitution concernant les tailles des assemblées ne sont pas
-respectées, le règlement intérieur du Sénat prévoit quels sénateurs seront suspendus, afin de
-respecter ces conditions, ainsi que l'ordre et le délai dans lequel ces sénateurs sont rétablis
-dans leurs fonctions. La sélection des sénateurs suspendus ne doit pas atteindre à la
-représentativité au sein du Sénat des forces politiques y ayant été élues.
+Quand les conditions fixées par la constitution concernant les tailles des assemblées ne sont pas respectées, le règlement intérieur du Sénat prévoit quels sénateurs seront suspendus, afin de respecter ces conditions, ainsi que l'ordre et le délai dans lequel ces sénateurs sont rétablis dans leurs fonctions. La sélection des sénateurs suspendus ne doit pas atteindre à la représentativité au sein du Sénat des forces politiques y ayant été élues.
 
 .. -------------------------------------------------------------------------
 .. Relative à :artref:`responsabilité parlementaire` de la Constitution
@@ -112,20 +86,15 @@ Relative à :artref:`navette parlementaire et CMP` de la Constitution
 
 Article unique - délai de refus d'office
 ----------------------------------------
-Le délai à partir duquel un texte peut être considéré par une assemblée comme étant rejeté par
-l'autre assemblée est de la durée la plus grande entre un mois calendaire et la période s'étant
-écoulée entre la saisie du texte et son vote définitif lors de la dernière considération par
-l'assemblée non saisie du texte.
+Le délai à partir duquel un texte peut être considéré par une assemblée comme étant rejeté par l'autre assemblée est de la durée la plus grande entre un mois calendaire et la période s'étant écoulée entre la saisie du texte et son vote définitif lors de la dernière considération par l'assemblée non saisie du texte.
 
 Ces délais sont doublés lorsque l'assemblée saisie du texte le considère pour la première fois.
 
-Les délais des alinéas précédents sont quadruplés dans le cas de lois organiques ou
-constitutionnelles.
+Les délais des alinéas précédents sont quadruplés dans le cas de lois organiques ou constitutionnelles.
 
 Les délais des alinéas précédents sont réduits de moitié dans le cas de lois des finances.
 
-Les délais des alinéas précédents peuvent être réduits de moitié sur décision de la majorité des
-membres d'une assemblée lors de sa première lecture du texte.
+Les délais des alinéas précédents peuvent être réduits de moitié sur décision de la majorité des membres d'une assemblée lors de sa première lecture du texte.
 
 .. -------------------------------------------------------------------------------------------------
 .. Relative à :artref:`lois de finances et de financement de la sécurité sociale` de la Constitution
@@ -141,20 +110,17 @@ Relative à :artref:`nomination du gouvernement` de la Constitution
 
 Article premier - délai de nomination
 -------------------------------------
-Lorsqu'il existe au moins une pétition de gouvernement ayant une priorité plus grande que celle du
-gouvernement en fonction, le gouvernement démissionne dans les quinze jours calendaires.
+Lorsqu'il existe au moins une pétition de gouvernement ayant une priorité plus grande que celle du gouvernement en fonction, le gouvernement démissionne dans les quinze jours calendaires.
 
 Article 2 - recevabilité des pétitions de gouvernement
 ------------------------------------------------------
-Chaque individu cité sur une pétition de gouvernement doit répondre aux conditions suivantes afin
-que la pétition soit recevable.
+Chaque individu cité sur une pétition de gouvernement doit répondre aux conditions suivantes afin que la pétition soit recevable.
 
 Il doit avoir donné son consentement à figurer au sein de cette pétition.
 
 Il doit jouir de ses droits civils et politiques.
 
-S'il est mentionné au poste de Chancelier, il ne peut être cité au même poste par une autre
-pétition reconnue recevable.
+S'il est mentionné au poste de Chancelier, il ne peut être cité au même poste par une autre pétition reconnue recevable.
 
 .. -------------------------------------------------------------------------
 .. Relative à :artref:`motions de censure` de la Constitution
@@ -166,8 +132,7 @@ Relative à :artref:`révocation des élus` de la Constitution
 
 Article unique - délai de tenue du référendum révocatoire
 ---------------------------------------------------------
-Le référendum révocatoire doit avoir lieu dans les trente jours suivant la qualification au regard
-de la constitution de la pétition demandant sa tenue.
+Le référendum révocatoire doit avoir lieu dans les trente jours suivant la qualification au regard de la constitution de la pétition demandant sa tenue.
 
 .. -------------------------------------------------------------------------------
 .. Relative à :artref:`incompatibilité de mandat représentatif` de la Constitution
@@ -183,9 +148,7 @@ Relative à :artref:`constitutionnalité des traités` de la Constitution
 
 Article unique - quorum populaire
 ---------------------------------
-Le nombre de citoyens nécessaire pour la saisine prévue à :artref:`constitutionnalité des traités`
-de la constitution est le nombre prévu pour les pétitions référendaires prévues par
-:artref:`référendums` de la constitution.
+Le nombre de citoyens nécessaire pour la saisine prévue à :artref:`constitutionnalité des traités` de la constitution est le nombre prévu pour les pétitions référendaires prévues par :artref:`référendums` de la constitution.
 
 ----------------------------------------------------------------------------------------------
 Relative à :artref:`contrôle de constitutionnalité en instance législative` de la Constitution
@@ -193,9 +156,7 @@ Relative à :artref:`contrôle de constitutionnalité en instance législative` 
 
 Article unique - quorum populaire
 ---------------------------------
-Le nombre de citoyens nécessaire pour la saisine prévue à
-:artref:`contrôle de constitutionnalité en instance législative` de la constitution est le nombre
-prévu pour les pétitions référendaires prévues par :artref:`référendums` de la constitution.
+Le nombre de citoyens nécessaire pour la saisine prévue à :artref:`contrôle de constitutionnalité en instance législative` de la constitution est le nombre prévu pour les pétitions référendaires prévues par :artref:`référendums` de la constitution.
 
 .. ---------------------------------------------------------------------------------------------------
 .. Relative à :artref:`contrôle de constitutionnalité en instance juridictionnelle` de la Constitution
@@ -208,12 +169,9 @@ Relative à :artref:`fonctionnement du Conseil constitutionnel` de la Constituti
 Article premier - conséquences du contrôle en instance législative
 ------------------------------------------------------------------
 
-Dans le cas où certaines des dispositions d'un texte seraient déclarées inconstitutionnelles, le
-texte n'est pas promulgué et il renvoyé à la dernière assemblée parlementaire à l'avoir considéré.
+Dans le cas où certaines des dispositions d'un texte seraient déclarées inconstitutionnelles, le texte n'est pas promulgué et il renvoyé à la dernière assemblée parlementaire à l'avoir considéré.
 
-Toutefois, dans le cas où le Parlement en exprimerait la décision avant son adoption, un texte
-pourra être promulgué dépourvu de ses dispositions inconstitutionnelles, après le contrôle du
-Conseil Constitutionnel, sans être renvoyé au Parlement.
+Toutefois, dans le cas où le Parlement en exprimerait la décision avant son adoption, un texte pourra être promulgué dépourvu de ses dispositions inconstitutionnelles, après le contrôle du Conseil Constitutionnel, sans être renvoyé au Parlement.
 
 .. -------------------------------------------------------------------------
 .. Relative à :artref:`l'autorité judiciaire` de la Constitution
