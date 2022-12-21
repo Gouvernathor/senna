@@ -272,7 +272,7 @@ De plus, une motion de censure à l'encontre du Chancelier n'est recevable au S�
 
 La loi organique peut fixer des conditions supplémentaires à la recevabilité d'une motion de censure à l'encontre d'un membre du gouvernement autre que le Chancelier.
 
-En dérogation aux conditions citées aux alinéas précédents, le Chancelier a la faculté de déposer une motion de censure recevable contre n'importe quel membre du gouvernement.
+En dérogation aux conditions citées aux alinéas précédents, le Chancelier a la faculté de déposer une motion de censure recevable contre n'importe quel membre du gouvernement, et chaque membre du gouvernement a la faculté de déposer une telle motion contre lui-même.
 
 Les motions de censure à l'encontre du Chancelier, y compris en application de l'alinéa précédent, ne sont recevables que lorsqu'il existe une pétition de gouvernement ayant la même priorité que celle du gouvernement en fonction, ou lorsque la motion de censure prévoit le nom d'un successeur pour la fonction de Chancelier. Dans ce dernier cas, ce nom doit recevoir l'approbation de la majorité des membres approuvant le gouvernement dans l'assemblée votant la motion, et en cas d'adoption de la motion ce nom remplace alors le Chancelier dans la pétition de gouvernement concernée.
 
