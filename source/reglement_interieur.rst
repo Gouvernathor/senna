@@ -125,13 +125,13 @@ IV. Admission des membres, invalidations et vacances
 
 .. article:: annonce de la composition
 
-À l’ouverture de la première séance de la législature, le président de séance transmet à l'assemblée la communication des noms des membres qui lui a été faite par les autorités de contrôle compétentes. Il en ordonne l'affichage immédiat et la publication au Journal Officiel.
+À l'ouverture de la première séance de la législature, le président de séance transmet à l'assemblée la communication des noms des membres qui lui a été faite par les autorités de contrôle compétentes. Il en ordonne l'affichage immédiat et la publication au Journal Officiel.
 
-Les modifications à la composition de l'assemblée, ainsi que les contestations à la nomination d'un membre, sont communiquées à l'assemblée à l’ouverture de la première séance qui suit, avec les noms des membres concernés.
+Les modifications à la composition de l'assemblée, ainsi que les contestations à la nomination d'un membre, sont communiquées à l'assemblée à l'ouverture de la première séance qui suit, avec les noms des membres concernés.
 
 .. article:: invalidation de votes
 
-En cas d’invalidation d'une élection ou nomination, toute initiative émise par le membre concerné depuis l'élection concernée est considérée comme caduque, à moins d’être reprise en l’état par un autre membre de l’assemblée dans un délai de huit jours à dater de la communication de l’invalidation à l’assemblée.
+En cas d'invalidation d'une élection ou nomination, toute initiative émise par le membre concerné depuis l'élection concernée est considérée comme caduque, à moins d'être reprise en l'état par un autre membre de l'assemblée dans un délai de huit jours à dater de la communication de l'invalidation à l'assemblée.
 
 Les votes auxquels des membres invalidés ont participé sont rectifiés, et si leur issue est susceptible de changer, ils sont portés à l'ordre du jour de l'assemblée, et leur application est suspendue.
 
@@ -187,7 +187,7 @@ Un nouveau président est élu dès l'annonce de la démission du président, qu
 
 .. article:: la présidence
 
-Outre l’exercice des pouvoirs qui lui sont conférés en vertu d’autres dispositions du présent règlement, le Président prononce l’ouverture et la clôture de chaque séance plénière de la session, dirige les discussions en séance plénière, assure l’application du présent règlement, donne la parole, met les questions aux voix et proclame les décisions. II statue sur les motions d’ordre et, sous réserve des dispositions du présent règlement, règle entièrement les débats à chaque séance et y assure le maintien de l’ordre.
+Outre l'exercice des pouvoirs qui lui sont conférés en vertu d'autres dispositions du présent règlement, le Président prononce l'ouverture et la clôture de chaque séance plénière de la session, dirige les discussions en séance plénière, assure l'application du présent règlement, donne la parole, met les questions aux voix et proclame les décisions. II statue sur les motions d'ordre et, sous réserve des dispositions du présent règlement, règle entièrement les débats à chaque séance et y assure le maintien de l'ordre.
 
 Le président, dans l'exercice de ses fonctions, demeure sous l'autorité de l'assemblée.
 
@@ -219,11 +219,11 @@ Une motion de destitution peut être présentée contre un questeur en suivant l
 
 .. article:: commission spéciale
 
-Au début de chaque session ordinaire et au moins une fois par an, l’assemblée nomme, à la représentation proportionnelle des forces en présence, une commission spéciale de quinze membres chargée de vérifier et d’apurer les comptes, qui élit un président en son sein. Ne peut être élu à la présidence qu’un député appartenant à un groupe s’étant déclaré d’opposition.
+Au début de chaque session ordinaire et au moins une fois par an, l'assemblée nomme, à la représentation proportionnelle des forces en présence, une commission spéciale de quinze membres chargée de vérifier et d'apurer les comptes, qui élit un président en son sein. Ne peut être élu à la présidence qu'un député appartenant à un groupe s'étant déclaré d'opposition.
 
-La commission donne quitus aux questeurs de leur gestion ou rend compte à l’Assemblée. À l’issue de chaque exercice, elle établit un rapport public.
+La commission donne quitus aux questeurs de leur gestion ou rend compte à l'Assemblée. À l'issue de chaque exercice, elle établit un rapport public.
 
-Les membres du Bureau étendu de l’assemblée ne peuvent faire partie de cette commission.
+Les membres du Bureau étendu de l'assemblée ne peuvent faire partie de cette commission.
 
 .. article:: personnel de l'assemblée
 
@@ -263,7 +263,7 @@ Le Bureau fait des recommandations à l'assemblée relativement à la date de cl
 
 Le Bureau détermine les conditions dans lesquelles des personnalités non-membres peuvent être admises à s'adresser à l'assemblée dans le cadre de ses séances.
 
-Le Bureau détermine l’organisation et le fonctionnement des services spécifiques de l’Assemblée, les modalités d’application, d’interprétation et d’exécution, par les différents services, des dispositions du présent règlement intérieur, ainsi que le statut du personnel et les rapports entre l’administration de l’assemblée et les organisations professionnelles du personnel.
+Le Bureau détermine l'organisation et le fonctionnement des services spécifiques de l'Assemblée, les modalités d'application, d'interprétation et d'exécution, par les différents services, des dispositions du présent règlement intérieur, ainsi que le statut du personnel et les rapports entre l'administration de l'assemblée et les organisations professionnelles du personnel.
 
 ---------------------------
 VII. Groupes parlementaires
@@ -297,11 +297,11 @@ Les autres groupes sont considérés comme groupes d'opposition.
 
 Les groupes parlementaires sont constitués sous forme d'association, présidée par le président du groupe et composée des membres du groupe et apparentés. Ils peuvent assurer leur service intérieur par un secrétariat administratif dont ils règlent eux-mêmes le recrutement et le mode de rétribution.
 
-Le statut, les conditions d’installation matérielle des secrétariats des groupes et les droits d’accès et de circulation de leur personnel dans l'enceinte des locaux de l'assemblée et en dépendant sont fixés par le Bureau de l’assemblée, en accordant un traitement égal à chaque groupe, sur proposition des questeurs.
+Le statut, les conditions d'installation matérielle des secrétariats des groupes et les droits d'accès et de circulation de leur personnel dans l'enceinte des locaux de l'assemblée et en dépendant sont fixés par le Bureau de l'assemblée, en accordant un traitement égal à chaque groupe, sur proposition des questeurs.
 
 .. article:: modifications de la composition des groupes
 
-Les modifications à la composition d’un groupe sont portées à la connaissance du Bureau restreint de l’assemblée sous la signature du membre intéressé s’il s’agit d’une démission, sous la signature du président du groupe s’il s’agit d’une radiation et sous la double signature du député et du président du groupe s’il s’agit d’une adhésion. Elles sont publiées au Journal officiel.
+Les modifications à la composition d'un groupe sont portées à la connaissance du Bureau restreint de l'assemblée sous la signature du membre intéressé s'il s'agit d'une démission, sous la signature du président du groupe s'il s'agit d'une radiation et sous la double signature du député et du président du groupe s'il s'agit d'une adhésion. Elles sont publiées au Journal officiel.
 
 .. article:: représentant de groupe
 
