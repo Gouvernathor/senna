@@ -484,6 +484,12 @@ Parmi des amendements identiques, seul est examiné celui d'entre eux déposé l
 
 Les amendements sont présentés par leur dépositaire, puis discutés en débat fixé à un orateur pour et un contre, sauf si le président de séance décide de les porter en débat par groupe.
 
+.. article:: questions au gouvernement
+
+Les questions au gouvernement sont posées en débat proportionnel. Cependant, les groupes minoritaires bénéficient d'un prorata deux fois supérieur au groupe majoritaire, et les groupes d'opposition d'un prorata trois fois supérieur.
+
+Chaque membre prend la parole pour une période n'excédant pas trois minutes. Le ou les membres du gouvernement concernés répondent à la question posée pendant une période n'excédant pas trois minutes, ou cinq minutes si le membre posant la question leur accorde. Le membre ayant posé la question peut utiliser le reste de son temps de parole pour répondre à la réponse du gouvernement.
+
 Votes
 =====
 
