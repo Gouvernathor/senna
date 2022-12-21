@@ -17,6 +17,10 @@ Les êtres humains naissent et demeurent libres et égaux en droits. Les distinc
 
 Chaque individu a le droit à l'indifférenciation vis-à-vis de son lieu de naissance, de vie ou de résidence, de ses idées, pensées ou opinions, et de toute qualité issue de sa naissance, découlant d'une telle qualité, ou dont il n'a pas le pouvoir de se défaire. L'autorité publique ne peut traiter différemment les individus selon ces critères.
 
+.. Aucun individu ne peut être sujet à un traitement spécifique ou différent de la part de l'autorité publique sur la base de caractéristiques innées ou indépendantes de sa volonté. Toute mesure prise par l'État ou les autorités publiques pour lutter contre la discrimination doit être adaptée au préjudice subi par l'individu qui en a été victime, et ne peut pas être appliquée à des groupes ou des collectivités sur la base de caractéristiques protégées par cet article.
+
+.. Cet article ne doit pas être interprété comme empêchant l'État ou les autorités publiques de prendre les mesures nécessaires pour lutter contre la discrimination fondée sur des caractéristiques qui ne sont pas innées ou indépendantes de la volonté de la personne, à condition que ces mesures soient raisonnables, proportionnelles et ne portent pas préjudice de manière disproportionnée à des individus ou des groupes qui ne sont pas responsables de la discrimination en question. Ces caractéristiques peuvent inclure, sans y être limitées, le handicap ou le statut socioéconomique.
+
 .. article:: unité de la souveraineté
 
 Le principe de toute souveraineté réside par essence dans la nation. Nul corps, nul individu ne peut exercer d'autorité qui n'en émane expressément.

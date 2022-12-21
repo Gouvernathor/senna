@@ -14,10 +14,9 @@ Règlement intérieur du Parlement
     Ce règlement n'est pas tant inspiré du règlement de l'Assemblée Nationale française, que de celui de l'Assemblée Générale des Nations Unies - plus délibératif et moins autoritaire.
 
 .. NOTES
-    chercher toutes les mentions d'assemblée générale
-
     les approbations de pétitions de gouvernement viennent au Bureau
     vérifier la signature du citoyen dénommé chancelier
+    gestion de la nomination du gouvernement
 
     chapitre VI et VII du règlement actuel de l'assnat à mettre dans le nouveau titre XV, élections par l'assemblée
 
@@ -34,24 +33,41 @@ Règlement intérieur du Parlement
     chaque membre n'est membre que d'une seule grande commission
     ajouter une commission plénière (committee of the whole) : son président est le premier des vice-présidents de l'assemblée, et ses vice-présidents sont les vice-présidents suivants de l'assemblée
 
-    questions au gouvernement ?
-    vérifier que la parole est bien distribuée à la proportionnelle pendant les QAG
-
     ajouter une partie sur le parcours d'un texte, comment il part en commission et revient et tout
     article 78 du docs
     les lois retoquées par le conseil constit reviennent à la dernière assemblée
-    référendum lors de l'adoption sans le sénat
-
-    idem pour la CMP
 
     convocation et odj des sessions extraordinaires
 
-    discipline
+    discipline et sanctions
 
     rapporteur d'un texte
 
+    trucs prévus par la constitution
+    suspension de mesures privatives de liberté (par l'assemblée)
+    réunion en congrès - dépot de la motion de réunion, vote dessus, suspension de l'examen d'un texte passé en motion de réunion
+    résolutions
+    considération de rejet par l'autre assemblée (placée en odj par le bureau, débat + vote de l'assemblée suivi de l'examen immédiat du texte)
+    adoption sans le sénat (présumée sauf si 1] la majo qualifiée n'est pas atteinte ou 2] l'assemblée vote que non avant le vote sur le texte, possibilité aussi de déférer en référendum par l'assnat ce qui est aussi décidé avant le vote sur le texte)
+    référendums (se fait par l'adoption par le parlement d'une loi référendaire faisant référence à un texte verbatim ? avec les dérogations de délais incluses dans la loi)
+    rétractation du référendum assnat si censure partielle par le conseil constit (automatique si censure totale)
+    amendement de la déclaration de politique publique du gouvernement
     motions de censure
-    autres trucs prévus par la constitution
+    remplacement d'un remplacement au gouvernement (par une assemblée où le gvt est majo, peut être inclus dans une motion de censure mais ne s'y limite pas)
+    autorisation de guerre ou intervention armée (simple vote sans amendement)
+    débat suite à déclaration du gvt
+    approbation de traités, procédure spécifique ? (vote sans amendements ?)
+    désignation des membres de la commission spéciale pour la nomination du conseil constitutionnel
+    désignation des juges de la CJR
+    nomination du défenseur des droits
+
+    (par le bureau)
+    levée de l'immunité parlementaire
+    activation de la CMP
+
+    validation des nominations du président par une commission (conseil constit, CSM)
+
+    au sein du congrès, vote spécifique aux membres d'une assemblée valant vote de l'assemblée en question (pour contourner le délai de ratification plus long)
 
 -----------
 I. Sessions
