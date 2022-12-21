@@ -255,7 +255,7 @@ Dans le cas d'une absence pendant une séance du Bureau, du Bureau étendu ou de
 
 Lorsque le président d'une commission s'absente du Bureau étendu, le remplaçant est désigné parmi les vice-présidents de la commission.
 
-Les présidents de groupes parlementaires votent au prorata du nombre de membres de leur groupe respectif, retranché du nombre de membres du groupe déjà présents.
+En application de :artref:`présidence et bureau des assemblées` de la Constitution, les présidents de groupes parlementaires votent au prorata du nombre de membres de leur groupe respectif, retranché du nombre de membres du groupe déjà présents.
 
 .. article::
 

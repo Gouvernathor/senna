@@ -84,7 +84,7 @@ Le règlement intérieur des assemblées parlementaires prévoit les conditions 
 
 Chaque assemblée élit un Président après son renouvellement, partiel ou total.
 
-Le Bureau de chaque assemblée est élu de manière proportionnelle en même temps que son président.
+Le Bureau de chaque assemblée est élu en même temps que son président et de manière à assurer la représentation proportionnelle des membres de l'assemblée.
 
 Un renouvellement du président ou du Bureau peut avoir lieu dans des conditions prévues par le règlement intérieur de l'assemblée concernée, ou par la loi.
 
