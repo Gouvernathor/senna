@@ -105,6 +105,8 @@ L'ordre du jour peut être modifié par une décision de l'assemblée prise à l
 
 Un texte prévu dans une motion de réunion pour examen par le Congrès ne peut être inscrit à l'ordre du jour pendant la durée de la réunion du Parlement en Congrès.
 
+Un texte porté en référendum est retiré de l'ordre du jour de l'assemblée.
+
 .. article:: (AN) retrait de référendum
 
 Après une décision du Conseil Constitutionnel portant non-conformité partielle d'un texte proposé en référendum conformément à :artref:`(AN) adoption sans le Sénat`, une motion portant retrait du référendum est placée d'office dans l'ordre du jour en priorité.
