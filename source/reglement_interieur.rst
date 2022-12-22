@@ -276,15 +276,15 @@ Le Bureau détermine l'organisation et le fonctionnement des services spécifiqu
 
 .. article:: motion de réunion
 
-Une motion visant à réunir le Parlement en Congrès est déposée par un ou plusieurs représentants de groupes parlementaires dont l'effectif représente au moins un cinquième des membres de l'assemblée.
+Une motion visant à réunir le Parlement en Congrès est déposée auprès du Bureau. Pour être recevable, elle doit être soutenue par un ou plusieurs groupes parlementaires dont l'effectif représente au moins un cinquième des membres de l'assemblée.
 
-Chaque groupe parlementaire place de droit une motion de réunion valide par session en priorité dans l'ordre du jour.
+Chaque groupe parlementaire place de droit une motion de réunion recevable par session en priorité dans l'ordre du jour.
 
-La motion est considérée en séance plénière comme une proposition de loi, puis transmise à l'autre assemblée.
+La motion est considérée en séance plénière de la même manière qu'une proposition de loi, puis transmise à l'autre assemblée.
 
 En cas d'accord, le Bureau restreint prononce la réunion du Parlement en Congrès dans les modalités prévues par la Constitution, par la motion et par le réglement du Congrès.
 
-Une motion d'amendement d'une motion de réunion est déposée dans les mêmes conditions qu'une motion de réunion. Elle est inscrite à l'ordre du jour en priorité.
+Une motion d'amendement d'une motion de réunion est inscrite à l'ordre du jour en priorité. Elle est déposée, discutée et adoptée de la même manière qu'une motion de réunion.
 
 .. article:: résolutions
 
@@ -652,4 +652,4 @@ XVIII. Amendement du règlement
 
 .. article:: amendement du règlement
 
-Le présent règlement peut être amendé par décision de l'assemblée, à la majorité des membres présents et votants, après rapport d'une commission sur l'amendement proposé.
+Le présent règlement peut être amendé par décision de l'assemblée, à la majorité de ses membres, après rapport d'une commission sur l'amendement proposé.
