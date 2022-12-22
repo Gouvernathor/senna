@@ -100,9 +100,14 @@ Les délais des alinéas précédents peuvent être réduits de moitié sur déc
 .. Relative à :artref:`lois de finances et de financement de la sécurité sociale` de la Constitution
 .. -------------------------------------------------------------------------------------------------
 
-.. -------------------------------------------------------------------------
-.. Relative à :artref:`référendums` de la Constitution
-.. -------------------------------------------------------------------------
+-------------------------------------------------------------------------
+Relative à :artref:`référendums` de la Constitution
+-------------------------------------------------------------------------
+
+Article unique - modalités de convocation
+-----------------------------------------
+
+Un référendum est convoqué par le Parlement par une loi référendaire incluant le texte sur lequel le référendum porte, et les éventuelles dérogations de délais concernant sa tenue.
 
 -------------------------------------------------------------------------
 Relative à :artref:`nomination du gouvernement` de la Constitution

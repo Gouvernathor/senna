@@ -43,29 +43,22 @@ Règlement intérieur du Parlement
 
     rapporteur d'un texte
 
-    trucs prévus par la constitution
-    suspension de mesures privatives de liberté (par l'assemblée)
-    réunion en congrès - dépot de la motion de réunion, vote dessus, suspension de l'examen d'un texte passé en motion de réunion
-    résolutions
-    considération de rejet par l'autre assemblée (placée en odj par le bureau, débat + vote de l'assemblée suivi de l'examen immédiat du texte)
-    adoption sans le sénat (présumée sauf si 1] la majo qualifiée n'est pas atteinte ou 2] l'assemblée vote que non avant le vote sur le texte, possibilité aussi de déférer en référendum par l'assnat ce qui est aussi décidé avant le vote sur le texte)
-    référendums (se fait par l'adoption par le parlement d'une loi référendaire faisant référence à un texte verbatim ? avec les dérogations de délais incluses dans la loi)
-    rétractation du référendum assnat si censure partielle par le conseil constit (automatique si censure totale)
-    amendement de la déclaration de politique publique du gouvernement
-    motions de censure
-    remplacement d'un remplacement au gouvernement (par une assemblée où le gvt est majo, peut être inclus dans une motion de censure mais ne s'y limite pas)
-    autorisation de guerre ou intervention armée (simple vote sans amendement)
-    débat suite à déclaration du gvt
-    approbation de traités, procédure spécifique ? (vote sans amendements ?)
-    désignation des membres de la commission spéciale pour la nomination du conseil constitutionnel
-    désignation des juges de la CJR
-    nomination du défenseur des droits
+    trucs prévus par la constitution :
+        amendement de la déclaration de politique publique du gouvernement
+        motions de censure
+        remplacement d'un remplacement au gouvernement (par une assemblée où le gvt est majo, peut être inclus dans une motion de censure mais ne s'y limite pas)
+        autorisation de guerre ou intervention armée (simple vote sans amendement)
+        débat suite à déclaration du gvt
+        approbation de traités, procédure spécifique ? (vote sans amendements ?)
+        désignation des membres de la commission spéciale pour la nomination du conseil constitutionnel
+        désignation des juges de la CJR
+        nomination du défenseur des droits
 
-    (par le bureau)
-    levée de l'immunité parlementaire
-    activation de la CMP
+        (par le bureau)
+        levée de l'immunité parlementaire
+        activation de la CMP
 
-    validation des nominations du président par une commission (conseil constit, CSM)
+        validation des nominations du président par une commission (conseil constit, CSM)
 
     au sein du congrès, vote spécifique aux membres d'une assemblée valant vote de l'assemblée en question (pour contourner le délai de ratification plus long)
 
@@ -107,6 +100,16 @@ L'ordre du jour est fixé, dans le respect des contraintes prévues par la const
 Un ordre du jour provisoire est prévu et communiqué aux membres de l'assemblée avec quatre semaines calendaires d'avance, et ses modifications sont communiquées le plus tôt possible aux membres de l'assemblée.
 
 L'ordre du jour peut être modifié par une décision de l'assemblée prise à la majorité des membres présents et votants. Cependant, les points cités par :artref:`ordre du jour des assemblées` de la constitution comme étant prioritaires ne peuvent être que temporairement remis à un examen ultérieur.
+
+.. article:: suspensions de textes de l'ordre du jour
+
+Un texte prévu dans une motion de réunion pour examen par le Congrès ne peut être inscrit à l'ordre du jour pendant la durée de la réunion du Parlement en Congrès.
+
+.. article:: (AN) retrait de référendum
+
+Après une décision du Conseil Constitutionnel portant non-conformité partielle d'un texte proposé en référendum conformément à :artref:`(AN) adoption sans le Sénat`, une motion portant retrait du référendum est placée d'office dans l'ordre du jour en priorité.
+
+En cas de non-conformité totale, le référendum est considéré d'office comme retiré par l'Assemblée Nationale.
 
 Sessions ordinaires
 ===================
@@ -281,11 +284,29 @@ Le Bureau détermine les conditions dans lesquelles des personnalités non-membr
 
 Le Bureau détermine l'organisation et le fonctionnement des services spécifiques de l'Assemblée, les modalités d'application, d'interprétation et d'exécution, par les différents services, des dispositions du présent règlement intérieur, ainsi que le statut du personnel et les rapports entre l'administration de l'assemblée et les organisations professionnelles du personnel.
 
+.. article:: motion de réunion
+
+Une motion visant à réunir le Parlement en Congrès est déposée par un ou plusieurs représentants de groupes parlementaires dont l'effectif représente au moins un cinquième des membres de l'assemblée.
+
+Chaque groupe parlementaire place de droit une motion de réunion valide par session en priorité dans l'ordre du jour.
+
+La motion est considérée en séance plénière comme une proposition de loi, puis transmise à l'autre assemblée.
+
+En cas d'accord, le Bureau restreint prononce la réunion du Parlement en Congrès dans les modalités prévues par la Constitution, par la motion et par le réglement du Congrès.
+
+Une motion d'amendement d'une motion de réunion est déposée dans les mêmes conditions qu'une motion de réunion. Elle est inscrite à l'ordre du jour en priorité.
+
+.. article:: résolutions
+
+Une résolution est déposée et discutée de la même manière qu'une proposition de loi.
+
+(AN, S) Une résolution est adoptée par l'assemblée seule, sauf si il s'agit d'une proposition de résolution conjointe, auquel cas elle est transmise à l'autre assemblée.
+
 ---------------------------
 VII. Groupes parlementaires
 ---------------------------
 
-.. article:: creation des groupes parlementaires
+.. article:: (AN, S) creation des groupes parlementaires
 
 AN : Les députés peuvent se grouper par affinité politique. Aucun groupe ne peut comprendre moins de 10 députés. Chaque député ne peut faire partie que d'un seul groupe.
 
@@ -448,7 +469,7 @@ Deux motions de pré-adoption ne peuvent être adoptées sur le même texte. Une
 
 L'assemblée peut soumettre un texte à une commission par une motion de délégation.
 
-Cette motion est identique à une :artref:`motion de pré-adoption <pré-adoption et clôture>`, à ceci près que le texte et déféré à la commission et n'est plus discutable par l'assemblée.
+Cette motion est identique à une :artref:`motion de pré-adoption <pré-adoption et clôture>`, à ceci près que le texte est déféré à la commission et n'est plus discutable par l'assemblée.
 
 .. article:: suspension ou ajournement de séance
 
@@ -471,6 +492,22 @@ Les motions suivantes ont priorité, dans l'ordre indiqué, sur toutes les autre
 #. modification de l'ordre du jour ;
 #. clôture de la liste des orateurs ;
 #. pré-adoption.
+
+.. article:: suspension des poursuites et des mesures privatives de liberté
+
+Un membre de l'assemblée peut déposer une motion visant à suspendre les poursuites et mesures privatives de liberté contre sa personne. Un représentant de groupe parlementaire peut déposer une motion semblable concernant un ou plusieurs membres, ou une motion visant à lever une telle suspension. Le Bureau étendu peut prévoir à l'ordre du jour l'examen de telles motions de suspension ou de levée de suspension envers un ou plusieurs membres.
+
+La motion est discutée par un maximum de deux orateurs pour et deux contre, puis est mise aux voix.
+
+L'examen d'une telle motion ne peut se faire si une motion contre le même membre a déjà été examinée dans les trente jours calendaires précédents.
+
+.. article:: (AN, S) refus d'office
+
+Si l'autre assemblée ne s'est pas prononcée sur un texte qui lui a été transmis, après l'expiration du délai fixé par la loi organique prévue à :artref:`navette parlementaire et CMP` de la Constitution, le texte peut être placé à l'ordre du jour de l'assemblée.
+
+Avant sa considération, l'assemblée vote sur une motion de considération du texte comme rejeté d'office par l'autre assemblée. En cas d'adoption de cette motion, l'autre assemblée en est déssaisie, et le texte tel qu'amendé par l'autre assemblée est immédiatement examiné par l'assemblée. En cas de rejet de la motion, l'examen du texte est retiré de l'ordre du jour de l'assemblée.
+
+La motion est discutée avant d'être mise aux voix.
 
 .. article:: nouvel examen
 
@@ -571,11 +608,23 @@ Si aucun candidat n'obtient la majorité absolue ou requise au premier tour, un 
 
 Si plusieurs candidats arrivent à égalité, ils sont départagés au scrutin à choix unique.
 
+.. article:: (AN) adoption sans le Sénat
+
+Lorsque les conditions prévues à :artref:`adoption sans le Sénat` de la Constitution sont réunies, le vote sur l'ensemble d'un texte a lieu dans les conditions suivantes.
+
+Si le texte est approuvé par la majorité qualifiée prévue au même article de la Constitution, il est considéré comme adopté par le Parlement. Dans le cas contraire, il est transmis au Sénat après adoption ou rejet par l'Assemblée nationale.
+
+Une motion visant à changer les dispositions de l'alinéa précédent concernant le texte en discussion est déposée avant le vote sur l'ensemble du texte. Elle ne peut contrevenir aux dispositions de la Constitution. Elle peut prévoir que le texte soit soumis en référendum, ou que le texte ne soit pas considéré comme adopté par le Parlement si la majorité qualifiée est atteinte.
+
+Une seule de ces motions, ou aucune, peut être adoptée.
+
 -----------------
 XIII. Commissions
 -----------------
 
 .. (...)
+
+.. inclure CMP en tant que sous-partie - déclenchement, fonctionnement et conséquences en séance plénière
 
 ------------------------------
 XVIII. Amendement du règlement

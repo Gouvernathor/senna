@@ -202,7 +202,7 @@ Aucune procédure de révision ne peut être engagée ou poursuivie lorsqu'il es
 
 .. article:: référendums
 
-Le Parlement, ou une pétition rassemblant trois centièmes des citoyens, ont la faculté de déclencher un référendum, afin de soumettre un texte législatif à l'approbation du peuple ou de lui poser une question sans valeur législative. Toutefois, dans le cadre prévu par :artref:`adoption sans le Sénat`, l'Assemblée Nationale a la faculté de le déclencher seule. Une loi organique peut établir d'autres circonstances de déclenchement d'un référendum.
+Le Parlement, ou une pétition rassemblant trois centièmes des citoyens, ont la faculté de déclencher un référendum, afin de soumettre un texte législatif à l'approbation du peuple ou de lui poser une question sans valeur législative. Toutefois, dans le cadre prévu par :artref:`adoption sans le Sénat`, l'Assemblée Nationale a la faculté de le déclencher seule. Une loi organique en prévoit les modalités et peut établir d'autres circonstances de déclenchement d'un référendum.
 
 Le vote doit avoir lieu dans les trois mois suivant le déclenchement du référendum, sauf par dérogation du Parlement dans le cas où le référendum n'est pas d'origine populaire. L'administration est responsable de sa tenue.
 
