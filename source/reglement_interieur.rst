@@ -101,18 +101,6 @@ Un ordre du jour provisoire est prévu et communiqué aux membres de l'assemblé
 
 L'ordre du jour peut être modifié par une décision de l'assemblée prise à la majorité des membres présents et votants. Cependant, les points cités par :artref:`ordre du jour des assemblées` de la constitution comme étant prioritaires ne peuvent être que temporairement remis à un examen ultérieur.
 
-.. article:: suspensions de textes de l'ordre du jour
-
-Un texte prévu dans une motion de réunion pour examen par le Congrès ne peut être inscrit à l'ordre du jour pendant la durée de la réunion du Parlement en Congrès.
-
-Un texte porté en référendum est retiré de l'ordre du jour de l'assemblée.
-
-.. article:: (AN) retrait de référendum
-
-Après une décision du Conseil Constitutionnel portant non-conformité partielle d'un texte proposé en référendum conformément à :artref:`(AN) adoption sans le Sénat`, une motion portant retrait du référendum est placée d'office dans l'ordre du jour en priorité.
-
-En cas de non-conformité totale, le référendum est considéré d'office comme retiré par l'Assemblée Nationale.
-
 Sessions ordinaires
 ===================
 
@@ -503,14 +491,6 @@ La motion est discutée par un maximum de deux orateurs pour et deux contre, pui
 
 L'examen d'une telle motion ne peut se faire si une motion contre le même membre a déjà été examinée dans les trente jours calendaires précédents.
 
-.. article:: (AN, S) refus d'office
-
-Si l'autre assemblée ne s'est pas prononcée sur un texte qui lui a été transmis, après l'expiration du délai fixé par la loi organique prévue à :artref:`navette parlementaire et CMP` de la Constitution, le texte peut être placé à l'ordre du jour de l'assemblée.
-
-Avant sa considération, l'assemblée vote sur une motion de considération du texte comme rejeté d'office par l'autre assemblée. En cas d'adoption de cette motion, l'autre assemblée en est déssaisie, et le texte tel qu'amendé par l'autre assemblée est immédiatement examiné par l'assemblée. En cas de rejet de la motion, l'examen du texte est retiré de l'ordre du jour de l'assemblée.
-
-La motion est discutée avant d'être mise aux voix.
-
 .. article:: nouvel examen
 
 Avant un vote final sur un texte ou une partie d'un texte, une motion peut être déposée afin d'examiner à nouveau le texte et de nouveaux amendements y étant déposés. La motion peut inclure le report de ce nouvel examen à une séance future.
@@ -610,23 +590,61 @@ Si aucun candidat n'obtient la majorité absolue ou requise au premier tour, un 
 
 Si plusieurs candidats arrivent à égalité, ils sont départagés au scrutin à choix unique.
 
-.. article:: (AN) adoption sans le Sénat
-
-Lorsque les conditions prévues à :artref:`adoption sans le Sénat` de la Constitution sont réunies, le vote sur l'ensemble d'un texte a lieu dans les conditions suivantes.
-
-Si le texte est approuvé par la majorité qualifiée prévue au même article de la Constitution, il est considéré comme adopté par le Parlement. Dans le cas contraire, il est transmis au Sénat après adoption ou rejet par l'Assemblée nationale.
-
-Une motion visant à changer les dispositions de l'alinéa précédent concernant le texte en discussion est déposée avant le vote sur l'ensemble du texte. Elle ne peut contrevenir aux dispositions de la Constitution. Elle peut prévoir que le texte soit soumis en référendum, ou que le texte ne soit pas considéré comme adopté par le Parlement si la majorité qualifiée est atteinte.
-
-Une seule de ces motions, ou aucune, peut être adoptée.
-
 -----------------
 XIII. Commissions
 -----------------
 
 .. (...)
 
+.. le rapporteur d'une proposition de loi assiste de droit (et +), mais sans droit de vote, aux séances portant sur la proposition de loi d'une commission dont il n'est pas membre
+
 .. inclure CMP en tant que sous-partie - déclenchement, fonctionnement et conséquences en séance plénière
+
+-------------------------
+XIV. Processus législatif
+-------------------------
+
+.. article:: propositions de loi
+
+Les propositions de loi sont déposées par les membres de l'assemblée ou transmises depuis l'autre assemblée.
+
+Le Bureau étendu saisit une commission pour chaque proposition. D'autres commissions peuvent être saisies de parties de la proposition par la commission saisie au fond ou par le Bureau étendu.
+
+Un rapporteur de la loi est désigné parmi les signataires de la proposition de loi, en considérant par priorité l'appartenance des signataires au groupe politique du premier signataire du projet de loi, puis l'appartenance à la commission saisie au fond.
+
+La commission saisie au fond est déssaisie de la proposition de loi lorsqu'elle termine son examen, ou sur décision du Bureau étendu ou de l'assemblée.
+
+.. article:: suspensions de textes de l'ordre du jour
+
+Un texte prévu dans une motion de réunion pour examen par le Congrès ne peut être inscrit à l'ordre du jour pendant la durée de la réunion du Parlement en Congrès.
+
+Un texte porté en référendum est retiré de l'ordre du jour de l'assemblée.
+
+.. article:: (AN, S) refus d'office
+
+Si l'autre assemblée ne s'est pas prononcée sur un texte qui lui a été transmis, après l'expiration du délai fixé par la loi organique prévue à :artref:`navette parlementaire et CMP` de la Constitution, le texte peut être placé à l'ordre du jour de l'assemblée.
+
+Avant sa considération, l'assemblée vote sur la considération du texte comme rejeté d'office par l'autre assemblée. En cas d'approbation, l'autre assemblée en est déssaisie, et le texte tel qu'amendé par l'autre assemblée est immédiatement examiné par l'assemblée. En cas de rejet, l'examen du texte est retiré de l'ordre du jour de l'assemblée.
+
+.. article:: (AN, S) adoption sans l'autre assemblée
+
+Lorsque les conditions prévues à :artref:`adoption par une seule assemblée` de la Constitution sont réunies, le vote sur l'ensemble d'un texte a lieu dans les conditions suivantes.
+
+Si le texte est approuvé par la majorité qualifiée prévue au même article de la Constitution, il est considéré comme adopté par le Parlement. Dans le cas contraire, il est transmis à l'autre assemblée avec adoption ou rejet à la majorité simple par l'assemblée.
+
+Une motion visant à changer les dispositions de l'alinéa précédent concernant le texte en discussion peut être déposée avant le vote sur l'ensemble du texte. Elle ne peut contrevenir à la Constitution. Elle peut prévoir que le texte ne soit pas considéré comme adopté par le Parlement même si la majorité qualifiée est atteinte.
+
+(AN) Une telle motion peut prévoir que le texte soit soumis en référendum.
+
+Au plus une de ces motions peut être adoptée. Le vote se fait par approbation.
+
+.. article:: (AN) retrait de référendum
+
+Après une décision du Conseil Constitutionnel portant non-conformité partielle d'un texte proposé en référendum conformément à :artref:`(AN, S) adoption sans l'autre assemblée`, une motion portant retrait du référendum est placée d'office en priorité dans l'ordre du jour de la séance suivante.
+
+En cas de non-conformité totale, le référendum est considéré d'office comme retiré par l'Assemblée Nationale.
+
+En cas de retrait, l'Assemblée Nationale est à nouveau saisie du texte à l'étape du vote sur l'ensemble du texte tel que décrit à :artref:`(AN, S) adoption sans l'autre assemblée`.
 
 ------------------------------
 XVIII. Amendement du règlement

@@ -148,17 +148,21 @@ Lorsque, par suite d'un désaccord entre les deux Assemblées, un projet ou une 
 
 Le texte élaboré par la commission mixte est soumis pour approbation aux deux Assemblées.
 
-.. article:: adoption sans le Sénat
+.. article:: adoption par une seule assemblée
 
-Si la commission mixte paritaire ne parvient pas à l'adoption d'un texte commun ou si ce texte n'est pas adopté, la procédure prévue à :artref:`navette parlementaire et CMP` se poursuit.
+Si la commission mixte paritaire ne parvient pas à l'adoption d'un texte commun ou si ce texte n'est pas adopté, la procédure prévue à :artref:`navette parlementaire et CMP` se poursuit en saisissant du texte l'assemblée l'ayant considéré en premier.
 
 Cependant, après une nouvelle lecture par l'Assemblée nationale et par le Sénat, l'Assemblée nationale peut statuer définitivement à la majorité des trois cinquièmes de ses membres, ou porter le texte à l'approbation du peuple par référendum. En ce cas, l'Assemblée nationale peut reprendre soit le texte élaboré par la commission mixte paritaire, soit le dernier texte voté par elle, modifié le cas échéant par un ou plusieurs des amendements adoptés par le Sénat.
+
+.. Dans le cas d'une loi de finances, la majorité qualifiée prévue à l'alinéa précédent n'est pas requise pour que l'Assemblée nationale statue définitivement.
+
+Dans le cas d'une loi de financement de la sécurité sociale, après une nouvelle lecture par l'Assemblée nationale et le Sénat, le Sénat peut statuer définitivement. En ce cas, le Sénat peut reprendre soit le texte élaboré par la commission mixte paritaire, soit le dernier texte voté par lui, modifié le cas échéant par un ou plusieurs des amendements adoptés par l'Assemblée nationale.
 
 .. article:: lois organiques
 
 Les lois auxquelles la Constitution confère le caractère de loi organique sont votées et modifiées dans les conditions suivantes.
 
-La procédure des articles :artnumref:`réunion en Congrès`, :artnumref:`navette parlementaire et CMP` et :artnumref:`adoption sans le Sénat` est applicable. Toutefois, faute d'accord entre les deux Assemblées, le texte ne peut être adopté par l'Assemblée nationale en dernière lecture qu'à la majorité des trois quarts de ses membres.
+La procédure des articles :artnumref:`réunion en Congrès`, :artnumref:`navette parlementaire et CMP` et :artnumref:`adoption par une seule assemblée` est applicable. Toutefois, faute d'accord entre les deux Assemblées, le texte ne peut être adopté par l'Assemblée nationale en dernière lecture qu'à la majorité des trois quarts de ses membres.
 
 Les lois organiques relatives, au moins en partie, au Sénat, ou susceptibles d'altérer l'équilibre des pouvoirs entre les assemblées, doivent être votées dans les mêmes termes par les deux assemblées, sauf en cas d'adoption par référendum.
 
@@ -166,11 +170,9 @@ Les lois organiques ne peuvent être promulguées qu'après déclaration par le 
 
 .. article:: lois de finances et de financement de la sécurité sociale
 
+Les propositions lois de finances sont examinées en premier lieu à l'Assemblée nationale, et les propositions de lois de financement de la sécurité sociale au Sénat.
+
 Le Parlement vote les propositions de loi de finances et de loi de financement de la sécurité sociale dans les conditions prévues par une loi organique.
-
-Si l'Assemblée nationale ne s'est pas prononcée en première lecture dans un délai de quarante jours après le dépôt d'une proposition, le Sénat en est saisi et doit statuer dans un délai de quinze jours. Il est ensuite procédé dans les conditions prévues à :artref:`navette parlementaire et CMP`.
-
-Les délais prévus au présent article peuvent être réduits par la loi organique.
 
 .. article:: ordre du jour des assemblées
 
@@ -202,7 +204,7 @@ Aucune procédure de révision ne peut être engagée ou poursuivie lorsqu'il es
 
 .. article:: référendums
 
-Le Parlement, ou une pétition rassemblant trois centièmes des citoyens, ont la faculté de déclencher un référendum, afin de soumettre un texte législatif à l'approbation du peuple ou de lui poser une question sans valeur législative. Toutefois, dans le cadre prévu par :artref:`adoption sans le Sénat`, l'Assemblée Nationale a la faculté de le déclencher seule. Une loi organique en prévoit les modalités et peut établir d'autres circonstances de déclenchement d'un référendum.
+Le Parlement, ou une pétition rassemblant trois centièmes des citoyens, ont la faculté de déclencher un référendum, afin de soumettre un texte législatif à l'approbation du peuple ou de lui poser une question sans valeur législative. Toutefois, dans le cadre prévu par :artref:`adoption par une seule assemblée`, l'Assemblée Nationale a la faculté de le déclencher seule. Une loi organique en prévoit les modalités et peut établir d'autres circonstances de déclenchement d'un référendum.
 
 Le vote doit avoir lieu dans les trois mois suivant le déclenchement du référendum, sauf par dérogation du Parlement dans le cas où le référendum n'est pas d'origine populaire. L'administration est responsable de sa tenue.
 

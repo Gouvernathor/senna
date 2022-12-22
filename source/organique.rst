@@ -96,9 +96,23 @@ Les délais des alinéas précédents sont réduits de moitié dans le cas de lo
 
 Les délais des alinéas précédents peuvent être réduits de moitié sur décision de la majorité des membres d'une assemblée lors de sa première lecture du texte.
 
-.. -------------------------------------------------------------------------------------------------
-.. Relative à :artref:`lois de finances et de financement de la sécurité sociale` de la Constitution
-.. -------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+Relative à :artref:`lois de finances et de financement de la sécurité sociale` de la Constitution
+-------------------------------------------------------------------------------------------------
+
+Article premier - délais d'adoption
+-----------------------------------
+Une loi de finances et une loi de financement de la sécurité sociale doit être adoptée pour chaque année civile.
+
+Dans le cas où la loi de finances ne serait pas adoptée au moins quinze jours calendaires avant le début de l'année civile, le gouvernement dispose par pouvoir réglementaire en matière financière pour l'année civile concernée, jusqu'à adoption d'une telle loi.
+
+Dans le cas où la loi de financement de la sécurité sociale ne serait pas adoptée au moins un mois calendaire avant le début de l'année civile, les organismes de sécurité sociale disposent par voie réglementaire en matière de financement de la sécurité sociale pour l'année civile concernée, jusqu'à adoption d'une telle loi.
+
+La loi de finances ou de financement de la sécurité sociale peut être amendée par le Parlement au cours de l'année sur laquelle elle porte.
+
+Article 2 - navette accélérée
+-----------------------------
+À chaque lecture, lorsqu'une assemblée saisie d'une proposition de loi de finances ou de financement de la sécurité sociale ne s'est pas prononcée après une durée inférieure à la moitié du temps restant avant la fin de l'année civile mais au moins égale à quatre jours de séance, le texte tel qu'amendé est transmis à l'autre assemblée.
 
 -------------------------------------------------------------------------
 Relative à :artref:`référendums` de la Constitution
@@ -106,7 +120,6 @@ Relative à :artref:`référendums` de la Constitution
 
 Article unique - modalités de convocation
 -----------------------------------------
-
 Un référendum est convoqué par le Parlement par une loi référendaire incluant le texte sur lequel le référendum porte, et les éventuelles dérogations de délais concernant sa tenue.
 
 -------------------------------------------------------------------------
