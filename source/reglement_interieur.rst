@@ -689,17 +689,27 @@ Est ensuite ouverte la période des questions au gouvernement, décrite par :art
 
 Après la période allouée aux questions au gouvernement, l'assemblée présente des instructions au gouvernement. Une proposition d'instruction est présentée par son rapporteur puis débattue en débat fixé à deux orateurs pour et deux contre au maximum. Le nombre de propositions présentées est limité mais réparti entre les groupes parlementaires proportionnellement à leur nombre de membres. Chaque proposition est ensuite mise aux voix. Le gouvernement est chargé de l'exécution de chacune des instructions adoptées. En cas de contradiction, l'instruction recevant la plus forte approbation l'emporte.
 
-.. article:: déclaration demandée par le gvt
+.. article:: déclaration du gouvernement
 
-Une demande de déclaration du gouvernement par un groupe parlementaire au sens de :artref:`déclaration du gouvernement` se fait de droit une fois par mois calendaire, et une fois par an pour chaque groupe. Une demande de déclaration de la part du Chancelier se fait de droit une fois par mois calendaire. Toute autre demande de déclaration est soumise à l'accord du Bureau.
+Une demande de déclaration du gouvernement par un groupe parlementaire au sens de :artref:`déclaration du gouvernement` de la Constitution se fait de droit une fois par mois calendaire, et une fois par an pour chaque groupe. Une demande de déclaration de la part du Chancelier se fait de droit une fois par mois calendaire. Toute autre demande de déclaration est soumise à l'accord du Bureau.
 
 Toute demande de déclaration est liée à un sujet déterminé.
+
+La déclaration est placée dans l'ordre du jour en priorité dans les sept jours calendaires qui suivent.
 
 Les membres du gouvernement disposent d'une durée maximale d'une heure pour présenter leur déclaration.
 
 Le débat qui suit se fait de manière proportionnelle. Il peut être clos par des membres du gouvernement, pour une réponse de même durée maximale que lors du débat.
 
-.. amendement de la déclaration de politique générale du gouvernement
+.. article:: amendement de déclaration de politique publique
+
+Le Chancelier de la République saisit le Bureau restreint de l'assemblée au nom de laquelle le gouvernement est investi d'un amendement à la déclaration de politique publique liée à la pétition du gouvernement. Le Bureau le place à l'ordre du jour en priorité dans les sept jours calendaires qui suivent.
+
+L'amendement est présenté par le Chancelier de la République. Il est discuté en débat proportionnel. Le Chancelier dispose de cinq fois le temps accordé à chaque orateur durant le débat, qui est d'au moins deux minutes.
+
+Il est voté à la majorité simple.
+
+(AN) Dans le cas où le gouvernement n'est pas majoritaire à l'Assemblée Nationale, et où l'amendement est rejeté en première instance, l'amendement est adopté si il est soutenu par les trois cinquièmes des députés accordant leur approbation au gouvernement.
 
 .. article:: remplacement
 

@@ -262,7 +262,7 @@ La loi organique prévoit les critères de recevabilité des pétitions de gouve
 
 La pétition du gouvernement contient une déclaration de politique publique. Chaque individu cité par la pétition y est lié et est tenu, une fois nommé au gouvernement et dans le respect de la loi et des instructions du Parlement, de se conformer à cette déclaration.
 
-Amender le contenu de cette déclaration après la nomination du gouvernement nécessite l'accord de la ou des assemblées parlementaires au nom desquelles il a été nommé, après la présentation de l'amendement par le Chancelier, ainsi que le consentement de tous les membres du gouvernement.
+Amender le contenu de cette déclaration après la nomination du gouvernement nécessite l'accord de la ou des assemblées parlementaires au nom desquelles il a été investi, après la présentation de l'amendement par le Chancelier, ainsi que le consentement de tous les membres du gouvernement.
 
 .. article:: motions de censure
 
