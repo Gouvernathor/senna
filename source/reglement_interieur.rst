@@ -99,7 +99,7 @@ Un ordre du jour provisoire est prévu et communiqué aux membres de l'assemblé
 
 L'ordre du jour peut être modifié par une décision de l'assemblée prise à la majorité des membres présents et votants. Cependant, les points cités par :artref:`ordre du jour des assemblées` de la Constitution comme étant prioritaires ne peuvent être que temporairement remis à un examen ultérieur.
 
-.. article:: ordre du jour des sessions ordinaires
+.. article:: priorité au sein de l'ordre du jour
 
 L'ordre du jour inclut, par priorité :
 
@@ -108,8 +108,12 @@ L'ordre du jour inclut, par priorité :
 #. l'examen des propositions de lois de finances ;
 #. l'examen des propositions de lois de financement de la sécurité sociale ;
 #. l'examen des textes transmis par l'autre assemblée depuis six semaines au moins ;
+#. tout autre élément établi par le présent réglement comme ayant priorité ;
 #. toutes autres questions proposées par des membres du Bureau étendu.
 
+Un élément combinant plusieurs de ces points est considéré comme ayant la priorité du point le plus important.
+
+.. par exemple une motion de réunion (avant-dernier point) pour considérer une loi de finances (deuxième point) est de priorité 2
 
 Un jour de séance par semaine au moins est réservé par priorité à l'évaluation de l'activité du gouvernement et aux instructions de l'assemblée à son égard.
 
