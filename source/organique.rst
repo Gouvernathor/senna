@@ -166,7 +166,7 @@ Relative à :artref:`constitutionnalité des traités` de la Constitution
 
 Article unique - quorum populaire
 ---------------------------------
-Le nombre de citoyens nécessaire pour la saisine prévue à :artref:`constitutionnalité des traités` de la constitution est le nombre prévu pour les pétitions référendaires prévues par :artref:`référendums` de la constitution.
+Le nombre de citoyens nécessaire pour la saisine prévue à :artref:`constitutionnalité des traités` de la constitution est d'un centième des citoyens inscrits sur les listes électorales.
 
 ----------------------------------------------------------------------------------------------
 Relative à :artref:`contrôle de constitutionnalité en instance législative` de la Constitution
@@ -174,7 +174,7 @@ Relative à :artref:`contrôle de constitutionnalité en instance législative` 
 
 Article unique - quorum populaire
 ---------------------------------
-Le nombre de citoyens nécessaire pour la saisine prévue à :artref:`contrôle de constitutionnalité en instance législative` de la constitution est le nombre prévu pour les pétitions référendaires prévues par :artref:`référendums` de la constitution.
+Le nombre de citoyens nécessaire pour la saisine prévue à :artref:`contrôle de constitutionnalité en instance législative` de la constitution est d'un centième des citoyens inscrits sur les listes électorales.
 
 .. ---------------------------------------------------------------------------------------------------
 .. Relative à :artref:`contrôle de constitutionnalité en instance juridictionnelle` de la Constitution
