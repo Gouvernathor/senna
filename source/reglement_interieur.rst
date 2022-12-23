@@ -95,21 +95,18 @@ II. Ordre du Jour
 
 .. article:: ordre du jour
 
-L'ordre du jour est fixé, dans le respect des contraintes prévues par la constitution et par les alinéas et articles suivants, par le Bureau étendu de l'assemblée.
+L'ordre du jour est fixé, dans le respect des contraintes prévues par la Constitution et par les alinéas et articles suivants, par le Bureau étendu de l'assemblée.
 
 Un ordre du jour provisoire est prévu et communiqué aux membres de l'assemblée avec quatre semaines calendaires d'avance, et ses modifications sont communiquées le plus tôt possible aux membres de l'assemblée.
 
-L'ordre du jour peut être modifié par une décision de l'assemblée prise à la majorité des membres présents et votants. Cependant, les points cités par :artref:`ordre du jour des assemblées` de la constitution comme étant prioritaires ne peuvent être que temporairement remis à un examen ultérieur.
-
-Sessions ordinaires
-===================
+L'ordre du jour peut être modifié par une décision de l'assemblée prise à la majorité des membres présents et votants. Cependant, les points cités par :artref:`ordre du jour des assemblées` de la Constitution comme étant prioritaires ne peuvent être que temporairement remis à un examen ultérieur.
 
 .. article:: ordre du jour des sessions ordinaires
 
 L'ordre du jour inclut, par priorité :
 
 #. l'examen des projets relatifs aux états de crise ;
-#. les demandes d'autorisation visées par :artref:`guerre et intervention armée` de la constitution ;
+#. les demandes d'autorisation visées par :artref:`guerre et intervention armée` de la Constitution ;
 #. l'examen des propositions de lois de finances ;
 #. l'examen des propositions de lois de financement de la sécurité sociale ;
 #. l'examen des textes transmis par l'autre assemblée depuis six semaines au moins ;
@@ -120,13 +117,6 @@ Un jour de séance par semaine au moins est réservé par priorité à l'évalua
 .. article:: droits de l'opposition
 
 Une semaine de séance sur six au moins, si la durée de la session excède six semaines, ou un jour de séance par semaine sinon, sont réservés à un ordre du jour arrêté par les membres du Bureau étendu issus des groupes d'opposition.
-
-Sessions extraordinaires
-========================
-
-.. article:: ordre du jour des sessions extraordinaires
-
-(TBD)
 
 ----------------------------------------------------
 IV. Admission des membres, invalidations et vacances
@@ -360,7 +350,7 @@ Le retrait de la part d'un nominé au poste de Chancelier entraîne l'invalidati
 
 .. article:: nomination d'une pétition au gouvernement
 
-Lorsque le Bureau de l'assemblée détermine que les conditions prévues par la constitution pour qu'une pétition soit nommée au gouvernement sont réunies, le président de l'assemblée transmet une requête de nomination de cette pétition au Bureau de l'autre assemblée.
+Lorsque le Bureau de l'assemblée détermine que les conditions prévues par la Constitution pour qu'une pétition soit nommée au gouvernement sont réunies, le président de l'assemblée transmet une requête de nomination de cette pétition au Bureau de l'autre assemblée.
 
 En cas de réception d'une requête de nomination, si le Bureau restreint ne décide pas d'un recours auprès du Conseil constitutionnel concernant la validité de la requête, le président confirme la nomination de la pétition comme nouveau gouvernement.
 
@@ -392,7 +382,7 @@ L'assemblée est toujours en nombre pour délibérer et pour régler son ordre d
 
 Les votes émis en séance sont valables quel que soit le nombre des présents.
 
-Toutefois, si une disposition de la constitution ou de la loi exige une majorité par rapport au nombre total de membres, et si ce scrutin n'a pas été annoncé au moins trois jours calendaires à l'avance, il est procédé à la vérification du nombre de membres présents. Cette vérification peut en outre être faite sur demande d'un représentant d'un groupe parlementaire au plus une fois par séance, ou sur décision du président de séance. Si la majorité absolue des membres n'est pas présente, le scrutin est reporté d'un jour calendaire, sauf dans le cas d'une demande d'un représentant de groupe parlementaire ou du président de séance, dans lequel cas le scrutin est reporté de quinze minutes. Le scrutin est alors valable quel que soit le nombre de membres présents, sauf disposition contraire de la constitution ou de la loi.
+Toutefois, si une disposition de la Constitution ou de la loi exige une majorité par rapport au nombre total de membres, et si ce scrutin n'a pas été annoncé au moins trois jours calendaires à l'avance, il est procédé à la vérification du nombre de membres présents. Cette vérification peut en outre être faite sur demande d'un représentant d'un groupe parlementaire au plus une fois par séance, ou sur décision du président de séance. Si la majorité absolue des membres n'est pas présente, le scrutin est reporté d'un jour calendaire, sauf dans le cas d'une demande d'un représentant de groupe parlementaire ou du président de séance, dans lequel cas le scrutin est reporté de quinze minutes. Le scrutin est alors valable quel que soit le nombre de membres présents, sauf disposition contraire de la Constitution ou de la loi.
 
 Conduite des débats
 ===================
@@ -599,6 +589,8 @@ XIII. Commissions
 .. le rapporteur d'une proposition de loi assiste de droit (et +), mais sans droit de vote, aux séances portant sur la proposition de loi d'une commission dont il n'est pas membre
 
 .. inclure CMP en tant que sous-partie - déclenchement, fonctionnement et conséquences en séance plénière
+
+.. commissions mixtes non-paritaires - d'enquête par exemple - réunies par accord du Bureau avec l'autre assemblée
 
 -------------------------
 XIV. Processus législatif
