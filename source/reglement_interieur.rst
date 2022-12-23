@@ -7,7 +7,7 @@ Règlement intérieur du Parlement
 
     Les lettres AN pour l'Assemblée Nationale, S pour le Sénat et C pour le Congrès, indiquent que l'article ne s'applique qu'à cette assemblée quand elles figurent à côté du numéro d'un article, et idem pour un alinéa quand elles y figurent en retrait.
 
-    Au sein d'un article, l'assemblée à laquelle il s'applique est désignée sous le terme "l'assemblée". Sauf mention contraire, les membres, président et Bureau mentionnés sont ceux de l'assemblée en question.
+    Au sein d'un article, l'assemblée à laquelle il s'applique est désignée sous les terme "l'assemblée" ou "cette assemblée". Sauf mention contraire, les membres, président et Bureau mentionnés sont ceux de l'assemblée en question.
 
     Cette note ne fait pas partie du règlement intérieur.
 
@@ -645,6 +645,37 @@ Après une décision du Conseil Constitutionnel portant non-conformité partiell
 En cas de non-conformité totale, le référendum est considéré d'office comme retiré par l'Assemblée Nationale.
 
 En cas de retrait, l'Assemblée Nationale est à nouveau saisie du texte à l'étape du vote sur l'ensemble du texte tel que décrit à :artref:`(AN, S) adoption sans l'autre assemblée`.
+
+(AN, S) Commission mixte paritaire
+==================================
+
+.. article:: déclenchement
+
+Une commission mixte paritaire est déclenchée par le Bureau sur un texte répondant aux conditions prévues par :artref:`navette parlementaire et CMP` de la Constitution.
+
+Elle peut aussi être déclenchée par décision du Bureau de l'autre assemblée.
+
+.. article:: fonctionnement
+
+Les commissions mixtes paritaires ont lieu alternativement selon les règles fixées par chaque assemblée.
+
+Le rapporteur du texte considéré fait de droit partie de la CMP. Les autres membres de cette assemblée envoyés en CMP sont désignés à la proportionnelle parmi les membres de cette assemblée, chaque groupe classant ses membres par ordre de préférence, et en prenant en compte le rapporteur.
+
+Une CMP se déroulant selon les règles fixées par cette assemblée fonctionne de la façon suivante.
+
+Elle se compose de deux fois le nombre minimum de sièges pour qu'au moins la moitié des groupes de cette assemblée soient représentés. Elle ne peut contenir moins de 10 membres.
+
+Elle dispose de trois jours de séance pour élaborer un texte, sauf si le Bureau décide de lui accorder plus de temps, dans la limite de dix jours calendaires.
+
+Elle est présidée par le rapporteur du texte, si le texte est originaire de cette assemblée, ou par un membre désigné par les membres de la commission venant de l'autre assemblée, si le texte est originaire de l'autre assemblée.
+
+La tenue des débats se fait selon la même procédure que lors d'une commission de cette assemblée, sauf par décision des membres de la CMP.
+
+.. article:: résultat
+
+Le texte adopté par une commission mixte paritaire est mis à l'ordre du jour de l'assemblée par priorité. Il est retiré de l'ordre du jour si l'autre assemblée rejette le texte avant le vote par l'assemblée.
+
+Aucun amendement n'est recevable avant le vote sur le texte issu de la CMP.
 
 ------------------------------
 XVIII. Amendement du règlement
