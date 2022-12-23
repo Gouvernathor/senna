@@ -170,7 +170,7 @@ Les lois organiques ne peuvent être promulguées qu'après déclaration par le 
 
 .. article:: lois de finances et de financement de la sécurité sociale
 
-Les propositions lois de finances sont examinées en premier lieu à l'Assemblée nationale, et les propositions de lois de financement de la sécurité sociale au Sénat.
+Les propositions lois de finances ne peuvent être déposées qu'à l'Assemblée nationale, et les propositions de lois de financement de la sécurité sociale qu'au Sénat.
 
 Le Parlement vote les propositions de loi de finances et de loi de financement de la sécurité sociale dans les conditions prévues par une loi organique.
 
