@@ -595,7 +595,7 @@ XIII. Commissions
 
 .. inclure CMP en tant que sous-partie - déclenchement, fonctionnement et conséquences en séance plénière
 
-.. commissions mixtes non-paritaires - d'enquête par exemple - réunies par accord du Bureau avec l'autre assemblée
+.. commissions conjointes - d'enquête par exemple - réunies par accord du Bureau avec l'autre assemblée
 
 -------------------------
 XIV. Processus législatif

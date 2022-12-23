@@ -52,3 +52,5 @@ L'autorité publique ne s'exerce que dans les limites du territoire dont la popu
     droits professionnels, droit de grève
 
     ne sont entités légales (= sujettes à se prévaloir de droits) que les individus humains, le droit ne peut défendre les intérets que d'un ou plusieurs humains ou de la communauté humaine
+
+    liberté de la presse
