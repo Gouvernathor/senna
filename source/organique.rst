@@ -134,7 +134,7 @@ Article 2 - recevabilité des pétitions de gouvernement
 ------------------------------------------------------
 Chaque individu cité sur une pétition de gouvernement doit répondre aux conditions suivantes afin que la pétition soit recevable.
 
-Il doit avoir donné son consentement à figurer au sein de cette pétition.
+Il doit avoir donné son consentement à figurer au sein de cette pétition. Ce consentement est révocable.
 
 Il doit jouir de ses droits civils et politiques.
 
