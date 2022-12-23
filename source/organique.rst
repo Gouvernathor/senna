@@ -144,6 +144,10 @@ S'il est mentionné au poste de Chancelier, il ne peut être cité au même post
 .. Relative à :artref:`motions de censure` de la Constitution
 .. -------------------------------------------------------------------------
 
+.. le censuré a droit à se défendre et à être entendu par l'assemblée entamant la procédure de censure
+
+.. le chancelier informe le Bureau des deux assemblées du remplacement d'un membre censuré dans les 24h suivant la censure
+
 -------------------------------------------------------------------------
 Relative à :artref:`révocation des élus` de la Constitution
 -------------------------------------------------------------------------
@@ -184,9 +188,8 @@ Le nombre de citoyens nécessaire pour la saisine prévue à :artref:`contrôle 
 Relative à :artref:`fonctionnement du Conseil constitutionnel` de la Constitution
 ---------------------------------------------------------------------------------
 
-Article premier - conséquences du contrôle en instance législative
-------------------------------------------------------------------
-
+Article unique - conséquences du contrôle en instance législative
+-----------------------------------------------------------------
 Dans le cas où certaines des dispositions d'un texte seraient déclarées inconstitutionnelles, le texte est renvoyé à la dernière assemblée parlementaire à l'avoir considéré. Sauf dans le cas où le parlement en exprimerait la décision avant son adoption, les dispositions constitutionnelles du texte ne sont pas promulguées.
 
 .. -------------------------------------------------------------------------
@@ -197,9 +200,33 @@ Dans le cas où certaines des dispositions d'un texte seraient déclarées incon
 .. Relative à :artref:`conseil supérieur de la magistrature` de la Constitution
 .. ----------------------------------------------------------------------------
 
-.. -------------------------------------------------------------------------------
-.. Relative à :artref:`composition et fonctionnement de la CJR` de la Constitution
-.. -------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+Relative à :artref:`composition et fonctionnement de la CJR` de la Constitution
+-------------------------------------------------------------------------------
+
+Article premier - désignation des membres
+-----------------------------------------
+Les trois magistrats membres de la Cour de Justice de la République sont désignés par la formation plénière du Conseil Supérieur de la Magistrature.
+
+Chaque nouvelle saisine de la Cour de Justice de la République entraîne l'affectation des trois magistrats désignés à la saisine, et la nomination de trois nouveaux magistrats, selon la procédure prévue par l'alinéa précédent, en vue de la prochaine saisine.
+
+Des membres non-parlementaires peuvent être désignés en avance par la formation plénière du Conseil Supérieur de la Magistrature pour des saisines futures, ainsi que pour le remplacement de membres non-parlementaires déjà saisis.
+
+La démission ou la perte des qualités requises par :artref:`composition et fonctionnement de la CJR` de la Constitution entraîne la perte de fonction de juge de la Cour de Justice de la République.
+
+Article 2 - Peines et procédures
+--------------------------------
+Hormis les conditions et procédures prévues par la Constitution ou par les autres alinéas du présent article, les peines sont prononcées à la majorité simple des membres de la Cour.
+
+La Cour prononce toute peine déterminée par la loi concernant les crimes et délits définis par la loi, et la levée des conditions de recevabilité d'une motion de censure. Ces peines peuvent être prononcées séparément.
+
+.. jury populaire pour la levée de motion de censure : bonne idée a priori, mais du coup ils seraient tous parisiens...
+
+Article 3 - appel
+-----------------
+Les assemblées parlementaires sont seules juges de la levée des conditions d'une motion de censure, nonobstant l'application de :artref:`contrôle de la nomination du gouvernement` de la Constitution.
+
+L'appel des peines civiles et pénales se fait conformément à une procédure d'appel ordinaire.
 
 .. -------------------------------------------------------------------------
 .. Relative à :artref:`le défenseur des droits` de la Constitution

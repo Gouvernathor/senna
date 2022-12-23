@@ -396,7 +396,7 @@ La durée de la période d'inéligibilité prévue à :artref:`inéligibilité p
 
 Le Conseil Constitutionnel veille au respect des modalités de :artref:`nomination du gouvernement`. Il statue sur la nomination du gouvernement, en cas de désaccord entre le président du Sénat et le président de l'Assemblée Nationale ou en cas de contestation.
 
-Il veille également à la légalité des motions de censure.
+Il veille également à la régularité des motions de censure.
 
 .. article:: contrôle des élections législatives
 
@@ -494,13 +494,13 @@ La Cour de justice de la République est liée par la définition des crimes et 
 
 .. article:: composition et fonctionnement de la CJR
 
-La Cour de justice de la République comprend quinze juges : douze parlementaires élus, en leur sein, de manière proportionnelle et en nombre égal, par l'Assemblée nationale et par le Sénat après chaque renouvellement général ou partiel de ces assemblées et trois magistrats du siège à la Cour de cassation, dont l'un préside la Cour de justice de la République.
+La Cour de justice de la République comprend quinze juges : douze parlementaires élus, en leur sein, de manière proportionnelle et en nombre égal, par l'Assemblée nationale et par le Sénat après chaque renouvellement général ou partiel de ces assemblées, et trois magistrats du siège à la Cour de cassation dont l'un préside la Cour de justice de la République.
 
 Toute personne qui se prétend lésée par un crime ou un délit commis par un membre du gouvernement dans l'exercice de ses fonctions, ou qui l'accuse de ne pas avoir respecté les termes de son mandat politique, peut porter plainte auprès du procureur général près la Cour de cassation aux fins de saisine de la Cour de justice de la République.
 
 Le procureur général près la Cour de cassation peut aussi saisir d'office la Cour de justice de la République.
 
-La Cour de justice de la République peut, une fois saisie et sauf l'opposition de la majorité de ses membres non-parlementaires, lever les conditions de recevabilité listées à l'article sur les motions de censure pour les motions de censure à l'encontre du ou des membres du gouvernement visés par la saisine. Dans ce cas, les conditions supplémentaires éventuellement fixées par loi organique dans le cadre de l'article sur les motions de censure sont également levées.
+La Cour de justice de la République peut, une fois saisie et sauf l'opposition de la majorité de ses membres non-parlementaires, lever les conditions de recevabilité listées à :artref:`motions de censure` pour les motions de censure à l'encontre du ou des membres du gouvernement visés par la saisine. Dans ce cas, les conditions supplémentaires éventuellement fixées par loi organique dans le cadre de l'article sur les motions de censure sont également levées.
 
 Une loi organique détermine les conditions d'application du présent article.
 

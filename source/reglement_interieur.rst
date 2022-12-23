@@ -45,8 +45,6 @@ Règlement intérieur du Parlement
 
     trucs prévus par la constitution :
         amendement de la déclaration de politique publique du gouvernement
-        motions de censure
-        remplacement d'un remplacement au gouvernement (par une assemblée où le gvt est majo, peut être inclus dans une motion de censure mais ne s'y limite pas)
         autorisation de guerre ou intervention armée (simple vote sans amendement)
         débat suite à déclaration du gvt
         approbation de traités, procédure spécifique ? (vote sans amendements ?)
@@ -112,7 +110,8 @@ L'ordre du jour inclut, par priorité :
 #. l'examen des textes transmis par l'autre assemblée depuis six semaines au moins ;
 #. toutes autres questions proposées par des membres du Bureau étendu.
 
-Un jour de séance par semaine au moins est réservé par priorité à l'évaluation de l'oeuvre du gouvernement, et aux instructions de l'assemblée à son égard dans le cas où le gouvernement est investi au nom de cette assemblée.
+
+Un jour de séance par semaine au moins est réservé par priorité à l'évaluation de l'activité du gouvernement et aux instructions de l'assemblée à son égard.
 
 .. article:: droits de l'opposition
 
@@ -515,6 +514,8 @@ Les questions au gouvernement sont posées en débat proportionnel. Cependant, l
 
 Chaque membre prend la parole pour une période n'excédant pas trois minutes. Le ou les membres du gouvernement concernés répondent à la question posée pendant une période n'excédant pas trois minutes, ou cinq minutes si le membre posant la question leur accorde. Le membre ayant posé la question peut utiliser le reste de son temps de parole pour répondre à la réponse du gouvernement.
 
+Les représentants de groupes parlementaires bénéficient d'un temps de parole et d'un temps de réponse du gouvernement doublés.
+
 Votes
 =====
 
@@ -668,6 +669,57 @@ La tenue des débats se fait selon la même procédure que lors d'une commission
 Le texte adopté par une commission mixte paritaire est mis à l'ordre du jour de l'assemblée par priorité. Il est retiré de l'ordre du jour si l'autre assemblée rejette le texte avant le vote par l'assemblée.
 
 Aucun amendement n'est recevable avant le vote sur le texte issu de la CMP.
+
+----------------------------
+XV. Contrôle du gouvernement
+----------------------------
+
+.. article:: évaluation de l'activité gouvernementale
+
+La séance d'évaluation de l'activité gouvernementale se déroule de la façon suivante.
+
+Le Chancelier de la République est présent, ainsi que la majorité des membres du gouvernement. Un membre du gouvernement ne peut être absent lors de trois séances d'évaluation consécutives, sauf accord de l'assemblée ou circonstance exceptionnelle indépendante de sa volonté.
+
+Le Chancelier peut, si il le désire, faire un discours introductif présentant et résumant l'activité gouvernementale depuis la précédente séance d'évaluation. Il dispose du triple de la durée allouée par :artref:`questions au gouvernement` à un représentant de groupe parlementaire.
+
+Est ensuite ouverte la période des questions au gouvernement, décrite par :artref:`questions au gouvernement`.
+
+Après la période allouée aux questions au gouvernement, l'assemblée présente des instructions au gouvernement. Une proposition d'instruction est présentée par son rapporteur puis débattue en débat fixé à deux orateurs pour et deux contre au maximum. Le nombre de propositions présentées est limité mais réparti entre les groupes parlementaires proportionnellement à leur nombre de membres. Chaque proposition est ensuite mise aux voix. Le gouvernement est chargé de l'exécution de chacune des instructions adoptées. En cas de contradiction, l'instruction recevant la plus forte approbation l'emporte.
+
+.. déclaration demandée par le gvt
+
+.. amendement de la déclaration de politique générale du gouvernement
+
+.. article:: remplacement
+
+Si le gouvernement est majoritaire dans cette assemblée, dans les trois jours de séance suivant le remplacement par le Chancelier de la République d'un membre du gouvernement selon les conditions décrites à :artref:`démissions au gouvernement` de la Constitution, est placé dans l'ordre du jour en priorité la proposition d'autres individus en remplacement.
+
+Le Chancelier assiste de droit à la séance.
+
+Chaque membre de l'assemblée peut soutenir une proposition, recevable uniquement avec le consentement de l'individu proposé. Seules les propositions soutenues par autant de membres que nécessaire pour constituer un groupe parlementaire sont débattues. Une prise de parole par proposition est admissible, en incluant celle du Chancelier.
+
+Toutes les propositions sont mises au vote par approbation, en incluant l'individu nommé par le Chancelier en remplacement. L'individu rassemblant le plus de suffrages est nommé, et la pétition du gouvernement est modifiée en conséquence.
+
+Censure
+=======
+
+.. article:: dépôt de motion de censure
+
+Une motion de censure est déposée auprès du Bureau restreint par des représentants de groupes parlementaires représentant au moins un cinquième des membres de l'assemblée.
+
+Une motion de censure peut contenir une justification politique de la motion, et dans le cas de la censure d'un membre autre que le Chancelier, une proposition de remplacement.
+
+Le Bureau restreint se prononce sur la régularité de la motion de censure au titre de :artref:`motions de censure` de la Constitution. Elle n'est déclarée irrecevable qu'avec l'opposition des deux tiers des membres du Bureau restreint.
+
+.. article:: débat et vote de motion de censure
+
+Une motion de censure recevable est inscrite à l'ordre du jour en priorité lors de la séance suivante.
+
+Le débat sur la motion de censure se fait en accordant la parole au dépositaire de la motion, ou en son absence au représentant de son groupe parlementaire, puis en débat proportionnel.
+
+La motion de censure est mise au vote au scrutin public. Elle est adoptée à la majorité simple. Aucune délégation de vote n'est admise lors des deux premiers tours de scrutin.
+
+Si, à la fin du premier tour de scrutin, suffisamment de membres n'ayant pas voté seraient susceptibles de changer l'issue du vote, il est procédé à un second tour au moins douze et au plus trente-six heures après le premier. Si tel est toujours le cas, un troisième et dernier tour de scrutin est organisé sans délai en acceptant la délégation de vote.
 
 ------------------------------
 XVIII. Amendement du règlement
