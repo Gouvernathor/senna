@@ -115,7 +115,7 @@ L'ordre du jour inclut, par priorité :
 #. l'examen des textes transmis par l'autre assemblée depuis six semaines au moins ;
 #. toutes autres questions proposées par des membres du Bureau étendu.
 
-Un jour de séance par semaine au moins est réservé par priorité aux questions des membres du Parlement et aux réponses du gouvernement.
+Un jour de séance par semaine au moins est réservé par priorité à l'évaluation de l'oeuvre du gouvernement, et aux instructions de l'assemblée à son égard dans le cas où le gouvernement est investi au nom de cette assemblée.
 
 .. article:: droits de l'opposition
 

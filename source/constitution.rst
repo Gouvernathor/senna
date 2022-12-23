@@ -248,7 +248,7 @@ Ces pétitions, ainsi que la liste des membres du Parlement qui leur accordent l
 
 Le gouvernement ou une pétition est considéré majoritaire dans une assemblée lorsqu'il recueille l'approbation de la majorité absolue des membres de cette assemblée.
 
-La priorité est donnée aux pétitions majoritaires dans chaque assemblée, puis à celles majoritaires à l'Assemblée nationale, puis à celles majoritaires au Sénat. Seule peut être nommée au gouvernement la pétition prioritaire arrivant en tête en nombre de membres approbateurs dans les assemblées dans lesquelles elle est majoritaire ou, à défaut, dans l'Assemblée nationale. Elle est nommée au nom des assemblées dans lesquelles elle est majoritaire ou, à défaut, au nom de l'Assemblée nationale.
+La priorité est donnée aux pétitions majoritaires dans chaque assemblée, puis à celles majoritaires à l'Assemblée nationale, puis à celles majoritaires au Sénat. Seule peut être nommée au gouvernement la pétition prioritaire arrivant en tête en nombre de membres approbateurs dans les assemblées dans lesquelles elle est majoritaire ou, à défaut, dans l'Assemblée nationale. Elle est investie au nom des assemblées dans lesquelles elle est majoritaire ou, à défaut, au nom de l'Assemblée nationale.
 
 Une pétition de priorité plus haute que le gouvernement en place entraîne sa nomination en remplacement, dans un délai fixé par loi organique.
 
