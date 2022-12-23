@@ -46,7 +46,6 @@ Règlement intérieur du Parlement
     trucs prévus par la constitution :
         amendement de la déclaration de politique publique du gouvernement
         autorisation de guerre ou intervention armée (simple vote sans amendement)
-        débat suite à déclaration du gvt
         approbation de traités, procédure spécifique ? (vote sans amendements ?)
         désignation des membres de la commission spéciale pour la nomination du conseil constitutionnel
         désignation des juges de la CJR
@@ -690,7 +689,15 @@ Est ensuite ouverte la période des questions au gouvernement, décrite par :art
 
 Après la période allouée aux questions au gouvernement, l'assemblée présente des instructions au gouvernement. Une proposition d'instruction est présentée par son rapporteur puis débattue en débat fixé à deux orateurs pour et deux contre au maximum. Le nombre de propositions présentées est limité mais réparti entre les groupes parlementaires proportionnellement à leur nombre de membres. Chaque proposition est ensuite mise aux voix. Le gouvernement est chargé de l'exécution de chacune des instructions adoptées. En cas de contradiction, l'instruction recevant la plus forte approbation l'emporte.
 
-.. déclaration demandée par le gvt
+.. article:: déclaration demandée par le gvt
+
+Une demande de déclaration du gouvernement par un groupe parlementaire au sens de :artref:`déclaration du gouvernement` se fait de droit une fois par mois calendaire, et une fois par an pour chaque groupe. Une demande de déclaration de la part du Chancelier se fait de droit une fois par mois calendaire. Toute autre demande de déclaration est soumise à l'accord du Bureau.
+
+Toute demande de déclaration est liée à un sujet déterminé.
+
+Les membres du gouvernement disposent d'une durée maximale d'une heure pour présenter leur déclaration.
+
+Le débat qui suit se fait de manière proportionnelle. Il peut être clos par des membres du gouvernement, pour une réponse de même durée maximale que lors du débat.
 
 .. amendement de la déclaration de politique générale du gouvernement
 
