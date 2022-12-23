@@ -187,9 +187,7 @@ Relative à :artref:`fonctionnement du Conseil constitutionnel` de la Constituti
 Article premier - conséquences du contrôle en instance législative
 ------------------------------------------------------------------
 
-Dans le cas où certaines des dispositions d'un texte seraient déclarées inconstitutionnelles, le texte n'est pas promulgué et il renvoyé à la dernière assemblée parlementaire à l'avoir considéré.
-
-Toutefois, dans le cas où le Parlement en exprimerait la décision avant son adoption, un texte pourra être promulgué dépourvu de ses dispositions inconstitutionnelles, après le contrôle du Conseil Constitutionnel, sans être renvoyé au Parlement.
+Dans le cas où certaines des dispositions d'un texte seraient déclarées inconstitutionnelles, le texte est renvoyé à la dernière assemblée parlementaire à l'avoir considéré. Sauf dans le cas où le parlement en exprimerait la décision avant son adoption, les dispositions constitutionnelles du texte ne sont pas promulguées.
 
 .. -------------------------------------------------------------------------
 .. Relative à :artref:`l'autorité judiciaire` de la Constitution
