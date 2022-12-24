@@ -57,7 +57,7 @@ Règlement intérieur du Parlement
 
         validation des nominations du président par une commission (conseil constit, CSM)
 
-    au sein du congrès, vote spécifique aux membres d'une assemblée valant vote de l'assemblée en question (pour contourner le délai de ratification plus long)
+    au sein du congrès, vote spécifique aux membres d'une assemblée valant vote de l'assemblée en question (pour contourner le délai de ratification plus long) besoin de l'écrire dans chacun des 3 réglements
 
 -----------
 I. Sessions
@@ -150,7 +150,7 @@ L'assemblée élit un président à la majorité de ses membres dès l'ouverture
 
 .. article:: vacance de la présidence
 
-En dérogation aux articles :artnumref:`ordre du jour` et :artnumref:`ordre du jour des sessions ordinaires`, tant qu'aucun président ou vice-président de l'assemblée n'est désigné, aucun autre ordre du jour que leur nomination n'est admissible.
+En dérogation à l'article :artref:`ordre du jour`, tant qu'aucun président ou vice-président de l'assemblée n'est désigné, aucun autre ordre du jour que leur nomination n'est admissible.
 
 Dans les mêmes circonstances, le doyen d'âge préside les séances de l'assemblée, assisté des six plus jeunes membres de l'assemblée, et le Chancelier de la République assume les autres responsabilités de la présidence de l'assemblée.
 
@@ -689,7 +689,7 @@ Est ensuite ouverte la période des questions au gouvernement, décrite par :art
 
 Après la période allouée aux questions au gouvernement, l'assemblée présente des instructions au gouvernement. Une proposition d'instruction est présentée par son rapporteur puis débattue en débat fixé à deux orateurs pour et deux contre au maximum. Le nombre de propositions présentées est limité mais réparti entre les groupes parlementaires proportionnellement à leur nombre de membres. Chaque proposition est ensuite mise aux voix. Le gouvernement est chargé de l'exécution de chacune des instructions adoptées. En cas de contradiction, l'instruction recevant la plus forte approbation l'emporte.
 
-.. article:: déclaration du gouvernement
+.. article:: déclaration de la part du gouvernement
 
 Une demande de déclaration du gouvernement par un groupe parlementaire au sens de :artref:`déclaration du gouvernement` de la Constitution se fait de droit une fois par mois calendaire, et une fois par an pour chaque groupe. Une demande de déclaration de la part du Chancelier se fait de droit une fois par mois calendaire. Toute autre demande de déclaration est soumise à l'accord du Bureau.
 
@@ -711,7 +711,7 @@ Il est voté à la majorité simple, au scrutin public.
 
 (AN) Dans le cas où le gouvernement n'est pas majoritaire à l'Assemblée Nationale, et où l'amendement est rejeté en première instance, l'amendement est adopté si il est soutenu par les trois cinquièmes des députés accordant leur approbation au gouvernement.
 
-.. article:: remplacement
+.. article:: remplacement de membres du gouvernement
 
 Si le gouvernement est majoritaire dans cette assemblée, dans les trois jours de séance suivant le remplacement par le Chancelier de la République d'un membre du gouvernement selon les conditions décrites à :artref:`démissions au gouvernement` de la Constitution, est placé dans l'ordre du jour en priorité la proposition d'autres individus en remplacement.
 
@@ -740,7 +740,7 @@ Le débat sur la motion de censure se fait en accordant la parole au dépositair
 
 La motion de censure est mise au vote au scrutin public. Elle est adoptée à la majorité simple. Aucune délégation de vote n'est admise lors des deux premiers tours de scrutin.
 
-Si, à la fin du premier tour de scrutin, suffisamment de membres n'ayant pas voté seraient susceptibles de changer l'issue du vote, il est procédé à un second tour au moins douze et au plus trente-six heures après le premier. Si tel est toujours le cas, un troisième et dernier tour de scrutin est organisé sans délai en acceptant la délégation de vote.
+Si, à la fin du premier tour de scrutin, suffisamment de membres n'ayant pas voté seraient susceptibles de changer l'issue du vote, il est procédé à un second tour au moins douze et au plus trente-six heures après le premier. Si tel est toujours le cas, un troisième et dernier tour de scrutin est organisé sans délai en autorisant la délégation de vote.
 
 ------------------------------
 XVIII. Amendement du règlement
