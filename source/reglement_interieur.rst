@@ -701,13 +701,13 @@ Les membres du gouvernement disposent d'une durée maximale d'une heure pour pr�
 
 Le débat qui suit se fait de manière proportionnelle. Il peut être clos par des membres du gouvernement, pour une réponse de même durée maximale que lors du débat.
 
-.. article:: amendement de déclaration de politique publique
+.. article:: amendement du programme du gouvernement
 
-Le Chancelier de la République saisit le Bureau restreint de l'assemblée au nom de laquelle le gouvernement est investi d'un amendement à la déclaration de politique publique liée à la pétition du gouvernement. Le Bureau le place à l'ordre du jour en priorité dans les sept jours calendaires qui suivent.
+Le Chancelier de la République saisit le Bureau restreint de l'assemblée au nom de laquelle le gouvernement est investi d'un amendement au programme de politique générale liée à la pétition du gouvernement. Le Bureau le place à l'ordre du jour en priorité dans les sept jours calendaires qui suivent.
 
 L'amendement est présenté par le Chancelier de la République. Il est discuté en débat proportionnel. Le Chancelier dispose de cinq fois le temps accordé à chaque orateur durant le débat, qui est d'au moins deux minutes.
 
-Il est voté à la majorité simple.
+Il est voté à la majorité simple, au scrutin public.
 
 (AN) Dans le cas où le gouvernement n'est pas majoritaire à l'Assemblée Nationale, et où l'amendement est rejeté en première instance, l'amendement est adopté si il est soutenu par les trois cinquièmes des députés accordant leur approbation au gouvernement.
 

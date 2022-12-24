@@ -260,9 +260,9 @@ La loi organique prévoit les critères de recevabilité des pétitions de gouve
 
 .. article:: responsabilité politique du gouvernement
 
-La pétition du gouvernement contient une déclaration de politique publique. Chaque individu cité par la pétition y est lié et est tenu, une fois nommé au gouvernement et dans le respect de la loi et des instructions du Parlement, de se conformer à cette déclaration.
+La pétition du gouvernement contient un programme de politique générale. Chaque individu cité par la pétition y est lié et est tenu, une fois nommé au gouvernement et dans le respect de la loi et des instructions du Parlement, de se conformer à ce programme.
 
-Amender le contenu de cette déclaration après la nomination du gouvernement nécessite l'accord de la ou des assemblées parlementaires au nom desquelles il a été investi, après la présentation de l'amendement par le Chancelier, ainsi que le consentement de tous les membres du gouvernement.
+Amender le contenu de ce programme après la nomination du gouvernement nécessite l'accord de la ou des assemblées parlementaires au nom desquelles il a été investi, après la présentation de l'amendement par le Chancelier, ainsi que le consentement de tous les membres du gouvernement.
 
 .. article:: motions de censure
 
@@ -486,7 +486,7 @@ Titre IX — De la responsabilité pénale des membres du gouvernement
 
 .. article:: responsabilité ministérielle
 
-Les membres du gouvernement sont pénalement responsables des actes accomplis dans l'exercice de leurs fonctions et qualifiés crimes ou délits au moment où ils ont été commis, ainsi que des manquements, sauf si rendus nécessaires par la loi ou par les instructions du Parlement, à la déclaration de politique de leur pétition de gouvernement.
+Les membres du gouvernement sont pénalement responsables des actes accomplis dans l'exercice de leurs fonctions et qualifiés crimes ou délits au moment où ils ont été commis, ainsi que des manquements, sauf si rendus nécessaires par la loi ou par les instructions du Parlement, au programme de leur pétition de gouvernement.
 
 Ils sont jugés par la Cour de justice de la République.
 
