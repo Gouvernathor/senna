@@ -176,9 +176,13 @@ Le nombre de citoyens nécessaire pour la saisine prévue à :artref:`constituti
 Relative à :artref:`contrôle de constitutionnalité en instance législative`
 ----------------------------------------------------------------------------------------------
 
-Article unique - quorum populaire
----------------------------------
+Article premier - quorum populaire
+----------------------------------
 Le nombre de citoyens nécessaire pour la saisine prévue à :artref:`contrôle de constitutionnalité en instance législative` est d'un centième des citoyens inscrits sur les listes électorales.
+
+Article 2 - procédure parlementaire
+-----------------------------------
+Un texte ou une partie d'un texte adoptés en violation des procédures prévues par les réglements des assemblées est considéré comme n'étant pas adopté par le Parlement de manière régulière. Il est en conséquence prononcé non-conforme à la Constitution.
 
 .. ---------------------------------------------------------------------------------------------------
 .. Relative à :artref:`contrôle de constitutionnalité en instance juridictionnelle`
