@@ -84,7 +84,6 @@ class ArtRole(sphinx.roles.XRefRole):
     def result_nodes(self, *args, **kwargs):
         (node,), msgs = super().result_nodes(*args, **kwargs)
         node.flag = self.flag
-        # node.art_source = registered_source[self.source] # self.source is the document's current_source
         return [node], msgs
 
 class ArtrefTransform(docutils.transforms.Transform):

@@ -154,7 +154,7 @@ Relative à :artref:`révocation des élus`
 
 Article unique - délai de tenue du référendum révocatoire
 ---------------------------------------------------------
-Le référendum révocatoire doit avoir lieu dans les trente jours suivant la qualification au regard de la constitution de la pétition demandant sa tenue.
+Le référendum révocatoire doit avoir lieu dans les trente jours suivant la qualification, au regard de la constitution, de la pétition demandant sa tenue.
 
 .. -------------------------------------------------------------------------------
 .. Relative à :artref:`incompatibilité de mandat représentatif`
