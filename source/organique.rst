@@ -2,9 +2,9 @@
 Loi organique
 =============
 
--------------------------------------------------------------
+------------------------------------------
 Relative à :artref:`principe du parlement`
--------------------------------------------------------------
+------------------------------------------
 
 Article unique
 --------------
@@ -18,9 +18,9 @@ Les conditions de recevabilité d'un recours citoyen en dissolution sont celles 
 
 Le scrutin qui résulte d'un renouvellement anticipé doit avoir lieu dans un délai d'un mois.
 
--------------------------------------------------------------------------
+------------------------------------------------------
 Relative à :artref:`modalités de mandat parlementaire`
--------------------------------------------------------------------------
+------------------------------------------------------
 
 Article premier - élections au Parlement
 ----------------------------------------
@@ -68,21 +68,21 @@ Le nombre de sièges au Sénat est fixé à 240.
 
 Quand les conditions fixées par la constitution concernant les tailles des assemblées ne sont pas respectées, le règlement intérieur du Sénat prévoit quels sénateurs seront suspendus, afin de respecter ces conditions, ainsi que l'ordre et le délai dans lequel ces sénateurs sont rétablis dans leurs fonctions. La sélection des sénateurs suspendus ne doit pas atteindre à la représentativité au sein du Sénat des forces politiques y ayant été élues.
 
-.. -------------------------------------------------------------------------
+.. -------------------------------------------------
 .. Relative à :artref:`responsabilité parlementaire`
-.. -------------------------------------------------------------------------
+.. -------------------------------------------------
 
-.. -------------------------------------------------------------------------
+.. -------------------------------------------------
 .. Relative à :artref:`résolutions parlementaires`
-.. -------------------------------------------------------------------------
+.. -------------------------------------------------
 
-.. -------------------------------------------------------------------------
+.. -------------------------------------------------
 .. Relative à :artref:`droit d'amendement`
-.. -------------------------------------------------------------------------
+.. -------------------------------------------------
 
--------------------------------------------------------------------------
+----------------------------------------------------
 Relative à :artref:`navette parlementaire et CMP`
--------------------------------------------------------------------------
+----------------------------------------------------
 
 Article unique - délai de refus d'office
 ----------------------------------------
@@ -96,9 +96,9 @@ Les délais des alinéas précédents sont réduits de moitié dans le cas de lo
 
 Les délais des alinéas précédents peuvent être réduits de moitié sur décision de la majorité des membres d'une assemblée lors de sa première lecture du texte.
 
--------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Relative à :artref:`lois de finances et de financement de la sécurité sociale`
--------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------
 
 Article premier - délais d'adoption
 -----------------------------------
@@ -114,17 +114,17 @@ Article 2 - navette accélérée
 -----------------------------
 À chaque lecture, lorsqu'une assemblée saisie d'une proposition de loi de finances ou de financement de la sécurité sociale ne s'est pas prononcée après une durée inférieure à la moitié du temps restant avant la fin de l'année civile mais au moins égale à quatre jours de séance, le texte tel qu'amendé est transmis à l'autre assemblée.
 
--------------------------------------------------------------------------
+-----------------------------------------------
 Relative à :artref:`référendums`
--------------------------------------------------------------------------
+-----------------------------------------------
 
 Article unique - modalités de convocation
 -----------------------------------------
 Un référendum est convoqué par le Parlement par une loi référendaire incluant le texte sur lequel le référendum porte, et les éventuelles dérogations de délais concernant sa tenue.
 
--------------------------------------------------------------------------
+-----------------------------------------------
 Relative à :artref:`nomination du gouvernement`
--------------------------------------------------------------------------
+-----------------------------------------------
 
 Article premier - délai de nomination
 -------------------------------------
@@ -140,41 +140,41 @@ Il doit jouir de ses droits civils et politiques.
 
 S'il est mentionné au poste de Chancelier, il ne peut être cité au même poste par une autre pétition reconnue recevable.
 
-.. -------------------------------------------------------------------------
+.. ------------------------------------------------------------
 .. Relative à :artref:`motions de censure`
-.. -------------------------------------------------------------------------
+.. ------------------------------------------------------------
 
 .. le censuré a droit à se défendre et à être entendu par l'assemblée entamant la procédure de censure
 
 .. le chancelier informe le Bureau des deux assemblées du remplacement d'un membre censuré dans les 24h suivant la censure
 
--------------------------------------------------------------------------
+------------------------------------------------------------
 Relative à :artref:`révocation des élus`
--------------------------------------------------------------------------
+------------------------------------------------------------
 
 Article unique - délai de tenue du référendum révocatoire
 ---------------------------------------------------------
 Le référendum révocatoire doit avoir lieu dans les trente jours suivant la qualification, au regard de la constitution, de la pétition demandant sa tenue.
 
-.. -------------------------------------------------------------------------------
+.. ------------------------------------------------------------
 .. Relative à :artref:`incompatibilité de mandat représentatif`
-.. -------------------------------------------------------------------------------
+.. ------------------------------------------------------------
 
-.. -------------------------------------------------------------------------------
+.. ------------------------------------------------------------
 .. Relative à :artref:`commission de contrôle parlementaire`
-.. -------------------------------------------------------------------------------
+.. ------------------------------------------------------------
 
--------------------------------------------------------------------------------
+------------------------------------------------------------
 Relative à :artref:`constitutionnalité des traités`
--------------------------------------------------------------------------------
+------------------------------------------------------------
 
 Article unique - quorum populaire
 ---------------------------------
 Le nombre de citoyens nécessaire pour la saisine prévue à :artref:`constitutionnalité des traités` est d'un centième des citoyens inscrits sur les listes électorales.
 
-----------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------
 Relative à :artref:`contrôle de constitutionnalité en instance législative`
-----------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------
 
 Article premier - quorum populaire
 ----------------------------------
@@ -184,29 +184,29 @@ Article 2 - procédure parlementaire
 -----------------------------------
 Un texte ou une partie d'un texte adoptés en violation des procédures prévues par les réglements des assemblées est considéré comme n'étant pas adopté par le Parlement de manière régulière. Il est en conséquence prononcé non-conforme à la Constitution.
 
-.. ---------------------------------------------------------------------------------------------------
+.. --------------------------------------------------------------------------------
 .. Relative à :artref:`contrôle de constitutionnalité en instance juridictionnelle`
-.. ---------------------------------------------------------------------------------------------------
+.. --------------------------------------------------------------------------------
 
----------------------------------------------------------------------------------
+--------------------------------------------------------------
 Relative à :artref:`fonctionnement du Conseil constitutionnel`
----------------------------------------------------------------------------------
+--------------------------------------------------------------
 
 Article unique - conséquences du contrôle en instance législative
 -----------------------------------------------------------------
 Dans le cas où certaines des dispositions d'un texte seraient déclarées inconstitutionnelles, le texte est renvoyé à la dernière assemblée parlementaire à l'avoir considéré. Sauf dans le cas où le parlement en exprimerait la décision avant son adoption, les dispositions constitutionnelles du texte ne sont pas promulguées.
 
-.. -------------------------------------------------------------------------
+.. ------------------------------------------------------------
 .. Relative à :artref:`l'autorité judiciaire`
-.. -------------------------------------------------------------------------
+.. ------------------------------------------------------------
 
-.. ----------------------------------------------------------------------------
+.. ------------------------------------------------------------
 .. Relative à :artref:`conseil supérieur de la magistrature`
-.. ----------------------------------------------------------------------------
+.. ------------------------------------------------------------
 
--------------------------------------------------------------------------------
+------------------------------------------------------------
 Relative à :artref:`composition et fonctionnement de la CJR`
--------------------------------------------------------------------------------
+------------------------------------------------------------
 
 Article premier - désignation des membres
 -----------------------------------------
@@ -232,14 +232,14 @@ Les assemblées parlementaires sont seules juges de la levée des conditions d'u
 
 L'appel des peines civiles et pénales se fait conformément à une procédure d'appel ordinaire.
 
-.. -------------------------------------------------------------------------
+.. ---------------------------------------------------
 .. Relative à :artref:`le défenseur des droits`
-.. -------------------------------------------------------------------------
+.. ---------------------------------------------------
 
-.. -------------------------------------------------------------------------
+.. ---------------------------------------------------
 .. Relative à :artref:`pétition et référendums locaux`
-.. -------------------------------------------------------------------------
+.. ---------------------------------------------------
 
-.. -------------------------------------------------------------------------
+.. ---------------------------------------------------
 .. Relative à :artref:`ressources locales`
-.. -------------------------------------------------------------------------
+.. ---------------------------------------------------
