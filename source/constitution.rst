@@ -502,7 +502,7 @@ Toute personne qui se prétend lésée par un crime ou un délit commis par un m
 
 Le procureur général près la Cour de cassation peut aussi saisir d'office la Cour de justice de la République.
 
-La Cour de justice de la République peut, une fois saisie et sauf l'opposition de la majorité de ses membres non-parlementaires, lever les conditions de recevabilité listées à :artref:`motions de censure` pour les motions de censure à l'encontre du ou des membres du gouvernement visés par la saisine. Dans ce cas, les conditions supplémentaires éventuellement fixées par loi organique dans le cadre de :artref:`motions de censure`` sont également levées.
+La Cour de justice de la République peut, une fois saisie et sauf l'opposition de la majorité de ses membres non-parlementaires, lever les conditions de recevabilité listées à :artref:`motions de censure` pour les motions de censure à l'encontre du ou des membres du gouvernement visés par la saisine. Dans ce cas, les conditions supplémentaires éventuellement fixées par loi organique dans le cadre de :artref:`motions de censure` sont également levées.
 
 Une loi organique détermine les conditions d'application du présent article.
 
