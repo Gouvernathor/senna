@@ -46,7 +46,6 @@ Réglement intérieur du Parlement
     rapporteur d'un texte
 
     trucs prévus par la constitution :
-        amendement de la déclaration de politique publique du gouvernement
         autorisation de guerre ou intervention armée (simple vote sans amendement)
         approbation de traités, procédure spécifique ? (vote sans amendements ?)
         désignation des membres de la commission spéciale pour la nomination du conseil constitutionnel
@@ -604,7 +603,7 @@ XIV. Processus législatif
 
 .. article:: propositions de loi
 
-Les propositions de loi sont déposées par les membres de l'assemblée ou transmises depuis l'autre assemblée.
+Les propositions de loi sont déposées par les membres de l'assemblée, ou transmises depuis l'autre assemblée après leur adoption.
 
 Le Bureau étendu saisit une commission pour chaque proposition. D'autres commissions peuvent être saisies de parties de la proposition par la commission saisie au fond ou par le Bureau étendu.
 
@@ -642,16 +641,14 @@ Après une décision du Conseil Constitutionnel portant non-conformité partiell
 
 En cas de non-conformité totale, le référendum est considéré d'office comme retiré par l'Assemblée Nationale.
 
-En cas de retrait, l'Assemblée Nationale est à nouveau saisie du texte à l'étape du vote sur l'ensemble du texte tel que décrit à :artref:`(AN, S) adoption sans l'autre assemblée`.
+En cas de retrait, l'Assemblée Nationale est à nouveau considérée comme saisie du texte à l'étape du vote sur l'ensemble du texte tel que décrit à :artref:`(AN, S) adoption sans l'autre assemblée`.
 
 (AN, S) Commission mixte paritaire
 ==================================
 
 .. article:: déclenchement
 
-Une commission mixte paritaire est déclenchée par le Bureau sur un texte répondant aux conditions prévues par :artref:`navette parlementaire et CMP`.
-
-Elle peut aussi être déclenchée par décision du Bureau de l'autre assemblée.
+Une commission mixte paritaire est déclenchée par cette assemblée sur décision du Bureau, sur un texte répondant aux conditions prévues par :artref:`navette parlementaire et CMP`.
 
 .. article:: fonctionnement
 
@@ -689,9 +686,9 @@ Le Chancelier peut, si il le désire, faire un discours introductif présentant 
 
 Est ensuite ouverte la période des questions au gouvernement, décrite par :artref:`questions au gouvernement`.
 
-Après la période allouée aux questions au gouvernement, l'assemblée présente des instructions au gouvernement. Une proposition d'instruction est présentée par son rapporteur puis débattue en débat fixé à deux orateurs pour et deux contre au maximum. Le nombre de propositions présentées est limité mais réparti entre les groupes parlementaires proportionnellement à leur nombre de membres. Chaque proposition est ensuite mise aux voix. Le gouvernement est chargé de l'exécution de chacune des instructions adoptées. En cas de contradiction, l'instruction recevant la plus forte approbation l'emporte.
+Après la période allouée aux questions au gouvernement, l'assemblée présente des instructions au gouvernement. Une proposition d'instruction est présentée par son rapporteur puis débattue en débat fixé à deux orateurs pour et deux contre au maximum. Le nombre de propositions présentées est limité mais réparti entre les groupes parlementaires proportionnellement à leur nombre de membres. Chaque proposition est ensuite mise aux voix. Le gouvernement est chargé de l'exécution de chacune des instructions adoptées. En cas de contradiction, l'instruction recevant la plus forte approbation annule les autres.
 
-.. article:: déclaration de la part du gouvernement
+.. article:: déclaration par le gouvernement
 
 Une demande de déclaration du gouvernement par un groupe parlementaire au sens de :artref:`déclaration du gouvernement` se fait de droit une fois par mois calendaire, et une fois par an pour chaque groupe. Une demande de déclaration de la part du Chancelier se fait de droit une fois par mois calendaire. Toute autre demande de déclaration est soumise à l'accord du Bureau.
 
@@ -705,7 +702,7 @@ Le débat qui suit se fait de manière proportionnelle. Il peut être clos par d
 
 .. article:: amendement du programme du gouvernement
 
-Le Chancelier de la République saisit le Bureau restreint de l'assemblée au nom de laquelle le gouvernement est investi d'un amendement au programme de politique générale liée à la pétition du gouvernement. Le Bureau le place à l'ordre du jour en priorité dans les sept jours calendaires qui suivent.
+Le Chancelier de la République saisit le Bureau restreint de l'assemblée au nom de laquelle le gouvernement est investi d'un amendement au programme de politique générale liée à la pétition du gouvernement. Il est placé dans l'ordre du jour en priorité dans les sept jours calendaires qui suivent.
 
 L'amendement est présenté par le Chancelier de la République. Il est discuté en débat proportionnel. Le Chancelier dispose de cinq fois le temps accordé à chaque orateur durant le débat, qui est d'au moins deux minutes.
 
@@ -719,9 +716,9 @@ Si le gouvernement est majoritaire dans cette assemblée, dans les trois jours d
 
 Le Chancelier assiste de droit à la séance.
 
-Chaque membre de l'assemblée peut soutenir une proposition, recevable uniquement avec le consentement de l'individu proposé. Seules les propositions soutenues par autant de membres que nécessaire pour constituer un groupe parlementaire sont débattues. Une prise de parole par proposition est admissible, en incluant celle du Chancelier.
+Chaque membre de l'assemblée peut soutenir une proposition, recevable uniquement avec le consentement de l'individu proposé. Sauf la proposition du Chancelier de maintenir le remplacement tel quel, seules les propositions soutenues par autant de membres que nécessaire pour constituer un groupe parlementaire sont débattues. Une prise de parole par proposition est admissible.
 
-Toutes les propositions sont mises au vote par approbation, en incluant l'individu nommé par le Chancelier en remplacement. L'individu rassemblant le plus de suffrages est nommé, et la pétition du gouvernement est modifiée en conséquence.
+Les propositions sont mises au vote en application de :artref:`élections uninominales`. La pétition du gouvernement est modifiée en conséquence.
 
 Censure
 =======
