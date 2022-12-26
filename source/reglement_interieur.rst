@@ -591,6 +591,8 @@ XIII. Commissions
 
 .. (...)
 
+.. le Bureau (étendu ?) peut décider de la priorité relative des propositions de loi au sein de l'ordre du jour des commissions (mais pas du reste de l'odj)
+
 .. le rapporteur d'une proposition de loi assiste de droit (et +), mais sans droit de vote, aux séances portant sur la proposition de loi d'une commission dont il n'est pas membre
 
 .. inclure CMP en tant que sous-partie - déclenchement, fonctionnement et conséquences en séance plénière
@@ -603,7 +605,9 @@ XIV. Processus législatif
 
 .. article:: propositions de loi
 
-Les propositions de loi sont déposées par les membres de l'assemblée, ou transmises depuis l'autre assemblée après leur adoption.
+Les propositions de loi sont déposées par les membres de l'assemblée auprès du Bureau étendu, ou transmises depuis l'autre assemblée après leur adoption. La qualification de proposition de loi de finances ou de financement de la sécurité sociale est déterminée lors du dépôt du texte.
+
+Lorsque le Bureau étendu est saisi d'une proposition en violation de :artref:`lois de finances et de financement de la sécurité sociale`, il notifie le rejet de la proposition au membre l'ayant déposée ou à l'autre assemblée l'ayant transmise.
 
 Le Bureau étendu saisit une commission pour chaque proposition. D'autres commissions peuvent être saisies de parties de la proposition par la commission saisie au fond ou par le Bureau étendu.
 
