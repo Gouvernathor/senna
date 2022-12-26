@@ -1,27 +1,53 @@
-from collections import defaultdict
 import docutils.nodes
+from docutils.parsers.rst import Directive
 import sphinx.addnodes
 from sphinx.errors import ExtensionError
-import sphinx.roles
 import sphinx.domains
 import sphinx.domains.std
+import sphinx.roles
 import sphinx.util.docutils
 
-counters = defaultdict(int)
-registered_articles = {}
+registered_source = {} # document -> source (str)
+counters = {} # source (str) -> number of articles (int)
+registered_articles = {} # article name (str) -> tuple(source (str), article number (int))
 dummy_id = 0
+
+class ArtsourceDirective(Directive):
+    """
+    Register the name of the original document the next articles will be part of.
+    At most one may exist per document.
+    References under it to articles from a different document, or above it,
+    or in a document with no artsource, will be suffixed with the source name.
+    """
+    required_arguments = 1
+    final_argument_whitespace = True
+
+    def run(self):
+        source, = self.arguments
+        if source in counters:
+            raise ExtensionError(f"source name {source!r} already registered")
+        docname = self.state.document.current_source
+        if docname in registered_source:
+            raise ExtensionError(f"document {docname!r} already has a source")
+        registered_source[docname] = source
+        counters[source] = 0
+        return []
 
 class ArticleDirective(sphinx.domains.std.Target):
     """
-    Piggyback Target and recompute fullname (but not node_id)
+    Piggyback Target and recompute fullname (but not node_id).
+    The article directive may not be used before the artsource directive.
     """
     required_arguments = 0
     optional_arguments = 1
 
     def run(self):
-        docname = self.state.document.current_source
-        counters[docname] += 1
-        name = f"Article {counters[docname]}"
+        try:
+            source = registered_source[self.state.document.current_source]
+        except KeyError:
+            raise ExtensionError(f"no source name registered for document {self.state.document.current_source!r}")
+        counters[source] += 1
+        name = f"Article {counters[source]}"
 
         if not self.arguments:
             # anonymous article - not referenceable, no target
@@ -36,7 +62,7 @@ class ArticleDirective(sphinx.domains.std.Target):
             fullname = sphinx.domains.std.ws_re.sub(' ', self.arguments[0].strip())
             if fullname in registered_articles:
                 raise ExtensionError(f"an article {fullname!r} is already registered")
-            registered_articles[fullname] = counters[docname]
+            registered_articles[fullname] = (source, counters[source])
             name = f"{name} - {fullname}"
             # yes, the name is longer than the fullname
 
@@ -58,6 +84,7 @@ class ArtRole(sphinx.roles.XRefRole):
     def result_nodes(self, *args, **kwargs):
         (node,), msgs = super().result_nodes(*args, **kwargs)
         node.flag = self.flag
+        # node.art_source = registered_source[self.source] # self.source is the document's current_source
         return [node], msgs
 
 class ArtrefTransform(docutils.transforms.Transform):
@@ -73,15 +100,17 @@ class ArtrefTransform(docutils.transforms.Transform):
                 flag = getattr(node, "flag", None)
                 # print(flag)
                 if flag is not None:
-                    rf = registered_articles.get(node["reftarget"], None)
-                    # print(rf)
-                    if rf is None:
+                    refsc, nb = registered_articles.get(node["reftarget"], (None, None))
+                    # print(nb)
+                    if nb is None:
                         print(f"number of article {node['reftarget']!r} not found")
                         continue
                     if flag is artnumrefflag:
-                        name = str(rf)
+                        name = str(nb)
                     elif flag is artrefflag:
-                        name = f"l'article {rf}"
+                        name = f"l'article {nb}"
+                        if refsc != registered_source.get(node.source, None):
+                            name = " ".join((name, refsc))
                     else:
                         raise ExtensionError(f"unknown flag {flag!r}")
 
@@ -90,6 +119,7 @@ class ArtrefTransform(docutils.transforms.Transform):
             name = None
 
 def setup(app):
+    app.add_directive_to_domain("std", "artsource", ArtsourceDirective)
     app.add_directive_to_domain("std", "article", ArticleDirective)
     app.add_role_to_domain("std", "artref", ArtRole(flag=artrefflag))
     app.add_role_to_domain("std", "artnumref", ArtRole(flag=artnumrefflag))
