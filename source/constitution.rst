@@ -2,6 +2,8 @@
 Constitution de la République Française
 =======================================
 
+.. artsource:: de la Constitution
+
 -----------------
 Article liminaire
 -----------------

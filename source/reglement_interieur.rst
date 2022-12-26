@@ -1,6 +1,8 @@
 ================================
-Règlement intérieur du Parlement
+Réglement intérieur du Parlement
 ================================
+
+.. artsource:: du Réglement intérieur des assemblées parlementaires
 
 .. note::
     Ce texte établit le règlement intérieur des assemblées parlementaires. Sauf indication contraire, ses dispositions s'appliquent à ces deux assemblées, qui sont l'Assemblée Nationale et le Sénat.
@@ -96,14 +98,14 @@ L'ordre du jour est fixé, dans le respect des contraintes prévues par la Const
 
 Un ordre du jour provisoire est prévu et communiqué aux membres de l'assemblée avec quatre semaines calendaires d'avance, et ses modifications sont communiquées le plus tôt possible aux membres de l'assemblée.
 
-L'ordre du jour peut être modifié par une décision de l'assemblée prise à la majorité des membres présents et votants. Cependant, les points cités par :artref:`ordre du jour des assemblées` de la Constitution comme étant prioritaires ne peuvent être que temporairement remis à un examen ultérieur.
+L'ordre du jour peut être modifié par une décision de l'assemblée prise à la majorité des membres présents et votants. Cependant, les points cités par :artref:`ordre du jour des assemblées` comme étant prioritaires ne peuvent être que temporairement remis à un examen ultérieur.
 
 .. article:: priorité au sein de l'ordre du jour
 
 L'ordre du jour inclut, par priorité :
 
 #. l'examen des projets relatifs aux états de crise ;
-#. les demandes d'autorisation visées par :artref:`guerre et intervention armée` de la Constitution ;
+#. les demandes d'autorisation visées par :artref:`guerre et intervention armée` ;
 #. l'examen des propositions de lois de finances ;
 #. l'examen des propositions de lois de financement de la sécurité sociale ;
 #. l'examen des textes transmis par l'autre assemblée depuis six semaines au moins ;
@@ -150,7 +152,7 @@ L'assemblée élit un président à la majorité de ses membres dès l'ouverture
 
 .. article:: vacance de la présidence
 
-En dérogation à l'article :artref:`ordre du jour`, tant qu'aucun président ou vice-président de l'assemblée n'est désigné, aucun autre ordre du jour que leur nomination n'est admissible.
+En dérogation à :artref:`ordre du jour`, tant qu'aucun président ou vice-président de l'assemblée n'est désigné, aucun autre ordre du jour que leur nomination n'est admissible.
 
 Dans les mêmes circonstances, le doyen d'âge préside les séances de l'assemblée, assisté des six plus jeunes membres de l'assemblée, et le Chancelier de la République assume les autres responsabilités de la présidence de l'assemblée.
 
@@ -256,7 +258,7 @@ Dans le cas d'une absence pendant une séance du Bureau, du Bureau étendu ou de
 
 Lorsque le président d'une commission s'absente du Bureau étendu, le remplaçant est désigné parmi les vice-présidents de la commission.
 
-En application de :artref:`présidence et bureau des assemblées` de la Constitution, les présidents de groupes parlementaires votent au prorata du nombre de membres de leur groupe respectif, retranché du nombre de membres du groupe déjà présents.
+En application de :artref:`présidence et bureau des assemblées`, les présidents de groupes parlementaires votent au prorata du nombre de membres de leur groupe respectif, retranché du nombre de membres du groupe déjà présents.
 
 .. article::
 
@@ -618,13 +620,13 @@ Un texte porté en référendum est retiré de l'ordre du jour de l'assemblée.
 
 .. article:: (AN, S) refus d'office
 
-Si l'autre assemblée ne s'est pas prononcée sur un texte qui lui a été transmis, après l'expiration du délai fixé par la loi organique prévue à :artref:`navette parlementaire et CMP` de la Constitution, le texte peut être placé à l'ordre du jour de l'assemblée.
+Si l'autre assemblée ne s'est pas prononcée sur un texte qui lui a été transmis, après l'expiration du délai fixé par la loi organique prévue à :artref:`navette parlementaire et CMP`, le texte peut être placé à l'ordre du jour de l'assemblée.
 
 Avant sa considération, l'assemblée vote sur la considération du texte comme rejeté d'office par l'autre assemblée. En cas d'approbation, l'autre assemblée en est déssaisie, et le texte tel qu'amendé par l'autre assemblée est immédiatement examiné par l'assemblée. En cas de rejet, l'examen du texte est retiré de l'ordre du jour de l'assemblée.
 
 .. article:: (AN, S) adoption sans l'autre assemblée
 
-Lorsque les conditions prévues à :artref:`adoption par une seule assemblée` de la Constitution sont réunies, le vote sur l'ensemble d'un texte a lieu dans les conditions suivantes.
+Lorsque les conditions prévues à :artref:`adoption par une seule assemblée` sont réunies, le vote sur l'ensemble d'un texte a lieu dans les conditions suivantes.
 
 Si le texte est approuvé par la majorité qualifiée prévue au même article de la Constitution, il est considéré comme adopté par le Parlement. Dans le cas contraire, il est transmis à l'autre assemblée avec adoption ou rejet à la majorité simple par l'assemblée.
 
@@ -647,7 +649,7 @@ En cas de retrait, l'Assemblée Nationale est à nouveau saisie du texte à l'é
 
 .. article:: déclenchement
 
-Une commission mixte paritaire est déclenchée par le Bureau sur un texte répondant aux conditions prévues par :artref:`navette parlementaire et CMP` de la Constitution.
+Une commission mixte paritaire est déclenchée par le Bureau sur un texte répondant aux conditions prévues par :artref:`navette parlementaire et CMP`.
 
 Elle peut aussi être déclenchée par décision du Bureau de l'autre assemblée.
 
@@ -691,7 +693,7 @@ Après la période allouée aux questions au gouvernement, l'assemblée présent
 
 .. article:: déclaration de la part du gouvernement
 
-Une demande de déclaration du gouvernement par un groupe parlementaire au sens de :artref:`déclaration du gouvernement` de la Constitution se fait de droit une fois par mois calendaire, et une fois par an pour chaque groupe. Une demande de déclaration de la part du Chancelier se fait de droit une fois par mois calendaire. Toute autre demande de déclaration est soumise à l'accord du Bureau.
+Une demande de déclaration du gouvernement par un groupe parlementaire au sens de :artref:`déclaration du gouvernement` se fait de droit une fois par mois calendaire, et une fois par an pour chaque groupe. Une demande de déclaration de la part du Chancelier se fait de droit une fois par mois calendaire. Toute autre demande de déclaration est soumise à l'accord du Bureau.
 
 Toute demande de déclaration est liée à un sujet déterminé.
 
@@ -713,7 +715,7 @@ Il est voté à la majorité simple, au scrutin public.
 
 .. article:: remplacement de membres du gouvernement
 
-Si le gouvernement est majoritaire dans cette assemblée, dans les trois jours de séance suivant le remplacement par le Chancelier de la République d'un membre du gouvernement selon les conditions décrites à :artref:`démissions au gouvernement` de la Constitution, est placé dans l'ordre du jour en priorité la proposition d'autres individus en remplacement.
+Si le gouvernement est majoritaire dans cette assemblée, dans les trois jours de séance suivant le remplacement par le Chancelier de la République d'un membre du gouvernement selon les conditions décrites à :artref:`démissions au gouvernement`, est placé dans l'ordre du jour en priorité la proposition d'autres individus en remplacement.
 
 Le Chancelier assiste de droit à la séance.
 
@@ -730,7 +732,7 @@ Une motion de censure est déposée auprès du Bureau restreint par des représe
 
 Une motion de censure peut contenir une justification politique de la motion, et dans le cas de la censure d'un membre autre que le Chancelier, une proposition de remplacement.
 
-Le Bureau restreint se prononce sur la régularité de la motion de censure au titre de :artref:`motions de censure` de la Constitution. Elle n'est déclarée irrecevable qu'avec l'opposition des deux tiers des membres du Bureau restreint.
+Le Bureau restreint se prononce sur la régularité de la motion de censure au titre de :artref:`motions de censure`. Elle n'est déclarée irrecevable qu'avec l'opposition des deux tiers des membres du Bureau restreint.
 
 .. article:: débat et vote de motion de censure
 

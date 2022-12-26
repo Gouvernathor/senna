@@ -2,6 +2,8 @@
 Charte des droits fondamentaux
 ==============================
 
+.. artsource:: de la Charte des droits fondamentaux
+
 .. note::
     L'objet de la Constitution Senna est une nouvelle organisation des instances de la république. Tout ce qui touche aux objectifs, intérêts et droits fondamentaux défendus dans le cadre de cette république, c'est moins le job d'un constitutionnaliste que celui d'un politique plus classique.
 
