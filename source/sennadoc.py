@@ -11,6 +11,7 @@ registered_source = {} # document -> source (str)
 counters = {} # source (str) -> number of articles (int)
 registered_articles = {} # article name (str) -> tuple(source (str), article number (int))
 dummy_id = 0
+translator = {1:"premier"}
 
 class ArtsourceDirective(Directive):
     """
@@ -47,7 +48,9 @@ class ArticleDirective(sphinx.domains.std.Target):
         except KeyError:
             raise ExtensionError(f"no source name registered for document {self.state.document.current_source!r}")
         counters[source] += 1
-        name = f"Article {counters[source]}"
+        nb = counters[source]
+        nb = translator.get(nb, nb)
+        name = f"Article {nb}"
 
         if not self.arguments:
             # anonymous article - not referenceable, no target
@@ -62,7 +65,7 @@ class ArticleDirective(sphinx.domains.std.Target):
             fullname = sphinx.domains.std.ws_re.sub(' ', self.arguments[0].strip())
             if fullname in registered_articles:
                 raise ExtensionError(f"an article {fullname!r} is already registered")
-            registered_articles[fullname] = (source, counters[source])
+            registered_articles[fullname] = (source, nb)
             name = f"{name} - {fullname}"
             # yes, the name is longer than the fullname
 
