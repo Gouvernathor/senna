@@ -31,4 +31,4 @@ ces textes fondent une nouvelle république parlementaire délibérative, plus �
    constitution_5
 .. reglement_unga
 
-`Règlement intérieur de l'Assemblée Générale des Nations-Unies <https://digitallibrary.un.org/record/3896201/files/A_520_Rev.19-FR.pdf>`_
+`Règlement intérieur de l'Assemblée Générale des Nations-Unies <https://digitallibrary.un.org/record/3896201/files/A_520_Rev.19-FR.pdf>`__

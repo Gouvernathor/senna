@@ -198,9 +198,9 @@ L'initiative de la révision de la Constitution appartient concurremment aux cit
 
 La révision est définitive après avoir été approuvée par référendum selon les modalités prévues à :artref:`référendums`, ou après avoir été adoptée par le Parlement rassemblé en Congrès.
 
-Lorsque les assemblées parlementaires décident de convoquer le Parlement en Congrès, le projet de révision n'est approuvé que si sa considération a été prévue par la motion de réunion de la session commune, qui doit inclure le texte du projet de révision, et s'il réunit la majorité des trois cinquièmes des suffrages exprimés.
+Lorsque les assemblées parlementaires convoquent le Parlement en Congrès, le projet de révision n'est approuvé que si sa considération a été prévue par la motion de réunion de la session commune, qui doit inclure le texte du projet de révision, et s'il réunit la majorité des trois cinquièmes des suffrages exprimés.
 
-Dans le cas d'une révision adoptée en Congrès, le délai de ratification est alors de trois mois à compter de son adoption. Une pétition pour l'annulation de cette révision recevant le soutien d'un centième des citoyens suspend l'application de la révision, ainsi que le délai de ratification le cas échéant, et la porte en référendum en dérogation du premier alinéa de :artref:`référendums`.
+Dans le cas d'une révision adoptée en Congrès, le délai de ratification est de trois mois à compter de son adoption. Une pétition pour l'annulation de cette révision recevant le soutien d'un centième des citoyens moins d'un an après son adoption, suspend l'application de la révision, ainsi que le délai de ratification le cas échéant, et la porte en référendum en dérogation du premier alinéa de :artref:`référendums`.
 
 Aucune procédure de révision ne peut être engagée ou poursuivie lorsqu'il est porté atteinte à l'intégrité du territoire.
 
