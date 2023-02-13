@@ -102,7 +102,7 @@ Relative à :artref:`lois de finances et de financement de la sécurité sociale
 
 Article premier - délais d'adoption
 -----------------------------------
-Une loi de finances et une loi de financement de la sécurité sociale doivent être adoptées pour chaque année civile.
+Une loi de finances et une loi de financement de la sécurité sociale doivent être adoptées pour chaque année civile, lors de l'année civile précédente ou, à défaut, lors de l'année concernée.
 
 Dans le cas où la loi de finances ne serait pas adoptée au moins quinze jours calendaires avant le début de l'année civile, le gouvernement dispose par pouvoir réglementaire en matière financière pour l'année civile concernée, jusqu'à adoption d'une telle loi.
 
