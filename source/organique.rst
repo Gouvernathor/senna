@@ -112,7 +112,7 @@ La loi de finances ou de financement de la sécurité sociale peut être amendé
 
 Article 2 - navette accélérée
 -----------------------------
-À chaque lecture, lorsqu'une assemblée saisie d'une proposition de loi de finances ou de financement de la sécurité sociale ne s'est pas prononcée après une durée inférieure à la moitié du temps restant avant la fin de l'année civile mais au moins égale à quatre jours de séance, le texte tel qu'amendé est transmis à l'autre assemblée.
+À chaque lecture, lorsqu'une assemblée saisie d'une proposition de loi de finances ou de financement de la sécurité sociale ne s'est pas prononcée sur le texte après une durée supérieure à la moitié du temps restant avant la fin de l'année civile et au moins égale à quatre jours de séance, le texte tel qu'amendé est transmis à l'autre assemblée.
 
 -----------------------------------------------
 Relative à :artref:`référendums`
