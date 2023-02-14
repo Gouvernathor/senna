@@ -156,9 +156,9 @@ Si la commission mixte paritaire ne parvient pas à l'adoption d'un texte commun
 
 Cependant, après une nouvelle lecture par l'Assemblée nationale et par le Sénat, l'Assemblée nationale peut statuer définitivement à la majorité des trois cinquièmes de ses membres, ou porter le texte à l'approbation du peuple par référendum. En ce cas, l'Assemblée nationale peut reprendre soit le texte élaboré par la commission mixte paritaire, soit le dernier texte voté par elle, modifié le cas échéant par un ou plusieurs des amendements adoptés par le Sénat.
 
-.. Dans le cas d'une loi de finances, la majorité qualifiée prévue à l'alinéa précédent n'est pas requise pour que l'Assemblée nationale statue définitivement.
+Dans le cas d'une loi de finances, la majorité qualifiée prévue à l'alinéa précédent n'est pas requise pour que l'Assemblée nationale statue définitivement.
 
-Dans le cas d'une loi de financement de la sécurité sociale, après une nouvelle lecture par l'Assemblée nationale et le Sénat, le Sénat peut statuer définitivement. En ce cas, le Sénat peut reprendre soit le texte élaboré par la commission mixte paritaire, soit le dernier texte voté par lui, modifié le cas échéant par un ou plusieurs des amendements adoptés par l'Assemblée nationale.
+Dans le cas d'une loi de financement de la sécurité sociale, le pouvoir de statuer définitivement après une nouvelle lecture revient au Sénat, sans majorité qualifiée requise.
 
 .. article:: lois organiques
 
