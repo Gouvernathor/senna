@@ -192,13 +192,9 @@ Le nombre de citoyens nécessaire pour la saisine prévue à :artref:`constituti
 Relative à :artref:`contrôle de constitutionnalité en instance législative`
 ---------------------------------------------------------------------------
 
-Article premier - quorum populaire
+Article unique - quorum populaire
 ----------------------------------
 Le nombre de citoyens nécessaire pour la saisine prévue à :artref:`contrôle de constitutionnalité en instance législative` est d'un centième des citoyens inscrits sur les listes électorales.
-
-Article 2 - procédure parlementaire
------------------------------------
-Un texte ou une partie d'un texte adoptés en violation des procédures prévues par les réglements des assemblées est considéré comme n'étant pas adopté par le Parlement de manière régulière. Il est en conséquence prononcé non-conforme à la Constitution.
 
 .. --------------------------------------------------------------------------------
 .. Relative à :artref:`contrôle de constitutionnalité en instance juridictionnelle`
@@ -208,9 +204,15 @@ Un texte ou une partie d'un texte adoptés en violation des procédures prévues
 Relative à :artref:`fonctionnement du Conseil constitutionnel`
 --------------------------------------------------------------
 
-Article unique - conséquences du contrôle en instance législative
------------------------------------------------------------------
-Dans le cas où certaines des dispositions d'un texte seraient déclarées inconstitutionnelles, le texte est renvoyé à la dernière assemblée parlementaire à l'avoir considéré. Sauf dans le cas où le parlement en exprimerait la décision avant son adoption, les dispositions constitutionnelles du texte ne sont pas promulguées.
+Article premier - conséquences du contrôle en instance législative
+------------------------------------------------------------------
+Dans le cas où certaines des dispositions d'un texte adopté par le Parlement seraient déclarées inconstitutionnelles avant sa promulgation, le texte est renvoyé à la dernière assemblée parlementaire à l'avoir considéré. Sauf dans le cas où le Parlement en exprimerait la décision avant l'adoption du texte, les dispositions constitutionnelles du texte ne sont pas promulguées.
+
+Article 2 - contrôle de la procédure parlementaire
+--------------------------------------------------
+Un texte ou une partie d'un texte adoptés en violation des procédures prévues par les réglements des assemblées est considéré comme n'étant pas adopté par le Parlement de manière régulière. Il est en conséquence prononcé non-conforme à la Constitution en cas de contrôle par le Conseil constitutionnel.
+
+.. délais ouverts pour la saisine
 
 .. ------------------------------------------------------------
 .. Relative à :artref:`l'autorité judiciaire`
