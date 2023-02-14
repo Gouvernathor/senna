@@ -114,6 +114,22 @@ Article 2 - navette accélérée
 -----------------------------
 À chaque lecture, lorsqu'une assemblée saisie d'une proposition de loi de finances ou de financement de la sécurité sociale ne s'est pas prononcée sur le texte après une durée supérieure à la moitié du temps restant avant la fin de l'année civile et au moins égale à quatre jours de séance, le texte tel qu'amendé est transmis à l'autre assemblée.
 
+Article 3 - lois d'amendement
+-----------------------------
+Les propositions de loi d'amendement portant soit sur la loi de finances, soit sur la loi de financement de la sécurité sociale, doivent être déposées dans la même assemblée que la loi qu'elles amendent, et ne peuvent être adoptées en dernier recours que par cette assemblée.
+
+Les propositions de loi amendant à la fois une loi de finances et une loi de financement de la sécurité sociale peuvent être déposées dans n'importe quelle assemblée, mais la procédure prévue à :artref:`adoption par une seule assemblée` n'est pas applicable.
+
+Une proposition de loi d'amendement ne peut être déposée avant l'adoption de la loi qu'elle vise à amender.
+
+Article 4 - lois plurianuelles
+------------------------------
+Une proposition de loi portant sur les mêmes matières et visant à s'appliquer sur plusieurs années ou de manière permanente est une loi plurianuelle de programmation de finances, ou de financement de la sécurité sociale, ou les deux.
+
+Les propositions de loi pluriannuelle sont déposées, examinées et adoptées selon les mêmes conditions que les lois ordinaires. Elles ne peuvent entrer en vigueur qu'à compter de la fin de l'année civile suivant celle de leur adoption. Leur application anticipée peut être prévue par une loi de finances ou de financement de la sécurité sociale ou d'amendement à celles-ci.
+
+.. contenu réservé, facultatif, obligatoire...
+
 -----------------------------------------------
 Relative à :artref:`référendums`
 -----------------------------------------------
