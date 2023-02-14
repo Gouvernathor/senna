@@ -658,7 +658,7 @@ Au plus une de ces motions peut être adoptée. Le vote se fait par approbation.
 
 .. article:: (AN) retrait de référendum
 
-Après une décision du Conseil Constitutionnel portant non-conformité partielle d'un texte proposé en référendum conformément à :artref:`(AN, S) adoption sans l'autre assemblée`, une motion portant retrait du référendum est placée d'office en priorité dans l'ordre du jour de la séance suivante.
+Après une décision du Conseil constitutionnel portant non-conformité partielle d'un texte proposé en référendum conformément à :artref:`(AN, S) adoption sans l'autre assemblée`, une motion portant retrait du référendum est placée d'office en priorité dans l'ordre du jour de la séance suivante.
 
 En cas de non-conformité totale, le référendum est considéré d'office comme retiré par l'Assemblée Nationale.
 

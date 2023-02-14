@@ -210,9 +210,9 @@ Un référendum est convoqué par le Parlement, ou une pétition rassemblant tro
 
 Le vote doit avoir lieu dans les trois mois suivant le déclenchement du référendum, sauf par dérogation du Parlement dans le cas où le référendum n'est pas d'origine populaire. L'administration est responsable de sa tenue.
 
-Hors référendums consultatifs, la valeur constitutionnelle d'un texte doit être établie avant que le vote n'ait lieu. Le Conseil Constitutionnel la constate par un avis public présentant, le cas échéant, les modifications de la Constitution qui résulteraient de son adoption. Si le référendum a été déclenché par l'Assemblée nationale seule et si il a valeur constitutionnelle, les dispositions contraires à la Constitution sont retirées du texte et l'Assemblée nationale peut décider d'annuler la tenue du référendum.
+Hors référendums consultatifs, la valeur constitutionnelle d'un texte doit être établie avant que le vote n'ait lieu. Le Conseil constitutionnel la constate par un avis public présentant, le cas échéant, les modifications de la Constitution qui résulteraient de son adoption. Si le référendum a été déclenché par l'Assemblée nationale seule et si il a valeur constitutionnelle, les dispositions contraires à la Constitution sont retirées du texte et l'Assemblée nationale peut décider d'annuler la tenue du référendum.
 
-Cet avis ne doit pas être rendu plus d'un mois après le déclenchement du référendum, et lorsque le texte a valeur constitutionnelle, le vote ne peut avoir lieu moins d'un mois après que l'avis soit rendu public. Toutefois, dans les cas où le référendum n'est pas d'origine populaire et où le texte n'a pas valeur constitutionnelle, le Parlement peut allonger le délai laissé au Conseil Constitutionnel.
+Cet avis ne doit pas être rendu plus d'un mois après le déclenchement du référendum, et lorsque le texte a valeur constitutionnelle, le vote ne peut avoir lieu moins d'un mois après que l'avis soit rendu public. Toutefois, dans les cas où le référendum n'est pas d'origine populaire et où le texte n'a pas valeur constitutionnelle, le Parlement peut allonger le délai laissé au Conseil constitutionnel.
 
 ---------------------------
 Titre III — Le gouvernement
@@ -338,13 +338,13 @@ La loi organique fixe le délai de tenue du référendum et peut prévoir des ca
 
 .. article:: incompatibilité de mandat représentatif
 
-Les fonctions de membre du gouvernement, de membre du Conseil Constitutionnel, de Défenseur des Droits, d'élu de collectivité territoriale, ainsi que de personnalité qualifiée membre du Conseil National de la Magistrature, sont incompatibles entre elles, ainsi qu'avec toute appartenance à l'ordre judiciaire et à l'ordre administratif, et avec l'exercice de tout mandat parlementaire, de toute fonction de représentation professionnelle à caractère national, et de tout emploi public ou de toute activité professionnelle.
+Les fonctions de membre du gouvernement, de membre du Conseil constitutionnel, de Défenseur des Droits, d'élu de collectivité territoriale, ainsi que de personnalité qualifiée membre du Conseil National de la Magistrature, sont incompatibles entre elles, ainsi qu'avec toute appartenance à l'ordre judiciaire et à l'ordre administratif, et avec l'exercice de tout mandat parlementaire, de toute fonction de représentation professionnelle à caractère national, et de tout emploi public ou de toute activité professionnelle.
 
 L'exercice de ces fonctions requiert de plus la qualité d'électeur, ainsi que l'éligibilité.
 
 La loi établit les autres conditions de prise de fonctions de membre du gouvernement, de Défenseur des Droits, d'élu de collectivité territoriale ou de personnalité qualifiée membre du Conseil National de la Magistrature.
 
-La loi organique établit les autres conditions de prise de fonctions au Conseil Constitutionnel.
+La loi organique établit les autres conditions de prise de fonctions au Conseil constitutionnel.
 
 .. article:: commission de contrôle parlementaire
 
