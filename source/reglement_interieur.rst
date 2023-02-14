@@ -541,9 +541,9 @@ Le vote par approbation est un mode de scrutin où chaque votant peut approuver 
 
 Le vote à choix unique est un mode de scrutin où chaque votant peut choisir une ou aucune des propositions. Sauf indication contraire, la proposition recevant le plus de voix est adoptée.
 
-Le vote binaire, ou vote simple, est un mode de scrutin où chaque votant peut choisir approuver et rejeter l'option proposée.
+Le vote binaire, ou vote simple, est un mode de scrutin où chaque votant peut approuver et rejeter la proposition unique.
 
-L'assemblée vote normalement à main levée ou par assis et débout.
+L'assemblée vote normalement à main levée ou par assis et debout.
 
 Le vote solennel, ou par appel nominal, a lieu par appel des membres dans l'ordre alphabétique de leurs noms à partir d'une lettre tirée au sort par le président de séance. Chaque membre, ou son délégué, répond de l'une des options qui lui sont offertes, ou "abstention". Un membre absent ou ne répondant pas est compté comme une abstention.
 
@@ -557,7 +557,7 @@ Lorsque le début du vote est annoncé par le président de séance, aucun membr
 
 .. article:: division de vote
 
-Tout représentant de groupe peut demande que des parties d'une proposition ou d'un amendement soient mises aux voix séparément. S'il est fait objection à la demande de division par un autre représentant de groupe, la motion de division est immédiatement au vote sans être discutée. Elle est adoptée sauf opposition des deux tiers des membres présents et votants.
+Tout représentant de groupe peut demander que des parties d'une proposition soient mises aux voix séparément. S'il est fait objection à la demande de division par un autre représentant de groupe, la motion de division est immédiatement au vote sans être discutée. Elle est adoptée sauf opposition des deux tiers des membres présents et votants.
 
 Si la motion de division est adoptée, les parties de la proposition ou de l'amendement qui ont été adoptées séparément sont ensuite mises aux voix en bloc. Si toutes les parties d'une proposition ou d'un amendement sont rejetées, la proposition ou l'amendement est considéré comme rejeté dans son ensemble.
 
@@ -571,15 +571,15 @@ Le vote sur des amendements mutuellement exclusifs a lieu par approbation, en of
 
 .. article:: élections plurinominales
 
-Les élections visant à désigner deux ou plusieurs postes ou positions sont organisées, sauf indication contraire, au scrutin public par approbation.
+Les élections visant à attribuer deux ou plusieurs postes sont organisées, sauf indication contraire, au scrutin public par approbation.
 
-Au premier tour de scrutin, les candidats réunissant la majorité absolue ou requise des suffrages exprimés à leur égard sont élus dans l'ordre décroissant des votes reçus par chacun jusqu'à ce que le nombre de sièges à pourvoir soit atteint. Si des sièges restent encore à pourvoir, un second tour de scrutin a lieu avec le même fonctionnement. Si un troisième tour de scrutin est nécessaire, et sauf si une majorité qualifiée est requise, les candidats réunissant le plus de votes sont élus aux sièges restants.
+Au premier tour de scrutin, les candidats réunissant la majorité absolue ou requise des suffrages exprimés sont élus dans l'ordre décroissant des votes reçus par chacun jusqu'à ce que le nombre de sièges à pourvoir soit atteint. Si des sièges restent encore à pourvoir, un second tour de scrutin a lieu avec le même fonctionnement. Si un troisième tour de scrutin est nécessaire, et sauf si une majorité qualifiée est requise, les candidats réunissant le plus de votes sont élus aux sièges restants.
 
 Si plusieurs candidats arrivent à égalité, ils sont départagés en un tour de scrutin où eux seuls sont candidats, et où le nombre d'approbation par électeur est limité au nombre de sièges devant être attribués aux candidats à départager.
 
 .. article:: élections uninominales
 
-Les élections visant à désigner un seul poste ou position sont organisées, sauf indication contraire, au scrutin public par approbation.
+Les élections visant à attribuer un seul poste sont organisées, sauf indication contraire, au scrutin public par approbation.
 
 Si aucun candidat n'obtient la majorité absolue ou requise au premier tour, un second tour de scrutin a lieu avec le même fonctionnement. Si un troisième tour de scrutin est nécessaire, et sauf si une majorité qualifiée est requise, le candidat réunissant le plus de votes est élu.
 
@@ -591,9 +591,9 @@ XIII. Commissions
 
 .. (...)
 
-.. le Bureau (étendu ?) peut décider de la priorité relative des propositions de loi au sein de l'ordre du jour des commissions (mais pas du reste de l'odj)
+.. le Bureau (étendu ?) peut décider de la priorité relative des propositions de loi au sein de l'ordre du jour des commissions (mais pas du reste de leur odj)
 
-.. le rapporteur d'une proposition de loi assiste de droit (et +), mais sans droit de vote, aux séances portant sur la proposition de loi d'une commission dont il n'est pas membre
+.. le rapporteur d'une proposition de loi assiste de droit (et +), mais sans droit de vote, aux séances d'une commission dont il n'est pas membre portant sur sa proposition de loi
 
 .. inclure CMP en tant que sous-partie - déclenchement, fonctionnement et conséquences en séance plénière
 

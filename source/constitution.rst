@@ -398,7 +398,7 @@ La durée de la période d'inéligibilité prévue à :artref:`inéligibilité p
 
 .. article:: contrôle de la nomination du gouvernement
 
-Le Conseil Constitutionnel veille au respect des modalités de :artref:`nomination du gouvernement`. Il statue sur la nomination du gouvernement, en cas de désaccord entre le président du Sénat et le président de l'Assemblée Nationale ou en cas de contestation.
+Le Conseil constitutionnel veille au respect des modalités de :artref:`nomination du gouvernement`. Il statue sur la nomination du gouvernement, en cas de désaccord entre le président du Sénat et le président de l'Assemblée Nationale ou en cas de contestation.
 
 Il veille également à la régularité des motions de censure.
 
@@ -430,7 +430,7 @@ Une loi organique détermine les conditions d'application du présent article.
 
 Une disposition déclarée inconstitutionnelle sur le fondement de :artref:`contrôle de constitutionnalité en instance législative` ne peut être promulguée ni mise en application.
 
-Une disposition déclarée inconstitutionnelle sur le fondement de :artref:`contrôle de constitutionnalité en instance juridictionnelle` est abrogée à compter de la publication de la décision du Conseil constitutionnel ou d'une date ultérieure fixée par cette décision. Le Conseil constitutionnel détermine les conditions et limites dans lesquelles les effets que la disposition a produits sont susceptibles d'être remis en cause.
+Une disposition déclarée inconstitutionnelle sur le fondement de :artref:`contrôle de constitutionnalité en instance juridictionnelle` est abrogée à compter de la publication de la décision du Conseil constitutionnel ou d'une date ultérieure fixée par cette décision. Le Conseil constitutionnel détermine les conditions et limites dans lesquelles les effets de la disposition sont susceptibles d'être remis en cause.
 
 Les décisions du Conseil constitutionnel ne sont susceptibles d'aucun recours. Elles s'imposent aux pouvoirs publics et à toutes les autorités administratives et juridictionnelles.
 
