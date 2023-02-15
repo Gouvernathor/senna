@@ -451,7 +451,7 @@ Article 47
 ----------
 Le Parlement vote les projets de loi de finances dans les conditions prévues par une loi organique.
 
-Si l'Assemblée nationale ne s'est pas prononcée en première lecture dans le délai de quarante jours après le dépôt d'un projet, le gouvernement saisit le Sénat qui doit statuer dans un délai de quinze jours. Il est ensuite procédé dans les conditions prévues à `l'article 45 <#article-45>`.
+Si l'Assemblée nationale ne s'est pas prononcée en première lecture dans le délai de quarante jours après le dépôt d'un projet, le gouvernement saisit le Sénat qui doit statuer dans un délai de quinze jours. Il est ensuite procédé dans les conditions prévues à `l'article 45 <#article-45>`_.
 
 Si le Parlement ne s'est pas prononcé dans un délai de soixante-dix jours, les dispositions du projet peuvent être mises en vigueur par ordonnance.
 
