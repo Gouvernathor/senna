@@ -110,6 +110,8 @@ Dans le cas où la loi de financement de la sécurité sociale ne serait pas ado
 
 La loi de finances ou de financement de la sécurité sociale peut être amendée par le Parlement au cours de l'année sur laquelle elle porte.
 
+La loi de finances et la loi de financement de la sécurité sociale, même amendées, ne sont en vigueur et ne peuvent entraîner d'effets que pour l'année civile concernée.
+
 Article 2 - navette accélérée
 -----------------------------
 À chaque lecture, lorsqu'une assemblée saisie d'une proposition de loi de finances ou de financement de la sécurité sociale ne s'est pas prononcée sur le texte après une durée supérieure à la moitié du temps restant avant la fin de l'année civile et au moins égale à quatre jours de séance, le texte tel qu'amendé est transmis à l'autre assemblée.
