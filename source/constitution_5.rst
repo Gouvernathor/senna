@@ -2,21 +2,33 @@
 Constitution de la Vème République Française
 ============================================
 
+.. note::
+    Les annotations et références en marge expliquent comment les éléments en question ont été
+    changés ou remplacés dans la nouvelle constitution.
+
 -------------------
 Articles liminaires
 -------------------
 
 Préambule
 ---------
-Le peuple français proclame solennellement son attachement aux Droits de l'Homme et aux principes de la souveraineté nationale tels qu'ils ont été définis par la Déclaration de 1789, confirmée et complétée par le préambule de la Constitution de 1946, ainsi qu'aux droits et devoirs définis dans la Charte de l'environnement de 2004.
+Le peuple français proclame solennellement son attachement aux Droits de l'Homme et aux principes de la souveraineté nationale tels qu'ils ont été définis par la Déclaration de 1789, confirmée et complétée par le préambule de la Constitution de 1946, ainsi qu'aux droits et devoirs définis dans la Charte de l'environnement de 2004. [#a]_
 
-En vertu de ces principes et de celui de la libre détermination des peuples, la République offre aux territoires d'outre-mer qui manifestent la volonté d'y adhérer des institutions nouvelles fondées sur l'idéal commun de liberté, d'égalité et de fraternité et conçues en vue de leur évolution démocratique.
+.. [#a] Les droits fondamentaux sont explicitement référés dans le premier article, pas évasivement comme ça
+
+En vertu de ces principes et de celui de la libre détermination des peuples, la République offre aux territoires d'outre-mer qui manifestent la volonté d'y adhérer des institutions nouvelles fondées sur l'idéal commun de liberté, d'égalité et de fraternité et conçues en vue de leur évolution démocratique. [#b]_
+
+.. [#b] pas d'outre-mer à statut particulier
 
 Article premier
 ---------------
-La France est une République indivisible, laïque, démocratique et sociale. Elle assure l'égalité devant la loi de tous les citoyens sans distinction d'origine, de race ou de religion. Elle respecte toutes les croyances. Son organisation est décentralisée.
+La France est une République indivisible, laïque, démocratique et sociale. Elle assure l'égalité devant la loi de tous les citoyens sans distinction d'origine, de race ou de religion. [#c]_ Elle respecte toutes les croyances. Son organisation est décentralisée.
 
-La loi favorise l'égal accès des femmes et des hommes aux mandats électoraux et fonctions électives, ainsi qu'aux responsabilités professionnelles et sociales.
+.. [#c] droit à l'indifférenciation plus général dans les droits fondamentaux
+
+La loi favorise l'égal accès des femmes et des hommes aux mandats électoraux et fonctions électives, ainsi qu'aux responsabilités professionnelles et sociales. [#d]_
+
+.. [#d] idem
 
 ------------------------------
 Titre Ier — De la Souveraineté
@@ -26,9 +38,13 @@ Article 2
 ---------
 La langue de la République est le français.
 
-L'emblème national est le drapeau tricolore, bleu, blanc, rouge.
+L'emblème national [#e]_ est le drapeau tricolore, bleu, blanc, rouge.
 
-L'hymne national est "La Marseillaise".
+.. [#e] pas la "nation", l'état
+
+L'hymne national est "La Marseillaise". [#f]_
+
+.. [#f] pas d'hymne
 
 La devise de la République est "Liberté, Égalité, Fraternité".
 
@@ -42,25 +58,39 @@ Aucune section du peuple ni aucun individu ne peut s'en attribuer l'exercice.
 
 Le suffrage peut être direct ou indirect dans les conditions prévues par la Constitution. Il est toujours universel, égal et secret.
 
-Sont électeurs, dans les conditions prévues par la loi, tous les nationaux français majeurs des deux sexes, jouissant de leurs droits civils et politiques.
+Sont électeurs, dans les conditions prévues par la loi, tous les nationaux français [#g]_ majeurs des deux sexes [#h]_, jouissant de leurs droits civils et politiques.
+
+.. [#g] trop limitant
+
+.. [#h] pas de critères identitaires
 
 Article 4
 ---------
-Les partis et groupements politiques concourent à l'expression du suffrage. Ils se forment et exercent leur activité librement. Ils doivent respecter les principes de la souveraineté nationale et de la démocratie.
+Les partis et groupements politiques concourent à l'expression du suffrage. Ils se forment et exercent leur activité librement. Ils doivent respecter les principes de la souveraineté nationale et de la démocratie. [#i]_
 
-Ils contribuent à la mise en oeuvre du principe énoncé au second alinéa de `l'article 1er <#article-premier>`_ dans les conditions déterminées par la loi.
+.. [#i] pas de contrainte sur ce que défendent les partis
+
+Ils contribuent à la mise en oeuvre du principe énoncé au second alinéa de `l'article 1er <#article-premier>`_ dans les conditions déterminées par la loi. [#j]_
+
+.. [#j] alinéa retiré
 
 La loi garantit les expressions pluralistes des opinions et de la participation équitable des partis et groupements politiques à la vie démocratique de la Nation.
 
-----------------------------------------
-Titre II — Le président de la République
-----------------------------------------
+----------------------------------------------
+Titre II — Le président de la République [#k]_
+----------------------------------------------
+
+.. [#k] plus de président, titre supprimé dans son intégralité
 
 Article 5
 ---------
-Le président de la République veille au respect de la Constitution. Il assure, par son arbitrage, le fonctionnement régulier des pouvoirs publics ainsi que la continuité de l'État.
+Le président de la République veille au respect de la Constitution. Il assure, par son arbitrage, le fonctionnement régulier des pouvoirs publics ainsi que la continuité de l'État. [#l]_
 
-Il est le garant de l'indépendance nationale, de l'intégrité du territoire et du respect des traités.
+.. [#l] c'est le job du conseil constitutionnel et un peu du gouvernement, repris dans leurs articles respectifs
+
+Il est le garant de l'indépendance nationale, de l'intégrité du territoire et du respect des traités. [#m]_
+
+.. [#m] c'est le job du parlement et du gouvernement
 
 Article 6
 ---------
@@ -94,24 +124,34 @@ Le Conseil constitutionnel peut proroger les délais prévus aux troisième et c
 
 Il ne peut être fait application ni des articles `49 <#article-49>`_ et `50 <#article-50>`_ ni de `l'article 89 <#article-89>`_ de la Constitution durant la vacance de la présidence de la République ou durant la période qui s'écoule entre la déclaration du caractère définitif de l'empêchement du président de la République et l'élection de son successeur.
 
-Article 8
----------
+Article 8 [#n]_
+---------------
+
 Le président de la République nomme le Premier ministre. Il met fin à ses fonctions sur la présentation par celui-ci de la démission du gouvernement.
 
 Sur la proposition du Premier ministre, il nomme les autres membres du gouvernement et met fin à leurs fonctions.
 
-Article 9
----------
+.. [#n] remplacé par l'article sur la nomination du gouvernement
+
+Article 9 [#o]_
+---------------
+
 Le président de la République préside le Conseil des ministres.
 
-Article 10
-----------
+.. [#o] remplacé/fusionné avec le Chancelier dans son article
+
+Article 10 [#p]_
+----------------
+
 Le président de la République promulgue les lois dans les quinze jours qui suivent la transmission au gouvernement de la loi définitivement adoptée.
 
 Il peut, avant l'expiration de ce délai, demander au Parlement une nouvelle délibération de la loi ou de certains de ces articles. Cette nouvelle délibération ne peut être refusée.
 
-Article 11
-----------
+.. [#p] souveraineté du Parlement, délai de ratification mis dans l'article sur la navette parlementaire
+
+Article 11 [#q]_
+----------------
+
 Le président de la République, sur proposition du gouvernement pendant la durée des sessions ou sur proposition conjointe des deux assemblées, publiées au Journal officiel, peut soumettre au référendum tout projet de loi portant sur l'organisation des pouvoirs publics, sur des réformes relatives à la politique économique, sociale ou environnementale de la nation et aux services publics qui y concourent, ou tendant à autoriser la ratification d'un traité qui, sans être contraire à la Constitution, aurait des incidences sur le fonctionnement des institutions.
 
 Lorsque le référendum est organisé sur proposition du gouvernement, celui-ci fait, devant chaque assemblée, une déclaration qui est suivie d'un débat.
@@ -126,8 +166,11 @@ Lorsque la proposition de loi n'est pas adoptée par le peuple français, aucune
 
 Lorsque le référendum a conclu à l'adoption du projet ou de la proposition de loi, le président de la République promulgue la loi dans les quinze jours qui suivent la proclamation des résultats de la consultation.
 
-Article 12
-----------
+.. [#q] remplacé par l'article sur les référendums
+
+Article 12 [#r]_
+----------------
+
 Le président de la République peut, après consultation du Premier ministre et des présidents des assemblées, prononcer la dissolution de l'Assemblée nationale.
 
 Les élections générales ont lieu vingt jours au moins et quarante jours au plus après la dissolution.
@@ -136,8 +179,10 @@ L'Assemblée nationale se réunit de plein droit le deuxième jeudi qui suit son
 
 Il ne peut être procédé à une nouvelle dissolution dans l'année qui suit ces élections.
 
-Article 13
-----------
+.. [#r] pas de dissolution arbitraire, si ce n'est d'une chambre par une autre
+
+Article 13 [#s]_
+----------------
 Le président de la République signe les ordonnances et les décrets délibérés en Conseil des ministres.
 
 Il nomme aux emplois civils et militaires de l'État.
@@ -156,8 +201,10 @@ Article 15
 ----------
 Le président de la République est le chef des armées. Il préside les conseils et les comités supérieurs de la Défense nationale.
 
-Article 16
-----------
+.. [#s] articles 13, 14 et 15 remplacés par le Chancelier sous le contrôle du Parlement, dans l'article sur le Chancelier
+
+Article 16 [#t]_
+----------------
 Lorsque les institutions de la République, l'indépendance de la Nation, l'intégrité de son territoire ou l'exécution de ses engagements internationaux sont menacés d'une manière grave et immédiate et que le fonctionnement régulier des pouvoirs publics constitutionnels est interrompu, le président de la République prend les mesures exigées par ces circonstances, après consultation officielle du Premier ministre, des présidents des assemblées ainsi que du Conseil constitutionnel.
 
 Il en informe la Nation par un message.
@@ -170,9 +217,13 @@ L'Assemblée nationale ne peut être dissoute pendant l'exercice des pouvoirs ex
 
 Après trente jours d'exercice des pouvoirs exceptionnels, le Conseil constitutionnel peut être saisi par le président de l'Assemblée nationale, le président du Sénat, soixante députés ou soixante sénateurs, aux fins d'examiner si les conditions énoncées au premier alinéa demeurent réunies. Il se prononce dans les délais les plus brefs par un avis public. Il procède de plein droit à cet examen et se prononce dans les mêmes conditions au terme de soixante jours d'exercice des pouvoirs exceptionnels et à tout moment au-delà de cette durée.
 
-Article 17
-----------
+.. [#t] pas de loi martiale
+
+Article 17 [#u]_
+----------------
 Le président de la République a le droit de faire grâce à titre individuel.
+
+.. [#u] remplacé par le Parlement dans l'article sur le droit de grâce
 
 Article 18
 ----------
@@ -192,33 +243,48 @@ Titre III — Le gouvernement
 
 Article 20
 ----------
-Le gouvernement détermine et conduit la politique de la nation.
+Le gouvernement détermine et conduit la politique de la nation. [#v]_
+
+.. [#v] non, c'est le Parlement
 
 Il dispose de l'administration et de la force armée.
 
-Il est responsable devant le Parlement dans les conditions et suivant les procédures prévues aux articles `49 <#article-49>`_ et `50 <#article-50>`_.
+Il est responsable devant le Parlement dans les conditions et suivant les procédures prévues aux articles `49 <#article-49>`_ et `50 <#article-50>`_ [#w]_.
+
+.. [#w] pas besoin de limiter le pouvoir de contrôle du parlement
 
 Article 21
 ----------
-Le Premier ministre dirige l'action du gouvernement. Il est responsable de la Défense nationale. Il assure l'exécution des lois. Sous réserve des dispositions de `l'article 13 <#article-13>`_, il exerce le pouvoir réglementaire et nomme aux emplois civils et militaires.
+Le Premier ministre [#x]_ dirige l'action du gouvernement. Il est responsable de la Défense nationale. Il assure l'exécution des lois. [#y]_ Sous réserve des dispositions de `l'article 13 <#article-13>`_ [#z]_, il exerce le pouvoir réglementaire [#aa]_ et nomme aux emplois civils et militaires.
+
+.. [#x] remplacé par le Chancelier, plus pratique pour parler de la fonction séparément de l'individu (en disant "la chancellerie") et parce qu'il n'est ministre de personne
+.. [#y] déplacé dans l'article sur le principe de l'administration, c'est elle tout entière qui s'en occupe et pas juste lui
+.. [#z] article retiré, plus de président
+.. [#aa] couvert par l'article sur le règlement
 
 Il peut déléguer certains de ses pouvoirs aux ministres.
 
 Il supplée, le cas échéant, le président de la République dans la présidence des conseils et comités prévus à `l'article 15 <#article-15>`_.
 
-Il peut, à titre exceptionnel, le suppléer pour la présidence d'un Conseil des ministres en vertu d'une délégation expresse et pour un ordre du jour déterminé.
+Il peut, à titre exceptionnel, le suppléer pour la présidence d'un Conseil des ministres en vertu d'une délégation expresse et pour un ordre du jour déterminé. [#ab]_
+
+.. [#ab] plus de président, remplacé par le gouvernement (pour les deux derniers alinéas)
 
 Article 22
 ----------
 Les actes du Premier ministre sont contresignés, le cas échéant, par les ministres chargés de leur exécution.
 
-Article 23
-----------
+Article 23 [#ac]_
+------------------
 Les fonctions de membre du gouvernement sont incompatibles avec l'exercice de tout mandat parlementaire, de toute fonction de représentation professionnelle à caractère national et de tout emploi public ou de toute activité professionnelle.
 
-Une loi organique fixe les conditions dans lesquelles il est pourvu au remplacement des titulaires de tels mandats, fonctions ou emplois.
+Une loi organique fixe les conditions dans lesquelles il est pourvu au remplacement des titulaires de tels mandats, fonctions ou emplois. [#ad]_
 
-Le remplacement des membres du Parlement a lieu conformément aux dispositions de `l'article 25 <#article-25>`_.
+Le remplacement des membres du Parlement a lieu conformément aux dispositions de `l'article 25 <#article-25>`_. [#ae]_
+
+.. [#ac] article sur les incompatibilités déplacé dans le titre sur le contrôle de la représentation du peuple
+.. [#ad] pas vraiment besoin
+.. [#ae] article retiré
 
 -----------------------
 Titre IV — Le Parlement
@@ -226,51 +292,75 @@ Titre IV — Le Parlement
 
 Article 24
 ----------
-Le Parlement vote la loi. Il contrôle l'action du gouvernement. Il évalue les politiques publiques.
+Le Parlement vote la loi. Il contrôle l'action du gouvernement. Il évalue les politiques publiques. [#af]_
+
+.. [#af] élargi, plus de pouvoir au parlement
 
 Il comprend l'Assemblée nationale et le Sénat.
 
 Les députés à l'Assemblée nationale, dont le nombre ne peut excéder cinq cent soixante-dix-sept, sont élus au suffrage direct.
 
-Le Sénat, dont le nombre de membres ne peut excéder trois cent quarante-huit, est élu au suffrage indirect. Il assure la représentation des collectivités territoriales de la République.
+Le Sénat, dont le nombre de membres ne peut excéder trois cent quarante-huit, est élu au suffrage indirect [#ag]_. Il assure la représentation des collectivités territoriales [#ah]_ de la République.
 
-Les Français établis hors de France sont représentés à l'Assemblée nationale et au Sénat.
+.. [#ag] pas besoin de le garantir
+.. [#ah] pas de dévolution territoriale
+
+Les Français établis hors de France sont représentés à l'Assemblée nationale et au Sénat. [#ai]_
+
+.. [#ai] remplacé par la nouvelle fin du premier alinéa
 
 Article 25
 ----------
 Une loi organique fixe la durée des pouvoirs de chaque assemblée, le nombre de ses membres, leur indemnité, les conditions d'éligibilité, le régime des inéligibilités et des incompatibilités.
 
-Elle fixe également les conditions dans lesquelles sont élues les personnes appelées à assurer, en cas de vacance du siège, le remplacement des députés ou des sénateurs jusqu'au renouvellement général ou partiel de l'assemblée à laquelle ils appartenaient ou leur remplacement temporaire en cas d'acceptation par eux de fonctions gouvernementales.
+Elle fixe également les conditions dans lesquelles sont élues les personnes appelées à assurer, en cas de vacance du siège, le remplacement des députés ou des sénateurs jusqu'au renouvellement général ou partiel de l'assemblée à laquelle ils appartenaient ou leur remplacement temporaire en cas d'acceptation par eux de fonctions gouvernementales. [#aj]_
 
-Une commission indépendante, dont la loi fixe la composition et les règles d'organisation et de fonctionnement, se prononce par un avis public sur les projets de texte et propositions de loi délimitant les circonscriptions pour l'élection des députés ou modifiant la répartition des sièges de députés ou de sénateurs.
+.. [#aj] on ne quitte pas le gouvernement pour l'administration
+
+Une commission indépendante, dont la loi fixe la composition et les règles d'organisation et de fonctionnement, se prononce par un avis public sur les projets de texte et propositions de loi délimitant les circonscriptions pour l'élection des députés ou modifiant la répartition des sièges de députés ou de sénateurs. [#ak]_
+
+.. [#ak] plus besoin parce que plus de circonscriptions, et repris en partie plus loin
 
 Article 26
 ----------
-Aucun membre du Parlement ne peut être poursuivi, recherché, arrêté, détenu ou jugé à l'occasion des opinions ou votes émis par lui dans l'exercice de ses fonctions.
+Aucun membre du Parlement ne peut être poursuivi, recherché, arrêté, détenu ou jugé à l'occasion des opinions ou votes émis par lui dans l'exercice de ses fonctions. [#al]_
+
+.. [#al] pas de chèque politique en blanc, ce qui est précisé dans l'article sur la responsabilité parlementaire, mais protection de toutes les opinions
 
 Aucun membre du Parlement ne peut faire l'objet, en matière criminelle ou correctionnelle, d'une arrestation ou de toute autre mesure privative ou restrictive de liberté qu'avec l'autorisation du Bureau de l'assemblée dont il fait partie. Cette autorisation n'est pas requise en cas de crime ou délit flagrant ou de condamnation définitive.
 
 La détention, les mesures privatives ou restrictives de liberté ou la poursuite d'un membre du Parlement sont suspendues pour la durée de la session si l'assemblée dont il fait partie le requiert.
 
-L'assemblée intéressée est réunie de plein droit pour des séances supplémentaires pour permettre, le cas échéant, l'application de l'alinéa ci-dessus.
+L'assemblée intéressée est réunie de plein droit pour des séances supplémentaires pour permettre, le cas échéant, l'application de l'alinéa ci-dessus. [#am]_
+
+.. [#am] pas besoin de séances supplémentaires, le temps en session n'est plus limité
 
 Article 27
 ----------
-Tout mandat impératif est nul.
+Tout mandat impératif est nul. [#an]_
 
-Le droit de vote des membres du Parlement est personnel.
+.. [#an] contrôle du mandat par le constituant
 
-La loi organique peut autoriser exceptionnellement la délégation de vote. Dans ce cas nul ne peut recevoir délégation de plus d'un mandat.
+Le droit de vote des membres du Parlement est personnel. [#ao]_
 
-Article 28
-----------
+.. [#ao] pas sûr de ce que ça veut dire exactement
+
+La loi organique peut autoriser exceptionnellement la délégation de vote. Dans ce cas nul ne peut recevoir délégation de plus d'un mandat. [#ap]_
+
+.. [#ap] pas de limitation constitutionnelle ni organique de la délégation de vote
+
+Article 28 [#aq]_
+------------------
 Le Parlement se réunit de plein droit en une session ordinaire qui commence le premier jour ouvrable d'octobre et prend fin le dernier jour ouvrable de juin.
 
 Le nombre de jours de séance que chaque assemblée peut tenir au cours de la session ordinaire ne peut excéder cent vingt. Les semaines de séance sont fixées par chaque assemblée.
 
 Le Premier ministre, après consultation du président de l'assemblée concernée, ou la majorité des membres de chaque assemblée peut décider la tenue de jours supplémentaires de séance.
 
-Les jours et les horaires des séances sont déterminés par le règlement de chaque assemblée.
+Les jours et les horaires des séances sont déterminés par le règlement de chaque assemblée. [#ar]_
+
+.. [#aq] pas de limitation du droit d'assemblée et de réunion du parlement (idem pour les deux articles suivants)
+.. [#ar] pas besoin de le préciser
 
 Article 29
 ----------
@@ -284,11 +374,13 @@ Article 30
 ----------
 Hors les cas dans lesquels le Parlement se réunit de plein droit, les sessions extraordinaires sont ouvertes et closes par décret du président de la République.
 
-Article 31
-----------
+Article 31 [#as]_
+-----------------
 Les membres du gouvernement ont accès aux deux assemblées. Ils sont entendus quand ils le demandent.
 
 Ils peuvent se faire assister par des commissaires du gouvernement.
+
+.. [#as] l'administration fera bien ce qu'on lui dira
 
 Article 32
 ----------
@@ -304,8 +396,8 @@ Chaque assemblée peut siéger en comité secret à la demande du Premier minist
 Titre V — Des rapports entre le gouvernement et le Parlement
 ------------------------------------------------------------
 
-Article 34
-----------
+Article 34 [#at]_
+-----------------
 La loi fixe les règles concernant :
 
 les droits civiques et les garanties fondamentales accordées aux citoyens pour l'exercice des libertés publiques ; la liberté, le pluralisme et l'indépendance des médias ; les sujétions imposées par la Défense nationale aux citoyens en leur personne et en leurs biens ;
@@ -340,48 +432,62 @@ Les orientations pluriannuelles des finances publiques sont définies par des lo
 
 Les dispositions du présent article pourront être précisées et complétées par une loi organique.
 
+.. [#at] pas de limitation énumérative du domaine de la loi
+
 Article 34-1
 ------------
 Les assemblées peuvent voter des résolutions dans les conditions fixées par la loi organique.
 
-Sont irrecevables et ne peuvent être inscrites à l'ordre du jour les propositions de résolution dont le gouvernement estime que leur adoption ou leur rejet serait de nature à mettre en cause sa responsabilité ou qu'elles contiennent des injonctions à son égard.
+Sont irrecevables et ne peuvent être inscrites à l'ordre du jour les propositions de résolution dont le gouvernement estime que leur adoption ou leur rejet serait de nature à mettre en cause sa responsabilité ou qu'elles contiennent des injonctions à son égard. [#au]_
+
+.. [#au] incroyable
 
 Article 35
 ----------
 La déclaration de guerre est autorisée par le Parlement.
 
-Le gouvernement informe le Parlement de sa décision de faire intervenir les forces armées à l'étranger, au plus tard trois jours après le début de l'intervention. Il précise les objectifs poursuivis. Cette information peut donner lieu à un débat qui n'est suivi d'aucun vote.
+Le gouvernement informe le Parlement de sa décision de faire intervenir les forces armées à l'étranger, au plus tard trois jours après le début de l'intervention. Il précise les objectifs poursuivis. Cette information peut donner lieu à un débat qui n'est suivi d'aucun vote. [#av]_
 
 Lorsque la durée de l'intervention excède quatre mois, le gouvernement soumet sa prolongation à l'autorisation du Parlement. Il peut demander à l'Assemblée nationale de décider en dernier ressort.
 
 Si le Parlement n'est pas en session à l'expiration du délai de quatre mois, il se prononce à l'ouverture de la session suivante.
 
-Article 36
-----------
+.. [#av] (la phrase et les alinéas suivants) pas de droit à l'intervention militaire sans accord du parlement
+
+Article 36 [#aw]_
+-----------------
 L'état de siège est décrété en Conseil des ministres.
 
 Sa prorogation au-delà de douze jours ne peut être autorisée que par le Parlement.
 
-Article 37
-----------
+.. [#aw] pas de loi martiale
+
+Article 37 [#ax]_
+-----------------
 Les matières autres que celles qui sont du domaine de la loi ont un caractère réglementaire.
 
 Les textes de forme législative intervenus en ces matières peuvent être modifiés par décrets pris après avis du Conseil d'État. Ceux de ces textes qui interviendraient après l'entrée en vigueur de la présente constitution ne pourront être modifiés par décret que si le Conseil constitutionnel a déclaré qu'ils ont un caractère réglementaire en vertu de l'alinéa précédent.
 
-Article 37-1
-------------
+.. [#ax] pas d'inversion des normes entre la loi et le règlement, dont les frontières sont établies par la loi
+
+Article 37-1 [#ay]_
+-------------------
 La loi et le règlement peuvent comporter, pour un objet et une durée limités, des dispositions à caractère expérimental.
 
-Article 38
-----------
+.. [#ay] pas besoin de le préciser
+
+Article 38 [#az]_
+-----------------
 Le gouvernement peut, pour l'exécution de son programme, demander au Parlement l'autorisation de prendre par ordonnances, pendant un délai limité, des mesures qui sont normalement du domaine de la loi.
 
 Les ordonnances sont prises en Conseil des ministres après avis du Conseil d'État. Elles entrent en vigueur dès leur publication mais deviennent caduques si le projet de loi de ratification n'est pas déposé devant le Parlement avant la date fixée par la loi d'habilitation. Elles ne peuvent être ratifiées que de manière expresse.
 
 À l'expiration du délai mentionné au premier alinéa du présent article, les ordonnances ne peuvent plus être modifiées que par la loi dans les matières qui sont du domaine législatif.
 
-Article 39
-----------
+.. [#az] inclus et limité dans l'article sur le règlement
+
+Article 39 [#ba]_
+-----------------
 L'initiative des lois appartient concurremment au Premier ministre et aux membres du Parlement.
 
 Les projets de loi sont délibérés en Conseil des ministres après avis du Conseil d'État et déposés sur le bureau de l'une des deux assemblées. Les projets de loi de finances et de loi de financement de la sécurité sociale sont soumis en premier lieu à l'Assemblée nationale. Sans préjudice du premier alinéa de `l'article 44 <#article-44>`_, les projets de loi ayant pour principal objet l'organisation des collectivités territoriales sont soumis en premier lieu au Sénat.
@@ -392,18 +498,24 @@ Les projets de loi ne peuvent être inscrits à l'ordre du jour si la Conférenc
 
 Dans les conditions prévues par la loi, le président d'une assemblée peut soumettre pour avis au Conseil d'État, avant son examen en commission, une proposition de loi déposée par l'un des membres de cette assemblée, sauf si ce dernier s'y oppose.
 
-Article 40
-----------
+.. [#ba] déplacé dans le titre sur le contrôle de la représentation du peuple, complété pour couvrir à peu près tous les organes prévus par la constitution
+
+Article 40 [#bb]_
+-----------------
 Les propositions et amendements formulés par les membres du Parlement ne sont pas recevables lorsque leur adoption aurait pour conséquence soit une diminution des ressources publiques, soit la création ou l'aggravation d'une charge publique.
 
-Article 41
-----------
+.. [#bb] les parlementaires décident de ça dans leur règlement intérieur
+
+Article 41 [#bc]_
+-----------------
 S'il apparaît au cours de la procédure législative qu'une proposition ou un amendement n'est pas du domaine de la loi ou est contraire à une délégation accordée en vertu de `l'article 38 <#article-38>`_, le gouvernement ou le président de l'assemblée saisie peut opposer l'irrecevabilité.
 
 En cas de désaccord entre le gouvernement et le président de l'assemblée intéressée, le Conseil constitutionnel, à la demande de l'un ou de l'autre, statue dans un délai de huit jours.
 
-Article 42
-----------
+.. [#bc] pas d'inversion des valeurs entre la loi et le règlement
+
+Article 42 [#bd]_
+-----------------
 La discussion des projets et des propositions de loi porte, en séance, sur le texte adopté par la commission saisie en application de `l'article 43 <#article-43>`_ ou, à défaut, sur le texte dont l'assemblée a été saisie.
 
 Toutefois, la discussion en séance des projets de révision constitutionnelle, des projets de loi de finances et des projets de loi de financement de la sécurité sociale porte, en première lecture devant la première assemblée saisie, sur le texte présenté par le gouvernement et, pour les autres lectures, sur le texte transmis par l'autre assemblée.
@@ -412,9 +524,13 @@ La discussion en séance, en première lecture, d'un projet ou d'une proposition
 
 L'alinéa précédent ne s'applique pas si la procédure accélérée a été engagée dans les conditions prévues à `l'article 45 <#article-45>`_. Il ne s'applique pas non plus aux projets de loi de finances, aux projets de loi de financement de la sécurité sociale et aux projets relatifs aux états de crise.
 
+.. [#bd] pas de limitation, pas de procédure non-accélérée
+
 Article 43
 ----------
-Les projets et propositions de loi sont envoyés pour examen à l'une des commissions permanentes dont le nombre est limité à huit dans chaque assemblée.
+Les projets et propositions de loi sont envoyés pour examen à l'une des commissions permanentes dont le nombre est limité à huit [#be]_ dans chaque assemblée.
+
+.. [#be] pas de limitation du nombre de commissions
 
 À la demande du gouvernement ou de l'assemblée qui en est saisie, les projets ou propositions de loi sont envoyés pour examen à une commission spécialement désignée à cet effet.
 
@@ -422,25 +538,39 @@ Article 44
 ----------
 Les membres du Parlement et le gouvernement ont le droit d'amendement. Ce droit s'exerce en séance ou en commission selon les conditions fixées par les règlements des assemblées, dans le cadre déterminé par une loi organique.
 
-Après l'ouverture du débat, le gouvernement peut s'opposer à l'examen de tout amendement qui n'a pas été antérieurement soumis à la commission.
+Après l'ouverture du débat, le gouvernement peut s'opposer à l'examen de tout amendement qui n'a pas été antérieurement soumis à la commission. [#bf]_
 
 Si le gouvernement le demande, l'assemblée saisie se prononce par un seul vote sur tout ou partie du texte en discussion en ne retenant que les amendements proposés ou acceptés par le gouvernement.
 
+.. [#bf] (et alinéa suivant) pas de limitation du parlement par le gouvernement
+
 Article 45
 ----------
-Tout projet ou proposition de loi est examiné successivement dans les deux assemblées du Parlement en vue de l'adoption d'un texte identique. Sans préjudice de l'application des articles `40 <#article-40>`_ et `41 <#article-41>`_, tout amendement est recevable en première lecture dès lors qu'il présente un lien, même indirect, avec le texte déposé ou transmis.
+Tout projet ou proposition de loi est examiné successivement dans les deux assemblées du Parlement en vue de l'adoption d'un texte identique. Sans préjudice de l'application des articles `40 <#article-40>`_ et `41 <#article-41>`_, tout amendement est recevable en première lecture dès lors qu'il présente un lien, même indirect, avec le texte déposé ou transmis. [#bg]_
 
-Lorsque, par suite d'un désaccord entre les deux Assemblées, un projet ou une proposition de loi n'a pu être adopté après deux lectures par chaque assemblée ou, si le gouvernement a décidé d'engager la procédure accélérée sans que les Conférences des présidents s'y soient conjointement opposées, après une seule lecture par chacune d'entre elles, le Premier ministre ou, pour une proposition de loi, les présidents des deux assemblées agissant conjointement, ont la faculté de provoquer la réunion d'une commission mixte paritaire chargée de proposer un texte sur les dispositions restant en discussion.
+.. [#bg] droit aux cavaliers et aux lois hétérogènes, possibilité de limiter dans le règlement intérieur les amendements recevables
 
-Le texte élaboré par la commission mixte peut être soumis par le gouvernement pour approbation aux deux Assemblées. Aucun amendement n'est recevable sauf accord du gouvernement.
+Lorsque, par suite d'un désaccord entre les deux Assemblées, un projet ou une proposition de loi n'a pu être adopté après deux lectures par chaque assemblée ou, si le gouvernement a décidé d'engager la procédure accélérée sans que les Conférences des présidents s'y soient conjointement opposées, [#bh]_ après une seule lecture par chacune d'entre elles, le Premier ministre ou, pour une proposition de loi, les présidents des deux assemblées agissant conjointement [#bi]_, ont la faculté de provoquer la réunion d'une commission mixte paritaire chargée de proposer un texte sur les dispositions restant en discussion.
 
-Si la commission mixte ne parvient pas à l'adoption d'un texte commun ou si ce texte n'est pas adopté dans les conditions prévues à l'alinéa précédent, le gouvernement peut, après une nouvelle lecture par l'Assemblée nationale et par le Sénat, demander à l'Assemblée nationale de statuer définitivement. En ce cas, l'Assemblée nationale peut reprendre soit le texte élaboré par la commission mixte, soit le dernier texte voté par elle, modifié le cas échéant par un ou plusieurs des amendements adoptés par le Sénat.
+.. [#bh] pas de procédure (non-)accélérée
+.. [#bi] capacité pour l'assemblée de déclencher l'adoption sans le sénat sans intervention du gouvernement et malgré l'opposition du sénat, passage par le bureau plutôt que le président
+
+Le texte élaboré par la commission mixte peut être soumis par le gouvernement pour approbation aux deux Assemblées. Aucun amendement n'est recevable sauf accord du gouvernement. [#bj]_
+
+.. [#bj] pas de limitation du parlement par le gouvernement
+
+Si la commission mixte ne parvient pas à l'adoption d'un texte commun ou si ce texte n'est pas adopté dans les conditions prévues à l'alinéa précédent [#bk]_, le gouvernement peut, après une nouvelle lecture par l'Assemblée nationale et par le Sénat, demander à l'Assemblée nationale de statuer définitivement. En ce cas, l'Assemblée nationale peut reprendre soit le texte élaboré par la commission mixte, soit le dernier texte voté par elle, modifié le cas échéant par un ou plusieurs des amendements adoptés par le Sénat. [#bl]_
+
+.. [#bk] déplacé dans un nouvel article, donc pas d'alinéa précédent
+.. [#bl] pas de limitation du parlement par le gouvernement, moins de prévalence de l'assnat sur le sénat, ajout de l'option référendaire unilatérale
 
 Article 46
 ----------
 Les lois auxquelles la Constitution confère le caractère de lois organiques sont votées et modifiées dans les conditions suivantes.
 
-Le projet ou la proposition ne peut, en première lecture, être soumis à la délibération et au vote des assemblées qu'à l'expiration des délais fixés au troisième alinéa de `l'article 42 <#article-42>`_. Toutefois, si la procédure accélérée a été engagée dans les conditions prévues à `l'article 45 <#article-45>`_, le projet ou la proposition ne peut être soumis à la délibération de la première assemblée saisie avant l'expiration d'un délai de quinze jours après son dépôt.
+Le projet ou la proposition ne peut, en première lecture, être soumis à la délibération et au vote des assemblées qu'à l'expiration des délais fixés au troisième alinéa de `l'article 42 <#article-42>`_. Toutefois, si la procédure accélérée a été engagée dans les conditions prévues à `l'article 45 <#article-45>`_, le projet ou la proposition ne peut être soumis à la délibération de la première assemblée saisie avant l'expiration d'un délai de quinze jours après son dépôt. [#bm]_
+
+.. [#bm] ancien article 42 retiré, pas de limitation du parlement
 
 La procédure de `l'article 45 <#article-45>`_ est applicable. Toutefois, faute d'accord entre les deux Assemblées, le texte ne peut être adopté par l'Assemblée nationale en dernière lecture qu'à la majorité absolue de ses membres.
 
@@ -454,14 +584,20 @@ Le Parlement vote les projets de loi de finances dans les conditions prévues pa
 
 Si l'Assemblée nationale ne s'est pas prononcée en première lecture dans le délai de quarante jours après le dépôt d'un projet, le gouvernement saisit le Sénat qui doit statuer dans un délai de quinze jours. Il est ensuite procédé dans les conditions prévues à `l'article 45 <#article-45>`.
 
-Si le Parlement ne s'est pas prononcé dans un délai de soixante-dix jours, les dispositions du projet peuvent être mises en vigueur par ordonnance.
+Si le Parlement ne s'est pas prononcé dans un délai de soixante-dix jours, les dispositions du projet peuvent être mises en vigueur par ordonnance. [#bn]_
 
-Si la loi de finances fixant les ressources et les charges d'un exercice n'a pas été déposée en temps utile pour être promulguée avant le début de cet exercice, le gouvernement demande d'urgence au Parlement l'autorisation de percevoir les impôts et ouvre par décret les crédits se rapportant aux services votés.
+.. [#bn] inapplicable, si c'est pas le gouvernement qui fournit ces projets de loi
 
-Les délais prévus au présent article sont suspendus lorsque le Parlement n'est pas en session.
+Si la loi de finances fixant les ressources et les charges d'un exercice n'a pas été déposée en temps utile pour être promulguée avant le début de cet exercice, le gouvernement demande d'urgence au Parlement l'autorisation de percevoir les impôts et ouvre par décret les crédits se rapportant aux services votés. [#bo]_
 
-Article 47-1
-------------
+.. [#bo] pas nécessaire, étant donnés l'alinéa précédent et les articles sur le principe de l'administration, sur le chancelier, sur le règlement et sur les déclarations du gouvernement
+
+Les délais prévus au présent article sont suspendus lorsque le Parlement n'est pas en session. [#bp]_
+
+.. [#bp] le parlement est toujours en session
+
+Article 47-1 [#bq]_
+-------------------
 Le Parlement vote les projets de loi de financement de la sécurité sociale dans les conditions prévues par une loi organique.
 
 Si l'Assemblée nationale ne s'est pas prononcée en première lecture dans le délai de vingt jours après le dépôt d'un projet, le gouvernement saisit le Sénat qui doit statuer dans un délai de quinze jours. Il est ensuite procédé dans les conditions prévues à `l'article 45 <#article-45>`.
@@ -469,6 +605,8 @@ Si l'Assemblée nationale ne s'est pas prononcée en première lecture dans le d
 Si le Parlement ne s'est pas prononcé dans un délai de cinquante jours, les dispositions du projet peuvent être mises en œuvre par ordonnance.
 
 Les délais prévus au présent article sont suspendus lorsque le Parlement n'est pas en session et, pour chaque assemblée, au cours des semaines où elle a décidé de ne pas tenir séance, conformément au deuxième alinéa de `l'article 28 <#article-28>`_.
+
+.. [#bq] réuni avec l'article précédent
 
 Article 47-2
 ------------
@@ -480,37 +618,55 @@ Article 48
 ----------
 Sans préjudice de l'application des trois derniers alinéas de `l'article 28 <#article-28>`_, l'ordre du jour est fixé par chaque assemblée.
 
-Deux semaines de séance sur quatre sont réservées par priorité, et dans l'ordre que le gouvernement a fixé, à l'examen des textes et aux débats dont il demande l'inscription à l'ordre du jour.
+Deux semaines de séance sur quatre sont réservées par priorité, et dans l'ordre que le gouvernement a fixé, à l'examen des textes et aux débats dont il demande l'inscription à l'ordre du jour. [#br]_
+
+.. [#br] le parlement fixe son ordre du jour, pas le gouvernement
 
 En outre, l'examen des projets de loi de finances, des projets de loi de financement de la sécurité sociale et, sous réserve des dispositions de l'alinéa suivant, des textes transmis par l'autre assemblée depuis six semaines au moins, des projets relatifs aux états de crise et des demandes d'autorisation visées à `l'article 25 <#article-25>`_ est, à la demande du gouvernement, inscrit à l'ordre du jour par priorité.
 
-Une semaine de séance sur quatre est réservée par priorité et dans l'ordre fixé par chaque assemblée au contrôle de l'action du gouvernement et à l'évaluation des politiques publiques.
+Une semaine de séance sur quatre est réservée par priorité et dans l'ordre fixé par chaque assemblée au contrôle de l'action du gouvernement et à l'évaluation des politiques publiques. [#bs]_
 
 Un jour de séance par mois est réservé à un ordre du jour arrêté par chaque assemblée à l'initiative des groupes d'opposition de l'assemblée intéressée ainsi qu'à celle des groupes minoritaires.
 
 Une séance par semaine au moins, y compris pendant les sessions extraordinaires prévues à `l'article 29 <#article-29>`, est réservée par priorité aux questions des membres du Parlement et aux réponses du gouvernement.
 
+.. [#bs] (et alinéas suivants) c'est à chaque assemblée d'en décider, même si les deux derniers alinéas sont bons
+
 Article 49
 ----------
-Le Premier ministre, après délibération du Conseil des ministres, engage devant l'Assemblée nationale la responsabilité du gouvernement sur son programme ou éventuellement sur une déclaration de politique générale.
+Le Premier ministre, après délibération du Conseil des ministres, engage devant l'Assemblée nationale la responsabilité du gouvernement sur son programme ou éventuellement sur une déclaration de politique générale. [#bt]_
 
-L'Assemblée nationale met en cause la responsabilité du gouvernement par le vote d'une motion de censure. Une telle motion n'est recevable que si elle est signée par un dixième au moins des membres de l'Assemblée nationale. Le vote ne peut avoir lieu que quarante-huit heures après son dépôt. Seuls sont recensés les votes favorables à la motion de censure qui ne peut être adoptée qu'à la majorité des membres composant l'Assemblée. Sauf dans le cas prévu à l'alinéa ci-dessous, un député ne peut être signataire de plus de trois motions de censure au cours d'une même session ordinaire et de plus d'une au cours d'une même session extraordinaire.
+.. [#bt] le parlement décide de la politique, pas le gouvernement
 
-Le Premier ministre peut, après délibération du Conseil des ministres, engager la responsabilité du gouvernement devant l'Assemblée nationale sur le vote d'un projet de loi de finances ou de financement de la sécurité sociale. Dans ce cas, ce projet est considéré comme adopté, sauf si une motion de censure, déposée dans les vingt-quatre heures qui suivent, est votée dans les conditions prévues à l'alinéa précédent. Le Premier ministre peut, en outre, recourir à cette procédure pour un autre projet ou une proposition de loi par session.
+L'Assemblée nationale met en cause la responsabilité du gouvernement par le vote d'une motion de censure. Une telle motion n'est recevable que si elle est signée par un dixième au moins des membres de l'Assemblée nationale. Le vote ne peut avoir lieu que quarante-huit heures après son dépôt. Seuls sont recensés les votes favorables à la motion de censure qui ne peut être adoptée qu'à la majorité des membres composant l'Assemblée. Sauf dans le cas prévu à l'alinéa ci-dessous, un député ne peut être signataire de plus de trois motions de censure au cours d'une même session ordinaire et de plus d'une au cours d'une même session extraordinaire. [#bu]_
 
-Le Premier ministre a la faculté de demander au Sénat l'approbation d'une déclaration de politique générale.
+.. [#bu] pas de limitation du nombre de motions de censure
+
+Le Premier ministre peut, après délibération du Conseil des ministres, engager la responsabilité du gouvernement devant l'Assemblée nationale sur le vote d'un projet de loi de finances ou de financement de la sécurité sociale. Dans ce cas, ce projet est considéré comme adopté, sauf si une motion de censure, déposée dans les vingt-quatre heures qui suivent, est votée dans les conditions prévues à l'alinéa précédent. Le Premier ministre peut, en outre, recourir à cette procédure pour un autre projet ou une proposition de loi par session. [#bv]_
+
+.. [#bv] pas de passage en force
+
+Le Premier ministre a la faculté de demander au Sénat l'approbation d'une déclaration de politique générale. [#bw]_
+
+.. [#bw] le parlement décide de la politique, pas le gouvernement
 
 Article 50
 ----------
-Lorsque l'Assemblée nationale adopte une motion de censure ou lorsqu'elle désapprouve le programme ou une déclaration de politique générale du gouvernement, le Premier ministre doit remettre au président de la République la démission du gouvernement.
+Lorsque l'Assemblée nationale adopte une motion de censure ou lorsqu'elle désapprouve le programme ou une déclaration de politique générale du gouvernement, le Premier ministre doit remettre au président de la République la démission du gouvernement. [#bx]_
+
+.. [#bx] plus de président
 
 Article 50-1
 ------------
-Devant l'une ou l'autre des assemblées, le gouvernement peut, de sa propre initiative ou à la demande d'un groupe parlementaire au sens de `l'article 51-1 <#article-51-1>`_, faire, sur un sujet déterminé, une déclaration qui donne lieu à débat et peut, s'il le décide, faire l'objet d'un vote sans engager sa responsabilité.
+Devant l'une ou l'autre des assemblées, le gouvernement peut, de sa propre initiative ou à la demande d'un groupe parlementaire au sens de `l'article 51-1 <#article-51-1>`_, faire, sur un sujet déterminé, une déclaration qui donne lieu à débat et peut, s'il le décide, faire l'objet d'un vote sans engager sa responsabilité. [#by]_
 
-Article 51
-----------
+.. [#by] c'est pas le gouvernement qui décide
+
+Article 51 [#bz]_
+-----------------
 La clôture de la session ordinaire ou des sessions extraordinaires est de droit retardée pour permettre, le cas échéant, l'application de `l'article 49 <#article-49>`_. À cette même fin, des séances supplémentaires sont de droit.
+
+.. [#bz] pas de clôture des sessions
 
 Article 51-1
 ------------
@@ -526,15 +682,19 @@ La loi détermine leurs règles d'organisation et de fonctionnement. Leurs condi
 Titre VI — Des traités et accords internationaux
 ------------------------------------------------
 
-Article 52
-----------
+Article 52 [#ca]_
+-----------------
 Le président de la République négocie et ratifie les traités.
 
 Il est informé de toute négociation tendant à la conclusion d'un accord international non soumis à ratification.
 
+.. [#ca] plus de président, remplacé en partie dans l'article suivant
+
 Article 53
 ----------
-Les traités de paix, les traités de commerce, les traités ou accords relatifs à l'organisation internationale, ceux qui engagent les finances de l'État, ceux qui modifient des dispositions de nature législative, ceux qui sont relatifs à l'état des personnes, ceux qui comportent cession, échange ou adjonction de territoire, ne peuvent être ratifiés ou approuvés qu'en vertu d'une loi.
+Les traités de paix, les traités de commerce, les traités ou accords relatifs à l'organisation internationale, ceux qui engagent les finances de l'État, ceux qui modifient des dispositions de nature législative [#cb]_, ceux qui sont relatifs à l'état des personnes, ceux qui comportent cession, échange ou adjonction de territoire, ne peuvent être ratifiés ou approuvés qu'en vertu d'une loi.
+
+.. [#cb] comme tout est par défaut de nature législative...
 
 Ils ne prennent effet qu'après avoir été ratifiés ou approuvés.
 
@@ -552,11 +712,16 @@ La République peut reconnaître la juridiction de la Cour pénale international
 
 Article 54
 ----------
-Si le Conseil constitutionnel, saisi par le président de la République, par le Premier ministre, par le président de l'une ou l'autre assemblée ou par soixante députés ou soixante sénateurs, a déclaré qu'un engagement international comporte une clause contraire à la Constitution, l'autorisation de ratifier ou d'approuver l'engagement international en cause ne peut intervenir qu'après révision de la Constitution.
+Si le Conseil constitutionnel, saisi par le président de la République [#cc]_, par le Premier ministre, par le président de l'une ou l'autre assemblée ou par soixante députés ou soixante sénateurs [#cd]_, a déclaré qu'un engagement international comporte une clause contraire à la Constitution, l'autorisation de ratifier ou d'approuver l'engagement international en cause ne peut intervenir qu'après révision de la Constitution.
 
-Article 55
-----------
+.. [#cc] plus de président, saisine du conseil constit par les citoyens
+.. [#cd] adaptation automatique au nombre de membre des assemblées
+
+Article 55 [#ce]_
+-----------------
 Les traités ou accords régulièrement ratifiés ou approuvés ont, dès leur publication, une autorité supérieure à celle des lois, sous réserve, pour chaque accord ou traité, de son application par l'autre partie.
+
+.. [#ce] intégration de l'arrêt fraisse
 
 --------------------------------------
 Titre VII — Le Conseil constitutionnel
