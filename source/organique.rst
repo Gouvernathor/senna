@@ -118,9 +118,7 @@ Article 2 - navette accélérée
 
 Article 3 - lois d'amendement
 -----------------------------
-Les propositions de loi d'amendement portant soit sur la loi de finances, soit sur la loi de financement de la sécurité sociale, doivent être déposées dans la même assemblée que la loi qu'elles amendent, et ne peuvent être adoptées en dernier recours que par cette assemblée.
-
-Les propositions de loi amendant à la fois une loi de finances et une loi de financement de la sécurité sociale peuvent être déposées dans n'importe quelle assemblée, mais la procédure prévue à :artref:`adoption par une seule assemblée` n'est pas applicable.
+Les propositions de loi d'amendement portant sur la loi de finances ou sur la loi de financement de la sécurité sociale doivent être déposées dans la même assemblée que la loi qu'elles amendent, et ne peuvent être adoptées en dernier recours que par cette assemblée.
 
 Une proposition de loi d'amendement ne peut être déposée avant l'adoption de la loi qu'elle vise à amender.
 
