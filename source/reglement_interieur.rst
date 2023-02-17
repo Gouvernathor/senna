@@ -616,6 +616,8 @@ XIII. Commissions
 
 .. commissions conjointes - d'enquête par exemple - réunies par accord du Bureau avec l'autre assemblée
 
+.. droit pour un non-inscrit de siéger dans une commission, sans droit de vote, et pareil pour un seul membre d'un groupe dont aucun autre membre ne siège dans la commission
+
 -------------------------
 XIV. Processus législatif
 -------------------------
