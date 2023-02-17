@@ -206,11 +206,11 @@ Relative à :artref:`fonctionnement du Conseil constitutionnel`
 
 Article premier - conséquences du contrôle en instance législative
 ------------------------------------------------------------------
-Dans le cas où certaines des dispositions d'un texte adopté par le Parlement seraient déclarées inconstitutionnelles avant sa promulgation, le texte est renvoyé à la dernière assemblée parlementaire à l'avoir considéré. Sauf dans le cas où le Parlement en exprimerait la décision avant l'adoption du texte, les dispositions constitutionnelles du texte ne sont pas promulguées.
+Dans le cas où certaines des dispositions d'un texte adopté par le Parlement seraient déclarées inconstitutionnelles avant sa promulgation, le texte est renvoyé à la dernière assemblée parlementaire à l'avoir considéré. Sauf dans le cas où le Parlement en exprimerait la décision avant l'adoption du texte, les autres dispositions du texte ne sont pas promulguées.
 
 Article 2 - contrôle de la procédure parlementaire
 --------------------------------------------------
-Un texte ou une partie d'un texte adoptés en violation des procédures prévues par les réglements des assemblées est considéré comme n'étant pas adopté par le Parlement de manière régulière. Il est en conséquence prononcé non-conforme à la Constitution en cas de contrôle par le Conseil constitutionnel.
+Un texte ou une partie d'un texte réputés adoptés en violation des procédures prévues par les réglements des assemblées est considéré comme n'étant pas adopté par le Parlement de manière régulière. Il est en conséquence prononcé non-conforme à la Constitution en cas de contrôle par le Conseil constitutionnel.
 
 .. délais ouverts pour la saisine
 
