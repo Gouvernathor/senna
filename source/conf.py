@@ -43,4 +43,6 @@ html_theme_options = dict(
     use_download_button=True,
 
     extra_navbar='',
+
+    use_sidenotes=True,
 )
