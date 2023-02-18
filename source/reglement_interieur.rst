@@ -144,7 +144,7 @@ Une résolution est déposée et discutée de la même manière qu'une propositi
 
 (AN, S) Une motion visant à déclencher le renouvellement anticipé de cette assemblée ou, dans les conditions prévues par la loi organique, de l'autre assemblée, est déposée auprès du Bureau.
 
-(C) Une motion visant à déclencher le renouvellement anticipé de l'Assemblée Nationale et du Sénat est déposée auprès du Bureau.
+\ (C) Une motion visant à déclencher le renouvellement anticipé de l'Assemblée Nationale et du Sénat est déposée auprès du Bureau.
 
 Pour être recevable, elle doit être soutenue par un ou plusieurs groupes parlementaires dont l'effectif réuni représente au moins un cinquième des membres de l'assemblée.
 
