@@ -79,13 +79,13 @@ Sessions ordinaires
 
 .. article:: date d'ouverture
 
-L'assemblée se réunit en session ordinaire initiale à partir du premier jour ouvrable, à compter du septième jour calendaire suivant le renouvellement intégral de l'assemblée.
+L'assemblée se réunit en session ordinaire initiale à partir du premier jour ouvrable, à compter du septième jour calendaire suivant le renouvellement partiel ou intégral de l'assemblée.
 
-Une session ordinaire commence au premier jour ouvrable de la première semaine entière à partir du 2 janvier, sauf si l'assemblée décide d'une autre date lors d'une session précédente.
+Une session ordinaire commence au premier jour ouvrable de la première semaine entière de l'année civile, sauf si l'assemblée décide d'une autre date lors d'une session précédente.
 
 .. article:: date de clôture
 
-La session ordinaire prend fin au dernier jour ouvrable précédent le 30 décembre, sauf si l'assemblée décide d'une autre date lors de la session concernée, ainsi que lors de la prise de fonction de membres de l'assemblée à la suite d'un renouvellement intégral.
+La session ordinaire prend fin au dernier jour ouvrable de l'année civile, sauf si l'assemblée décide d'une autre date lors de la session concernée. La prise de fonction de membres de l'assemblée nouvellement élus à la suite d'un renouvellement partiel ou intégral met également fin à la session précédente.
 
 .. (...)
 
