@@ -142,6 +142,7 @@ Les propositions de loi pluriannuelle sont déposées, examinées et adoptées s
 Article 6 - adoption par une seule assemblée
 --------------------------------------------
 Une proposition de loi contenant des dispositions impropres à être contenues dans des lois de finances ou de financement de la sécurité sociale, ne peut pas être adoptée dans les conditions spécifiques à ces lois prévues à :artref:`adoption par une seule assemblée`.
+
 .. doublon mais ça fait pas de mal de clarifier
 
 Une loi contenant des dispositions auquelles les lois de financement de la sécurité sociale sont consacrées ne peut être adoptée en application de :artref:`adoption par une seule assemblée` que selon les conditions spécifiques aux lois de financement de la sécurité sociale.
@@ -178,7 +179,7 @@ S'il est mentionné au poste de Chancelier, il ne peut être cité au même post
 
 .. le censuré a droit à se défendre et à être entendu par l'assemblée entamant la procédure de censure
 
-.. le chancelier informe le Bureau des deux assemblées du remplacement d'un membre censuré dans les 24h suivant la censure
+.. le chancelier informe le Bureau des deux assemblées du remplacement d'un membre censuré dans les 24h suivant la censure, ou à la séance suivante sinon
 
 ------------------------------------------------------------
 Relative à :artref:`révocation des élus`
