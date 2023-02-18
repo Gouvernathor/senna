@@ -230,6 +230,8 @@ Un texte ou une partie d'un texte réputés adoptés en violation des procédure
 
 .. délais ouverts pour la saisine
 
+.. adoption en urgence ? ratification anticipée mais examen par le CC qui continue après
+
 .. ------------------------------------------------------------
 .. Relative à :artref:`l'autorité judiciaire`
 .. ------------------------------------------------------------
