@@ -122,6 +122,24 @@ Un jour de séance par semaine au moins est réservé par priorité à l'évalua
 
 Une semaine de séance sur six au moins, si la durée de la session excède six semaines, ou un jour de séance par semaine sinon, sont réservés à un ordre du jour arrêté par les membres du Bureau étendu issus des groupes d'opposition.
 
+.. article:: motion de réunion
+
+Une motion visant à réunir le Parlement en Congrès est déposée auprès du Bureau.
+
+Chaque groupe parlementaire place de droit une motion de réunion par session en priorité dans l'ordre du jour. Hors de ce cas, pour être recevable, elle doit être soutenue par un ou plusieurs groupes parlementaires dont l'effectif réuni représente au moins un cinquième des membres de l'assemblée.
+
+La motion est considérée en séance plénière de la même manière qu'une proposition de loi, puis transmise à l'autre assemblée.
+
+En cas d'accord, le Bureau restreint prononce la réunion du Parlement en Congrès dans les modalités prévues par la Constitution, par la motion et par le réglement du Congrès.
+
+Une motion d'amendement d'une motion de réunion est inscrite à l'ordre du jour en priorité. Elle est déposée, discutée et adoptée de la même manière qu'une motion de réunion.
+
+.. article:: résolutions
+
+Une résolution est déposée et discutée de la même manière qu'une proposition de loi.
+
+(AN, S) Une résolution est adoptée par l'assemblée seule, sauf si il s'agit d'une proposition de résolution conjointe, auquel cas elle est transmise à l'autre assemblée.
+
 .. article:: motion de renouvellement anticipé
 
 (AN, S) Une motion visant à déclencher le renouvellement anticipé de cette assemblée ou, dans les conditions prévues par la loi organique, de l'autre assemblée, est déposée auprès du Bureau.
@@ -277,24 +295,6 @@ Le Bureau fait des recommandations à l'assemblée relativement à la date de cl
 Le Bureau détermine les conditions dans lesquelles des personnalités non-membres peuvent être admises à s'adresser à l'assemblée dans le cadre de ses séances.
 
 Le Bureau détermine l'organisation et le fonctionnement des services spécifiques de l'Assemblée, les modalités d'application, d'interprétation et d'exécution, par les différents services, des dispositions du présent règlement intérieur, ainsi que le statut du personnel et les rapports entre l'administration de l'assemblée et les organisations professionnelles du personnel.
-
-.. article:: motion de réunion
-
-Une motion visant à réunir le Parlement en Congrès est déposée auprès du Bureau. Pour être recevable, elle doit être soutenue par un ou plusieurs groupes parlementaires dont l'effectif représente au moins un cinquième des membres de l'assemblée.
-
-Chaque groupe parlementaire place de droit une motion de réunion recevable par session en priorité dans l'ordre du jour.
-
-La motion est considérée en séance plénière de la même manière qu'une proposition de loi, puis transmise à l'autre assemblée.
-
-En cas d'accord, le Bureau restreint prononce la réunion du Parlement en Congrès dans les modalités prévues par la Constitution, par la motion et par le réglement du Congrès.
-
-Une motion d'amendement d'une motion de réunion est inscrite à l'ordre du jour en priorité. Elle est déposée, discutée et adoptée de la même manière qu'une motion de réunion.
-
-.. article:: résolutions
-
-Une résolution est déposée et discutée de la même manière qu'une proposition de loi.
-
-(AN, S) Une résolution est adoptée par l'assemblée seule, sauf si il s'agit d'une proposition de résolution conjointe, auquel cas elle est transmise à l'autre assemblée.
 
 ---------------------------
 VII. Groupes parlementaires
