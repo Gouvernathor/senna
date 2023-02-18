@@ -612,8 +612,6 @@ XIII. Commissions
 
 .. le rapporteur d'une proposition de loi assiste de droit (et +), mais sans droit de vote, aux séances d'une commission dont il n'est pas membre portant sur sa proposition de loi
 
-.. inclure CMP en tant que sous-partie - déclenchement, fonctionnement et conséquences en séance plénière
-
 .. commissions conjointes - d'enquête par exemple - réunies par accord du Bureau avec l'autre assemblée
 
 .. droit pour un non-inscrit de siéger dans une commission, sans droit de vote, et pareil pour un seul membre d'un groupe dont aucun autre membre ne siège dans la commission
@@ -681,13 +679,13 @@ Le rapporteur du texte considéré fait de droit partie de la CMP. Les autres me
 
 Une CMP se déroulant selon les règles fixées par cette assemblée fonctionne de la façon suivante.
 
-Elle se compose de deux fois le nombre minimum de sièges pour qu'au moins la moitié des groupes de cette assemblée soient représentés. Elle ne peut contenir moins de 10 membres.
+Le nombre de sièges réservé aux membres de cette assemblée est au moins de 10, et au moins du nombre nécessaire pour qu'au moins la moitié des groupes de cette assemblée soient représentés. Autant de sièges sont réservés aux membres de l'autre assemblée.
 
 Elle dispose de trois jours de séance pour élaborer un texte, sauf si le Bureau décide de lui accorder plus de temps, dans la limite de dix jours calendaires.
 
 Elle est présidée par le rapporteur du texte, si le texte est originaire de cette assemblée, ou par un membre désigné par les membres de la commission venant de l'autre assemblée, si le texte est originaire de l'autre assemblée.
 
-La tenue des débats se fait selon la même procédure que lors d'une commission de cette assemblée, sauf par décision des membres de la CMP.
+La tenue des débats se fait selon la même procédure que lors d'une commission de cette assemblée, sauf décision contraire des membres de la CMP.
 
 .. article:: résultat
 
