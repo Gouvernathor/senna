@@ -107,13 +107,11 @@ Relative à :artref:`lois de finances et de financement de la sécurité sociale
 
 Article premier - délais d'adoption
 -----------------------------------
-Une loi de finances et une loi de financement de la sécurité sociale doivent être adoptées pour chaque année civile, lors de l'année civile précédente ou, à défaut, lors de l'année concernée.
+Une loi de finances et une loi de financement de la sécurité sociale doivent être adoptées pour chaque année civile lors de l'année civile précédente ou, à défaut, lors de l'année concernée.
 
 Dans le cas où la loi de finances ne serait pas adoptée au moins quinze jours calendaires avant le début de l'année civile, le gouvernement dispose par pouvoir réglementaire en matière financière pour l'année civile concernée, jusqu'à adoption d'une telle loi.
 
 Dans le cas où la loi de financement de la sécurité sociale ne serait pas adoptée au moins un mois calendaire avant le début de l'année civile, les organismes de sécurité sociale disposent par voie réglementaire en matière de financement de la sécurité sociale pour l'année civile concernée, jusqu'à adoption d'une telle loi.
-
-La loi de finances ou de financement de la sécurité sociale peut être amendée par le Parlement au cours de l'année sur laquelle elle porte.
 
 La loi de finances et la loi de financement de la sécurité sociale, même amendées, ne sont en vigueur et ne peuvent entraîner d'effets que pour l'année civile concernée.
 
@@ -121,19 +119,32 @@ Article 2 - navette accélérée
 -----------------------------
 À chaque lecture, lorsqu'une assemblée saisie d'une proposition de loi de finances ou de financement de la sécurité sociale ne s'est pas prononcée sur le texte après une durée supérieure à la moitié du temps restant avant la fin de l'année civile et au moins égale à quatre jours de séance, le texte tel qu'amendé est transmis à l'autre assemblée.
 
-Article 3 - lois d'amendement
------------------------------
-Les propositions de loi d'amendement portant sur la loi de finances ou sur la loi de financement de la sécurité sociale doivent être déposées dans la même assemblée que la loi qu'elles amendent, et ne peuvent être adoptées en dernier recours que par cette assemblée.
+Article 3 - amendement
+----------------------
+La loi de finances et la loi de financement de la sécurité sociale annuelles peuvent être amendées par le Parlement.
 
-Une proposition de loi d'amendement ne peut être déposée avant l'adoption de la loi qu'elle vise à amender.
+L'amendement de la loi de finances ou de financement de la sécurité sociale ne peut se faire qu'au sein d'une proposition de loi déposée dans la même assemblée que la loi qu'il vise à amender, ou par un amendement portant sur une telle proposition de loi, ou déposé dans cette même assemblée.
 
-Article 4 - lois plurianuelles
+Une proposition de loi ou un amendement mentionnés à l'alinéa précédent ne peuvent être examinés avant l'adoption de la loi qu'ils visent à amender.
+
+Article 4 - contenu et matières
+-------------------------------
+Les dispositions des lois de financement de la sécurité sociale ne peuvent porter que sur les recettes et les dépenses des organismes de sécurité sociale.
+
+Les dispositions des lois de finances ne peuvent porter que sur les recettes et les dépenses de l'État, des collectivités territoriales et de l'ensemble des pouvoirs publics nationaux ou locaux, à l'exception des dispositions consacrées à l'alinéa précédent.
+
+Article 5 - lois plurianuelles
 ------------------------------
 Une proposition de loi portant sur les mêmes matières et visant à s'appliquer sur plusieurs années ou de manière permanente est une loi plurianuelle de programmation de finances, ou de financement de la sécurité sociale, ou les deux.
 
-Les propositions de loi pluriannuelle sont déposées, examinées et adoptées selon les mêmes conditions que les lois ordinaires. Elles ne peuvent entrer en vigueur qu'à compter de la fin de l'année civile suivant celle de leur adoption. Leur application anticipée peut être prévue par une loi de finances ou de financement de la sécurité sociale ou d'amendement à celles-ci.
+Les propositions de loi pluriannuelle sont déposées, examinées et adoptées selon les mêmes conditions que les lois ordinaires. Elles ne peuvent entrer en vigueur qu'à compter de la fin de l'année civile suivant celle de leur adoption. L'application anticipée de leurs dispositions peut être prévue par une loi de finances ou de financement de la sécurité sociale, ou par amendement à celles-ci.
 
-.. contenu réservé, facultatif, obligatoire...
+Article 6 - adoption par une seule assemblée
+--------------------------------------------
+Une proposition de loi contenant des dispositions impropres à être contenues dans des lois de finances ou de financement de la sécurité sociale, ne peut pas être adoptée dans les conditions spécifiques à ces lois prévues à :artref:`adoption par une seule assemblée`.
+.. doublon mais ça fait pas de mal de clarifier
+
+Une loi contenant des dispositions auquelles les lois de financement de la sécurité sociale sont consacrées ne peut être adoptée en application de :artref:`adoption par une seule assemblée` que selon les conditions spécifiques aux lois de financement de la sécurité sociale.
 
 -----------------------------------------------
 Relative à :artref:`référendums`
