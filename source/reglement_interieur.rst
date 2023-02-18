@@ -121,9 +121,19 @@ Un jour de séance par semaine au moins est réservé par priorité à l'évalua
 
 Une semaine de séance sur six au moins, si la durée de la session excède six semaines, ou un jour de séance par semaine sinon, sont réservés à un ordre du jour arrêté par les membres du Bureau étendu issus des groupes d'opposition.
 
-----------------------------------------------------
-IV. Admission des membres, invalidations et vacances
-----------------------------------------------------
+.. article:: motion de renouvellement anticipé
+
+(AN, S) Une motion visant à déclencher le renouvellement anticipé de cette assemblée ou, dans les conditions prévues par la loi organique, de l'autre assemblée, est déposée auprès du Bureau.
+
+(C) Une motion visant à déclencher le renouvellement anticipé de l'Assemblée Nationale et du Sénat est déposée auprès du Bureau.
+
+Pour être recevable, elle doit être soutenue par un ou plusieurs groupes parlementaires dont l'effectif réuni représente au moins un cinquième des membres de l'assemblée.
+
+Sauf disposition contraire de la motion de renouvellement, le renouvellement anticipé du Sénat est un renouvellement partiel.
+
+------------------------------
+IV. Composition de l'assemblée
+------------------------------
 
 .. article:: annonce de la composition
 

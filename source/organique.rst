@@ -10,9 +10,13 @@ Article unique
 --------------
 Le renouvellement anticipé d'une assemblée est ordonné dans les conditions prévues par son règlement intérieur, ou par réception d'un recours citoyen en dissolution.
 
-De plus, si aucun gouvernement n'est majoritaire dans au moins une assemblée dans les trois mois suivant le dernier renouvellement, partiel ou total, d'une des assemblées, les deux assemblées sont renouvelées de manière anticipée. Après ce renouvellement, la période prévue au présent alinéa est portée à huit mois.
+De plus, si aucun gouvernement n'est majoritaire dans au moins une assemblée dans les trois mois suivant le dernier renouvellement, partiel ou total, d'une des assemblées, les deux assemblées sont renouvelées de manière anticipée. Le renouvellement du Sénat est partiel. Après un tel renouvellement, cette durée est portée à huit mois.
 
-En outre, le Sénat a le pouvoir de dissoudre l'Assemblée Nationale si aucun gouvernement n'y a été majoritaire durant l'année précédant ce renouvellement.
+En outre, le Sénat a le pouvoir d'ordonner un renouvellement de l'Assemblée Nationale si aucun gouvernement n'y a été majoritaire durant l'année précédant ce renouvellement.
+
+Le Congrès a le pouvoir d'ordonner un renouvellement anticipé des deux assemblées à la fois, partiel ou intégral dans le cas du Sénat.
+
+Sauf disposition contraire issue du recours en étant à l'origine, un recours citoyen entraîne au Sénat un renouvellement intégral.
 
 Les conditions de recevabilité d'un recours citoyen en dissolution sont celles prévues pour les pétitions référendaires prévues par :artref:`référendums`.
 
@@ -31,6 +35,8 @@ Le renouvellement de l'Assemblée Nationale se fait de manière intégrale.
 Le renouvellement partiel du Sénat se fait par moitié, au plus tard après que la moitié du mandat des membres élus au dernier renouvellement du Sénat se soit écoulée.
 
 Lors du scrutin, chaque électeur peut voter pour une des listes déclarées, ou voter blanc.
+
+Lors d'un renouvellement intégral du Sénat, la moitié des sénateurs élus pour un mandat complet et celle élue pour un demi-mandat sont élues simultanément mais séparément.
 
 Les sièges à pourvoir sont attribués à chaque liste selon la méthode de la plus forte moyenne, sans seuil, et sans attribuer plus d'un siège à chaque individu.
 

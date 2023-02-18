@@ -64,7 +64,7 @@ Les assemblées peuvent être renouvelées de manière anticipée, dans le cadre
 
 Une loi organique fixe la durée des pouvoirs de chaque assemblée, le nombre de ses membres, leur mode d'élection, les conditions d'éligibilité, le régime des inéligibilités et des incompatibilités.
 
-Elle fixe également les conditions dans lesquelles sont élues les personnes appelées à assurer, en cas de vacance du siège, le remplacement des députés ou des sénateurs jusqu'au renouvellement général ou partiel de l'assemblée à laquelle ils appartenaient.
+Elle fixe également les conditions dans lesquelles sont élues les personnes appelées à assurer, en cas de vacance du siège, le remplacement des députés ou des sénateurs jusqu'au renouvellement partiel ou intégral de l'assemblée à laquelle ils appartenaient.
 
 .. article:: irresponsabilité et immunité parlementaires
 
