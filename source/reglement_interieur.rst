@@ -162,9 +162,9 @@ Les modifications à la composition de l'assemblée, ainsi que les contestations
 
 .. article:: invalidation de votes
 
-En cas d'invalidation d'une élection ou nomination, toute initiative émise par le membre concerné depuis l'élection concernée est considérée comme caduque, à moins d'être reprise en l'état par un autre membre de l'assemblée dans un délai de huit jours à dater de la communication de l'invalidation à l'assemblée.
+En cas d'invalidation d'une élection ou nomination, toute initiative émise par le membre concerné depuis l'élection concernée est considérée comme caduque, à moins d'être reprise en l'état par un autre membre de l'assemblée dans un délai d'au moins vingt-quatre heures et au plus huit jours à dater de la communication de l'invalidation à l'assemblée.
 
-Les votes auxquels des membres invalidés ont participé sont rectifiés, et si leur issue est susceptible de changer, ils sont portés à l'ordre du jour de l'assemblée, et leur application est suspendue.
+Les votes auxquels un membre invalidé a participé et datant de moins de trois mois sont rectifiés. Si leur issue est susceptible d'être changée du fait de cette rectification, ils sont portés en priorité à l'ordre du jour de l'assemblée ou de la commission dans laquelle il a eu lieu, et leur application est suspendue.
 
 .. article:: démission
 
