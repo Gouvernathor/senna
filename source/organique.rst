@@ -52,7 +52,7 @@ Le remplacement d'un parlementaire élu se fait par le premier membre non-élu d
 
 Un parlementaire élu ne peut faire partie que de la liste à partir de laquelle il a été élu. Il est d'office retiré de toutes les autres au moment de son élection.
 
-Après la proclamation des résultats de l'élection par le conseil constitutionnel, et jusqu'à l'élection suivante, des membres non-élus peuvent être ajoutés et réorganisés au sein de la liste, dans les conditions et modalités prévues par la loi.
+Après la proclamation des résultats de l'élection par le juge électoral, et jusqu'à l'élection suivante, des membres non-élus peuvent être ajoutés et réorganisés au sein de la liste, dans les conditions et selon les modalités prévues par la loi.
 
 Article 3 - éligibilité et électorat
 ------------------------------------
