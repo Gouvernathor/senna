@@ -76,9 +76,14 @@ Quand les conditions fixées par la constitution concernant les tailles des asse
 .. Relative à :artref:`résolutions parlementaires`
 .. -------------------------------------------------
 
-.. -------------------------------------------------
-.. Relative à :artref:`droit d'amendement`
-.. -------------------------------------------------
+-------------------------------------------------
+Relative à :artref:`droit d'amendement`
+-------------------------------------------------
+
+Article unique - textes non amendables
+---------------------------------------
+Aucun amendement n'est recevable lors de l'examen par une assemblée parlementaire de la ratification d'un traité tel que prévu par :artref:`ratification des traités`.
+
 
 ----------------------------------------------------
 Relative à :artref:`navette parlementaire et CMP`

@@ -523,10 +523,6 @@ Les représentants de groupes parlementaires bénéficient d'un temps de parole 
 Recevabilité des amendements
 ============================
 
-.. article:: textes sans amendements
-
-Lors de l'examen d'une autorisation de poursuivre une intervention armée en application de :artref:`guerre et intervention armée`, ou de la ratification d'un traité tel que prévu par :artref:`ratification des traités`, aucun amendement n'est recevable.
-
 .. article:: amendements après la première lecture
 
 Lorsque le texte examiné a été sujet à au moins une lecture par chaque assemblée, un amendement n'est recevable que lorsqu'il a un rapport même indirect avec le texte transmis.
@@ -535,7 +531,7 @@ Lorsque certains articles d'un texte ont été adoptés dans des termes identiqu
 
 .. article:: recevabilité financière
 
-Hors des propositions de loi de finances ou de financement de la sécurité sociale, et des propositions de loi d'amendement de lois de finances ou de financement de la sécurité sociale, aucun amendement dont l'adoption aurait pour conséquence soit une diminution des ressources publiques, soit une augmentation des charges publiques, n'est recevable.
+Aucun amendement dont l'adoption aurait pour conséquence soit une diminution des ressources publiques, soit une augmentation des charges publiques, n'est recevable, à moins de soit porter sur une proposition de loi de finances ou de financement de la sécurité sociale, ou d'amender la loi annuelle de finances ou de financement de la sécurité sociale.
 
 Votes
 =====
