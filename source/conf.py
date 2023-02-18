@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Constitution Senna'
-copyright = '2022, Pierre Pavia'
+copyright = '2022-2023, Pierre Pavia'
 author = 'Pierre Pavia'
 
 import sys, os
