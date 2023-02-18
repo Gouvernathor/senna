@@ -46,7 +46,7 @@ Chaque liste de candidats doit réunir au moins autant d'individus que de siège
 
 L'ordre des candidats au sein d'une liste ne peut être modifié moins de vingt-quatre heures avant la tenue du vote.
 
-Chaque liste de candidats prévoit un individu ou une association qui la représente et décide en son nom de l'ordre des candidats la composant, ainsi que de leur remplacement. À défaut, ces décisions sont prises à la majorité absolue des membres de la liste.
+Chaque liste de candidats prévoit une association ou un individu qui la représente et décide en son nom de l'ordre des candidats la composant, ainsi que de leur remplacement. À défaut, ces décisions sont prises à la majorité absolue des membres de la liste.
 
 Le remplacement d'un parlementaire élu se fait par le premier membre non-élu de la liste à partir de laquelle il avait été élu.
 
@@ -90,7 +90,6 @@ Article unique - textes non amendables
 ---------------------------------------
 Aucun amendement n'est recevable lors de l'examen par une assemblée parlementaire de la ratification d'un traité tel que prévu par :artref:`ratification des traités`.
 
-
 ----------------------------------------------------
 Relative à :artref:`navette parlementaire et CMP`
 ----------------------------------------------------
@@ -123,7 +122,7 @@ La loi de finances et la loi de financement de la sécurité sociale, même amen
 
 Article 2 - navette accélérée
 -----------------------------
-À chaque lecture, lorsqu'une assemblée saisie d'une proposition de loi de finances ou de financement de la sécurité sociale ne s'est pas prononcée sur le texte après une durée supérieure à la moitié du temps restant avant la fin de l'année civile et au moins égale à quatre jours de séance, le texte tel qu'amendé est transmis à l'autre assemblée.
+À chaque lecture, lorsqu'une assemblée saisie d'une proposition de loi de finances ou de financement de la sécurité sociale ne s'est pas prononcée sur le texte après une durée au moins égale à quatre jours de séance et supérieure à la moitié du temps restant avant la fin de l'année civile, le texte tel qu'amendé est transmis à l'autre assemblée.
 
 Article 3 - amendement
 ----------------------

@@ -5,7 +5,7 @@ Réglement intérieur du Parlement
 .. artsource:: du Réglement intérieur des assemblées parlementaires
 
 .. note::
-    Ce texte établit le règlement intérieur des assemblées parlementaires. Sauf indication contraire, ses dispositions s'appliquent à ces deux assemblées, qui sont l'Assemblée Nationale et le Sénat.
+    Ce texte établit le règlement intérieur des assemblées parlementaires. Sauf indication contraire, ses dispositions s'appliquent à l'Assemblée Nationale, au Sénat et au Congrès.
 
     Les lettres AN pour l'Assemblée Nationale, S pour le Sénat et C pour le Congrès, indiquent que l'article ne s'applique qu'à cette assemblée quand elles figurent à côté du numéro d'un article, et idem pour un alinéa quand elles y figurent en retrait.
 
@@ -46,19 +46,21 @@ Réglement intérieur du Parlement
     rapporteur d'un texte
 
     trucs prévus par la constitution :
-        autorisation de guerre ou intervention armée (simple vote sans amendement)
-        approbation de traités, procédure spécifique ? (vote sans amendements ?)
+        autorisation de guerre ou intervention armée
+        ratification de traité (pas d'amendement, prévu par l'organique)
         désignation des membres de la commission spéciale pour la nomination du conseil constitutionnel
         désignation des juges de la CJR
         nomination du défenseur des droits
 
         (par le bureau)
         levée de l'immunité parlementaire
-        activation de la CMP
+        activation de la CMP (fait)
 
         validation des nominations du président par une commission (conseil constit, CSM)
 
     au sein du congrès, vote spécifique aux membres d'une assemblée valant vote de l'assemblée en question (pour contourner le délai de ratification plus long) besoin de l'écrire dans chacun des 3 réglements
+
+    au sénat, suspension des sénateurs quand il manque des députés
 
 -----------
 I. Sessions
@@ -105,15 +107,14 @@ L'ordre du jour inclut, par priorité :
 
 #. l'examen des projets relatifs aux états de crise ;
 #. les demandes d'autorisation visées par :artref:`guerre et intervention armée` ;
-#. l'examen des propositions de lois de finances ;
-#. l'examen des propositions de lois de financement de la sécurité sociale ;
+#. l'examen des propositions de lois de finances ou de lois de financement de la sécurité sociale ;
 #. l'examen des textes transmis par l'autre assemblée depuis six semaines au moins ;
 #. tout autre élément établi par le présent réglement comme ayant priorité ;
 #. toutes autres questions proposées par des membres du Bureau étendu.
 
 Un élément combinant plusieurs de ces points est considéré comme ayant la priorité du point le plus important.
 
-.. par exemple une motion de réunion (avant-dernier point) pour considérer une loi de finances (deuxième point) est de priorité 2
+.. par exemple une motion de réunion (avant-dernier point) pour considérer une loi de finances (troisième point) est de priorité 2
 
 Un jour de séance par semaine au moins est réservé par priorité à l'évaluation de l'activité du gouvernement et aux instructions de l'assemblée à son égard.
 
