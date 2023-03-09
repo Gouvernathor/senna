@@ -487,7 +487,7 @@ Une semaine de séance sur quatre est réservée par priorité et dans l'ordre f
 
 Un jour de séance par mois est réservé à un ordre du jour arrêté par chaque assemblée à l'initiative des groupes d'opposition de l'assemblée intéressée ainsi qu'à celle des groupes minoritaires.
 
-Une séance par semaine au moins, y compris pendant les sessions extraordinaires prévues à `l'article 29 <#article-29>`, est réservée par priorité aux questions des membres du Parlement et aux réponses du gouvernement.
+Une séance par semaine au moins, y compris pendant les sessions extraordinaires prévues à `l'article 29 <#article-29>`_, est réservée par priorité aux questions des membres du Parlement et aux réponses du gouvernement.
 
 Article 49
 ----------
