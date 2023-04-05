@@ -122,7 +122,7 @@ La loi de finances et la loi de financement de la sécurité sociale, même rect
 
 Article 2 - navette accélérée
 -----------------------------
-À chaque lecture, lorsqu'une assemblée saisie d'une proposition de loi de finances ou de financement de la sécurité sociale ne s'est pas prononcée sur le texte après une durée au moins égale à quatre jours de séance et supérieure à la moitié du temps restant avant la fin de l'année civile, le texte tel qu'amendé est transmis à l'autre assemblée.
+À chaque lecture, lorsqu'une assemblée saisie d'une proposition de loi de finances ou de financement de la sécurité sociale ne s'est pas prononcée sur le texte après une durée au moins égale à quatre jours de séance et supérieure au nombre de jours restants avant le début de l'année sur laquelle porte la loi, le texte tel qu'amendé est transmis à l'autre assemblée.
 
 Article 3 - amendement
 ----------------------
@@ -150,7 +150,7 @@ Une proposition de loi contenant des dispositions impropres à être contenues d
 
 .. doublon mais ça fait pas de mal de clarifier
 
-Une loi contenant des dispositions auquelles les lois de financement de la sécurité sociale sont consacrées ne peut être adoptée en application de :artref:`adoption par une seule assemblée` que selon les conditions spécifiques aux lois de financement de la sécurité sociale.
+Une loi contenant des dispositions auquelles sont consacrées les lois de financement de la sécurité sociale ne peut être adoptée en application de :artref:`adoption par une seule assemblée` que selon les conditions spécifiques aux lois de financement de la sécurité sociale.
 
 -----------------------------------------------
 Relative à :artref:`référendums`
