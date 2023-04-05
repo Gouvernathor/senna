@@ -118,7 +118,7 @@ Dans le cas où la loi de finances ne serait pas adoptée au moins quinze jours 
 
 Dans le cas où la loi de financement de la sécurité sociale ne serait pas adoptée au moins un mois calendaire avant le début de l'année civile, les organismes de sécurité sociale disposent par voie réglementaire en matière de financement de la sécurité sociale pour l'année civile concernée, jusqu'à adoption d'une telle loi.
 
-La loi de finances et la loi de financement de la sécurité sociale, même amendées, ne sont en vigueur et ne peuvent entraîner d'effets que pour l'année civile concernée.
+La loi de finances et la loi de financement de la sécurité sociale, même rectifiées, ne sont en vigueur et ne peuvent entraîner d'effets que pour l'année civile concernée.
 
 Article 2 - navette accélérée
 -----------------------------
@@ -126,11 +126,11 @@ Article 2 - navette accélérée
 
 Article 3 - amendement
 ----------------------
-La loi de finances et la loi de financement de la sécurité sociale annuelles peuvent être amendées par le Parlement.
+La loi de finances et la loi de financement de la sécurité sociale annuelles peuvent être rectifiées par le Parlement.
 
-L'amendement de la loi de finances ou de financement de la sécurité sociale ne peut se faire qu'au sein d'une proposition de loi déposée dans la même assemblée que la loi qu'il vise à amender, ou par un amendement portant sur une telle proposition de loi, ou déposé dans cette même assemblée.
+La rectification de la loi de finances ou de financement de la sécurité sociale ne peut se faire qu'au moyen d'une proposition de loi déposée dans la même assemblée que la loi qu'il vise à amender, ou par un amendement portant sur une telle proposition de loi, ou déposé dans cette même assemblée.
 
-Une proposition de loi ou un amendement mentionnés à l'alinéa précédent ne peuvent être examinés avant l'adoption de la loi qu'ils visent à amender.
+Une proposition de loi ou un amendement mentionnés à l'alinéa précédent ne peuvent être examinés avant l'entrée en application de la loi qu'ils visent à rectifier.
 
 Article 4 - contenu et matières
 -------------------------------
@@ -142,7 +142,7 @@ Article 5 - lois plurianuelles
 ------------------------------
 Une proposition de loi portant sur les mêmes matières et visant à s'appliquer sur plusieurs années ou de manière permanente est une loi plurianuelle de programmation de finances, ou de financement de la sécurité sociale, ou les deux.
 
-Les propositions de loi pluriannuelle sont déposées, examinées et adoptées selon les mêmes conditions que les lois ordinaires. Elles ne peuvent entrer en vigueur qu'à compter de la fin de l'année civile suivant celle de leur adoption. L'application anticipée de leurs dispositions peut être prévue par une loi de finances ou de financement de la sécurité sociale, ou par amendement à celles-ci.
+Les propositions de loi pluriannuelle sont déposées, examinées et adoptées selon les mêmes conditions que les lois ordinaires. Elles ne peuvent entrer en vigueur qu'à compter de la fin de l'année civile suivant celle de leur adoption. L'application anticipée de leurs dispositions peut être prévue par une loi de finances ou de financement de la sécurité sociale, ou par leur rectification.
 
 Article 6 - adoption par une seule assemblée
 --------------------------------------------
