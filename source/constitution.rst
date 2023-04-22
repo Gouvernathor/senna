@@ -222,7 +222,7 @@ Titre III — Le gouvernement
 
 L'administration assure l'application des lois.
 
-Le gouvernement dirige l'administration, dont il fait partie, ainsi que la force armée, à l'exception des services de protection et d'administration du Parlement.
+Le gouvernement dirige l'administration, dont il fait partie, ainsi que la force armée, à l'exception des services d'administration et de sécurité du Parlement.
 
 Il est responsable devant le Parlement.
 

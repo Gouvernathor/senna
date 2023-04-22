@@ -46,7 +46,7 @@ Chaque liste de candidats doit réunir au moins autant d'individus que de siège
 
 L'ordre des candidats au sein d'une liste ne peut être modifié moins de vingt-quatre heures avant la tenue du vote.
 
-Chaque liste de candidats prévoit une association ou un individu qui la représente et décide en son nom de l'ordre des candidats la composant, ainsi que de leur remplacement. À défaut, ces décisions sont prises à la majorité absolue des membres de la liste.
+Chaque liste de candidats prévoit une association ou un individu qui la représente et décide en son nom de l'ordre des candidats qui composent la liste, ainsi que de leur remplacement. À défaut, ces décisions sont prises à la majorité absolue des membres de la liste.
 
 Le remplacement d'un parlementaire élu se fait par le premier membre non-élu de la liste à partir de laquelle il avait été élu.
 
@@ -228,7 +228,7 @@ Relative à :artref:`fonctionnement du Conseil constitutionnel`
 
 Article premier - conséquences du contrôle en instance législative
 ------------------------------------------------------------------
-Dans le cas où certaines des dispositions d'un texte adopté par le Parlement seraient déclarées inconstitutionnelles avant sa promulgation, le texte est renvoyé à la dernière assemblée parlementaire à l'avoir considéré. Sauf dans le cas où le Parlement en exprimerait la décision avant l'adoption du texte, les autres dispositions du texte ne sont pas promulguées.
+Dans le cas où certaines des dispositions d'un texte adopté par le Parlement seraient déclarées inconstitutionnelles avant sa promulgation, le texte est renvoyé à la dernière assemblée parlementaire à l'avoir considéré. Les autres dispositions du texte ne sont pas promulguées, sauf dans le cas où le Parlement en exprimerait la décision avant l'adoption du texte.
 
 Article 2 - contrôle de la procédure parlementaire
 --------------------------------------------------
