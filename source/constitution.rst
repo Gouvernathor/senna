@@ -212,7 +212,7 @@ Le vote doit avoir lieu dans les trois mois suivant le déclenchement du référ
 
 Hors référendums consultatifs, la valeur constitutionnelle d'un texte doit être établie avant que le vote n'ait lieu. Le Conseil constitutionnel la constate par un avis public présentant, le cas échéant, les modifications de la Constitution qui résulteraient de son adoption. Si le référendum a été déclenché par l'Assemblée nationale seule et si il a valeur constitutionnelle, les dispositions contraires à la Constitution sont retirées du texte et l'Assemblée nationale peut décider d'annuler la tenue du référendum.
 
-Cet avis ne doit pas être rendu plus d'un mois après le déclenchement du référendum, et lorsque le texte a valeur constitutionnelle, le vote ne peut avoir lieu moins d'un mois après que l'avis soit rendu public. Toutefois, dans les cas où le référendum n'est pas d'origine populaire et où le texte n'a pas valeur constitutionnelle, le Parlement peut allonger le délai laissé au Conseil constitutionnel.
+Cet avis ne doit pas être rendu plus d'un mois après le déclenchement du référendum, et lorsque le texte a valeur constitutionnelle, le vote ne peut avoir lieu moins d'un mois après que l'avis soit rendu public. Toutefois, dans les cas où le référendum n'est pas d'origine populaire, le Parlement peut allonger le délai laissé au Conseil constitutionnel.
 
 ---------------------------
 Titre III — Le gouvernement
