@@ -416,9 +416,11 @@ Les lois organiques, avant leur promulgation, doivent être soumis au Conseil co
 
 Aux mêmes fins, les lois ainsi que les règlements des assemblées parlementaires et du Congrès peuvent être déférées au Conseil constitutionnel, avant leur promulgation, par le gouvernement, un nombre de citoyens fixé par loi organique, le Bureau de l'Assemblée nationale, le Bureau du Sénat ou un vingtième des membres d'une assemblée parlementaire ou du Congrès, ou si le Conseil constitutionnel s'en saisit lui-même.
 
-Dans les cas prévus aux alinéas précédents, le Conseil constitutionnel doit statuer dans le délai d'un mois. Toutefois, à la demande du Parlement, s'il y a urgence, ce délai est ramené à huit jours.
+Dans les cas prévus aux alinéas précédents, le Conseil constitutionnel doit statuer dans le délai d'un mois.
 
 Dans ces mêmes cas, la saisine du Conseil constitutionnel suspend le délai de promulgation.
+
+Toutefois, s'il y a urgence et à la demande du Parlement, le Conseil constitutionnel doit statuer de manière préliminaire dans les huit jours, après lesquels la suspension du délai de promulgation est levée. Le Conseil constitutionnel peut amender son avis préliminaire dans le délai initial d'un mois après sa saisine, entraînant les conséquences prévues à :artref:`conséquence du contrôle`.
 
 .. article:: contrôle de constitutionnalité en instance juridictionnelle
 
