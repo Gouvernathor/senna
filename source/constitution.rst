@@ -268,7 +268,7 @@ La pétition du gouvernement contient un programme de politique générale. Chaq
 
 Amender le contenu de ce programme après la nomination du gouvernement nécessite l'accord de la ou des assemblées parlementaires au nom desquelles il a été investi, après la présentation de l'amendement par le Chancelier, ainsi que le consentement de tous les membres du gouvernement.
 
-La loi et la Constitution ont primauté sur les instructions du Parlement, lesquelles ont primauté sur le programme du gouvernement.
+La Constitution et la loi ont primauté sur les instructions du Parlement, lesquelles ont primauté sur le programme du gouvernement.
 
 .. article:: motions de censure
 
