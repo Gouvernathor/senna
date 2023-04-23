@@ -168,6 +168,8 @@ Article premier - délai de nomination
 -------------------------------------
 Lorsqu'il existe au moins une pétition de gouvernement ayant une priorité plus grande que celle du gouvernement en fonction, le gouvernement démissionne dans les quinze jours calendaires.
 
+Toutefois, l'alinéa précédent ne peut déclencher plus de trois démissions du gouvernement dans une période de neuf mois ne comportant aucun renouvellement partiel ou intégral d'une assemblée.
+
 Article 2 - recevabilité des pétitions de gouvernement
 ------------------------------------------------------
 Chaque individu cité sur une pétition de gouvernement doit répondre aux conditions suivantes afin que la pétition soit recevable.
