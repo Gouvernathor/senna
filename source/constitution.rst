@@ -274,7 +274,7 @@ La Constitution et la loi ont primauté sur les instructions du Parlement, lesqu
 
 Le Parlement met en cause la responsabilité d'un membre du gouvernement par le vote d'une motion de censure dans une des deux assemblées, ou en Congrès.
 
-Une telle motion n'est recevable que si le gouvernement est majoritaire dans l'assemblée concernée, ou si elle est signée par la moitié des membres approuvant le gouvernement au sein de l'assemblée concernée.
+Une telle motion n'est recevable dans une assemblée que si le gouvernement est majoritaire dans cette assemblée, ou si elle est signée par la moitié des membres approuvant le gouvernement au sein de cette assemblée.
 
 De plus, une motion de censure à l'encontre du Chancelier n'est recevable au Sénat que si le gouvernement est uniquement majoritaire au Sénat. Lorsque c'est le cas, une telle motion n'est pas recevable à l'Assemblée nationale.
 
