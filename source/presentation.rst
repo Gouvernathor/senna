@@ -103,8 +103,6 @@ Le gouvernement ne peut être remplacé que lorsque sa priorité est dépassée,
 Motions de censure
 ------------------
 
-.. peut-être formuler ça différemment, en listant des cas où la censure interviendrait : un Chancelier qui veut virer un ministre, une affaire judiciaire, une pétition existant avec une plus grande priorité, un changement politique au sein de la même majorité, un changement de coalition étant majoritaire à la fois avant et après (par exemple après des élections)...
-
 Pour pallier à tout risque d'instabilité, toute motion de censure faisant tomber le gouvernement (ou même uniquement le Chancelier) doit être constructive, et proposer un remplacement, avant d'être votée, sauf si une pétition de même priorité est déjà disponible. De plus, la censure n'est généralement possible que dans une assemblée où le gouvernement est majoritaire (je détaillerai le cas des gouvernements minoritaires plus loin), ce qui ajoute une deuxième sécurité compensant le fait que le gouvernement n'est plus responsable que devant une seule chambre comme sous la Cinquième, en Allemagne, ou dans le système de Westminster.
 
 Une particularité qui peut être étonnante : les membres du gouvernement peuvent démissionner de leur propre chef, et être remplacés par le Chancelier... mais pas le Chancelier lui-même, qui doit recevoir l'accord du Parlement qui doit lui trouver (et voter) un remplacement. Il ne peut pas (ou plus difficilement) faire de chantage à la démission à la René Coty. Le Chancelier ne peut pas non plus simplement virer quelqu'un : pour ça il doit déposer une motion de censure individuelle, qui déroge à la plupart des contraintes citées plus haut mais qui doit quand même être acceptée par une chambre du parlement.
@@ -126,10 +124,53 @@ C'est pour ça qu'ici, si aucune majorité ne se dessine dans aucune chambre, il
 
 Certes, ça aboutit à une situation où le gouvernement est très indépendant vis-à-vis de l'assemblée, mais la situation est aussi très simple à résoudre pour les parlementaires : il suffit de réunir une majorité dans l'une ou l'autre des chambres. Ça les met face à leurs responsabilité, en les forçant à trouver un accord entre eux si ils veulent récupérer leur ascendance sur le gouvernement.
 
-La responsabilités
-------------------
+La responsabilité
+-----------------
 
 .. (dans le sens contraintes) devant l'assemblée, la loi, la déclaration politique, la CJR, et comment tout ça s'articule
+
+Petit résumé des différents cas de figure autour des motions de censure :
+
+- Il y a une pétition de plus grande priorité que le gouvernement
+
+  - Si le gouvernement est majoritaire au Sénat et une pétition devient majoritaire à l'Assemblée. Dans ce cas, on peut imaginer que le Sénat fasse une obstruction et refuse de censurer le gouvernement, mais l'Assemblée n'a qu'à attendre la fin de la période de carence et le gouvernement est automatiquement remplacé.
+  - Si le gouvernement est minoritaire donc issu de l'assemblée, et encore plus si la nouvelle pétition est majoritaire uniquement au Sénat, il devient encore moins probable qu'une motion de censure soit adoptée étant donné les contraintes existant pour les gouvernements minoritaires. Mais la période de carence et le changement de priorité suffisent à renouveler le gouvernement.
+  - Dans les autres cas, le gouvernement est majoritaire, et la pétition devant le remplacer est aussi majoritaire dans l'assemblée où le gouvernement l'est. Donc la nouvelle majorité est capable de voter une motion de censure si elle ne veut pas attendre la fin de la période de carence.
+  - Dans tous ces cas, une motion de censure n'est pas nécessaire pour que le gouvernement tombe.
+
+- Un changement de majorité sans changer d'assemblée (pour un gouvernement majoritaire)
+
+  - Prenons le cas d'un gouvernement majoritaire à l'assemblée nationale. Si les alliances changent *au sein* de l'assemblée, alors il y a forcément des membres qui soutenaient le gouvernement précédent et qui soutiennent aussi la pétition entrante. Pour forcer un changement de gouvernement, la nouvelle coalition peut toujours voter une motion de censure, mais si suffisamment de ces députés ayant les deux en commun retirent leur soutien au gouvernement en place, sa pétition perdra sa majorité à l'assemblée et il sera remplacé par la nouvelle après la période de carence.
+
+- Un changement de coalition entre deux gouvernements minoritaires
+
+  - C'est un cas où j'assume de ne pas donner de solution. Pour expliciter ce cas : si après les élections et après la période de carence, la plus grande coalition à l'assemblée représente 40% des députés (et si aucune pétition n'est majoritaire au Sénat), elle sera nommée au gouvernement. Si une nouvelle coalition se met en place en réunissant 45% des députés par exemple, elle ne sera *pas* nommée au gouvernement, même après autant de périodes de carence qu'on veut. Seule une élection partielle, une pétition majoritaire, ou une démission de la coalition en place avec son propre consentement (soit du Chancelier soit de la majorité des députés de la coalition en place), peuvent faire changer le gouvernement.
+  - Même cas quand un gouvernement est majoritaire, puis qu'il est désavoué par certains parlementaires mais qu'aucune pétition n'est majoritaire nulle part ; ou qu'une élection arrive et le met de facto en minorité : le gouvernement sortant reste en place, même si une coalition (minoritaire) plus large existe, tant qu'aucune coalition majoritaire n'est constituée. Le gouvernement sortant peut démissionner, et ce serait bien normal après une élection qu'il perd, mais la démission ne peut être acceptée par l'assemblée sans trouver un gouvernement de remplacement.
+
+- Un changement politique au sein de la même coalition
+
+  - Prenons l'exemple d'une coalition socialiste style XXe siècle qui déciderait de remplacer Michel Rocard par Édith Cresson à la Chancellerie de son gouvernement. Que le Chancelier sortant fasse obstruction ou non, une motion de censure est nécessaire et sera déposée, soit par lui, soit par un député (ou un sénateur si le gouvernement est uniquement majoritaire au Sénat, mais ça ne change rien). Soit la pétition d'Édith Cresson est déjà majoritaire, soit la motion de censure ne vise que le Chancelier (ici Michel Rocard) et prévoit par qui il va être remplacé (ici Édith Cresson). Dans le premier cas une seule motion de censure peut être déposée et la nouvelle pétition prend la suite, dans le second cas une motion de censure concurrente (qui remplacerait Michel Rocard par quelqu'un d'autre, par exemple Jacques Chirac) recevrait moins de voix et ne passerait donc pas.
+
+- Un ministre qui démissionne
+
+  - Une démission volontaire d'un membre du gouvernement autre que le Chancelier n'est pas soumise à la confirmation du Parlement - ni même à celle du Chancelier. Pas de motion de censure nécessaire, donc. Le Chancelier nomme un remplaçant, et le Parlement (la ou les chambres dans lesquelles le gouvernement est majoritaire) peut nommer un autre remplaçant à la place.
+
+- Un Chancelier qui veut virer un ministre
+
+  - Si un membre du gouvernement ne veut pas démissionner, le Chancelier doit déposer une motion de censure individuelle auprès d'une assemblée. Rien que cette menace serait suffisante, dans la plupart des cas, pour forcer un ministre à démissionner devant la honte d'une censure publique.
+  - Et en même temps, le Chancelier ne peut pas faire la diva à virer les gens comme il veut, parce que si le parlement prend le parti du ministre et si la motion de censure échoue, c'est le Chancelier qui perd la face - ce serait une version light de perdre une motion de confiance.
+
+- Une affaire judiciaire à la CJR
+
+  - Si une affaire pénale concerne un membre du gouvernement dans l'exercice de ses fonctions (y compris le Chancelier), la Cour de Justice de la République est saisie. Elle peut prononcer une condamnation pénale et/ou (suivant la loi organique) la levée des conditions pour déposer une motion de censure contre lui. Elle ne peut pas en déposer une elle-même ni prononcer directement la destitution, parce que ça pourrait poser une instabilité politique que le Parlement est à même d'apprécier, en déposant et adoptant une motion de censure si il le juge pertinent.
+  - Il arrive la même chose si la CJR juge que le membre du gouvernement n'a pas respecté les instructions données par le Parlement ou son propre programme de politique générale. C'est l'unique circonstance où un gouvernement minoritaire peut faire l'objet d'une censure contre l'avis à la fois du Chancelier et de la majorité des députés soutenant le gouvernement.
+  - Pas d'exception pour le Chancelier, parce que comme disait le juge Jackson, "Presidents are not kings" : même le chef de l'exécutif n'est pas au-dessus des lois, ni des instructions données par le Parlement.
+
+- Un scandale visant un ministre, sans CJR
+
+  - On est dans le cas où un scandale touche un ministre sans correspondre aux cas précédent, donc le Chancelier ne demande pas sa démission et le scandale concerne soit une infraction pénale non commise dans l'exercice de ses fonctions, soit avant que cette infraction soit jugée par la CJR, soit quelque chose qui n'est pas puni par la loi et qui ne contrevient pas non plus directement au programme de politique générale du gouvernement.
+  - Si le gouvernement est minoritaire, il faut que la majorité des députés qui le soutiennent déposent une motion de censure contre le ministre pour que le ministre soit censuré. À moins de ça, on ne prend pas le risque de provoquer une instabilité.
+  - Si le gouvernement est majoritaire, alors il y a besoin d'au moins une partie des députés qui le soutiennent pour adopter une motion de censure à la majorité (sauf si ils se pointent pas pour voter mais c'est leur problème).
 
 Les droits fondamentaux clarifiés
 =================================

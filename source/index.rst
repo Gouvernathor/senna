@@ -1,7 +1,6 @@
 ..
    restent :
    les annotations à la constitution
-   les explications mises sur un document à part
    le schéma des institutions, exporté et inclus dans le document d'explications
    déplacer les articles de la constitution qui établissent des droits fondamentaux dans la Charte
 
