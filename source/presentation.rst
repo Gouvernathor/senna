@@ -181,14 +181,20 @@ Les différents cas de figure autour des motions de censure :
 
   - On est dans le cas où un scandale touche un ministre sans correspondre aux cas précédent, donc le Chancelier ne demande pas sa démission et le scandale concerne soit une infraction pénale non commise dans l'exercice de ses fonctions, soit avant que cette infraction soit jugée par la CJR, soit quelque chose qui n'est pas puni par la loi et qui ne contrevient pas non plus directement au programme de politique générale du gouvernement.
   - Si le gouvernement est minoritaire, il faut que la majorité des députés qui le soutiennent déposent une motion de censure contre le ministre pour que le ministre soit censuré. À moins de ça, on ne prend pas le risque de provoquer une instabilité.
-  - Si le gouvernement est majoritaire, alors il y a besoin d'au moins une partie des députés qui le soutiennent pour adopter une motion de censure à la majorité (sauf si ils se pointent pas pour voter mais c'est leur problème).
+  - Si le gouvernement est majoritaire, alors il y a besoin du vote ou de l'abstention d'au moins une partie des députés qui le soutiennent pour adopter une motion de censure à la majorité (sauf si ils se pointent pas pour voter mais c'est leur problème).
 
 Les droits fondamentaux clarifiés
 =================================
 
-.. expliquer que les droits fondamentaux dans la constitution, les rédacteurs en voulaient pas, et que le Bloc de Constitutionnalité est une invention du Conseil Constitutionnel
-.. clarification des droits fondamentaux contradictoires et du foutoir arbitraire actuel
-.. présence du respect de l'environnement comme découlant d'un droit humain fondamental
+Les rédacteurs de la constitution de 1958 voulaient une constitution sans droits fondamentaux, c'était un de leurs objectifs assumés. C'est pour cette raison que la décision "liberté d'association" du Conseil constitutionnel en 1971 est si importante dans le droit constitutionnel de la Cinquième République : c'est la première fois qu'on reconnait une valeur légale au préambule à la constitution, créant ainsi le concept de Bloc de constitutionnalité, incluant des concepts hétéroclites et parfois contradictoires avec la :abbr:`DDHC (Déclaration des droits de l'homme et du citoyen de 1789)`, les "principes fondamentaux reconnus par les lois de la République" et une pelletée d'autres listés par le préambule de 1946.
+
+Certains de ces droits fondamentaux sont très bons, là n'est pas le problème, après tout ils ont bien été adoptés par des parlements français à diverses périodes de l'histoire, le problème vient du fait qu'on donne une valeur légale à des textes qui ont été faits à des époques très différentes et pas du tout faits pour fonctionner ensemble. Toutes ces contradictions créent un flou qui permet au Conseil un arbitraire dans ses décisions, où il peut choisir l'issue qu'il veut et la justifier en choisissant le texte qui lui convient le mieux.
+
+Pour simplifier tout ça, j'ai préféré réunir les droits fondamentaux dans un seul document, qui est de fait (incidemment) plus simple à amender - en effet la question de comment on peut amender la DDHC de 1789 ou le préambule de la constitution de 1958 reste assez ouverte...
+
+Je n'ai pas prévu, par exemple, de "principes" qui ne seraient pas des droits, parce que selon moi tout ce qui est dans une constitution doit avoir pour but de protéger un droit fondamental - même quand c'est très indirect, comme la période de carence avant le remplacement du gouvernement, qui a pour but de garantir la stabilité de l'état et donc de lui permettre de protéger les droits fondamentaux.
+
+Les droits à y placer sont une grande interrogation pour moi - principalement parce que ce n'est pas une tâche de constitutionnaliste, ça n'a rien à voir avec le reste de l'organisation des pouvoirs publics à part certains cas précis comme le droit de vote - mais j'ai essayé d'y mettre deux éléments qui me semblent importants : d'une part, le droit à la vie dans un environnement sain, d'où découle tout l'impératif constitutionnel de protection de l'environment, et d'autre part le droit fondamental à l'indifférenciation, qui est le contraire de la discrimination.
 
 Le Conseil Constitutionnel
 ==========================
