@@ -127,9 +127,20 @@ Certes, ça aboutit à une situation où le gouvernement est très indépendant 
 La responsabilité
 -----------------
 
-.. (dans le sens contraintes) devant l'assemblée, la loi, la déclaration politique, la CJR, et comment tout ça s'articule
+L'action du gouvernement est soumise à différentes contraintes.
 
-Petit résumé des différents cas de figure autour des motions de censure :
+- Tout d'abord, il est soumis à la Constitution, et aux limites du pouvoir réglementaire qui sont établies par la loi (et dans certains cas par la Constitution et la loi organique).
+- Ensuite, il doit se soumettre aux instructions que le Parlement lui adresse.
+- Enfin, la pétition du gouvernement contient un programme de politique générale, qui lie chacun des membres du gouvernement en l'absence de contradiction avec les points précédents.
+
+Un manquement à ces obligations - si le Parlement n'a pas déjà agi - est sanctionné par la Cour de Justice de la République qui peut d'une part prononcer des peines pénales quand elles sont prévues par la loi, et d'autre part lever les contraintes limitant l'adoption de motions de censure contre un gouvernement se mettant hors la loi, permettant donc au Parlement d'agir.
+
+La CJR est composée de six parlementaires de chaque assemblée, les représentant chacuns de manière proportionnelle. Il y a en plus trois juges issus de la Cour de cassation, qui ont droit de veto (collectif, pas individuel) sur la levée des limites de l'adoption de motions de censure.
+
+Résumé
+------
+
+Les différents cas de figure autour des motions de censure :
 
 - Il y a une pétition de plus grande priorité que le gouvernement
 
