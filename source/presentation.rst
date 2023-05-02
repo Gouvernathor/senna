@@ -27,7 +27,7 @@ Une petite liste, dont les différents points seront développés plus en détai
 - nomination du Conseil Constitutionnel : le Parlement et le Conseil Supérieur de la Magistrature (plus de siège à vie évidemment)
 - nomination aux emplois civils et militaires : Chancellerie
 - chef des armées : le gouvernement
-- promulgation des lois : automatique, reconnue par le Conseil Constitutionnel et les présidents des assemblées
+- promulgation des lois : automatique après un délai pendant lequel le Conseil Constitutionnel peut être saisi
 - ratification des traités : le Parlement seul, ou le gouvernement sur certains sujets
 - "veiller au respect de la constitution" et assurer un arbitrage : le Conseil Constitutionnel
 - garant de l'indépendance de l'autorité judiciaire : le Conseil Supérieur de la Magistrature
@@ -68,6 +68,8 @@ Un nouveau Sénat
 
 Un nouveau Congrès
 ------------------
+
+.. législation en congrès : conséquences sur la navette parlementaire et adoption par une seule chambre
 
 Le Chancelier de la République et le gouvernement
 =================================================
@@ -142,25 +144,25 @@ Résumé
 
 Les différents cas de figure autour des motions de censure :
 
-- Il y a une pétition de plus grande priorité que le gouvernement
+- Il y a une pétition de plus grande priorité que le gouvernement en place
 
-  - Si le gouvernement est majoritaire au Sénat et une pétition devient majoritaire à l'Assemblée. Dans ce cas, on peut imaginer que le Sénat fasse une obstruction et refuse de censurer le gouvernement, mais l'Assemblée n'a qu'à attendre la fin de la période de carence et le gouvernement est automatiquement remplacé.
-  - Si le gouvernement est minoritaire donc issu de l'assemblée, et encore plus si la nouvelle pétition est majoritaire uniquement au Sénat, il devient encore moins probable qu'une motion de censure soit adoptée étant donné les contraintes existant pour les gouvernements minoritaires. Mais la période de carence et le changement de priorité suffisent à renouveler le gouvernement.
-  - Dans les autres cas, le gouvernement est majoritaire, et la pétition devant le remplacer est aussi majoritaire dans l'assemblée où le gouvernement l'est. Donc la nouvelle majorité est capable de voter une motion de censure si elle ne veut pas attendre la fin de la période de carence.
-  - Dans tous ces cas, une motion de censure n'est pas nécessaire pour que le gouvernement tombe.
+  - Dans tous les cas, une motion de censure n'est pas nécessaire pour que le gouvernement tombe, puisqu'il est automatiquement remplacé.
+  - Si le gouvernement est majoritaire au Sénat et une pétition devient majoritaire à l'Assemblée, on peut imaginer que le Sénat fasse obstruction et refuse de censurer le gouvernement, mais l'Assemblée n'a qu'à attendre la fin de la période de carence pour que le gouvernement soit automatiquement remplacé.
+  - Si le gouvernement est minoritaire donc issu de l'assemblée, et a fortiori si la nouvelle pétition est majoritaire uniquement au Sénat, il devient encore moins probable qu'une motion de censure soit adoptée étant donné les contraintes existant pour les gouvernements minoritaires. Mais la période de carence et le changement de priorité suffisent à déclencher le renouvellement du gouvernement.
+  - Dans les autres cas, le gouvernement est majoritaire, et la pétition devant le remplacer est majoritaire dans l'assemblée où le gouvernement l'est. Donc la nouvelle majorité de députés est capable de voter une motion de censure si elle ne veut pas attendre la fin de la période de carence.
 
 - Un changement de majorité sans changer d'assemblée (pour un gouvernement majoritaire)
 
-  - Prenons le cas d'un gouvernement majoritaire à l'assemblée nationale. Si les alliances changent *au sein* de l'assemblée, alors il y a forcément des membres qui soutenaient le gouvernement précédent et qui soutiennent aussi la pétition entrante. Pour forcer un changement de gouvernement, la nouvelle coalition peut toujours voter une motion de censure, mais si suffisamment de ces députés ayant les deux en commun retirent leur soutien au gouvernement en place, sa pétition perdra sa majorité à l'assemblée et il sera remplacé par la nouvelle après la période de carence.
+  - Prenons le cas d'un gouvernement majoritaire à l'assemblée nationale. Si les alliances changent *au sein* de l'assemblée, alors il y a forcément des membres qui soutenaient le gouvernement précédent et qui soutiennent aussi la pétition entrante. Pour forcer un changement de gouvernement, la nouvelle coalition peut toujours voter une motion de censure, mais si suffisamment des députés ayant les deux coalitions en commun retirent leur soutien à la pétition du gouvernement en place, sa pétition perdra sa majorité à l'assemblée, ce qui déclenchera un renouvellement après la période de carence.
 
 - Un changement de coalition entre deux gouvernements minoritaires
 
-  - C'est un cas où j'assume de ne pas donner de solution. Pour expliciter ce cas : si après les élections et après la période de carence, la plus grande coalition à l'assemblée représente 40% des députés (et si aucune pétition n'est majoritaire au Sénat), elle sera nommée au gouvernement. Si une nouvelle coalition se met en place en réunissant 45% des députés par exemple, elle ne sera *pas* nommée au gouvernement, même après autant de périodes de carence qu'on veut. Seule une élection partielle, une pétition majoritaire, ou une démission de la coalition en place avec son propre consentement (soit du Chancelier soit de la majorité des députés de la coalition en place), peuvent faire changer le gouvernement.
-  - Même cas quand un gouvernement est majoritaire, puis qu'il est désavoué par certains parlementaires mais qu'aucune pétition n'est majoritaire nulle part ; ou qu'une élection arrive et le met de facto en minorité : le gouvernement sortant reste en place, même si une coalition (minoritaire) plus large existe, tant qu'aucune coalition majoritaire n'est constituée. Le gouvernement sortant peut démissionner, et ce serait bien normal après une élection qu'il perd, mais la démission ne peut être acceptée par l'assemblée sans trouver un gouvernement de remplacement.
+  - C'est un cas où j'assume de ne pas donner de solution. Pour expliciter ce cas : si après les élections et après la période de carence, la plus grande coalition à l'assemblée représente 40% des députés (et si aucune pétition n'est majoritaire au Sénat), elle sera nommée au gouvernement. Si une nouvelle coalition se met en place en réunissant 45% des députés par exemple, elle ne sera *pas* nommée au gouvernement, même après autant de périodes de carence qu'on veut. Seule une élection partielle, une pétition majoritaire, ou une démission de la coalition en place avec son propre consentement (soit du Chancelier soit de la majorité des députés de la coalition en place), peuvent faire changer/tomber le gouvernement.
+  - Même cas quand un gouvernement est d'abord majoritaire avant d'être désavoué par certains parlementaires mais sans qu'aucune pétition ne soit majoritaire nulle part ; ou quand une élection arrive et met le gouvernement sortant de facto en minorité : le gouvernement sortant reste en place, même si une coalition (minoritaire) plus large existe, tant qu'aucune coalition majoritaire n'est constituée. Le gouvernement sortant peut démissionner, et ce serait bien normal après une élection qu'il perd, mais la démission ne peut pas être acceptée par l'assemblée sans trouver un gouvernement de remplacement.
 
 - Un changement politique au sein de la même coalition
 
-  - Prenons l'exemple d'une coalition socialiste style XXe siècle qui déciderait de remplacer Michel Rocard par Édith Cresson à la Chancellerie de son gouvernement. Que le Chancelier sortant fasse obstruction ou non, une motion de censure est nécessaire et sera déposée, soit par lui, soit par un député (ou un sénateur si le gouvernement est uniquement majoritaire au Sénat, mais ça ne change rien). Soit la pétition d'Édith Cresson est déjà majoritaire, soit la motion de censure ne vise que le Chancelier (ici Michel Rocard) et prévoit par qui il va être remplacé (ici Édith Cresson). Dans le premier cas une seule motion de censure peut être déposée et la nouvelle pétition prend la suite, dans le second cas une motion de censure concurrente (qui remplacerait Michel Rocard par quelqu'un d'autre, par exemple Jacques Chirac) recevrait moins de voix et ne passerait donc pas.
+  - Prenons l'exemple d'une coalition socialiste style XXe siècle qui déciderait de remplacer Michel Rocard par Édith Cresson à la Chancellerie de son gouvernement. Que le Chancelier sortant fasse obstruction ou non, une motion de censure est nécessaire et sera déposée, soit par lui, soit par un député (ou un sénateur si le gouvernement est uniquement majoritaire au Sénat). Soit la pétition d'Édith Cresson est déjà majoritaire, et la motion passe normalement, soit la motion de censure ne vise que le Chancelier (ici Michel Rocard) et prévoit par qui il va être remplacé (ici Édith Cresson). Dans le premier cas une seule motion de censure peut être déposée et la nouvelle pétition prend la suite, dans le second cas une motion de censure concurrente (qui remplacerait Michel Rocard par quelqu'un d'autre, par exemple Jacques Chirac) recevrait moins de voix et ne passerait donc pas.
 
 - Un ministre qui démissionne
 
@@ -190,15 +192,33 @@ Les rédacteurs de la constitution de 1958 voulaient une constitution sans droit
 
 Certains de ces droits fondamentaux sont très bons, là n'est pas le problème, après tout ils ont bien été adoptés par des parlements français à diverses périodes de l'histoire, le problème vient du fait qu'on donne une valeur légale à des textes qui ont été faits à des époques très différentes et pas du tout faits pour fonctionner ensemble. Toutes ces contradictions créent un flou qui permet au Conseil un arbitraire dans ses décisions, où il peut choisir l'issue qu'il veut et la justifier en choisissant le texte qui lui convient le mieux.
 
-Pour simplifier tout ça, j'ai préféré réunir les droits fondamentaux dans un seul document, qui est de fait (incidemment) plus simple à amender - en effet la question de comment on peut amender la DDHC de 1789 ou le préambule de la constitution de 1958 reste assez ouverte...
+Pour simplifier tout ça, j'ai préféré réunir les droits fondamentaux dans un seul document, qui est de fait (incidemment) plus simple à amender - en effet la question de comment on peut amender la DDHC de 1789 ou le préambule de la constitution de 1946 reste assez ouverte...
 
-Je n'ai pas prévu, par exemple, de "principes" qui ne seraient pas des droits, parce que selon moi tout ce qui est dans une constitution doit avoir pour but de protéger un droit fondamental - même quand c'est très indirect, comme la période de carence avant le remplacement du gouvernement, qui a pour but de garantir la stabilité de l'état et donc de lui permettre de protéger les droits fondamentaux.
+Je n'ai pas prévu, par exemple, de "principes" qui ne seraient pas des droits, parce que selon moi tout ce qui est dans une constitution doit avoir pour but de protéger un droit fondamental - même quand c'est très indirect, comme la période de carence avant le remplacement du gouvernement : elle a pour but de garantir la stabilité de l'état et donc de lui permettre de protéger les droits fondamentaux.
 
 Les droits à y placer sont une grande interrogation pour moi - principalement parce que ce n'est pas une tâche de constitutionnaliste, ça n'a rien à voir avec le reste de l'organisation des pouvoirs publics à part certains cas précis comme le droit de vote - mais j'ai essayé d'y mettre deux éléments qui me semblent importants : d'une part, le droit à la vie dans un environnement sain, d'où découle tout l'impératif constitutionnel de protection de l'environment, et d'autre part le droit fondamental à l'indifférenciation, qui est le contraire de la discrimination.
 
 Le Conseil Constitutionnel
 ==========================
 
-.. nomination
+Composition
+-----------
+
+Pour changer le moins de choses possible, j'ai conservé un Conseil à neuf membres nommés par tiers tous les trois ans.
+
+Avec la disparition du président, la nomination des membres du Conseil change forcément un peu. Les commissions compétentes de l'Assemblée et du Sénat nomment toujours trois membres chacune sur proposition du président de la chambre, mais les trois membres restants (dont le président) sont désignés par une commission spéciale, composée à moitié du Conseil supérieur de la magistrature et à moitié de représentants de l'Assemblée et du Sénat.
+
+La loi organique peut en plus de ça limiter qui peut être nommé au Conseil Constitutionnel (c'est à :artref:`incompatibilité de mandat représentatif`).
+
+L'objectif est - en-dehors de trouver une solution à l'absence de président - de recentrer la composition du conseil sur des juristes, pour au moins un tiers d'entre eux.
+
+Rôles
+-----
+
+Le Conseil conserve son rôle principal de contrôle de la constitutionnalité des lois, soit a priori quand une loi est adoptée, soit a posteriori avec une QPC. Ceci dit, il est précisé en loi organique d'une part que le respect des réglements des assemblées est nécessaire pour l'adoption régulière d'une loi, donc on garantit bien les droits de la minorité parlementaire. D'autre part, une loi considérée comme partiellement inconstitutionnelle doit être entièrement renvoyée au Parlement, sauf si le Parlement a explicitement dit comment la loi pouvait être divisée : quand deux mesures viennent d'un compromis, il est injuste que l'une puisse être censurée et pas l'autre alors qu'aucune n'aurait pu être adoptée seule. Si deux mesures sont indépendantes, le législateur peut soit en faire des lois différentes, soit préciser qu'elles le sont. Ça peut prendre la forme d'une résolution conjointe aux deux chambres votée en même temps que la loi par exemple.
+
+Le rôle de juge électoral des élections parlementaires (et des référendums) lui est pour l'instant toujours réservé, quoique je réfléchis au fait de le confier à un tribunal plus ordinaire.
+
+En plus de ça, il lui est confié le rôle d'arbitre dans la nomination du gouvernement, de vérifier le respect des procédures décrites plus haut, concernant principalement les pétitions de gouvernement et les motions de censure. Si les présidents des assemblées jouent leur rôle sérieusement, ça ne devrait pas être nécessaire très souvent. Si la compétence de juge électoral est transférée, celle-ci le sera probablement aussi.
 
 .. possibles évolutions, cour suprême, cour constitutionnelle, séparation d'un tribunal électoral...
