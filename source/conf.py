@@ -10,7 +10,7 @@ project = 'Constitution Senna'
 copyright = '2022-2023, Pierre Pavia'
 author = 'Pierre Pavia'
 
-import sys, os
+import sys, os.path
 sys.path.append(os.path.abspath('.'))
 
 # -- General configuration ---------------------------------------------------
@@ -41,6 +41,4 @@ html_theme_options = dict(
     use_edit_page_button=True,
 
     use_download_button=True,
-
-    extra_navbar='',
 )
