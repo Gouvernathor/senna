@@ -152,13 +152,41 @@ Une proposition de loi contenant des dispositions impropres à être contenues d
 
 Une loi contenant des dispositions auquelles sont consacrées les lois de financement de la sécurité sociale ne peut être adoptée en application de :artref:`adoption par une seule assemblée` que selon les conditions spécifiques aux lois de financement de la sécurité sociale.
 
+------------------------------------------------
+Relative à :artref:`révision de la Constitution`
+------------------------------------------------
+
+Article premier - convocation de l'assemblée constituante
+---------------------------------------------------------
+Une assemblée constituante est dédiée à l'élaboration d'une révision de la Constitution. Elle peut être convoquée par la loi, ou par une pétition répondant aux conditions fixées par :artref:`référendum` pour les pétitions référendaires.
+
+Article 2 - désignation
+-----------------------
+L'assemblée doit représenter, de manière directe ou indirecte mais toujours proportionnelle, la volonté du peuple.
+
+En l'absence de modalité contraire prévue par la loi, le nombre de sièges, les conditions d'éligibilité et les modalités de scrutin sont les mêmes que ceux de l'assemblée nationale.
+
+L'assemblée reste en fonction pendant une durée qui ne peut être supérieure à dix-huit mois, et qui peut être fixée par la loi ou la pétition la convoquant.
+
+Article 3 - pouvoirs et tâches
+------------------------------
+L'assemblée a pour seul mandat l'élaboration d'un texte de révision de la Constitution pour la porter à l'approbation du peuple par référendum. Elle ne dispose d'aucun pouvoir législatif.
+
+L'assemblée peut terminer ses travaux sans adopter de texte. Elle peut aussi porter plusieurs textes alternatifs ou complémentaires au référendum.
+
+L'assemblée peut réunir des éléments d'information pour la bonne tenue de ses travaux, et convoquer le témoignage d'experts ou de citoyens.
+
+Ses membres disposent des mêmes privilèges de libre circulation, de parole, de liberté de vote et d'immunité que les membres du Parlement.
+
 -----------------------------------------------
 Relative à :artref:`référendums`
 -----------------------------------------------
 
 Article unique - modalités de convocation
 -----------------------------------------
-Un référendum est convoqué par le Parlement par une loi référendaire incluant le texte sur lequel le référendum porte, et les éventuelles dérogations de délais concernant sa tenue.
+Un référendum est convoqué par le Parlement par une loi référendaire, ou par l'assemblée réunie aux fins de révision de la constitution.
+
+La convocation inclut le texte sur lequel le référendum porte, et les éventuelles dérogations de délais concernant sa tenue.
 
 -----------------------------------------------
 Relative à :artref:`nomination du gouvernement`
