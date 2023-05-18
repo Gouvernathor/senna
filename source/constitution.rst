@@ -108,7 +108,7 @@ Le Parlement a la faculté de réunir ses membres en session commune de Congrès
 
 Le règlement intérieur du Congrès est adopté en termes identiques par les deux assemblées.
 
-Un règlement intérieur spécifique à une session en Congrès, en particulier pour fixer de manière limitative des textes ou des domaines à considérer, ou pour fixer date d'expiration, peut faire partie d'une motion de réunion.
+Un règlement intérieur spécifique à une session en Congrès, en particulier pour fixer de manière limitative des textes ou des domaines à considérer, ou pour fixer une date de fin de session, peut faire partie d'une motion de réunion.
 
 Le règlement intérieur ne peut pas être amendé par le Congrès en session, sauf dans les cas que le règlement intérieur a prévu au préalable. Une motion de réunion ne peut pas être amendée par le Congrès.
 
