@@ -625,7 +625,9 @@ XIII. Commissions
 
 .. commissions conjointes - d'enquête par exemple - réunies par accord du Bureau avec l'autre assemblée
 
-.. droit pour un non-inscrit de siéger dans une commission, sans droit de vote, et pareil pour un seul membre d'un groupe dont aucun autre membre ne siège dans la commission
+.. droit pour un non-inscrit de siéger dans une commission ou sous-commission, sans droit de vote, et pareil pour un seul membre d'un groupe dont aucun autre membre ne siège dans la commission ou sous-commission
+
+.. idée : les membres sont divisés en deux séries (A et B par exemple). Chaque groupe est divisé à parts égales, à un membre près, entre les deux. Dans chaque commission, chaque groupe doit avoir le même nombre de ses membres dans chaque série, là encore à un près. Quand des commissions siègent en même temps que la plénière, les séries sont réparties entre celles qui vont en plénière et celles qui vont en commission, et on tourne (chaque semaine par exemple). Chaque commission a un premier vice-président du même groupe et de série inverse que le président. Le rapporteur d'une proposition de loi peut assister sans droit de vote aux séances de l'autre série portant sur sa proposition de loi.
 
 -------------------------
 XIV. Processus législatif
