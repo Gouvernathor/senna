@@ -296,7 +296,7 @@ Le Bureau fait des recommandations à l'assemblée relativement à la date de cl
 
 Le Bureau détermine les conditions dans lesquelles des personnalités non-membres peuvent être admises à s'adresser à l'assemblée dans le cadre de ses séances.
 
-Le Bureau détermine l'organisation et le fonctionnement des services spécifiques de l'Assemblée, les modalités d'application, d'interprétation et d'exécution, par les différents services, des dispositions du présent règlement intérieur, ainsi que le statut du personnel et les rapports entre l'administration de l'assemblée et les organisations professionnelles du personnel.
+Le Bureau détermine l'organisation et le fonctionnement des services spécifiques de l'Assemblée, les modalités d'application, d'interprétation et d'exécution, par les différents services, des dispositions du présent règlement intérieur, ainsi que le statut du personnel et les rapports entre l'administration de l'assemblée et les organisations professionnelles du personnel. Les dispositions pouvant concerner les commissions sont prises par le Bureau étendu.
 
 ---------------------------
 VII. Groupes parlementaires
