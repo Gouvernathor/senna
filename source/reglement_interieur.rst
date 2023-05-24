@@ -220,7 +220,7 @@ Un nouveau président est élu dès l'annonce de la démission du président, qu
 
 .. article:: la présidence
 
-Outre l'exercice des pouvoirs qui lui sont conférés en vertu d'autres dispositions du présent règlement, le Président prononce l'ouverture et la clôture de chaque séance plénière de la session, dirige les discussions en séance plénière, assure l'application du présent règlement, donne la parole, met les questions aux voix et proclame les décisions. II statue sur les motions d'ordre et, sous réserve des dispositions du présent règlement, règle entièrement les débats à chaque séance et y assure le maintien de l'ordre.
+Outre l'exercice des pouvoirs qui lui sont conférés en vertu d'autres dispositions du présent règlement, le président prononce l'ouverture et la clôture de chaque séance plénière de la session, dirige les discussions en séance plénière, assure l'application du présent règlement, donne la parole, met les questions aux voix et proclame les décisions. Il statue sur les motions d'ordre et, sous réserve des dispositions du présent règlement, règle entièrement les débats à chaque séance et y assure le maintien de l'ordre.
 
 Le président, dans l'exercice de ses fonctions, demeure sous l'autorité de l'assemblée.
 
@@ -409,7 +409,7 @@ Nul ne peut prendre la parole en séance sans avoir au préalable obtenu l'autor
 
 Lors d'un débat libre, la parole est donnée aux orateurs dans l'ordre où ils la demandent.
 
-Lors d'un débat proportionnel, le président de séance donne la parole aux orateurs de manière à représenter chaque groupe de manière proportionnelle à son nombre de membres, puis dans l'ordre où les orateurs ont demandé la parole.
+Lors d'un débat proportionnel, le président de séance donne la parole aux orateurs de manière à représenter chaque groupe de manière proportionnelle à son nombre de membres, dans l'ordre où les orateurs ont demandé la parole.
 
 Lors d'un débat par groupe, le président de séance accorde une prise de parole par groupe parlementaire, dans l'ordre où les orateurs ont demandé la parole.
 
