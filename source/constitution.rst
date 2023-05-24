@@ -414,15 +414,21 @@ La durée de la période d'inéligibilité prévue à :artref:`inéligibilité p
 
 .. article:: contrôle de la nomination du gouvernement
 
+.. déplacer vers le titre VIII, attribuer au tribunal électoral (national) et prévoir une procédure
+
 Le Conseil constitutionnel veille au respect des modalités de :artref:`nomination du gouvernement`. Il statue sur la nomination du gouvernement, en cas de désaccord entre le président du Sénat et le président de l'Assemblée Nationale ou en cas de contestation.
 
 Il veille également à la régularité des motions de censure.
 
 .. article:: contrôle des élections législatives
 
+.. déplacer vers le titre VIII, confier au tribunal électoral (national)
+
 Le Conseil constitutionnel statue, en cas de contestation, sur la régularité de l'élection des députés et des sénateurs.
 
 .. article:: contrôle des référendums
+
+.. déplacer vers le titre VIII, confier au tribunal électoral (national)
 
 Le Conseil constitutionnel veille à la régularité des opérations de référendum prévues à :artref:`référendums`. Il en proclame les résultats qui sont aussitôt promulgués.
 
@@ -464,9 +470,9 @@ Titre VIII — De l'autorité judiciaire
 
 Le Conseil supérieur de la magistrature est garant de l'indépendance de l'autorité judiciaire.
 
-La loi organique porte statut des magistrats.
-
 Les magistrats du siège sont inamovibles.
+
+La loi organique porte statut des magistrats, et fixe le cadre de l'organisation des juridictions.
 
 .. article:: Conseil Supérieur de la Magistrature
 
