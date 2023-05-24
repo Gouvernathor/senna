@@ -122,7 +122,7 @@ Un jour de séance par semaine au moins est réservé par priorité à l'évalua
 
 Une semaine de séance sur six au moins, si la durée de la session excède six semaines, ou un jour de séance par semaine sinon, sont réservés à un ordre du jour arrêté par les membres du Bureau étendu issus des groupes d'opposition.
 
-.. article:: motion de réunion
+.. article:: (AN, S) motion de réunion
 
 Une motion visant à réunir le Parlement en Congrès est déposée auprès du Bureau.
 
