@@ -214,9 +214,9 @@ Les postes de président, de vice-président et de questeur sont mutuellement in
 
 La perte de mandat parlementaire, la démission ainsi que la destitution mettent fin aux fonctions de président ou de vice-président.
 
-L'adoption d'une motion de destitution suit la même procédure que l'adoption d'une motion de censure.
+Une motion de destitution est déposée par un ou plusieurs groupes parlementaires dont l'effectif réuni rassemble au moins un cinquième des effectifs de l'assemblée. L'adoption d'une motion de destitution suit la même procédure que l'adoption d'une motion de censure. Les séances à cet effet ne peuvent pas être présidées par celui qui est visé par la motion.
 
-Un nouveau président est élu dès l'annonce de la démission du président, qui prend effet à compter de l'élection de son successeur, ou dès sa destitution.
+Un nouveau président est élu dès la perte de fonction du président ou dès l'annonce de sa démission. La démission prend effet à compter de l'élection de son successeur.
 
 .. article:: la présidence
 
