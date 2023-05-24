@@ -118,9 +118,11 @@ Un élément combinant plusieurs de ces points est considéré comme ayant la pr
 
 Un jour de séance par semaine au moins est réservé par priorité à l'évaluation de l'activité du gouvernement et aux instructions de l'assemblée à son égard.
 
-.. article:: droits de l'opposition
+.. article:: ordre du jour de l'opposition
 
 Une semaine de séance sur six au moins, si la durée de la session excède six semaines, ou un jour de séance par semaine sinon, sont réservés à un ordre du jour arrêté par les membres du Bureau étendu issus des groupes d'opposition.
+
+Ces jours de séance sont répartis entre les groupes d'opposition en proportion de leur effectif.
 
 .. article:: (AN, S) motion de réunion
 
@@ -472,6 +474,8 @@ Au cours de la discussion d'une question, un représentant de groupe parlementai
 La motion de suspension de séance d'au plus cinq minutes est de droit. Une durée plus longue peut être accordée par le président de séance.
 
 La motion d'ajournement n'est pas discutée, mais est immédiatement mise aux voix.
+
+Lors de l'application de :artref:`ordre du jour de l'opposition`, aucune demandes d'ajournement n'est recevable, et le temps passé en suspension de séance est rattrapé au jour de séance suivant.
 
 Le président prononce sans appel l'ajournement de la séance en cas de menace imminente sur la sécurité de l'assemblée.
 
