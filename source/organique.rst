@@ -158,7 +158,7 @@ Relative à :artref:`révision de la Constitution`
 
 Article premier - convocation de l'assemblée constituante
 ---------------------------------------------------------
-Une assemblée constituante est dédiée à l'élaboration d'une révision de la Constitution. Elle peut être convoquée par la loi, ou par une pétition répondant aux conditions fixées par :artref:`référendum` pour les pétitions référendaires.
+Une assemblée constituante est dédiée à l'élaboration d'une révision de la Constitution. Elle peut être convoquée par la loi, ou par une pétition répondant aux conditions fixées par :artref:`référendums` pour les pétitions référendaires.
 
 Article 2 - désignation
 -----------------------
