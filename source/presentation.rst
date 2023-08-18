@@ -69,10 +69,36 @@ Un nouveau Sénat
 Un nouveau Congrès
 ------------------
 
-.. législation en congrès : conséquences sur la navette parlementaire et adoption par une seule chambre
+Le Parlement peut se réunir en Congrès beaucoup plus souvent et y faire beaucoup plus de choses qu'avant, typiquement : légiférer. Ça permet de court-circuiter la navette parlementaire en cas de besoin, en offrant une super-commission mixte (même si elle n'est pas paritaire cette fois) pour avoir plus vite un texte accepté par les deux chambres en mettant les débats en commun. Pour modérer l'unicamérisme, il y a une période de ratification plus longue qui n'est levée qu'à une majorité qualifiée de l'ensemble des parlementaires.
 
 Assemblée constituante
 ----------------------
+
+Il est prévu qu'une assemblée constituante, c'est à dire une assemblée qui a pour but de rédiger une nouvelle constitution ou de proposer des amendements à la constitution, peut se réunir. Elle peut être convoquée soit par une pétition de citoyens, soit par la loi.
+
+Ce dernier point signifie que le Parlement peut simplement décider de la convoquer de manière ponctuelle, mais il peut aussi fixer des conditions automatiques, par exemple décider que tous les dix ou quinze ans une convention constitutionnelle aura lieu pour examiner la consitution et si il y a lieu de l'actualiser.
+
+L'assemblée constituante n'a aucun pouvoir législatif, elle ne peut pas s'arroger les pouvoirs du Parlement et court-circuiter par sa simple existence (alors que la question de sa convocation ne fait pas l'objet d'un référendum) les institutions de l'état. Elle a par contre un pouvoir d'enquête et de convocation d'experts.
+
+Les membres de la constituante sont désignés de manière proportionnelle mais pas forcément directe : on peut par exemple les désigner à la proportionnelle parmi les membres de l'assemblée nationale, puisqu'elle est elle-même élue à la proportionnelle. Les protections accordées par la constitution aux membres du parlement sont étendus par la loi organique aux membres de la constituante.
+
+Les travaux de la constituante peuvent aboutir à plusieurs choses :
+
+- un texte remplaçant intégralement la constitution
+- un texte amendant la constitution
+- plusieurs amendements dont un ou plusieurs peuvent être adoptés
+
+  - par exemples deux amendements à des parties différentes de la constitution sans rapport entre eux, par exemple le seuil de signatures pour une pétition référendaire et la composition du Conseil constitutionnel
+  - dans ce cas le référendum sera une série de questions indépendantes posées aux citoyens
+
+- plusieurs propositions alternatives d'amendements dont un seul peut être adopté
+
+  - par exemple modifier la majorité nécessaire pour que l'assemblée nationale adopte une loi seule, avec une option pour la mettre à deux tiers et une autre option pour la mettre à la majorité des trois cinquièmes
+  - dans ce cas le référendum contiendra une ou des questions à choix multiples
+
+- rien du tout : la constituante peut aussi décider qu'il n'y a rien à changer
+
+Dans tous les cas (sauf le dernier), un référendum est convoqué pour porter aux électeurs les propositions de la constituante. Le Parlement ne peut ni amender ni refuser le projet, ni l'adopter sans l'accord du peuple.
 
 Le Chancelier de la République et le gouvernement
 =================================================
@@ -197,7 +223,7 @@ Certains de ces droits fondamentaux sont très bons, là n'est pas le problème,
 
 Pour simplifier tout ça, j'ai préféré réunir les droits fondamentaux dans un seul document, qui est de fait (incidemment) plus simple à amender - en effet la question de comment on peut amender la DDHC de 1789 ou le préambule de la constitution de 1946 reste assez ouverte...
 
-Je n'ai pas prévu, par exemple, de "principes" qui ne seraient pas des droits, parce que selon moi tout ce qui est dans une constitution doit avoir pour but de protéger un droit fondamental - même quand c'est très indirect, comme la période de carence avant le remplacement du gouvernement : elle a pour but de garantir la stabilité de l'état et donc de lui permettre de protéger les droits fondamentaux.
+Je n'ai pas prévu, par exemple, de "principes" qui ne seraient pas des droits, parce que selon moi tout ce qui est dans une constitution doit avoir pour but de protéger un droit fondamental - même quand c'est très indirect : par exemple la période de carence avant le remplacement du gouvernement, elle a pour but de garantir la stabilité de l'état et donc de lui permettre de protéger les droits fondamentaux.
 
 Les droits à y placer sont une grande interrogation pour moi - principalement parce que ce n'est pas une tâche de constitutionnaliste, ça n'a rien à voir avec le reste de l'organisation des pouvoirs publics à part certains cas précis comme le droit de vote - mais j'ai essayé d'y mettre deux éléments qui me semblent importants : d'une part, le droit à la vie dans un environnement sain, d'où découle tout l'impératif constitutionnel de protection de l'environment, et d'autre part le droit fondamental à l'indifférenciation, qui est le contraire de la discrimination.
 
