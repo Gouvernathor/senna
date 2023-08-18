@@ -156,7 +156,7 @@ Le texte élaboré par la commission mixte est soumis pour approbation aux deux 
 
 Si la commission mixte paritaire ne parvient pas à l'adoption d'un texte commun ou si ce texte n'est pas adopté, la procédure prévue à :artref:`navette parlementaire et CMP` se poursuit en saisissant du texte l'assemblée l'ayant considéré en premier.
 
-Cependant, après une nouvelle lecture par l'Assemblée nationale et par le Sénat, l'Assemblée nationale peut statuer définitivement à la majorité des trois cinquièmes de ses membres, ou porter le texte à l'approbation du peuple par référendum. En ce cas, l'Assemblée nationale peut reprendre soit le texte élaboré par la commission mixte paritaire, soit le dernier texte voté par elle, modifié le cas échéant par un ou plusieurs des amendements adoptés par le Sénat.
+Cependant, après une nouvelle lecture par l'Assemblée nationale et par le Sénat, l'Assemblée nationale peut statuer définitivement à la majorité des trois cinquièmes de ses membres, ou porter le texte à l'approbation du peuple par référendum. Dans ces deux cas, l'Assemblée nationale peut reprendre soit le texte élaboré par la commission mixte paritaire, soit le dernier texte voté par elle, modifié le cas échéant par un ou plusieurs des amendements adoptés par le Sénat, soit le dernier texte adopté par le Congrès, le cas échéant.
 
 Dans le cas d'une loi de finances, la majorité qualifiée prévue à l'alinéa précédent n'est pas requise pour que l'Assemblée nationale statue définitivement.
 
