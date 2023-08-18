@@ -140,13 +140,13 @@ Les membres du Parlement ont le droit d'amendement. Ce droit s'exerce en séance
 
 .. article:: navette parlementaire et CMP
 
-Tout projet ou proposition de loi est examiné successivement dans les deux assemblées du Parlement en vue de l'adoption d'un texte identique.
+Toute proposition de loi est examiné successivement dans les deux assemblées du Parlement en vue de l'adoption d'un texte identique.
 
 Après l'expiration d'un délai fixé par la loi organique, si une des deux assemblées ne s'est pas exprimée sur un texte qui lui a été transmis par l'autre assemblée, l'autre assemblée peut considérer le texte comme rejeté par la première.
 
 Le délai de ratification d'une loi après son adoption est de deux semaines.
 
-Lorsque, par suite d'un désaccord entre les deux Assemblées, un projet ou une proposition de loi n'a pu être adopté après au moins deux lectures par chacune d'entre elles, le Bureau de chaque assemblée a la faculté de provoquer la réunion d'une commission mixte paritaire chargée de proposer un texte sur les dispositions restant en discussion.
+Lorsque, par suite d'un désaccord entre les deux Assemblées, une proposition de loi n'a pu être adopté après au moins deux lectures par chacune d'entre elles, le Bureau de chaque assemblée a la faculté de provoquer la réunion d'une commission mixte paritaire chargée de proposer un texte sur les dispositions restant en discussion.
 
 Cette même réunion peut être provoquée après une seule lecture par chacune des deux assemblées par une décision commune des Bureaux des deux assemblées.
 
