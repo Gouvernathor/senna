@@ -69,18 +69,20 @@ Un nouveau Sénat
 Un nouveau Congrès
 ------------------
 
-Le Parlement peut se réunir en Congrès beaucoup plus souvent et y faire beaucoup plus de choses qu'avant, typiquement : légiférer. Ça permet de court-circuiter la navette parlementaire en cas de besoin, en offrant une super-commission mixte (même si elle n'est pas paritaire cette fois) pour avoir plus vite un texte accepté par les deux chambres en mettant les débats en commun. Pour modérer l'unicamérisme, il y a une période de ratification plus longue qui n'est levée qu'à une majorité qualifiée de l'ensemble des parlementaires.
+Le Parlement peut se réunir en Congrès beaucoup plus souvent et y faire beaucoup plus de choses qu'avant, typiquement : légiférer. Ça permet de court-circuiter la navette parlementaire en cas de besoin, en offrant une super-commission mixte (même si elle n'est pas paritaire cette fois) pour avoir plus vite un texte accepté par les deux chambres en mettant les débats en commun.
+
+Pour modérer l'unicamérisme, il y a une période de ratification plus longue qui n'est levée qu'à une majorité qualifiée de l'ensemble des parlementaires. Le Congrès n'est donc pas adapté pour adopter une loi d'urgence contre l'avis de la majorité d'au moins une des deux chambres. Mais en cas d'urgence il peut quand même servir à accélérer l'élaboration d'un texte qui convienne aux deux chambres, et qui peut ensuite être adopté par chacune des deux et appliqué immédiatement.
 
 Assemblée constituante
 ----------------------
 
-Il est prévu qu'une assemblée constituante, c'est à dire une assemblée qui a pour but de rédiger une nouvelle constitution ou de proposer des amendements à la constitution, peut se réunir. Elle peut être convoquée soit par une pétition de citoyens, soit par la loi.
+Il est prévu qu'une assemblée constituante peut être réunie, c'est à dire une assemblée qui a pour but de rédiger une nouvelle constitution ou de proposer des amendements à la constitution. Elle peut être convoquée soit par une pétition de citoyens, soit par la loi.
 
-Ce dernier point signifie que le Parlement peut simplement décider de la convoquer de manière ponctuelle, mais il peut aussi fixer des conditions automatiques, par exemple décider que tous les dix ou quinze ans une convention constitutionnelle aura lieu pour examiner la consitution et si il y a lieu de l'actualiser.
+Ce dernier point signifie que le Parlement peut décider de simplement la convoquer de manière ponctuelle, mais il peut aussi fixer des conditions automatiques, et par exemple décider que tous les dix ou quinze ans une convention constitutionnelle aura lieu pour examiner la consitution et si il y a lieu de l'actualiser.
 
-L'assemblée constituante n'a aucun pouvoir législatif, elle ne peut pas s'arroger les pouvoirs du Parlement et court-circuiter par sa simple existence (alors que la question de sa convocation ne fait pas l'objet d'un référendum) les institutions de l'état. Elle a par contre un pouvoir d'enquête et de convocation d'experts.
+L'assemblée constituante n'a aucun pouvoir législatif, elle ne peut pas s'arroger les pouvoirs du Parlement et court-circuiter les institutions de l'état par sa simple existence (alors qu'elle n'a pas été convoquée par un référendum). Elle a par contre un pouvoir d'enquête et de convocation d'experts.
 
-Les membres de la constituante sont désignés de manière proportionnelle mais pas forcément directe : on peut par exemple les désigner à la proportionnelle parmi les membres de l'assemblée nationale, puisqu'elle est elle-même élue à la proportionnelle. Les protections accordées par la constitution aux membres du parlement sont étendus par la loi organique aux membres de la constituante.
+Les membres de la constituante sont désignés de manière proportionnelle mais pas forcément directe : on peut par exemple les désigner à la proportionnelle parmi les membres de l'assemblée nationale, puisque l'assemblée est elle-même élue à la proportionnelle. Les protections accordées par la constitution aux membres du parlement sont étendus par la loi organique aux membres de la constituante.
 
 Les travaux de la constituante peuvent aboutir à plusieurs choses :
 
@@ -88,17 +90,17 @@ Les travaux de la constituante peuvent aboutir à plusieurs choses :
 - un texte amendant la constitution
 - plusieurs amendements dont un ou plusieurs peuvent être adoptés
 
-  - par exemples deux amendements à des parties différentes de la constitution sans rapport entre eux, par exemple le seuil de signatures pour une pétition référendaire et la composition du Conseil constitutionnel
+  - par exemples deux amendements à des parties différentes de la constitution sans rapport entre eux, comme le seuil de signatures pour une pétition référendaire et la composition du Conseil constitutionnel
   - dans ce cas le référendum sera une série de questions indépendantes posées aux citoyens
 
 - plusieurs propositions alternatives d'amendements dont un seul peut être adopté
 
-  - par exemple modifier la majorité nécessaire pour que l'assemblée nationale adopte une loi seule, avec une option pour la mettre à deux tiers et une autre option pour la mettre à la majorité des trois cinquièmes
+  - par exemple modifier la majorité nécessaire pour que l'assemblée nationale adopte une loi seule, avec une option pour la mettre à deux tiers et une autre option pour la mettre aux trois cinquièmes
   - dans ce cas le référendum contiendra une ou des questions à choix multiples
 
 - rien du tout : la constituante peut aussi décider qu'il n'y a rien à changer
 
-Dans tous les cas (sauf le dernier), un référendum est convoqué pour porter aux électeurs les propositions de la constituante. Le Parlement ne peut ni amender ni refuser le projet, ni l'adopter sans l'accord du peuple.
+Dans tous les cas (sauf le dernier), un référendum est convoqué pour porter aux électeurs les propositions de la constituante. Le Parlement ne peut donc ni amender ni refuser le projet, ni l'adopter sans l'accord du peuple.
 
 Le Chancelier de la République et le gouvernement
 =================================================
