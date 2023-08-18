@@ -176,7 +176,7 @@ Les lois organiques ne peuvent être promulguées qu'après déclaration par le 
 
 Les propositions de lois de finances ne peuvent être déposées qu'à l'Assemblée nationale, et les propositions de lois de financement de la sécurité sociale qu'au Sénat.
 
-Le Parlement vote les propositions de loi de finances et de loi de financement de la sécurité sociale dans les conditions prévues par une loi organique.
+Elles sont votées par le Parlement dans les conditions prévues par une loi organique.
 
 .. article:: ordre du jour des assemblées
 
