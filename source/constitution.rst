@@ -114,9 +114,9 @@ Le règlement intérieur ne peut pas être amendé par le Congrès en session, s
 
 Le bureau du Congrès est celui de l'Assemblée nationale, sauf si le règlement intérieur du Congrès en dispose autrement.
 
-L'adoption de textes législatifs par le Congrès doit réunir le soutien de la majorité absolue de ses membres, ou un quorum plus élevé fixé par son règlement intérieur. Le délai de ratification de ces textes est doublé, sauf en cas de vote réunissant le soutien des trois cinquièmes des membres du Congrès.
+Un texte adopté par le Congrès, de manière conforme au réglement du Congrès et à sa motion de réunion, est considéré comme adopté par le Parlement. Le délai de ratification de ces textes est doublé, sauf en cas de vote réunissant le soutien des trois cinquièmes des membres du Congrès.
 
-La session expire dans les modalités prévues par son règlement intérieur, ou sur décision du Congrès, ou en cas de renouvellement partiel ou total d'une des assemblées parlementaires.
+La session expire dans les modalités prévues par son règlement intérieur, sur décision du Congrès, et en cas de renouvellement partiel ou total d'une des assemblées parlementaires.
 
 Les deux assemblées parlementaires se réunissent de plein droit pendant la session commune de Congrès, notamment afin d'amender la motion de réunion de la session en cours.
 
