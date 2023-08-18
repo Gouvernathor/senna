@@ -168,7 +168,7 @@ Les lois auxquelles la Constitution confère le caractère de loi organique sont
 
 La procédure des articles :artnumref:`réunion en Congrès`, :artnumref:`navette parlementaire et CMP` et :artnumref:`adoption par une seule assemblée` est applicable. Toutefois, faute d'accord entre les deux Assemblées, le texte ne peut être adopté par l'Assemblée nationale en dernière lecture qu'à la majorité des trois quarts de ses membres.
 
-Les lois organiques relatives, au moins en partie, au Sénat, ou susceptibles d'altérer l'équilibre des pouvoirs entre les assemblées, doivent être votées dans les mêmes termes par les deux assemblées, sauf en cas d'adoption par référendum.
+Les lois organiques relatives, au moins en partie, au Sénat, ou susceptibles d'altérer l'équilibre des pouvoirs entre les assemblées, doivent être votées dans les mêmes termes par les deux assemblées ou être adoptées par référendum.
 
 Les lois organiques ne peuvent être promulguées qu'après déclaration par le Conseil constitutionnel de leur conformité à la Constitution.
 
