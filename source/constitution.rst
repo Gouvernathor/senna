@@ -198,9 +198,9 @@ La loi détermine leurs règles d'organisation et de fonctionnement. Leurs condi
 
 L'initiative de la révision de la Constitution appartient concurremment aux citoyens de la République par voie de pétition, aux membres du Parlement, et à une assemblée constituante réunie à cet effet dans les modalités prévues par la loi et par la loi organique.
 
-La révision est définitive après avoir été approuvée par référendum selon les modalités prévues à :artref:`référendums`, ou après avoir été adoptée par le Parlement rassemblé en Congrès.
+La révision est définitive après avoir été approuvée par référendum selon les modalités prévues à :artref:`référendums` ou, dans le cas de propositions issues de l'initiative de membres du Parlement, après avoir été adoptée par le Parlement rassemblé en Congrès. Les autres propositions de révision ne peuvent pas être amendées avant la tenue du référendum.
 
-Lorsque les assemblées parlementaires convoquent le Parlement en Congrès, le projet de révision n'est approuvé que si sa considération a été prévue par la motion de réunion de la session commune, qui doit inclure le texte du projet de révision, et s'il réunit la majorité des trois cinquièmes des suffrages exprimés. Seules peuvent y être adoptées, et seules peuvent être amendées, les propositions issues de l'initiative de membres du Parlement.
+Lorsque les assemblées parlementaires convoquent le Parlement en Congrès, la proposition de révision n'est approuvé que si sa considération a été prévue par la motion de réunion de la session commune, qui doit inclure le texte de la proposition de révision, et s'il réunit la majorité des trois cinquièmes des suffrages exprimés.
 
 Dans le cas d'une révision adoptée en Congrès, le délai de ratification est de trois mois à compter de son adoption. Une pétition pour l'annulation de cette révision recevant le soutien d'un centième des citoyens moins d'un an après son adoption, suspend l'application de la révision, ainsi que le délai de ratification le cas échéant, et la porte en référendum en dérogation du premier alinéa de :artref:`référendums`.
 
