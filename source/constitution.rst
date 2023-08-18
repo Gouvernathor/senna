@@ -208,11 +208,11 @@ Aucune procédure de révision ne peut être engagée ou poursuivie lorsqu'il es
 
 .. article:: référendums
 
-Un référendum est convoqué par le Parlement, ou une pétition rassemblant trois centièmes des citoyens, afin de soumettre un texte législatif à l'approbation du peuple ou de lui poser une question sans valeur législative. Toutefois, dans le cadre prévu par :artref:`adoption par une seule assemblée`, l'Assemblée Nationale peut le déclencher seule. Une loi organique en prévoit les modalités et peut établir d'autres circonstances de déclenchement d'un référendum.
+Un référendum est convoqué par le Parlement, ou par une pétition rassemblant trois centièmes des citoyens, afin de soumettre un texte à l'approbation du peuple. Toutefois, dans le cadre prévu par :artref:`adoption par une seule assemblée`, l'Assemblée Nationale peut le déclencher seule. Une loi organique en prévoit les modalités et peut établir d'autres circonstances de déclenchement d'un référendum.
 
 Le vote doit avoir lieu dans les trois mois suivant le déclenchement du référendum, sauf par dérogation du Parlement dans le cas où le référendum n'est pas d'origine populaire. L'administration est responsable de sa tenue.
 
-Hors référendums consultatifs, la valeur constitutionnelle d'un texte doit être établie avant que le vote n'ait lieu. Le Conseil constitutionnel la constate par un avis public présentant, le cas échéant, les modifications de la Constitution qui résulteraient de son adoption. Si le référendum a été déclenché par l'Assemblée nationale seule et si il a valeur constitutionnelle, les dispositions contraires à la Constitution sont retirées du texte et l'Assemblée nationale peut décider d'annuler la tenue du référendum.
+La valeur constitutionnelle d'un texte doit être établie avant que le vote n'ait lieu. Le Conseil constitutionnel la constate par un avis public présentant, le cas échéant, les modifications de la Constitution qui résulteraient de son adoption. Si le référendum a été déclenché par l'Assemblée nationale seule et si il a valeur constitutionnelle, les dispositions contraires à la Constitution sont retirées du texte et l'Assemblée nationale peut décider d'annuler la tenue du référendum.
 
 Cet avis ne doit pas être rendu plus d'un mois après le déclenchement du référendum, et lorsque le texte a valeur constitutionnelle, le vote ne peut avoir lieu moins d'un mois après que l'avis soit rendu public. Toutefois, dans les cas où le référendum n'est pas d'origine populaire, le Parlement peut allonger le délai laissé au Conseil constitutionnel.
 
