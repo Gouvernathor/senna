@@ -184,7 +184,7 @@ Les différents cas de figure autour des motions de censure :
 
 - Un scandale visant un ministre, sans CJR
 
-  - On est dans le cas où un scandale touche un ministre sans correspondre aux cas précédent, donc le Chancelier ne demande pas sa démission et le scandale concerne soit une infraction pénale non commise dans l'exercice de ses fonctions, soit avant que cette infraction soit jugée par la CJR, soit quelque chose qui n'est pas puni par la loi et qui ne contrevient pas non plus directement au programme de politique générale du gouvernement.
+  - On est dans le cas où un scandale touche un ministre sans correspondre aux cas précédents, donc le Chancelier ne demande pas sa démission et soit le scandale concerne une infraction qui n'est pas commise dans l'exercice de ses fonctions, soit on est avant que cette infraction soit jugée par la CJR, soit c'est quelque chose qui n'est pas puni par la loi et qui ne contrevient pas non plus directement au programme de politique générale du gouvernement.
   - Si le gouvernement est minoritaire, il faut que la majorité des députés qui le soutiennent déposent une motion de censure contre le ministre pour que le ministre soit censuré. À moins de ça, on ne prend pas le risque de provoquer une instabilité.
   - Si le gouvernement est majoritaire, alors il y a besoin du vote ou de l'abstention d'au moins une partie des députés qui le soutiennent pour adopter une motion de censure à la majorité (sauf si ils se pointent pas pour voter mais c'est leur problème).
 
