@@ -308,7 +308,7 @@ Les actes susceptibles de troubler la coexistence pacifique des peuples et accom
 
 Le Parlement délègue à l'administration l'élaboration de législation secondaire, dans des domaines fixés par la loi de manière limitative. Les matières organiques ne peuvent pas être déléguées.
 
-Cette législation est adoptée selon les conditions et limitations fixées par le Parlement, sous la responsabilité du Chancelier de la République, et ils ont un caractère réglementaire.
+Cette législation est adoptée selon les conditions et limitations fixées par le Parlement, sous la responsabilité du Chancelier de la République, et elle a un caractère réglementaire.
 
 Le gouvernement en rend compte devant le Parlement.
 
