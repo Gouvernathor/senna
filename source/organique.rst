@@ -104,7 +104,8 @@ Les délais des alinéas précédents sont quadruplés dans le cas de lois organ
 
 Les délais des alinéas précédents sont réduits de moitié dans le cas de lois des finances.
 
-Les délais des alinéas précédents peuvent être réduits de moitié sur décision de la majorité des membres d'une assemblée lors de sa première lecture du texte.
+.. Les délais des alinéas précédents peuvent être réduits de moitié pour un texte donné sur décision de la majorité des membres d'une assemblée lors de sa première lecture du texte.
+.. pas clair
 
 ------------------------------------------------------------------------------
 Relative à :artref:`lois de finances et de financement de la sécurité sociale`
