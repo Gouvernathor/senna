@@ -164,13 +164,15 @@ Dans le cas d'une loi de financement de la sécurité sociale, le pouvoir de sta
 
 .. article:: lois organiques
 
-Les lois auxquelles la Constitution confère le caractère de loi organique sont votées et modifiées dans les conditions suivantes.
+Les dispositions législatives auxquelles la Constitution confère le caractère organique sont adoptées selon les conditions suivantes.
 
-La procédure des articles :artnumref:`réunion en Congrès`, :artnumref:`navette parlementaire et CMP` et :artnumref:`adoption par une seule assemblée` est applicable. Toutefois, faute d'accord entre les deux Assemblées, le texte ne peut être adopté par l'Assemblée nationale en dernière lecture qu'à la majorité des trois quarts de ses membres.
+La procédure des articles :artnumref:`réunion en Congrès`, :artnumref:`navette parlementaire et CMP` et :artnumref:`adoption par une seule assemblée` est applicable. Toutefois, faute d'accord entre les deux Assemblées, le texte contenant des dispositions organiques ne peut être adopté par l'Assemblée nationale en dernière lecture qu'à la majorité des trois quarts de ses membres.
 
 Les lois organiques relatives, au moins en partie, au Sénat, ou susceptibles d'altérer l'équilibre des pouvoirs entre les assemblées, doivent être votées dans les mêmes termes par les deux assemblées ou être adoptées par référendum.
 
 Les lois organiques ne peuvent être promulguées qu'après déclaration par le Conseil constitutionnel de leur conformité à la Constitution.
+
+Une disposition à laquelle la Constitution ne confère pas de caractère organique et étant adoptée dans le même texte qu'une disposition organique, n'a pas de caractère organique. Elle peut donc être amendée ou abrogée selon la procédure législative ordinaire.
 
 .. article:: lois de finances et de financement de la sécurité sociale
 
@@ -304,7 +306,7 @@ Les actes susceptibles de troubler la coexistence pacifique des peuples et accom
 
 .. article:: le règlement
 
-Le Parlement délègue à l'administration l'élaboration de législation secondaire, dans des domaines fixés par la loi de manière limitative.
+Le Parlement délègue à l'administration l'élaboration de législation secondaire, dans des domaines fixés par la loi de manière limitative. Les matières organiques ne peuvent pas être déléguées.
 
 Cette législation est adoptée selon les conditions et limitations fixées par le Parlement, sous la responsabilité du Chancelier de la République, et ils ont un caractère réglementaire.
 
