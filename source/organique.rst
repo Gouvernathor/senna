@@ -64,7 +64,7 @@ Article 4 - durée de mandat
 ---------------------------
 La durée de mandat est de deux ans à l'Assemblée Nationale, et de quatre ans au Sénat. Cependant, les parlementaires restent de droit en fonction jusqu'à la prise de fonction des parlementaires nouvellement élus.
 
-Le vote renouvelant une assemblée doit avoir lieu au moins quinze jours calendaires avant la fin de mandat des membres concernés par le renouvellement.
+Le vote renouvelant une assemblée doit avoir lieu au moins quinze jours calendaires avant la fin de mandat des membres de l'assemblée étant renouvelée.
 
 Article 5 - tailles des assemblées
 ----------------------------------
@@ -72,7 +72,7 @@ Le nombre de sièges à l'Assemblée Nationale est fixé à 360.
 
 Le nombre de sièges au Sénat est fixé à 240.
 
-Quand les conditions fixées par la constitution concernant les tailles des assemblées ne sont pas respectées, le règlement intérieur du Sénat prévoit quels sénateurs seront suspendus, afin de respecter ces conditions, ainsi que l'ordre et le délai dans lequel ces sénateurs sont rétablis dans leurs fonctions. La sélection des sénateurs suspendus ne doit pas atteindre à la représentativité au sein du Sénat des forces politiques y ayant été élues.
+Quand les conditions fixées par la constitution concernant les tailles des assemblées ne sont pas respectées, le règlement intérieur du Sénat prévoit quels sénateurs seront suspendus afin de respecter ces conditions, ainsi que l'ordre et le délai dans lequel ces sénateurs sont rétablis dans leurs fonctions. La sélection des sénateurs suspendus ne doit pas atteindre à la représentativité au sein du Sénat des forces politiques y ayant été élues.
 
 .. -------------------------------------------------
 .. Relative à :artref:`responsabilité parlementaire`
@@ -96,7 +96,7 @@ Relative à :artref:`navette parlementaire et CMP`
 
 Article unique - délai de refus d'office
 ----------------------------------------
-Le délai à partir duquel un texte peut être considéré par une assemblée comme étant rejeté par l'autre assemblée est de la durée la plus grande entre un mois calendaire et la période s'étant écoulée entre la saisie du texte et son vote définitif lors de la dernière considération par l'assemblée non saisie du texte.
+Le délai à partir duquel un texte peut être considéré par une assemblée comme étant rejeté par l'autre assemblée est de la durée la plus grande entre un mois calendaire et la période s'étant écoulée lors de la dernière considération par l'assemblée non saisie du texte entre la saisie du texte et son vote définitif.
 
 Ces délais sont doublés lorsque l'assemblée saisie du texte le considère pour la première fois.
 
@@ -128,7 +128,7 @@ Article 3 - amendement
 ----------------------
 La loi de finances et la loi de financement de la sécurité sociale annuelles peuvent être rectifiées par le Parlement.
 
-La rectification de la loi de finances ou de financement de la sécurité sociale ne peut se faire qu'au moyen d'une proposition de loi déposée dans la même assemblée que la loi qu'il vise à amender, ou par un amendement portant sur une telle proposition de loi, ou déposé dans cette même assemblée.
+La rectification de la loi de finances ou de financement de la sécurité sociale ne peut se faire qu'au moyen d'une proposition de loi déposée dans la même assemblée que la loi qu'elle vise à amender, ou par un amendement déposé dans cette même assemblée ou portant sur une telle proposition de loi.
 
 Une proposition de loi ou un amendement mentionnés à l'alinéa précédent ne peuvent être examinés avant l'entrée en application de la loi qu'ils visent à rectifier.
 
@@ -142,7 +142,7 @@ Article 5 - lois plurianuelles
 ------------------------------
 Une proposition de loi portant sur les mêmes matières et visant à s'appliquer sur plusieurs années ou de manière permanente est une loi plurianuelle de programmation de finances, ou de financement de la sécurité sociale, ou les deux.
 
-Les propositions de loi pluriannuelle sont déposées, examinées et adoptées selon les mêmes conditions que les lois ordinaires. Elles ne peuvent entrer en vigueur qu'à compter de la fin de l'année civile suivant celle de leur adoption. L'application anticipée de leurs dispositions peut être prévue par une loi de finances ou de financement de la sécurité sociale, ou par leur rectification.
+Les propositions de loi pluriannuelle sont déposées, examinées et adoptées selon les mêmes conditions qu'une loi ordinaire. Elles ne peuvent entrer en vigueur qu'à compter de la fin de l'année civile suivant celle de leur adoption. L'application anticipée de leurs dispositions peut être prévue par une loi de finances ou de financement de la sécurité sociale, ou par leur rectification.
 
 Article 6 - adoption par une seule assemblée
 --------------------------------------------
@@ -150,7 +150,7 @@ Une proposition de loi contenant des dispositions impropres à être contenues d
 
 .. doublon mais ça fait pas de mal de clarifier
 
-Une loi contenant des dispositions auquelles sont consacrées les lois de financement de la sécurité sociale ne peut être adoptée en application de :artref:`adoption par une seule assemblée` que selon les conditions spécifiques aux lois de financement de la sécurité sociale.
+Une loi contenant des dispositions auquelles sont consacrées les lois de financement de la sécurité sociale ne peut être adoptée en application de :artref:`adoption par une seule assemblée` que selon les conditions spécifiques applicables aux lois de financement de la sécurité sociale.
 
 ------------------------------------------------
 Relative à :artref:`révision de la Constitution`
@@ -170,13 +170,13 @@ L'assemblée reste en fonction pendant une durée qui ne peut être supérieure 
 
 Article 3 - pouvoirs et tâches
 ------------------------------
-L'assemblée a pour seul mandat l'élaboration d'un texte de révision de la Constitution pour la porter à l'approbation du peuple par référendum. Elle ne dispose d'aucun pouvoir législatif.
+L'assemblée a pour seul mandat l'élaboration d'un texte de révision de la Constitution en vue de le porter à l'approbation du peuple par référendum. Elle ne dispose d'aucun pouvoir législatif.
 
 L'assemblée peut terminer ses travaux sans adopter de texte. Elle peut aussi porter au référendum plusieurs textes alternatifs ou complémentaires.
 
 L'assemblée a le pouvoir de réunir des éléments d'information pour la bonne tenue de ses travaux, et à ces fins, convoquer le témoignage d'experts ou de citoyens.
 
-Ses membres disposent des mêmes privilèges de libre circulation, de parole, de liberté de vote et d'immunité que les membres du Parlement.
+Ses membres disposent des mêmes privilèges de libre circulation, de parole, de liberté de vote et de parole, et d'immunité que les membres du Parlement.
 
 -----------------------------------------------
 Relative à :artref:`référendums`
@@ -222,7 +222,7 @@ Relative à :artref:`révocation des élus`
 
 Article unique - délai de tenue du référendum révocatoire
 ---------------------------------------------------------
-Le référendum révocatoire doit avoir lieu dans les trente jours suivant la qualification, au regard de la constitution, de la pétition demandant sa tenue.
+Le référendum révocatoire doit avoir lieu dans les trente jours suivant la qualification, au regard de la constitution, de la pétition qui le convoque.
 
 .. ------------------------------------------------------------
 .. Relative à :artref:`incompatibilité de mandat représentatif`
@@ -262,7 +262,7 @@ Dans le cas où certaines des dispositions d'un texte adopté par le Parlement s
 
 Article 2 - contrôle de la procédure parlementaire
 --------------------------------------------------
-Un texte ou une partie d'un texte réputés adoptés en violation des procédures prévues par les réglements des assemblées est considéré comme n'étant pas adopté par le Parlement de manière régulière. Il est en conséquence prononcé non-conforme à la Constitution en cas de contrôle par le Conseil constitutionnel.
+Un texte ou une partie d'un texte réputés adoptés en violation des procédures prévues par les réglements des assemblées ne peut être considéré comme adopté par le Parlement de manière régulière. En conséquence, le contrôle du Conseil constitutionnel le reconnaît non-conforme à la Constitution.
 
 .. délais ouverts pour la saisine
 
@@ -288,7 +288,7 @@ Article premier - désignation des membres
 -----------------------------------------
 Les trois magistrats membres de la Cour de Justice de la République sont désignés par la formation plénière du Conseil Supérieur de la Magistrature.
 
-Chaque nouvelle saisine de la Cour de Justice de la République entraîne l'affectation des trois magistrats désignés à la saisine, et la nomination de trois nouveaux magistrats, selon la procédure prévue par l'alinéa précédent, en vue de la prochaine saisine.
+Chaque nouvelle saisine de la Cour de Justice de la République entraîne l'affectation à cette saisine des trois magistrats désignés, et la nomination de trois nouveaux magistrats selon la procédure prévue par l'alinéa précédent en vue de la prochaine saisine.
 
 Des membres non-parlementaires peuvent être désignés en avance par la formation plénière du Conseil Supérieur de la Magistrature pour des saisines futures, ainsi que pour le remplacement de membres non-parlementaires déjà saisis.
 
@@ -304,7 +304,7 @@ La Cour prononce toute peine déterminée par la loi concernant les crimes et d�
 
 Article 3 - appel
 -----------------
-Les assemblées parlementaires sont seules juges de la levée des conditions d'une motion de censure, nonobstant l'application de :artref:`contrôle de la nomination du gouvernement`.
+Les assemblées parlementaires sont seules juges, après décision de la Cour de Justice de la République, de la levée des conditions de recevabilité d'une motion de censure, nonobstant l'application de :artref:`contrôle de la nomination du gouvernement`.
 
 L'appel des peines civiles et pénales se fait conformément à une procédure d'appel ordinaire.
 
