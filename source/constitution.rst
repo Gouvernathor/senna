@@ -314,6 +314,8 @@ Le gouvernement en rend compte devant le Parlement.
 
 La loi prime en cas de contradiction avec le règlement.
 
+Le Parlement conserve la capacité de légiférer sur les matières déléguées au domaine réglementaire.
+
 .. article:: la Cour des Comptes
 
 La Cour des comptes assiste le Parlement dans le contrôle de l'action du gouvernement. Elle assiste le Parlement et le gouvernement dans le contrôle de l'exécution des lois de finances et de l'application des lois de financement de la sécurité sociale ainsi que dans l'évaluation des politiques publiques. Par ses rapports publics, elle contribue à l'information des citoyens.
