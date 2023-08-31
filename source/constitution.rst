@@ -168,11 +168,11 @@ Les dispositions législatives auxquelles la Constitution confère le caractère
 
 La procédure des articles :artnumref:`réunion en Congrès`, :artnumref:`navette parlementaire et CMP` et :artnumref:`adoption par une seule assemblée` est applicable. Toutefois, faute d'accord entre les deux Assemblées, le texte contenant des dispositions organiques ne peut être adopté par l'Assemblée nationale en dernière lecture qu'à la majorité des trois quarts de ses membres.
 
-Les lois organiques relatives, au moins en partie, au Sénat, ou susceptibles d'altérer l'équilibre des pouvoirs entre les assemblées, doivent être votées dans les mêmes termes par les deux assemblées ou être adoptées par référendum.
+Les dispositions organiques relatives, au moins en partie, au Sénat, ou susceptibles d'altérer l'équilibre des pouvoirs entre les assemblées, doivent être votées dans les mêmes termes par les deux assemblées ou être adoptées par référendum.
 
-Les lois organiques ne peuvent être promulguées qu'après déclaration par le Conseil constitutionnel de leur conformité à la Constitution.
+Les dispositions organiques ne peuvent être promulguées qu'après déclaration par le Conseil constitutionnel de leur conformité à la Constitution.
 
-Une disposition à laquelle la Constitution ne confère pas de caractère organique et étant adoptée dans le même texte qu'une disposition organique, n'a pas de caractère organique. Elle peut donc être amendée ou abrogée selon la procédure législative ordinaire.
+Une disposition à laquelle la Constitution ne confère pas de caractère organique n'a pas de caractère organique, même en étant adoptée dans le même texte qu'une disposition organique. Une telle disposition peut donc être amendée ou abrogée selon la procédure législative ordinaire.
 
 .. article:: lois de finances et de financement de la sécurité sociale
 
