@@ -200,11 +200,11 @@ La loi détermine leurs règles d'organisation et de fonctionnement. Leurs condi
 
 L'initiative de la révision de la Constitution appartient concurremment aux citoyens de la République par voie de pétition, aux membres du Parlement, et à une assemblée constituante réunie à cet effet dans les modalités prévues par la loi et par la loi organique.
 
-La révision est définitive après avoir été approuvée par référendum selon les modalités prévues à :artref:`référendums` ou, dans le cas de propositions issues de l'initiative de membres du Parlement, après avoir été adoptée par le Parlement rassemblé en Congrès. Les autres propositions de révision ne peuvent pas être amendées avant la tenue du référendum.
+La révision est adoptée par référendum selon les modalités prévues à :artref:`référendums` ou, dans le cas de propositions issues de l'initiative de membres du Parlement, par le Parlement réuni en Congrès.
 
-Lorsque les assemblées parlementaires convoquent le Parlement en Congrès, la proposition de révision n'est approuvé que si sa considération a été prévue par la motion de réunion de la session commune, qui doit inclure le texte de la proposition de révision, et s'il réunit la majorité des trois cinquièmes des suffrages exprimés.
+Le Congrès ne peut considérer une proposition de révision que si le texte de la proposition de révision est inclus en intégralité dans la motion de réunion de la session commune adoptée en termes identiques par les deux assemblées. Le Congrès adopte une révision en réunissant la majorité des trois cinquièmes des suffrages exprimés.
 
-Dans le cas d'une révision adoptée en Congrès, le délai de ratification est de trois mois à compter de son adoption. Une pétition pour l'annulation de cette révision recevant le soutien d'un centième des citoyens moins d'un an après son adoption, suspend l'application de la révision, ainsi que le délai de ratification le cas échéant, et la porte en référendum en dérogation du premier alinéa de :artref:`référendums`.
+Le délai de ratification d'une révision adoptée sans référendum est de trois mois à compter de son adoption. Une pétition pour l'annulation de cette révision recevant le soutien d'un centième des citoyens moins d'un an après son adoption, suspend l'application de la révision, ainsi que le délai de ratification le cas échéant, et la porte en référendum en dérogation du premier alinéa de :artref:`référendums`.
 
 Aucune procédure de révision ne peut être engagée ou poursuivie lorsqu'il est porté atteinte à l'intégrité du territoire.
 
