@@ -250,9 +250,9 @@ Le gouvernement est nommé par une pétition de gouvernement. Chaque pétition p
 
 Une pétition de gouvernement n'est valide que si elle est signée par l'intégralité des individus qu'elle cite, et si les individus cités correspondent aux conditions fixées par :artref:`incompatibilité de mandat représentatif`. Un même individu ne peut présenter plus d'une candidature à la Chancellerie à la fois. Une pétition peut être modifiée par le candidat à la Chancellerie tant que le gouvernement cité n'est pas en fonction.
 
-Ces pétitions, ainsi que la liste des membres du Parlement qui leur accordent leur approbation, sont publiques. Les approbations s'accordent et se retirent selon les modalités prévues par le règlement de chaque assemblée.
+Ces pétitions, ainsi que la liste des membres du Parlement qui leur accordent leur approbation, sont publiques. Les approbations parlementaires s'accordent et se retirent selon les modalités prévues par le règlement de chaque assemblée.
 
-Le gouvernement ou une pétition est considéré majoritaire dans une assemblée lorsqu'il recueille l'approbation de la majorité absolue des membres de cette assemblée.
+Le gouvernement et les pétitions sont considérés comme majoritaires dans une assemblée lorsqu'ils recueillent l'approbation de la majorité absolue des membres de cette assemblée.
 
 La priorité est donnée aux pétitions majoritaires dans chaque assemblée, puis à celles majoritaires à l'Assemblée nationale, puis à celles majoritaires au Sénat. Seule peut être nommée au gouvernement la pétition prioritaire arrivant en tête en nombre de membres approbateurs dans les assemblées dans lesquelles elle est majoritaire ou, à défaut, dans l'Assemblée nationale. Elle est investie au nom des assemblées dans lesquelles elle est majoritaire ou, à défaut, au nom de l'Assemblée nationale.
 
