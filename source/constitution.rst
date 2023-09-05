@@ -62,7 +62,7 @@ Les assemblées peuvent être renouvelées de manière anticipée, dans le cadre
 
 .. article:: modalités de mandat parlementaire
 
-Une loi organique fixe la durée des pouvoirs de chaque assemblée, le nombre de ses membres, leur mode d'élection, les conditions d'éligibilité, le régime des inéligibilités et des incompatibilités.
+La loi organique fixe la durée des pouvoirs de chaque assemblée, le nombre de ses membres, leur mode d'élection, les conditions d'éligibilité, le régime des inéligibilités et des incompatibilités.
 
 Elle fixe également les conditions dans lesquelles sont élues les personnes appelées à assurer, en cas de vacance du siège, le remplacement des députés ou des sénateurs jusqu'au renouvellement partiel ou intégral de l'assemblée à laquelle ils appartenaient.
 
@@ -136,7 +136,7 @@ Les propositions de loi sont envoyées pour examen à l'une des commissions perm
 
 .. article:: droit d'amendement
 
-Les membres du Parlement ont le droit d'amendement. Ce droit s'exerce en séance ou en commission selon les conditions fixées par les règlements des assemblées, dans le cadre déterminé par une loi organique.
+Les membres du Parlement ont le droit d'amendement. Ce droit s'exerce en séance ou en commission selon les conditions fixées par les règlements des assemblées, dans le cadre déterminé par la loi organique.
 
 .. article:: navette parlementaire et CMP
 
@@ -208,7 +208,7 @@ Aucune procédure de révision ne peut être engagée ou poursuivie lorsqu'il es
 
 .. article:: référendums
 
-Un référendum est convoqué par le Parlement, ou par une pétition rassemblant trois centièmes des citoyens, afin de soumettre un texte à l'approbation du peuple. Toutefois, dans le cadre prévu par :artref:`adoption par une seule assemblée`, l'Assemblée Nationale peut le déclencher seule. Une loi organique en prévoit les modalités.
+Un référendum est convoqué par le Parlement, ou par une pétition rassemblant trois centièmes des citoyens, afin de soumettre un texte à l'approbation du peuple. Toutefois, dans le cadre prévu par :artref:`adoption par une seule assemblée`, l'Assemblée Nationale peut le déclencher seule. La loi organique en prévoit les modalités.
 
 Le vote doit avoir lieu dans les trois mois suivant le déclenchement du référendum, sauf par dérogation du Parlement dans le cas où le référendum n'est pas d'origine populaire. L'administration est responsable de sa tenue.
 
@@ -430,7 +430,7 @@ Toutefois, s'il y a urgence et à la demande du Parlement, le Conseil constituti
 
 Lorsque, à l'occasion d'une instance en cours devant une juridiction, il est soutenu qu'une disposition législative porte atteinte à la Constitution, le Conseil constitutionnel peut être saisi de cette question sur renvoi du Conseil d'État ou de la Cour de cassation qui se prononce dans un délai déterminé.
 
-Une loi organique détermine les conditions d'application du présent article.
+La loi organique détermine les conditions d'application du présent article.
 
 .. article:: conséquence du contrôle
 
@@ -442,7 +442,7 @@ Les décisions du Conseil constitutionnel ne sont susceptibles d'aucun recours. 
 
 .. article:: fonctionnement du Conseil constitutionnel
 
-Une loi organique détermine les règles d'organisation et de fonctionnement du Conseil constitutionnel, la procédure qui est suivie devant lui et notamment les délais ouverts pour le saisir de contestations.
+La loi organique détermine les règles d'organisation et de fonctionnement du Conseil constitutionnel, la procédure qui est suivie devant lui et notamment les délais ouverts pour le saisir de contestations.
 
 -------------------------------------
 Titre VIII — De l'autorité judiciaire
@@ -452,7 +452,7 @@ Titre VIII — De l'autorité judiciaire
 
 Le Conseil supérieur de la magistrature est garant de l'indépendance de l'autorité judiciaire.
 
-Une loi organique porte statut des magistrats.
+La loi organique porte statut des magistrats.
 
 Les magistrats du siège sont inamovibles.
 
@@ -476,7 +476,7 @@ Le Conseil supérieur de la magistrature se réunit en formation plénière au t
 
 Sauf en matière disciplinaire ou en commission spéciale, un délégué du gouvernement désigné par le Chancelier de la République peut participer aux séances des formations du Conseil supérieur de la magistrature.
 
-Le Conseil supérieur de la magistrature peut être saisi par un justiciable dans les conditions fixées par une loi organique.
+Le Conseil supérieur de la magistrature peut être saisi par un justiciable dans les conditions fixées par la loi organique.
 
 La loi organique détermine les conditions d'application du présent article.
 
@@ -512,7 +512,7 @@ Le procureur général près la Cour de cassation peut aussi saisir d'office la 
 
 La Cour de justice de la République peut, une fois saisie et sauf l'opposition de la majorité de ses membres non-parlementaires, lever les conditions de recevabilité listées à :artref:`motions de censure` pour les motions de censure à l'encontre du ou des membres du gouvernement visés par la saisine. Dans ce cas, les conditions supplémentaires éventuellement fixées par loi organique dans le cadre de :artref:`motions de censure` sont également levées.
 
-Une loi organique détermine les conditions d'application du présent article.
+La loi organique détermine les conditions d'application du présent article.
 
 ---------------------------------
 Titre X — Le Défenseur des droits
