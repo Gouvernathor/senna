@@ -166,9 +166,9 @@ La procédure des articles :artnumref:`réunion en Congrès`, :artnumref:`navett
 
 Les dispositions organiques relatives, au moins en partie, au Sénat, ou susceptibles d'altérer l'équilibre des pouvoirs entre les assemblées, doivent être votées dans les mêmes termes par les deux assemblées ou être adoptées par référendum.
 
-Les dispositions organiques ne peuvent être promulguées qu'après déclaration par le Conseil constitutionnel de leur conformité à la Constitution.
+Les lois contenant des dispositions organiques ne peuvent être promulguées qu'après déclaration par le Conseil constitutionnel de leur conformité à la Constitution.
 
-Une disposition à laquelle la Constitution ne confère pas de caractère organique n'a pas de caractère organique, même en étant adoptée dans le même texte qu'une disposition organique. Une telle disposition peut donc être amendée ou abrogée selon la procédure législative ordinaire.
+Une disposition à laquelle la Constitution ne confère pas de caractère organique n'a pas de caractère organique, même en étant adoptée dans le même texte qu'une disposition organique. Une telle disposition peut donc être amendée ou abrogée hors de la procédure prévue au présent article.
 
 .. article:: lois de finances et de financement de la sécurité sociale
 
