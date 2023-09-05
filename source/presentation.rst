@@ -48,7 +48,19 @@ Il y a toujours deux chambres, et les bases de la navette parlementaire sont con
 
 L'objectif est de ne pas établir une hiérarchie brute à l'Assemblée, et de rendre une certaine utilité au Sénat : le court-circuiter est un événement rare où on doit réunir un nombre conséquent de votes (trois cinquièmes de tous les députés), ou faire directement appel au peuple pour trancher.
 
-De plus, les membres du Parlement regagnent un droit fondamental par rapport à la Cinquième : le droit d'amendement sur un projet de référendum. Un autocrate ne peut plus proposer un choix bloqué, "ça ou le déluge", comme ça a été le cas en 1958, en 1962, ou dans une moindre mesure en 1978 en Espagne. Mais ce droit d'amendement ne s'applique pas aux référendums d'initiative populaire, qui ne peuvent donc pas être neutralisés par les parlementaires à coup de reformulation, et transmettent directement au peuple tout entier la proposition qui est faite : si l'opposition n'est pas d'accord avec la formulation, elle peut très bien en proposer une alternative en suivant la même procédure.
+De plus, les membres du Parlement regagnent un droit fondamental par rapport à la Cinquième : le droit d'amendement sur un projet de référendum. Un autocrate ne peut plus proposer un choix bloqué, "ça ou le déluge", comme ça a été le cas en 1958, en 1962, ou dans une moindre mesure en 1978 en Espagne. Mais ce droit d'amendement ne s'applique pas aux référendums d'initiative populaire, qui ne peuvent donc pas être neutralisés par les parlementaires à coup d'amendements qui en videraient la substance, et transmettent directement au peuple tout entier la proposition qui est faite : si l'opposition n'est pas d'accord avec la formulation, elle peut très bien en proposer une alternative en suivant la même procédure.
+
+Amendement de la Constitution
+-----------------------------
+
+La Constitution peut être amendée de trois manières :
+
+- La voie purement parlementaire nécessite une majorité simple dans chaque chambre, et une majorité des 3/5 au sein du Congrès. C'est la seule voie qui ne passe pas par un référendum.
+
+  - Cependant, en utilisant cette procédure, le changement n'entre en vigueur que trois mois après l'adoption par le Congrès, et pendant un an il est plus facilement possible de déclencher un référendum pour annuler cette révision (le seuil de signature pour une pétition référendaire passe de 3% à 1% des citoyens).
+
+- Une pétition référendaire peut être déposée par des citoyens. Le texte est fourni par la pétition, et le référendum se suffit à lui-même.
+- Une assemblée constituante. J'en parle un peu plus loin, mais en deux mots : elle est déclenchée par une pétition qui rassemble 3% des citoyens, ou par la loi, c'est à dire par le Parlement. La modification de la constitution qui résulte de ses travaux est portée en référendum, sans amendement ou blocage possible par le Parlement.
 
 Ascendant sur le gouvernement
 -----------------------------
