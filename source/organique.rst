@@ -267,11 +267,11 @@ Un texte ou une partie d'un texte réputés adoptés en violation des procédure
 
 .. délais ouverts pour la saisine
 
-Article 3 - contrôle de la nomination du gouvernement
------------------------------------------------------
-Le Conseil constitutionnel est informé par les assemblées parlementaires de l'évolution des pétitions de gouvernement.
+Article 3 - contrôle de la nomination du gouvernement et des motions de censure
+-------------------------------------------------------------------------------
+Le Conseil constitutionnel est informé par les assemblées parlementaires de l'évolution des pétitions de gouvernement et de leurs signatures, et du dépôt de motions de censure.
 
-Il peut être saisi concernant la nomination du gouvernement selon les manières que la Constitution prévoit à :artref:`contrôle de constitutionnalité en instance législative` pour le contrôle d'une loi ordinaire, ou par le Chancelier de la République. Il statue ensuite dans un délai de sept jours.
+Il peut être saisi en contestation par tout candidat à la Chancellerie dont la pétition de gouvernement reçoit le soutien d'au moins un vingtième du nombre total de parlementaires, ou par l'un des organes auxquels :artref:`contrôle de constitutionnalité en instance législative` confère le pouvoir de saisine pour le contrôle d'une loi ordinaire. Il statue ensuite dans un délai de sept jours.
 
 .. ------------------------------------------------------------
 .. Relative à :artref:`l'autorité judiciaire`
