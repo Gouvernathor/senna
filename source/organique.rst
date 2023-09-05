@@ -205,9 +205,7 @@ Chaque individu cité sur une pétition de gouvernement doit répondre aux condi
 
 Il doit avoir donné son consentement à figurer au sein de cette pétition. Ce consentement est révocable avant la nomination au gouvernement.
 
-Il doit jouir de ses droits civils et politiques.
-
-S'il est mentionné au poste de Chancelier, il ne peut être cité au même poste par une autre pétition reconnue recevable.
+Il doit jouir de ses droits civils et politiques, notamment vis-à-vis de :artref:`droit de grâce`.
 
 .. ------------------------------------------------------------
 .. Relative à :artref:`motions de censure`

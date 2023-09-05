@@ -246,7 +246,9 @@ Titre IV — Des rapports entre le gouvernement et le Parlement
 
 .. article:: nomination du gouvernement
 
-Le gouvernement est nommé par une pétition de gouvernement, citant les postes gouvernementaux, incluant la Chancellerie, et l'identité des individus qui y correspondent. Une pétition de gouvernement n'est valide que si elle est signée par l'intégralité des individus qu'elle cite, et si les individus cités correspondent aux conditions fixées par :artref:`incompatibilité de mandat représentatif`. Un même individu ne peut signer qu'une seule pétition le citant au poste de Chancelier. Tant que le gouvernement cité n'est pas en fonction, les postes et noms cités sur une pétition, sauf celui cité au poste de Chancelier, peuvent être modifiés avec l'accord de l'individu cité au poste de Chancelier et de chaque individu ajouté à la pétition.
+Le gouvernement est nommé par une pétition de gouvernement. Chaque pétition porte le nom du candidat à la Chancellerie, cite les postes gouvernementaux et l'identité des individus qui y correspondent, et contient un programme de politique générale.
+
+Une pétition de gouvernement n'est valide que si elle est signée par l'intégralité des individus qu'elle cite, et si les individus cités correspondent aux conditions fixées par :artref:`incompatibilité de mandat représentatif`. Un même individu ne peut présenter plus d'une candidature à la Chancellerie à la fois. Une pétition peut être modifiée par le candidat à la Chancellerie tant que le gouvernement cité n'est pas en fonction.
 
 Ces pétitions, ainsi que la liste des membres du Parlement qui leur accordent leur approbation, sont publiques. Les approbations s'accordent et se retirent selon les modalités prévues par le règlement de chaque assemblée.
 
@@ -264,7 +266,7 @@ La loi organique prévoit les critères de recevabilité des pétitions de gouve
 
 .. article:: responsabilité politique du gouvernement
 
-La pétition du gouvernement contient un programme de politique générale. Chaque individu cité par la pétition y est lié et est tenu, une fois nommé au gouvernement, de se conformer à ce programme.
+Chaque individu cité par la pétition y est lié par son programme de politique générale et est tenu, une fois nommé au gouvernement, de s'y conformer.
 
 Amender le contenu de ce programme après la nomination du gouvernement nécessite l'accord de la ou des assemblées parlementaires au nom desquelles il a été investi, après la présentation de l'amendement par le Chancelier, ainsi que le consentement de tous les membres du gouvernement.
 
