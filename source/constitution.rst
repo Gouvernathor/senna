@@ -108,15 +108,15 @@ Le Parlement a la faculté de réunir ses membres en session commune de Congrès
 
 Le règlement intérieur du Congrès est adopté en termes identiques par les deux assemblées.
 
-Un règlement intérieur spécifique à une session en Congrès, en particulier pour fixer de manière limitative des textes ou des domaines à considérer, ou pour fixer une date de fin de session, peut faire partie d'une motion de réunion.
+La motion de réunion peut outrepasser des dispositions du règlement intérieur, en particulier pour fixer de manière limitative des textes ou des domaines à considérer, ou pour fixer une date de fin de session.
 
 Le règlement intérieur ne peut pas être amendé par le Congrès en session, sauf dans les cas que le règlement intérieur a prévu au préalable. Une motion de réunion ne peut pas être amendée par le Congrès.
 
-Le bureau du Congrès est celui de l'Assemblée nationale, sauf si le règlement intérieur du Congrès en dispose autrement.
+Le bureau du Congrès est celui de l'Assemblée nationale, sauf si le règlement intérieur du Congrès, ou la motion de réunion, en disposent autrement.
 
 Un texte adopté par le Congrès, de manière conforme au réglement du Congrès et à sa motion de réunion, est considéré comme adopté par le Parlement. Le délai de ratification de ces textes est doublé, sauf en cas de vote réunissant le soutien des trois cinquièmes des membres du Congrès.
 
-La session expire dans les modalités prévues par son règlement intérieur, sur décision du Congrès, et en cas de renouvellement partiel ou total d'une des assemblées parlementaires.
+La session expire dans les modalités prévues par son règlement intérieur et de sa motion de réunion, sur décision du Congrès, ou en cas de renouvellement partiel ou total d'une des assemblées parlementaires.
 
 Les deux assemblées parlementaires se réunissent de plein droit pendant la session commune de Congrès, notamment afin d'amender la motion de réunion de la session en cours.
 
