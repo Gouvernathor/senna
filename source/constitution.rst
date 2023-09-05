@@ -158,10 +158,6 @@ Si la commission mixte paritaire ne parvient pas à l'adoption d'un texte commun
 
 Cependant, après une nouvelle lecture par l'Assemblée nationale et par le Sénat, l'Assemblée nationale peut statuer définitivement à la majorité des trois cinquièmes de ses membres, ou porter le texte à l'approbation du peuple par référendum. Dans ces deux cas, l'Assemblée nationale peut reprendre soit le texte élaboré par la commission mixte paritaire, soit le dernier texte voté par elle, modifié le cas échéant par un ou plusieurs des amendements adoptés par le Sénat, soit le dernier texte adopté par le Congrès, le cas échéant.
 
-Dans le cas d'une loi de finances, la majorité qualifiée prévue à l'alinéa précédent n'est pas requise pour que l'Assemblée nationale statue définitivement.
-
-Dans le cas d'une loi de financement de la sécurité sociale, le pouvoir de statuer définitivement après une nouvelle lecture revient au Sénat, sans majorité qualifiée requise.
-
 .. article:: lois organiques
 
 Les dispositions législatives auxquelles la Constitution confère le caractère organique sont adoptées selon les conditions suivantes.
@@ -178,7 +174,9 @@ Une disposition à laquelle la Constitution ne confère pas de caractère organi
 
 Les propositions de lois de finances ne peuvent être déposées qu'à l'Assemblée nationale, et les propositions de lois de financement de la sécurité sociale qu'au Sénat.
 
-Elles sont votées par le Parlement dans les conditions prévues par une loi organique.
+Elles sont votées par le Parlement dans les conditions prévues par la loi organique.
+
+La procédure des articles :artnumref:`réunion en Congrès`, :artnumref:`navette parlementaire et CMP` et :artnumref:`adoption par une seule assemblée` est applicable. Toutefois, faute d'accord entre les deux Assemblées, aucune majorité qualifiée n'est requise pour qu'une assemblée statue définitivement. Dans le cas d'une loi de financement de la sécurité sociale, le pouvoir de statuer définitivement revient au Sénat.
 
 .. article:: ordre du jour des assemblées
 
