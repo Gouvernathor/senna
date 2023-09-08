@@ -203,9 +203,11 @@ Relative à :artref:`nomination du gouvernement`
 
 Article premier - délai de nomination
 -------------------------------------
-Lorsqu'il existe au moins une pétition de gouvernement ayant une priorité plus grande que celle du gouvernement en fonction, le gouvernement démissionne dans les quinze jours calendaires.
+Lorsqu'il existe au moins une pétition de gouvernement ayant une priorité plus grande que celle du gouvernement en fonction, la prise de fonction du nouveau gouvernement a lieu dans les sept jours calendaires suivants.
 
-Dans le cas où une assemblée au nom de laquelle le gouvernement en fonction a été investi fait l'objet d'un renouvellement partiel ou total, ce délai est porté à un mois.
+Dans le cas où le gouvernement a été renouvelé dans les trente jours précédents, la prise de fonction du nouveau gouvernement a lieu au moins sept jours calendaires après le renouvellement précédent, et la durée prévue au premier alinéa est portée à quinze jours calendaires.
+
+Dans le cas où une assemblée au nom de laquelle le gouvernement en fonction a été investi fait l'objet d'un renouvellement partiel ou total, la durée prévue au premier alinéa est portée à un mois.
 
 Article 2 - recevabilité des pétitions de gouvernement
 ------------------------------------------------------
