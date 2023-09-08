@@ -418,7 +418,7 @@ Le Conseil constitutionnel veille à la régularité des opérations de référe
 
 .. article:: contrôle de constitutionnalité en instance législative
 
-Les lois organiques, avant leur promulgation, doivent être soumis au Conseil constitutionnel qui se prononce sur leur conformité à la Constitution. Dans les modalités prévues par :artref:`référendums`, il en est fait de même pour les référendums législatifs.
+Les lois organiques, avant leur promulgation, doivent être soumis au Conseil constitutionnel qui se prononce sur leur conformité à la Constitution. Dans les modalités prévues par :artref:`référendums`, il en est fait de même pour les référendums.
 
 Aux mêmes fins, les lois ainsi que les règlements des assemblées parlementaires et du Congrès peuvent être déférées au Conseil constitutionnel, avant leur promulgation, par le gouvernement, un nombre de citoyens fixé par loi organique, le Bureau de l'Assemblée nationale, le Bureau du Sénat ou un vingtième des membres d'une assemblée parlementaire ou du Congrès, ou si le Conseil constitutionnel s'en saisit lui-même.
 
