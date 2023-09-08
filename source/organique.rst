@@ -78,9 +78,17 @@ Quand les conditions fixées par la constitution concernant les tailles des asse
 .. Relative à :artref:`responsabilité parlementaire`
 .. -------------------------------------------------
 
-.. -------------------------------------------------
-.. Relative à :artref:`résolutions parlementaires`
-.. -------------------------------------------------
+-----------------------------------------------
+Relative à :artref:`résolutions parlementaires`
+-----------------------------------------------
+
+Article unique - délai de prise d'effet des résolutions de deuxième classe
+---------------------------------------------------------------------------
+Le délai après lequel une résolution de deuxième classe prend effet contraignant sur le gouvernement est de dix jours calendaires suivant son adoption.
+
+L'assemblée ayant le pouvoir de rejeter une résolution de deuxième classe peut décider de porter ce délai à sept jours calendaires à partir de cette décision. Cette décision peut être prise plusieurs fois pour la même résolution de deuxième classe.
+
+Un vote négatif sur le rejet de la résolution dans une assemblée apte à adopter une résolution de première classe réduit le délai à néant et entraîne la prise d'effet immédiat de la résolution.
 
 -------------------------------------------------
 Relative à :artref:`droit d'amendement`

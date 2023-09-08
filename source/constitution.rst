@@ -124,6 +124,16 @@ Les deux assemblées parlementaires se réunissent de plein droit pendant la ses
 
 Les assemblées peuvent voter des résolutions dans les conditions fixées par la loi organique.
 
+Les résolutions adoptées par le Parlement sont de première classe lorsqu'elles sont adoptées par les deux assemblées, ou par le Congrès lorsque sa motion de réunion le prévoit.
+
+En outre, le Sénat quand le gouvernement est investi en son nom, ou l'Assemblée nationale dans les autres cas, adopte des résolutions de première classe, ainsi que des résolutions habilitant l'autre assemblée à adopter des résolutions de première ou de deuxième classe.
+
+Les effets contraignants des résolutions envers le gouvernement, et les habilitations prévues à l'alinéa précédent, expirent lors du renouvellement partiel ou total de l'une ou l'autre des assemblées, lors du renouvellement du gouvernement, ou lorsque l'assemblée dont la résolution est issue le décide.
+
+Lorsque le gouvernement est majoritaire dans les deux assemblées, le Sénat adopte des résolutions de deuxième classe.
+
+Une résolution de première classe est contraignante envers le gouvernement au titre de :artref:`responsabilité politique du gouvernement` dès son adoption. Une résolution de deuxième classe prend effet de manière contraignante envers le gouvernement après un délai prévu par la loi organique sauf si l'assemblée apte à prendre des résolutions de première classe la rejette dans ce même délai.
+
 .. article:: initiative législative
 
 L'initiative législative appartient aux membres du Parlement, et aux citoyens de la République dans le cadre prévu par :artref:`référendums`.
@@ -270,7 +280,7 @@ Chaque individu cité par la pétition y est lié par son programme de politique
 
 Amender le contenu de ce programme après la nomination du gouvernement nécessite l'accord de la ou des assemblées parlementaires au nom desquelles il a été investi, après la présentation de l'amendement par le Chancelier, ainsi que le consentement de tous les membres du gouvernement.
 
-La Constitution et la loi ont primauté sur les instructions du Parlement, lesquelles ont primauté sur le programme du gouvernement.
+La Constitution et la loi priment sur les instructions du Parlement données par résolution au titre de :artref:`résolutions parlementaires`, lesquelles priment sur le programme du gouvernement.
 
 .. article:: motions de censure
 
