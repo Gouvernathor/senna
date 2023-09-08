@@ -126,7 +126,7 @@ Les assemblées peuvent voter des résolutions dans les conditions fixées par l
 
 .. article:: initiative législative
 
-L'initiative législative appartient aux membres du Parlement.
+L'initiative législative appartient aux membres du Parlement, et aux citoyens de la République dans le cadre prévu par :artref:`référendums`.
 
 .. article:: examen en commission
 
