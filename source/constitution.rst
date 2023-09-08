@@ -218,9 +218,9 @@ Aucune procédure de révision ne peut être engagée ou poursuivie lorsqu'il es
 
 .. article:: référendums
 
-Un référendum est convoqué par le Parlement, ou par une pétition rassemblant trois centièmes des citoyens, afin de soumettre un texte à l'approbation du peuple. Toutefois, dans le cadre prévu par :artref:`adoption par une seule assemblée`, l'Assemblée Nationale peut le déclencher seule. La loi organique en prévoit les modalités.
+Un référendum est convoqué par le Parlement, par une assemblée constituante ou par une pétition rassemblant trois centièmes des citoyens, afin de soumettre un texte à l'approbation du peuple. Toutefois, dans le cadre prévu par :artref:`adoption par une seule assemblée`, l'Assemblée nationale peut le déclencher seule. La loi organique en prévoit les modalités.
 
-Le vote doit avoir lieu dans les trois mois suivant le déclenchement du référendum, sauf par dérogation du Parlement dans le cas où le référendum n'est pas d'origine populaire. L'administration est responsable de sa tenue.
+Le vote doit avoir lieu dans les trois mois suivant le déclenchement du référendum, sauf par dérogation du Parlement dans le cas où le référendum est d'origine parlementaire. L'administration est responsable de sa tenue.
 
 La valeur constitutionnelle d'un texte doit être établie avant que le vote n'ait lieu. Le Conseil constitutionnel la constate par un avis public présentant, le cas échéant, les modifications de la Constitution qui résulteraient de son adoption. Si le référendum a été déclenché par l'Assemblée nationale seule et si il a valeur constitutionnelle, les dispositions contraires à la Constitution sont retirées du texte et l'Assemblée nationale peut décider d'annuler la tenue du référendum.
 

@@ -187,15 +187,9 @@ L'assemblée a le pouvoir de réunir des éléments d'information pour la bonne 
 
 Ses membres disposent des mêmes privilèges de libre circulation, de parole, de liberté de vote et de parole, et d'immunité que les membres du Parlement.
 
------------------------------------------------
-Relative à :artref:`référendums`
------------------------------------------------
-
-Article unique - modalités de convocation
------------------------------------------
-Un référendum est convoqué par le Parlement par une loi référendaire, ou par l'assemblée réunie aux fins de révision de la constitution.
-
-La convocation inclut le texte sur lequel le référendum porte, et les éventuelles dérogations de délais concernant sa tenue.
+.. -----------------------------------------------
+.. Relative à :artref:`référendums`
+.. -----------------------------------------------
 
 -----------------------------------------------
 Relative à :artref:`nomination du gouvernement`
