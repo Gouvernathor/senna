@@ -181,11 +181,11 @@ Article 3 - pouvoirs et tâches
 ------------------------------
 L'assemblée a pour seul mandat l'élaboration d'un texte de révision de la Constitution en vue de le porter à l'approbation du peuple par référendum. Elle ne dispose d'aucun pouvoir législatif.
 
-L'assemblée peut terminer ses travaux sans adopter de texte. Elle peut aussi porter au référendum plusieurs textes alternatifs ou complémentaires.
+L'assemblée peut terminer ses travaux sans adopter de texte. Elle peut aussi porter au référendum plusieurs textes alternatifs ou complémentaires entre eux.
 
 L'assemblée a le pouvoir de réunir des éléments d'information pour la bonne tenue de ses travaux, et à ces fins, convoquer le témoignage d'experts ou de citoyens.
 
-Ses membres disposent des mêmes privilèges de libre circulation, de parole, de liberté de vote et de parole, et d'immunité que les membres du Parlement.
+Ses membres disposent des mêmes privilèges d'immunité, de libre circulation, de liberté de vote et de parole que les membres du Parlement.
 
 .. -----------------------------------------------
 .. Relative à :artref:`référendums`
