@@ -14,7 +14,7 @@ De plus, si aucun gouvernement n'est majoritaire dans au moins une assemblée da
 
 En outre, le Sénat a le pouvoir d'ordonner un renouvellement de l'Assemblée Nationale si aucun gouvernement n'y a été majoritaire durant l'année précédant ce renouvellement.
 
-Le Congrès a le pouvoir d'ordonner un renouvellement anticipé des deux assemblées à la fois, partiel ou intégral dans le cas du Sénat.
+Le Parlement peut ordonner par la loi un renouvellement anticipé des deux assemblées à la fois, partiel ou intégral dans le cas du Sénat.
 
 Sauf disposition contraire issue du recours en étant à l'origine, un recours citoyen entraîne au Sénat un renouvellement intégral.
 
@@ -42,7 +42,7 @@ Les sièges à pourvoir sont attribués à chaque liste selon la méthode de la 
 
 Article 2 - listes de candidats
 -------------------------------
-Chaque liste de candidats doit réunir au moins autant d'individus que de sièges à pourvoir, ainsi qu'un candidat supplémentaire pour chaque individu présent sur au moins une autre liste.
+Chaque liste de candidats doit réunir autant d'individus que de sièges à pourvoir, ainsi qu'un candidat supplémentaire pour chaque individu présent sur au moins une autre liste.
 
 L'ordre des candidats au sein d'une liste ne peut être modifié moins de vingt-quatre heures avant la tenue du vote.
 
