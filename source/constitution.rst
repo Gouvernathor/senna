@@ -152,7 +152,7 @@ Les membres du Parlement ont le droit d'amendement. Ce droit s'exerce en séance
 
 Toute proposition de loi est examiné successivement dans les deux assemblées du Parlement en vue de l'adoption d'un texte identique.
 
-Après l'expiration d'un délai fixé par la loi organique, si une des deux assemblées ne s'est pas exprimée sur un texte qui lui a été transmis par l'autre assemblée, l'autre assemblée peut considérer le texte comme rejeté par la première.
+Après l'expiration d'un délai fixé par la loi organique, si une des deux assemblées parlementaires, saisie d'un texte adopté par l'autre assemblée, ne s'est pas prononcée, l'autre assemblée peut considérer le texte comme rejeté par la première.
 
 Le délai de ratification d'une loi après son adoption est de deux semaines.
 
