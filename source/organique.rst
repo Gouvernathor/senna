@@ -104,16 +104,15 @@ Relative à :artref:`navette parlementaire et CMP`
 
 Article unique - délai de refus d'office
 ----------------------------------------
-Le délai à partir duquel un texte peut être considéré par une assemblée comme étant rejeté par l'autre assemblée est de la durée la plus grande entre un mois calendaire et la période s'étant écoulée lors de la dernière considération par l'assemblée non saisie du texte entre la saisie du texte et son vote définitif.
+Une assemblée saisie d'un texte ayant été adopté par l'autre assemblée dispose d'une durée minimale de trente jours calendaires pour se prononcer sur ce texte. De plus, elle ne peut disposer de moins de temps que la dernière lecture en date par l'autre assemblée, comptée en jours calendaires. À l'expiration du plus long de ces deux délais, l'autre assemblée dispose du pouvoir de considérer le texte comme rejeté par la première.
 
-Ces délais sont doublés lorsque l'assemblée saisie du texte le considère pour la première fois.
+Dans le cas où l'assemblée qui est saisie du texte en est à sa première lecture, la durée minimale prévue par l'alinéa précédent est doublée.
 
-Les délais des alinéas précédents sont quadruplés dans le cas de lois organiques ou constitutionnelles.
+Dans le cas d'un texte portant des dispositions organiques ou constitutionnelles dans sa rédaction dernièrement transmise par l'autre assemblée, la durée minimale prévue par les alinéas précédents est quadruplée.
 
-Les délais des alinéas précédents sont réduits de moitié dans le cas de lois des finances.
+Dans le cas d'une proposition de loi de finances ou de financement de la sécurité sociale, la durée minimale prévue par les alinéas précédents est divisée par deux.
 
-.. Les délais des alinéas précédents peuvent être réduits de moitié pour un texte donné sur décision de la majorité des membres d'une assemblée lors de sa première lecture du texte.
-.. pas clair
+La durée minimale prévue par les alinéas précédents peut être divisée par deux, pour une proposition de loi donnée, par une résolution adoptée à la majorité absolue des membres de l'une ou l'autre des assemblées. L'application du présent alinéa ne peut se cumuler pour un même texte.
 
 ------------------------------------------------------------------------------
 Relative à :artref:`lois de finances et de financement de la sécurité sociale`
