@@ -282,7 +282,7 @@ Les membres du Bureau étendu assistent de droit aux séances des autres instanc
 
 .. article:: fonctionement des Bureaux
 
-La composition et les modifications de la composition du Bureau restreint sont notifiées à la Chancellerie de la République et au Bureau de l'autre assemblée.
+La composition et les modifications de la composition du Bureau restreint sont notifiées à la Chancellerie de la République et au Bureau de l'autre assemblée et publiées au Journal officiel.
 
 Dans le cas d'une absence pendant une séance du Bureau, du Bureau étendu ou de la Conférence des Présidents, un président de groupe parlementaire peut désigner un membre de son groupe parlementaire pour le remplacer.
 
