@@ -557,7 +557,7 @@ Chaque membre de l'assemblée dispose d'une voix.
 
 En l'absence d'un membre, une délégation de vote désignant nommément un autre membre peut être utilisée par cet autre membre pour voter en son nom, dans le cadre éventuel des conditions fixées par cette délégation qui peut autoriser ou non son usage en scrutin secret.
 
-En l'absence d'une telle délégation, et à moins que le membre absent s'y soit expressément opposé, ou que le réglement intérieur de son groupe parlementaire en dispose autrement, le vote de ce membre est délégué au représentant de son groupe.
+En l'absence d'une telle délégation, et à moins que le membre absent s'y soit expressément opposé, le vote de ce membre est délégué au représentant de son groupe.
 
 Les délégations de vote et oppositions précitées doivent être communiquées au Bureau de l'assemblée avant l'ouverture du premier des scrutins auxquels elle s'applique. Toute nouvelle délégation annule la précédente.
 
