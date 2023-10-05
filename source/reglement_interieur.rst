@@ -573,7 +573,7 @@ Le vote binaire, ou vote simple, est un mode de scrutin où chaque votant peut a
 
 L'assemblée vote normalement à main levée ou par assis et debout.
 
-Le vote solennel, ou par appel nominal, a lieu par appel des membres dans l'ordre alphabétique de leurs noms à partir d'une lettre tirée au sort par le président de séance. Chaque membre, ou son délégué, répond de l'une des options qui lui sont offertes, ou "abstention". Un membre absent ou ne répondant pas est compté comme une abstention.
+Le vote solennel, ou par appel nominal, a lieu par appel des membres dans l'ordre alphabétique de leurs noms à partir d'une lettre tirée au sort par le président de séance. Chaque membre, ou son délégué, répond de l'une des options qui lui sont offertes, ou de l'abstention volontaire. Un membre absent ou ne répondant pas est compté comme une abstention en ce qui concerne le résultat du vote.
 
 Lorsque l'assemblée vote à l'aide du dispositif mécanique, il remplace le vote par appel nominal.
 
