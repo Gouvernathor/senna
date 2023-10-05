@@ -165,12 +165,28 @@ Y. Bureaux
 
 .. article::
 
-    Les postes de président, de vice-président et de questeur sont mutuellement incompatibles.
+Les postes de président, de vice-président et de questeur sont mutuellement incompatibles.
+
+.. article:: (C) Bureaux en Congrès
+
+Le président du Congrès est le président de l'Assemblée nationale.
+
+Les vice-présidents du Congrès sont le président du Sénat, suivi des vice-présidents de l'Assemblée nationale puis des vice-présidents du Sénat.
+
+Les questeurs du Congrès sont ceux de l'Assemblée nationale et du Sénat, sans que le nombre de questeurs issus de l'Assemblée nationale ne puisse être inférieur au nombre de questeurs issus du Sénat.
+
+La commission spéciale chargée de vérifier et d'apurer les comptes rend compte aux deux assemblées. Elle se réunit au plus tard un an après la convocation du premier Congrès dont les comptes n'ont pas été vérifiés et apurés.
+
+Le Bureau restreint est composé du président du Congrès, qui le préside, et des vice-présidents et des questeurs du Congrès.
+
+Le Bureau est composé des membres du Bureau restreint, ainsi que des présidents des groupes de coalition. En l'absence de commission constituée au sein du Congrès, il assure les responsabilités de Bureau étendu.
+
+La Conférence des présidents est composée du président du Congrès, qui la préside sans droit de vote, ainsi que des présidents des groupes de coalition.
 
 Présidence
 ==========
 
-.. article:: élection du président
+.. article:: (AN, S) élection du président
 
 L'assemblée élit un président à la majorité absolue de ses membres dès l'ouverture de la première séance suivant un renouvellement partiel ou intégral de l'assemblée.
 
@@ -178,7 +194,7 @@ Sur décision de l'assemblée, et après pas moins de cinq tours de scrutin, le 
 
 Le vote se fait par approbation parmi tous les candidats, membres ou non de l'assemblée, recevant le soutien d'un nombre de membres de l'assemblée suffisant pour constituer un groupe.
 
-.. article:: vacance de la présidence
+.. article:: (AN, S) vacance de la présidence
 
 Lorsque aucun président ni vice-président de l'assemblée n'est désigné, aucun autre ordre du jour que la nomination du président n'est admissible.
 
@@ -196,7 +212,7 @@ Le président de séance prononce l'ouverture, la suspension et la levée de sé
 
 Les vice-présidents remplacent le président au rôle de président de séance pendant son absence. Leur priorité est déterminée par leur ordre dans la liste des vice-présidents.
 
-.. article:: nomination des vice-présidents
+.. article:: (AN, S) nomination des vice-présidents
 
 Les vice-présidents sont nommés par la Conférence des présidents.
 
@@ -210,7 +226,7 @@ Chaque vice-président suivant est choisi de manière à ce que la liste compos�
 
 Les vice-présidents sont renouvelés après chaque changement de gouvernement, après le renouvellement partiel ou intégral de l'assemblée, et après un an suivant leur dernier renouvellement.
 
-.. article:: fin de fonctions de présidence
+.. article:: (AN, S) fin de fonctions de présidence
 
 La démission, le décès, la destitution, et le renouvellement partiel ou intégral de l'assemblée, ainsi que la perte de mandat parlementaire lorsque le président est membre de l'assemblée, mettent fin aux fonctions de président et de vice-président.
 
@@ -223,11 +239,11 @@ Administration, budget et questure
 
 .. article:: questure
 
-L'assemblée arrête le réglement relatif à sa gestion financière.
+(AN, S) L'assemblée arrête le réglement relatif à sa gestion financière.
 
 Les questeurs, sous la direction du Bureau restreint, sont chargés des services financiers et administratifs. Aucune dépense nouvelle ne peut être engagée sans leur accord préalable.
 
-.. article:: nomination des questeurs
+.. article:: (AN, S) nomination des questeurs
 
 Trois questeurs sont désignés au sein des membres de l'assemblée.
 
@@ -237,7 +253,7 @@ Les deux autres questeurs sont choisis de manière à ce que les trois questeurs
 
 Les questeurs sont renouvelés dès qu'aucun d'entre eux n'est issu d'un groupe d'opposition, après le renouvellement partiel ou intégral de l'assemblée, après un an suivant leur dernier renouvellement, et sur décision du Bureau étendu.
 
-.. article:: commission spéciale des comptes
+.. article:: (AN, S) commission spéciale des comptes
 
 Au début de chaque session ordinaire et au moins une fois par an, l'assemblée nomme une commission spéciale de quinze membres chargée de vérifier et d'apurer les comptes.
 
@@ -247,12 +263,12 @@ La composition donne quitus aux questeurs de leur gestion ou rend compte à l'as
 
 Les services de l'assemblée sont assurés exclusivement par un personnel civil et militaire nommé dans les conditions déterminées par le Bureau. Est interdite, en conséquence, la collaboration de caractère permanent de tout fonctionnaire relevant d'une administration extérieure à l'assemblée.
 
-Les membres et les groupes de l'assemblée peuvent employer sous contrat de droit privé des collaborateurs parlementaires, qui les assistent dans l'exercice de leurs fonctions et dont ils sont les seuls employeurs. Les membres et les groupes bénéficient d'un crédit financier affecté à cet effet.
+(AN, S) Les membres et les groupes de l'assemblée peuvent employer sous contrat de droit privé des collaborateurs parlementaires, qui les assistent dans l'exercice de leurs fonctions et dont ils sont les seuls employeurs. Les membres et les groupes bénéficient d'un crédit financier affecté à cet effet.
 
 Bureaux
 =======
 
-.. article:: composition des Bureaux
+.. article:: (AN, S) composition des Bureaux
 
 Le Bureau restreint est composé du président de l'assemblée, qui le préside, ainsi que des vice-présidents et des questeurs.
 
@@ -266,13 +282,13 @@ Les membres du Bureau étendu assistent sans droit de vote aux séances des autr
 
 .. article:: fonctionnement des Bureaux
 
-La composition et les modifications de la composition du Bureau restreint sont notifiées à la Chancellerie de la République et au Bureau de l'autre assemblée, et publiées au Journal officiel.
+(AN, S) La composition et les modifications de la composition du Bureau restreint sont notifiées à la Chancellerie de la République, au Bureau de l'autre assemblée, et au Bureau du Congrès le cas échéant, et publiées au Journal officiel.
 
 Dans le cas d'une absence pendant une séance du Bureau, du Bureau étendu ou de la Conférence des présidents, un président de groupe parlementaire peut désigner un membre de son groupe pour le remplacer.
 
 Lorsque le président d'une commission est absent pendant une séance du Bureau étendu, le remplaçant est désigné parmi les vice-présidents de la commission.
 
-Les présidents de groupes parlementaires votent au prorata du nombre de membres de leur groupe respectif, retranché du nombre d'autres membres du groupes présents.
+Les présidents de groupes parlementaires votent au prorata du nombre de membres de leur groupe, retranché du nombre d'autres membres du groupes présents.
 
 .. article:: rôle du Bureau
 
