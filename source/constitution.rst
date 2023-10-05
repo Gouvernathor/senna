@@ -194,6 +194,8 @@ Sans préjudice des alinéas suivants du présent article, l'ordre du jour des a
 
 L'examen des propositions de loi de finances, des propositions de loi de financement de la sécurité sociale et des textes transmis par l'autre assemblée depuis six semaines au moins, des propositions relatives aux états de crise et des demandes d'autorisation visées à :artref:`guerre et intervention armée` est inscrit à l'ordre du jour par priorité.
 
+Les groupes parlementaires d'opposition fixent l'ordre du jour d'au moins un dixième des jours de séance de l'assemblée à laquelle ils appartiennent.
+
 .. article:: groupes parlementaires
 
 Le règlement de chaque assemblée détermine les droits des groupes parlementaires constitués en son sein. Il reconnaît des droits spécifiques aux groupes d'opposition de l'assemblée intéressée ainsi qu'aux groupes minoritaires.
