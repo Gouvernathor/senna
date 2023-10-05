@@ -112,7 +112,7 @@ L'ordre du jour inclut, par priorité :
 #. tout autre élément établi par le présent réglement comme ayant priorité ;
 #. toutes autres questions proposées par des membres du Bureau étendu.
 
-Un élément combinant plusieurs de ces points est considéré comme ayant la priorité du point le plus important.
+Un élément combinant plusieurs de ces points est considéré comme ayant la priorité du plus important des points concernés.
 
 .. par exemple une motion de réunion (avant-dernier point) pour considérer une loi de finances (troisième point) est de priorité 2
 
@@ -505,7 +505,7 @@ Avant un vote final sur un texte ou une partie d'un texte, une motion peut être
 
 La demande de nouvel examen n'est pas discutée.
 
-Lorsqu'une première demande de nouvel examen sur un texte ou une partie d'un texte est demandée par des représentants de groupes parlementaires réunissant deux cinquièmes des membres de l'assemblée, elle est de droit. Dans les cas contraires, la demande est immédiatement mise aux voix.
+Lorsqu'une demande de nouvel examen sur un texte ou une partie d'un texte n'ayant pas déjà fait l'objet d'une demande de nouvel examen est demandée par des représentants de groupes parlementaires réunissant deux cinquièmes des membres de l'assemblée, elle est de droit. Dans les cas contraires, la demande est immédiatement mise aux voix.
 
 .. article:: discussion des textes et articles
 
@@ -546,7 +546,7 @@ Lorsque certains articles d'un texte ont été adoptés dans des termes identiqu
 
 .. article:: recevabilité financière
 
-Aucun amendement dont l'adoption aurait pour conséquence soit une diminution des ressources publiques, soit une augmentation des charges publiques, n'est recevable, à moins de soit porter sur une proposition de loi de finances ou de financement de la sécurité sociale, ou d'amender la loi annuelle de finances ou de financement de la sécurité sociale.
+Aucun amendement dont l'adoption aurait pour conséquence soit une diminution des ressources publiques, soit une augmentation des charges publiques, n'est recevable, à moins de porter sur une proposition de loi de finances ou de financement de la sécurité sociale, ou d'amender la loi annuelle de finances ou de financement de la sécurité sociale.
 
 Votes
 =====
