@@ -141,8 +141,8 @@ Réglement intérieur du Parlement
         commission plénière ?
         commissions spéciales ou ad hoc
         commissions d'enquête
-
         commission mixte paritaire
+        commission spéciale des comptes (composition, présidence)
 
     rapports avec le gouvernement
         nomination du gouvernement
@@ -155,22 +155,130 @@ Réglement intérieur du Parlement
 
     discipline et sanctions
 
----------------
+--------------
 Y. Composition
----------------
+--------------
 
 ----------
 Y. Bureaux
 ----------
 
+.. article::
+
+    Les postes de président, de vice-président et de questeur sont mutuellement incompatibles.
+
 Présidence
 ==========
 
-Questure
-========
+.. article:: élection du président
+
+L'assemblée élit un président à la majorité absolue de ses membres dès l'ouverture de la première séance suivant un renouvellement partiel ou intégral de l'assemblée.
+
+Sur décision de l'assemblée, et après pas moins de cinq tours de scrutin, le président peut être élu à la majorité relative des suffrages exprimés.
+
+Le vote se fait par approbation parmi tous les candidats, membres ou non de l'assemblée, recevant le soutien d'un nombre de membres de l'assemblée suffisant pour constituer un groupe.
+
+.. article:: vacance de la présidence
+
+Lorsque aucun président ni vice-président de l'assemblée n'est désigné, aucun autre ordre du jour que la nomination du président n'est admissible.
+
+Dans ces mêmes circonstances, le doyen d'âge préside les séances de l'assemblée, assisté des six plus jeunes membres de l'assemblée, et le Chancelier de la République assure par intérim les autres responsabilités de la présidence de l'assemblée.
+
+.. article:: présidence de l'assemblée
+
+Le président de l'assemblée, outre les responsabilités qui lui sont conférées par la constitution, assure l'application du réglement et le maintien de l'ordre dans l'enceinte des lieux dépendant de l'assemblée.
+
+Les vice-présidents remplacent le président de l'assemblée en cas de déplacement à l'étranger ou d'incapacité temporaire communiquée par le président.
+
+.. article:: présidence de séance
+
+Le président de séance prononce l'ouverture, la suspension et la levée de séance, dirige les discussions, assure l'application du réglement en séance, donne la parole, met les questions aux voix et proclame les décisions, et statue sur les motions d'ordre.
+
+Les vice-présidents remplacent le président au rôle de président de séance pendant son absence. Leur priorité est déterminée par leur ordre dans la liste des vice-présidents.
+
+.. article:: nomination des vice-présidents
+
+Les vice-présidents sont nommés par la Conférence des présidents.
+
+Au moins dix vice-présidents sont désignés.
+
+Chaque groupe parlementaire ordonne ses membres par ordre de priorité à devenir vice-président.
+
+Le premier vice-président est désigné par les groupes d'opposition en leur sein.
+
+Chaque vice-président suivant est choisi de manière à ce que la liste composée du président et des vice-présidents, si aucun autre n'était désigné, soit la plus proche de la distribution des groupes au sein de l'assemblée.
+
+Les vice-présidents sont renouvelés après chaque changement de gouvernement, après le renouvellement partiel ou intégral de l'assemblée, et après un an suivant leur dernier renouvellement.
+
+.. article:: fin de fonctions de présidence
+
+La démission, le décès, la destitution, et le renouvellement partiel ou intégral de l'assemblée, ainsi que la perte de mandat parlementaire lorsque le président est membre de l'assemblée, mettent fin aux fonctions de président et de vice-président.
+
+Une motion de destitution du président ou d'un vice-président est déposée par un ou plusieurs groupes parlementaires dont l'effectif réuni rassemble au moins un cinquième des membres de l'assemblée. Les séances dédiées à son examen ne peuvent être présidées par la cible de la motion.
+
+En cas de démission du président, l'élection peut prendre place dès l'annonce de la démission. La démission prend effet à compter de l'élection du nouveau président.
+
+Administration, budget et questure
+==================================
+
+.. article:: questure
+
+L'assemblée arrête le réglement relatif à sa gestion financière.
+
+Les questeurs, sous la direction du Bureau restreint, sont chargés des services financiers et administratifs. Aucune dépense nouvelle ne peut être engagée sans leur accord préalable.
+
+.. article:: nomination des questeurs
+
+Trois questeurs sont désignés au sein des membres de l'assemblée.
+
+Un questeur est désigné par les groupes d'opposition en leur sein.
+
+Les deux autres questeurs sont choisis de manière à ce que les trois questeurs représentent le mieux possible la distribution des groupes au sein de l'assemblée.
+
+Les questeurs sont renouvelés dès qu'aucun d'entre eux n'est issu d'un groupe d'opposition, après le renouvellement partiel ou intégral de l'assemblée, après un an suivant leur dernier renouvellement, et sur décision du Bureau étendu.
+
+.. article:: commission spéciale des comptes
+
+Au début de chaque session ordinaire et au moins une fois par an, l'assemblée nomme une commission spéciale de quinze membres chargée de vérifier et d'apurer les comptes.
+
+La composition donne quitus aux questeurs de leur gestion ou rend compte à l'assemblée. À l'issue de chaque exercice, elle établit un rapport public.
+
+.. article:: personnel de l'assemblée
+
+Les services de l'assemblée sont assurés exclusivement par un personnel civil et militaire nommé dans les conditions déterminées par le Bureau. Est interdite, en conséquence, la collaboration de caractère permanent de tout fonctionnaire relevant d'une administration extérieure à l'assemblée.
+
+Les membres et les groupes de l'assemblée peuvent employer sous contrat de droit privé des collaborateurs parlementaires, qui les assistent dans l'exercice de leurs fonctions et dont ils sont les seuls employeurs. Les membres et les groupes bénéficient d'un crédit financier affecté à cet effet.
 
 Bureaux
 =======
+
+.. article:: composition des Bureaux
+
+Le Bureau restreint est composé du président de l'assemblée, qui le préside, ainsi que des vice-présidents et des questeurs.
+
+Le Bureau est composé des membres du Bureau restreint, ainsi que des présidents des groupes parlementaires.
+
+Le Bureau étendu est composé des membres du Bureau, ainsi que des présidents des commissions.
+
+La Conférence des présidents est composée du président de l'assemblée, qui la préside sans droit de vote, ainsi que des présidents des groupes parlementaires.
+
+Les membres du Bureau étendu assistent sans droit de vote aux séances des autres instances énumérées dans cet article, sans prendre part aux délibérations ni aux votes.
+
+.. article:: fonctionnement des Bureaux
+
+La composition et les modifications de la composition du Bureau restreint sont notifiées à la Chancellerie de la République et au Bureau de l'autre assemblée, et publiées au Journal officiel.
+
+Dans le cas d'une absence pendant une séance du Bureau, du Bureau étendu ou de la Conférence des présidents, un président de groupe parlementaire peut désigner un membre de son groupe pour le remplacer.
+
+Lorsque le président d'une commission est absent pendant une séance du Bureau étendu, le remplaçant est désigné parmi les vice-présidents de la commission.
+
+Les présidents de groupes parlementaires votent au prorata du nombre de membres de leur groupe respectif, retranché du nombre d'autres membres du groupes présents.
+
+.. article:: rôle du Bureau
+
+Le Bureau détermine les conditions dans lesquelles des personnalités non-membres peuvent être admises à s'adresser à l'assemblée dans le cadre de ses séances.
+
+Le Bureau détermine l'organisation et le fonctionnement des services de l'assemblée, les modalités d'application, d'interprétation et d'exécution des dispositions du réglement ; assiste et dirige le président dans l'exercice de ses fonctions ; et détermine le statut du personnel et les rapports entre l'administration de l'assemblée et les organisations professionnelles du personnel. Les dispositions pouvant concerner les commissions sont prises par le Bureau étendu.
 
 -----------
 Y. Groupes
@@ -193,6 +301,9 @@ Conduite des débats
 
 Vote
 ====
+
+..
+    le président de séance ne prend part au vote que lorsque sa voix peut en changer l'issue
 
 -----------------------
 Y. Processus législatif
