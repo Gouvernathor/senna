@@ -300,9 +300,73 @@ Le Bureau détermine l'organisation et le fonctionnement des services de l'assem
 Y. Groupes
 -----------
 
+.. article:: (AN, S) création des groupes parlementaires
+
+Les membres de l'assemblée peuvent se regrouper par affinité politique. Aucun groupe de peut comprendre moins d'un trentième des membres de l'assemblée. Cependant, cette limite peut être réhaussée par le Bureau afin qu'il ne puisse pas exister plus de douze groupes au sein de l'assemblée. Chaque membre de l'assemblée ne peut faire partie que d'un seul groupe.
+
+Les groupes se constituent en remettant au Bureau restreint ou, après le renouvellement de l'assemblée, au président, une déclaration écrite signée par leurs membres, accompagnée du nom du président du groupe. Ces documents sont publiés au Journal officiel.
+
+Les membres de l'assemblée qui ne sont membres d'aucun groupe sont désignés comme non-inscrits.
+
+.. article:: (C) groupes parlementaires en Congrès
+
+Au moins un groupe parlementaire de l'Assemblée nationale et au moins un groupe parlementaire du Sénat peuvent se regrouper en un groupe de coalition, qui est considéré comme un groupe parlementaire dans le cadre du Congrès.
+
+Les groupes de coalition se constituent en remettant au Bureau restreint du Congrès une déclaration signée de leurs présidents respectifs, indiquant le nom du président du groupe de coalition. Ces documents sont publiés au Journal officiel.
+
+.. article:: alignement des groupes
+
+Le groupe apportant son approbation au gouvernement et comptant l'effectif le plus élevé est considéré comme groupe majoritaire.
+
+Les autres groupes apportant leur approbation au gouvernement sont considérés comme groupes minoritaires.
+
+Les autres groupes sont considérés comme groupes d'opposition.
+
+.. article:: forme administrative des groupes
+
+(AN, S) Les groupes parlementaires sont constitués sous forme d'association, présidée par le président du groupe et composée des membres du groupe.
+
+(C) Les groupes de coalition sont constitués sous forme d'association, présidée par le président du groupe de coalition et composée des groupes qui la constituent.
+
+Ils peuvent assurer leur service intérieur par un secrétariat administratif dont ils règlent eux-mêmes le recrutement et le mode de rétribution.
+
+Le statut, les conditions d'installation matérielle des secrétariats des groupes et les droits d'accès et de circulation de leur personnel dans l'enceinte des locaux de l'assemblée et en dépendant sont fixés par le Bureau de l'assemblée, en accordant un traitement égal à chaque groupe, sur proposition des questeurs.
+
+.. article:: modifications de la composition des groupes
+
+(AN, S) Les modifications à la composition d'un groupe sont portées à la connaissance du Bureau restreint de l'assemblée sous la signature du membre intéressé s'il s'agit d'une démission, sous la signature du président du groupe s'il s'agit d'une radiation et sous la double signature du député et du président du groupe s'il s'agit d'une adhésion.
+
+(C) Les modifications à la composition d'un groupe sont portées à la connaissance du Bureau restreint du Congrès sous la signature du président du groupe de l'Assemblée nationale ou du Sénat concerné.
+
+Elles sont publiées au Journal officiel.
+
+.. article:: représentant de groupe
+
+Au cours de la séance, le représentant d'un groupe est son président, sauf si une délégation adressée au Bureau restreint désigne un autre membre du groupe. Toute délégation annule la précédente.
+
 -----------
 Y. Sessions
 -----------
+
+.. article:: ouverture de session ordinaire
+
+L'assemblée se réunit en session ordinaire à partir du premier jour ouvrable à compter du septième jour calendaire suivant le renouvellement partiel ou intégral de l'assemblée.
+
+Une session ordinaire commence au premier jour ouvrable de la première semaine entière de chaque année civile, sauf si l'assemblée décide d'une autre date lors de la session ordinaire ou extraordinaire précédente.
+
+.. article:: clôture de session ordinaire
+
+La session ordinaire prend fin le dernier jour ouvrable de l'année civile, sauf si l'assemblée décide d'une autre date lors de la session, et lors de la prise de fonction de membres nouvellement élus de l'assemblée à la suite d'un renouvellement partiel ou intégral.
+
+.. article:: lieu de réunion
+
+L'assemblée se réunit en son siège, à moins qu'elle ne soit convoquée en un autre lieu en vertu d'une décision prise au cours d'une session antérieure, ou en application de la convocation de l'assemblée en session extraordinaire.
+
+.. article:: session extraordinaire
+
+Lorsque l'assemblée n'est pas en session, elle peut être convoquée en session extraordinaire. La convocation peut être émise par le Bureau, par l'assemblée lors d'une session précédente, ou par le président de l'assemblée. Dans le cas d'une convocation n'ayant pas été communiquée à l'assemblée en session, aucun vote ne peut avoir lieu avant la réunion en séance des trois quarts des membres de l'assemblée.
+
+La session extraordinaire prend fin sur décision du Bureau, et lors de l'ouverture d'une session ordinaire.
 
 ------------------
 Y. Ordre du jour
