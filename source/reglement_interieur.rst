@@ -577,7 +577,7 @@ Le vote solennel, ou par appel nominal, a lieu par appel des membres dans l'ordr
 
 Lorsque l'assemblée vote à l'aide du dispositif mécanique, il remplace le vote par appel nominal.
 
-Le vote solennel est de droit quand demandé par les représentants de groupes réunissant au moins un tiers des membres de l'assemblée, ou sur décision du Bureau. Lorsqu'il est possible de voter à l'aide du dispositif mécanique, le vote enregistré est de droit sur demande d'un représentant de groupe ou sur décision du président de séance.
+Le vote solennel est de droit quand demandé par les représentants de groupes réunissant au moins un tiers des membres de l'assemblée, ou sur décision du Bureau. De plus, lorsqu'il est possible de voter à l'aide du dispositif mécanique, ou lors d'un vote conditionnant l'adoption de l'ensemble d'un texte, il est de droit sur demande d'un représentant de groupe ou sur décision du président de séance.
 
 .. article::
 
