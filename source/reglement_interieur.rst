@@ -540,7 +540,7 @@ Recevabilité des amendements
 
 .. article:: amendements après la première lecture
 
-Lorsque le texte examiné a été sujet à au moins une lecture par chaque assemblée, un amendement n'est recevable que lorsqu'il a un rapport même indirect avec le texte transmis.
+Lorsque le texte examiné a été sujet à au moins une lecture par chaque assemblée, un amendement n'est recevable que lorsqu'il a un rapport même indirect avec le texte déposé ou transmis.
 
 Lorsque certains articles d'un texte ont été adoptés dans des termes identiques par les deux assemblées, hors applications de :artref:`(AN, S) refus d'office`, aucun amendement portant sur ces articles n'est recevable en-dehors d'une commission mixte paritaire.
 
