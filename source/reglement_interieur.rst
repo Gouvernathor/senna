@@ -128,12 +128,19 @@ Réglement intérieur du Parlement
         passage en plénière
 
         en urgence, bypass de la commission et des amendements
+            un vote sur passer le texte avec aucun amendement
+            si refusé, vote sur bypass des commissions
+            après les commissions si refusé, vote sur une liste limitée d'amendements à considérer
+            si accepté, seuls ces amendements sont considérés avant le vote final
+            si refusé, aucun autre vote de ce type n'est recevable pour ce texte
+            tous ces votes se font à majo qualifiée
 
         adoption sans l'autre assemblée
             (AN) retrait de référendum : le processus reprend là où il en était au moment d'être porté en référendum
 
         procédures d'adoption spéciales
             lois de financement
+                examen par article/mission, vote sur chacun obligatoire
             lois organiques
             lois constitutionnelles
             traités...
