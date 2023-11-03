@@ -8,9 +8,9 @@ Relative à :artref:`principe du parlement`
 
 Article unique
 --------------
-Le renouvellement anticipé d'une assemblée est ordonné dans les conditions prévues par son règlement intérieur, ou par réception d'un recours citoyen en dissolution.
+Le renouvellement anticipé d'une assemblée est ordonné par un vote des deux tiers de l'assemblée elle-même, ou par réception d'un recours citoyen en dissolution.
 
-De plus, si aucun gouvernement n'est majoritaire dans au moins une assemblée dans les trois mois suivant le dernier renouvellement, partiel ou total, d'une des assemblées, les deux assemblées sont renouvelées de manière anticipée. Le renouvellement du Sénat est partiel. Après un tel renouvellement, cette durée est portée à huit mois.
+De plus, si aucun gouvernement n'est majoritaire dans au moins une assemblée dans les trois mois suivant le dernier renouvellement, partiel ou total, d'une des assemblées, les deux assemblées sont renouvelées de manière anticipée. Après un tel renouvellement, cette durée est portée à huit mois. Au titre du présent alinéa, le renouvellement du Sénat est partiel.
 
 En outre, le Sénat a le pouvoir d'ordonner un renouvellement de l'Assemblée Nationale si aucun gouvernement n'y a été majoritaire durant l'année précédant ce renouvellement.
 
@@ -64,7 +64,7 @@ Article 4 - durée de mandat
 ---------------------------
 La durée de mandat est de deux ans à l'Assemblée Nationale, et de quatre ans au Sénat. Cependant, les parlementaires restent de droit en fonction jusqu'à la prise de fonction des parlementaires nouvellement élus.
 
-Le vote renouvelant une assemblée doit avoir lieu au moins quinze jours calendaires avant la fin de mandat des membres de l'assemblée étant renouvelée.
+L'élection renouvelant une assemblée doit avoir lieu au moins quinze jours calendaires avant la fin de mandat des membres de l'assemblée étant renouvelée.
 
 Article 5 - tailles des assemblées
 ----------------------------------
