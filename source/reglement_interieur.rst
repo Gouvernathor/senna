@@ -410,7 +410,7 @@ Les points faisant partie de l'ordre du jour sont les suivants :
 * l'examen d'un texte ou d'une partie d'un texte ;
 * le vote d'un texte ou d'une partie d'un texte ;
 * une ouverture de la parole des membres sans examen de texte ;
-* le vote de la considération d'un texte comme rejeté par l'autre assemblée, conformément à la loi organique ;
+* le vote de la considération d'un texte comme rejeté par l'autre assemblée, conformément à la loi organique appliquant :artref:`navette parlementaire et CMP` ;
 * les points prévus par d'autres articles du présent réglement ou par la Constitution.
 
 .. article:: priorité des points de l'ordre du jour
