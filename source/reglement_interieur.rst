@@ -20,10 +20,11 @@ Réglement intérieur du Parlement
     tout parlementaire peut déposer un texte (loi, résolution, motion de réunion, amendement du réglement...) dont il devient automatiquement rapporteur
     lorsqu'un texte est transmis à l'assemblée en première lecture, le rapporteur dans l'autre assemblée désigne le groupe qui désignera en son sein le rapporteur du texte dans cette assemblée
     le texte peut avoir d'autres signataires, sans qu'ils aient de rôle particulier (ils ne sont pas rapporteurs)
+    si l'assemblée veut faire jouer le délai de refus d'office, elle le fait par un vote en plénière et le texte est reçu à ce stade de procédure (donc envoyé en commission)
 
     le texte peut être examiné en commissions, où il peut être amendé, sur décision du bureau de l'assemblée (ou du bureau de la commission ?)
     le rapporteur a le droit d'être présent lors de l'examen en commission (clarifier son droit de parole au moment de la discussion des amendements et des textes) et y a le droit d'amendement, mais n'a le droit de vote que si il est membre de la commission
-    le rapporteur désigne qui serait le rapporteur à sa place en son absence parmi les membres de chaque commission saisie (utile si deux commissions siègent en même temps)
+    le rapporteur désigne parmi les membres de chaque commission saisie un sous-rapporteur qui sera là à sa place en son absence (utile si deux commissions siègent en même temps)
     si la commission adopte un texte, le texte adopté est discuté en plénière, sinon, tous les amendements qui y ont été adoptés (y compris des amendements de suppression pour les articles qu'elle a rejeté, si on fait des votes par article) sont déposés au nom de la commission sur le texte initialement déposé
 
     le texte est discuté en plénière, amendé et voté
@@ -49,12 +50,24 @@ Réglement intérieur du Parlement
     pour tempérer ça on peut soit ne permettre des amendements que article par article mais c'est un peu nul, et n'autoriser les amendements inter-article que présentés par les présidents de groupe, avec un quota d'un pour le plus gros groupe et ensuite proportionnel à la taille des groupes, et augmentable sur décision de la majorité pondérée au bureau ; soit être plus laxiste sur quand un amendement ne change qu'un détail sur un article et où même si l'article a été modifié par un amendement précédent on peut le faire retomber sur ses pattes malgré ça, et donc considérer que les deux amendements ne sont pas mutuellement exclusifs, et le fait de reconnaitre ça se fait par accord entre la présidence de séance et celui qui dépose l'amendement
 
     Si un gros amendement (de réécriture, R, ou même de suppression) est incompatible avec plein de petits amendements sucessifs (A B C D E F), qu'on les met tous en scrutin par approbation et que R a la part la plus grande, il est adopté. Si il n'a pas la majorité, il est rejeté quel que soit l'avenir des petits amendements.
-    Mais si R et D ont la majorité, et R a une majorité encore plus forte, alors que D ne change qu'un tout petit détail, on fait quoi ? on garde la version initiale du texte avec juste ce détail de changé, et on rejette tout R à cause de ça ? Alors que beaucoup de parlementaires pourraient avoir voté pour D que parce qu'il était bon dans le contexte de la version initiale du texte ?
+    Mais si R et D ont la majorité, et D a une majorité encore plus forte, alors qu'il ne change qu'un tout petit détail, on fait quoi ? on garde la version initiale du texte avec juste ce détail de changé, et on rejette tout R à cause de ça ? Alors que beaucoup de parlementaires pourraient avoir voté pour D que parce qu'il était bon dans le contexte de la version initiale du texte ?
     Réponse : deux solutions possibles et cumulables. Considérer que D peut être accomodé pour correspondre à R, donc considérer qu'ils ne sont pas mutuellement exclusifs et donc mettre D aux voix après R (ou adopter les deux ensemble en les accomodant après un seul vote par approbation) ; et permettre au dépositaire d'un amendement d'accepter de soumettre leur amendement à la condition qu'un autre amendement soit rejeté, donc de ne pas les mettre en discussion commune et en vote commun par approbation, au prix que si le premier amendement passe, l'autre tombe.
 
     Toute décision concernant un amendement prise par le dépositaire d'un amendement au titre des articles précédents nécessite la non-opposition du représentant de chaque groupe signataire de l'amendement. Elle peut être prise en l'absence du dépositaire par le représentant de son groupe, si le groupe est signataire, ou par le plus gros groupe signataire.
 
     les sous-amendements sont acceptés dans une limite d'un par amendement pour le plus gros groupe et distribués à la proportionnelle de la taille des groupes, et de dix par texte pour le plus gros groupe et distribués à la proportionnelle de la taille des groupes ; limites augmentables sur décision de la majorité pondérée au bureau
+
+.. autres
+    Il y a des votes sur des amendements et des votes sur un texte : a priori pas de vote sur les articles
+    vote sur un article ou un groupe d'article (une seule fois max par article) sur décision d'un des bureaux (préciser lequel) ou du rapporteur de la loi, et uniquement en séance
+    vote sur les articles obligatoire dans le cas de lois de finances et de financement de la sécu, en commission comme en séance
+
+    recevabilité budgétaire : tout impact sur les finances doit soit être contenu dans la loi de finances anuelle, soit amender la loi de finances anuelle
+
+    limiter le moment où on peut déposer des amendements : pas n'importe comment au milieu de la séance ?
+    pas de limite a priori, mais limitation proportionnelle à l'effectif de chaque groupe en cours de séance, sur décision du Bureau ?
+    mettre une limite a priori, qui est relativement soft, et qui peut être levée par le rapporteur ou resserrée par le Bureau ?
+    À partir d'un certain délai avant l'exament en séance, le droit d'amendement est restreint de manière à ce que, considérant le nombre d'amendement déposé par groupe rapporté à l'effectif du groupe, ce rapport ne puisse dépasser le plus élevé d'entre eux parmi les groupes.
 
 .. points à reprendre
     composition de l'assemblée
