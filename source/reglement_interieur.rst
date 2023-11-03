@@ -85,13 +85,15 @@ Réglement intérieur du Parlement
     ouverture et clôture des sessions ordinaires et éventuellement extraordinaires
 
     ordre du jour
-        priorités relatives des points d'ordre du jour
-        suspension des textes soumis au congrès, retirage des textes soumis en référendum
         niches
+        suspension des textes soumis au congrès, retrait des textes soumis en référendum
         détail des différentes motions qui passent par le Bureau pour être mises à l'ordre du jour
-        refus d'office par l'autre assemblée après délai
-        retrait de référendum (AN)
+            motion de réunion
+            refus d'office par l'autre assemblée après délai
+            retrait de référendum (AN)
+            motion de renouvellement anticipé
         texte sorti de CMP
+        priorités relatives des points d'ordre du jour
 
     séances plénières
         compte-rendu des séances et comités secrets
@@ -108,6 +110,7 @@ Réglement intérieur du Parlement
             gestion de la liste des orateurs
             types de tour de parole utilisé pour les discussions de textes, d'articles et d'amendements
             distribution du temps de parole des qag
+            (AN) pas de discussion sur le vote de retrait de référendum
 
         vote
             modes de vote
@@ -127,6 +130,7 @@ Réglement intérieur du Parlement
         en urgence, bypass de la commission et des amendements
 
         adoption sans l'autre assemblée
+            (AN) retrait de référendum : le processus reprend là où il en était au moment d'être porté en référendum
 
         procédures d'adoption spéciales
             lois de financement
@@ -381,9 +385,66 @@ Lorsque l'assemblée n'est pas en session, elle peut être convoquée en session
 
 La session extraordinaire prend fin sur décision du Bureau, et lors de l'ouverture d'une session ordinaire.
 
-------------------
+----------------
 Y. Ordre du jour
-------------------
+----------------
+
+.. article:: ordre du jour
+
+L'ordre du jour est fixé, sous réserve de ce que prévoient la Constitution et les alinéas et articles suivants, par le Bureau étendu de l'assemblée.
+
+Un ordre du jour prévisionnel est élaboré et communiqué aux membres de l'assemblée avec quatre semaines d'avance. Ses modifications sont communiquées le plus tôt possible aux membres de l'assemblée.
+
+\ (C) Les points de l'ordre du jour ne peuvent être que ceux prévus par la motion de réunion.
+
+.. article:: ordre du jour de l'opposition
+
+Une semaine de séance sur six au moins, si la durée de la session est supérieure à six semaines, ou un jour de séance par semaine sinon, sont réservés à un ordre du jour fixé par les membres du Bureau étendu issus des groupes d'opposition.
+
+Ces jours de séance sont répartis entre les groupes d'opposition en proportion de leur effectif.
+
+.. article:: points de l'ordre du jour
+
+Les points faisant partie de l'ordre du jour sont les suivants :
+
+* l'examen d'un texte ou d'une partie d'un texte ;
+* le vote d'un texte ou d'une partie d'un texte ;
+* une ouverture de la parole des membres sans examen de texte ;
+* le vote de la considération d'un texte comme rejeté par l'autre assemblée, conformément à la loi organique ;
+* les points prévus par d'autres articles du présent réglement ou par la Constitution.
+
+.. article:: priorité des points de l'ordre du jour
+
+(AN, S) Les textes transmis au Congrès pour examen, sauf après leur adoption par le Congrès, ne peuvent être inscrits à l'ordre du jour.
+
+Les textes soumis au référendum ne peuvent être inscrits à l'ordre du jour.
+
+Les points de l'ordre du jour y sont insérés avec la priorité suivante :
+
+#. les motions de destitution du président ou d'un vice-président ;
+#. les textes relatifs aux états de crise ;
+#. les demandes d'autorisation prévues à :artref:`guerre et intervention armée` ;
+#. les propositions de loi de finances ou de loi de financement de la sécurité sociale ;
+#. les textes issus d'une commission mixte paritaire et n'ayant pas encore fait l'objet d'un vote ;
+#. (AN, S) l'amendement de la motion de réunion du Congrès ;
+#. (AN, S) les textes transmis par l'autre assemblée depuis six semaines au moins ;
+#. toute autre question.
+
+Les séances dont l'ordre du jour est fixé par les groupes d'opposition conformémént à :artref:`ordre du jour de l'opposition` ne sont pas soumises à ces conditions de priorité.
+
+.. article:: (AN, S) motion de réunion
+
+Une motion de réunion est présentée sous la forme et de la même manière qu'une proposition de résolution commune. Elle ne peut contenir que des dates de convocation de la réunion du Congrès, un réglement intérieur propre à cette réunion, des limites d'ordre du jour, et une annexe contenant des textes à examiner.
+
+Lorsqu'une motion de réunion est en vigueur, une proposition d'amendement de cette motion de réunion est déposée par un ou plusieurs groupes parlementaires dont l'effectif réuni rassemble un cinquième des membres de l'assemblée.
+
+.. article:: renouvellement anticipé
+
+Une motion de renouvellement anticipé d'une ou des deux assemblées est déposée auprès du Bureau, qui en évalue la conformité aux dispositions de la Constitution et de la loi organique. Sauf lorsque la Constitution ou la loi organique en dispose autrement, elle est placée à l'ordre du jour et examinée à la manière d'une résolution.
+
+.. article:: (AN) retrait de référendum
+
+Dans le cadre de :artref:`référendums`, lorsque le texte porté en référendum par l'Assemblée nationale seule a été altéré en conséquence d'une décision du Conseil constitutionnel, une motion portant retrait du référendum est placée d'office à l'ordre du jour de la première séance suivant cette décision.
 
 --------------------
 Y. Séances plénières
