@@ -188,13 +188,13 @@ Les vice-présidents du Congrès sont le président du Sénat, suivi des vice-pr
 
 Les questeurs du Congrès sont ceux de l'Assemblée nationale et du Sénat, sans que le nombre de questeurs issus de l'Assemblée nationale ne puisse être inférieur au nombre de questeurs issus du Sénat.
 
-La commission spéciale chargée de vérifier et d'apurer les comptes rend compte aux deux assemblées. Elle se réunit au plus tard un an après la convocation du premier Congrès dont les comptes n'ont pas été vérifiés et apurés.
+La commission spéciale chargée de vérifier et d'apurer les comptes rend compte aux deux assemblées. Elle se réunit au plus tard un an après la convocation du plus ancien Congrès dont les comptes n'ont pas été vérifiés et apurés.
 
 Le Bureau restreint est composé du président du Congrès, qui le préside, et des vice-présidents et des questeurs du Congrès.
 
 Le Bureau est composé des membres du Bureau restreint, ainsi que des présidents des groupes de coalition. En l'absence de commission constituée au sein du Congrès, il assure les responsabilités de Bureau étendu.
 
-La Conférence des présidents est composée du président du Congrès, qui la préside sans droit de vote, ainsi que des présidents des groupes de coalition.
+La Conférence des présidents est composée du président du Congrès, qui la préside sans droit de vote, ainsi que des présidents des groupes de coalition. Les présidents des groupes des deux assemblées ne faisant pas partie de groupes de coalition assistent sans droit de vote aux séances de la Conférence des présidents.
 
 Présidence
 ==========
@@ -243,7 +243,7 @@ Les vice-présidents sont renouvelés après chaque changement de gouvernement, 
 
 La démission, le décès, la destitution, et le renouvellement partiel ou intégral de l'assemblée, ainsi que la perte de mandat parlementaire lorsque le président est membre de l'assemblée, mettent fin aux fonctions de président et de vice-président.
 
-Une motion de destitution du président ou d'un vice-président est déposée par un ou plusieurs groupes parlementaires dont l'effectif réuni rassemble au moins un cinquième des membres de l'assemblée. Les séances dédiées à son examen ne peuvent être présidées par la cible de la motion.
+Une motion de destitution du président ou d'un vice-président est déposée par un ou plusieurs groupes parlementaires dont l'effectif réuni rassemble au moins un cinquième des membres de l'assemblée. Les séances dédiées à son examen ne peuvent être présidées par la cible de la motion. Une motion défaite en séance ne peut être déposée par les mêmes groupes dans la même session, sauf lorsque leur effectif réuni rassemble la majorité absolue des membres de l'assemblée.
 
 En cas de démission du président, l'élection peut prendre place dès l'annonce de la démission. La démission prend effet à compter de l'élection du nouveau président.
 
@@ -315,7 +315,7 @@ Y. Groupes
 
 .. article:: (AN, S) création des groupes parlementaires
 
-Les membres de l'assemblée peuvent se regrouper par affinité politique. Aucun groupe de peut comprendre moins d'un trentième des membres de l'assemblée. Cependant, cette limite peut être réhaussée par le Bureau afin qu'il ne puisse pas exister plus de douze groupes au sein de l'assemblée. Chaque membre de l'assemblée ne peut faire partie que d'un seul groupe.
+Les membres de l'assemblée peuvent se regrouper par affinité politique. Chaque membre de l'assemblée ne peut faire partie que d'un seul groupe. Aucun groupe de peut comprendre moins d'un trentième des membres de l'assemblée. Cependant, cette limite peut être réhaussée par le Bureau afin de limiter le nombre de groupes,sans qu'il puisse être fait obstacle à la création d'au moins douze groupes au sein de l'assemblée.
 
 Les groupes se constituent en remettant au Bureau restreint ou, après le renouvellement de l'assemblée, au président, une déclaration écrite signée par leurs membres, accompagnée du nom du président du groupe. Ces documents sont publiés au Journal officiel.
 
@@ -339,7 +339,7 @@ Les autres groupes sont considérés comme groupes d'opposition.
 
 (AN, S) Les groupes parlementaires sont constitués sous forme d'association, présidée par le président du groupe et composée des membres du groupe.
 
-(C) Les groupes de coalition sont constitués sous forme d'association, présidée par le président du groupe de coalition et composée des groupes qui la constituent.
+\ (C) Les groupes de coalition sont constitués sous forme d'association, présidée par le président du groupe de coalition et composée des groupes qui la constituent.
 
 Ils peuvent assurer leur service intérieur par un secrétariat administratif dont ils règlent eux-mêmes le recrutement et le mode de rétribution.
 
@@ -349,7 +349,7 @@ Le statut, les conditions d'installation matérielle des secrétariats des group
 
 (AN, S) Les modifications à la composition d'un groupe sont portées à la connaissance du Bureau restreint de l'assemblée sous la signature du membre intéressé s'il s'agit d'une démission, sous la signature du président du groupe s'il s'agit d'une radiation et sous la double signature du député et du président du groupe s'il s'agit d'une adhésion.
 
-(C) Les modifications à la composition d'un groupe sont portées à la connaissance du Bureau restreint du Congrès sous la signature du président du groupe de l'Assemblée nationale ou du Sénat concerné.
+\ (C) Les modifications à la composition d'un groupe sont portées à la connaissance du Bureau restreint du Congrès sous la signature du président du groupe concerné de l'Assemblée nationale ou du Sénat.
 
 Elles sont publiées au Journal officiel.
 
