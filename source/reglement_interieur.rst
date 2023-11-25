@@ -107,6 +107,7 @@ Réglement intérieur du Parlement
         conduite des débats
             types de tours de parole
             motions de procédure
+            suspensions, levées et prolongations de séance
             gestion de la liste des orateurs
             types de tour de parole utilisé pour les discussions de textes, d'articles et d'amendements
             distribution du temps de parole des qag
@@ -326,9 +327,11 @@ Y. Groupes
 
 .. article:: (AN, S) création des groupes parlementaires
 
-Les membres de l'assemblée peuvent se regrouper par affinité politique. Chaque membre de l'assemblée ne peut faire partie que d'un seul groupe. Aucun groupe de peut comprendre moins d'un trentième des membres de l'assemblée. Cependant, cette limite peut être réhaussée par le Bureau afin de limiter le nombre de groupes,sans qu'il puisse être fait obstacle à la création d'au moins douze groupes au sein de l'assemblée.
+Les membres de l'assemblée peuvent se regrouper par affinité politique. Chaque membre de l'assemblée ne peut faire partie que d'un seul groupe.
 
-Les groupes se constituent en remettant au Bureau restreint ou, après le renouvellement de l'assemblée, au président, une déclaration écrite signée par leurs membres, accompagnée du nom du président du groupe. Ces documents sont publiés au Journal officiel.
+Aucun groupe de peut comprendre moins d'un trentième des membres de l'assemblée. Cependant, cette limite peut être réhaussée par le Bureau afin de limiter le nombre de groupes, sans que le nombre de groupes ne puisse dans ce cas descendre en-dessous de douze.
+
+Les groupes se constituent en remettant au Bureau restreint ou, avant sa constitution, au Président de l'assemblée, une déclaration écrite signée par leurs membres, accompagnée du nom du président du groupe. Ces documents sont publiés au Journal officiel.
 
 Les membres de l'assemblée qui ne sont membres d'aucun groupe sont désignés comme non-inscrits.
 
@@ -453,12 +456,88 @@ Une motion de renouvellement anticipé d'une ou des deux assemblées est dépos�
 
 Dans le cadre de :artref:`référendums`, lorsque le texte porté en référendum par l'Assemblée nationale seule a été altéré en conséquence d'une décision du Conseil constitutionnel, une motion portant retrait du référendum est placée d'office à l'ordre du jour de la première séance suivant cette décision.
 
+.. article:: horaires de séance
+
+Les horaires de séance plénière de l'assemblée sont fixés, en coordination avec les séances des commissions, par le Bureau étendu pour chaque jour de la semaine.
+
+Aucune commission ne peut siéger durant les horaires que le Bureau étendu a fixé pour la séance plénière.
+
 --------------------
 Y. Séances plénières
 --------------------
 
+.. article:: compte-rendu des séances
+
+Les séances de l'assemblée sont publiques à moins que l'assemblée ne décide de se réunir en comité secret en raison de circonstances exceptionnelles. Cette décision est prise par un vote sans débat, placé à l'ordre du jour.
+
+L'assemblée fait connaître lors de la séance publique suivante toutes les décisions prises en comité secret.
+
+.. article:: ouverture et levée de séance
+
+La séance est ouverte et levée par le président de séance aux horaires fixés, sans préjudice des autres articles du présent réglement.
+
+.. article:: quorum
+
+L'assemblée est toujours en nombre pour délibérer et pour régler son ordre du jour.
+
+Les votes émis en séance sont valables quel que soit le nombre des présents.
+
+Toutefois, si une disposition de la Constitution ou de la loi exige une majorité calculée sur le nombre total de membres, et si ce scrutin n'a pas été annoncé au moins trois jours calendaires à l'avance, il est procédé à la vérification du nombre de membres présents.
+
+Si à la suite de la vérification, la majorité absolue des membres n'est pas présente, le scrutin est reporté d'un jour calendaire. Le scrutin est alors valable quel que soit le nombre de membres présents, sauf disposition contraire de la Constitution ou de la loi.
+
+Une telle vérification peut en outre avoir lieu sur décision du président de séance, ou sur demande d'un représentant d'un groupe parlementaire dans la limite d'une demande par jour et de trois par semaine, tous groupes confondus. Dans ce cas, le scrutin n'est reporté que de quinze minutes en cas d'absence de la majorité absolue des membres.
+
+Tout membre de l'assemblée permettant la délégation de son vote est considéré comme présent lors de la vérification au titre du présent article dès lors qu'un membre dépositaire de cette délégation est présent en séance.
+
 Conduite des débats
 ===================
+
+.. article:: parole
+
+La parole est donnée en séance par le président de séance.
+
+Le président de séance peut rappeler à l'ordre un orateur dont les remarques n'ont pas trait au sujet pour lequel la parole lui a été donnée, ou dont le temps de parole dépasse celui qui lui a été accordé.
+
+La parole peut être distribuée des manières suivantes.
+
+..
+    libre : "morning business"
+    proportionnel : cas général
+    pour-contre : sur les amendements
+    par groupe : sur les amendements, de manière étendue sans perdre trop de temps, sur décision du président de séance ?
+
+Le débat libre ouvre la parole aux orateurs dans l'ordre où ils la demandent. Le temps de parole est limité à la même durée pour chaque orateur.
+
+Le débat par groupe ouvre la parole à un orateur par groupe parlementaire. Le temps de parole est limité à la même durée pour chaque orateur.
+
+Le débat proportionnel ouvre la parole aux orateurs de manière à ce que le temps de parole accordé à chaque groupe soit proportionnel à l'effectif du groupe. La limite de temps de parole fixe soit une durée globale partagée entre l'ensemble des orateurs, soit le temps de parole accordé au groupe à l'effectif le plus petit. Le représentant d'un groupe parlementaire peut accorder tout ou une partie des droits et temps de parole de son groupe à un autre groupe parlementaire.
+
+Le débat au nombre d'orateurs fixé pour-contre ouvre la parole à un nombre fixé d'orateurs en soutien à une question donnée, et au même nombre d'orateurs en oppositio à cette question. Le temps de parole est soit limité à la même durée pour chaque orateur, soit limité à la même durée pour les orateurs pour collectivement et les orateurs contre collectivement. La parole peut être accordée, à la discrétion du président de séance, à un nombre inférieur ou égal d'orateurs présentant un avis ni pour ni contre, et pour un temps de parole inférieur ou égal au temps de parole des orateurs de l'un ou l'autre avis sur la question. Lors d'une question à choix multiples concurrents, ce mode de débat peut être étendu à autant de groupes d'orateurs que de choix possibles.
+
+.. article:: point d'ordre ou appel au réglement
+
+En séance, un membre peut soulever un point d'ordre, aussi appelée un appel au réglement, et le président de séance statue immédiatement sur cet appel conformément au réglement.
+
+Un membre présentant un appel au réglement a un temps de parole limité à une minute.
+
+Tout membre peut faire appel de la décision du président de séance. Il est immédiatement mis aux voix. Si la majorité des membres présents et votants se prononce en faveur de la décision du président de séance sans constituer une majorité absolue des membres constituant l'assemblée, le président de séance peut lever la séance pour en appeler à la décision du Bureau étendu.
+
+Tout appel au réglement ayant le même objet qu'un appel précédemment présenté peut être interrompu et rejeté sommairement par le président de séance.
+
+.. article:: suspension, levée et prolongation de séance
+
+Le président de séance peut suspendre la séance pour une durée limitée.
+
+Un représentant de groupe peut demander une suspension de séance, dans la limite de trois demandes par groupe et par séance, ou une levée de séance, dans la limite d'une demande par groupe et par semaine.
+
+La suspension de séance est de droit pour au plus cinq minutes. Elle peut être prononcée pour une durée plus longue par le président de séance.
+
+La levée de séance n'est pas discutée et est immédiatement mise aux voix.
+
+Le président prononce sans appel et à tout moment l'ajournement de la séance en cas de menace imminente sur la sécurité de l'assemblée.
+
+Au terme de l'horaire fixé pour la séance, un représentant de groupe, ou le rapporteur du texte examiné le cas échéant, peut demander une prolongation de séance pour une durée déterminée. Elle est de droit pour une durée de cinq minutes quand elle émane du rapporteur d'un texte, et nécessite autrement le consentement unanime des représentants des groupes.
 
 Vote
 ====
