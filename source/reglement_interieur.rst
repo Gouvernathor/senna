@@ -610,11 +610,21 @@ Les temps de parole, qui peuvent être modifiés par texte par le Bureau étendu
 * rapporteur de commission ayant examiné l'amendement sans être saisie : 1 minute ;
 * orateur ordinaire : 2 minutes.
 
+Dans le cas d'un texte pour lequel l'assemblée dispose d'un temps d'examen limité, sur décision du Bureau étendu, un vote sur une partie du texte a lieu après l'examen des amendements sur cette partie.
+
 Le vote sur l'ensemble du texte a lieu une fois l'examen des amendements clos.
 
 Si le texte a été amendé par l'assemblée, il y a lieu avant le vote sur l'ensemble du texte à des explications de vote suivant la même organisation que la discussion générale.
 
 La discussion générale, l'examen des amendements et le vote sur l'ensemble du texte peuvent être placés séparément dans l'ordre du jour.
+
+.. article:: adoptions partielles et votes communs
+
+Le Bureau étendu peut prévoir que le vote final sur un texte ait lieu par partie. Dans ce cas, le vote a lieu après l'examen des amendements de l'ensemble du texte. Chaque partie du texte est mise au vote successivement jusqu'à ce que toutes les parties aient été adoptées, auquel cas le texte est considéré comme adopté, ou jusqu'à ce qu'une partie soit rejetée, auquel cas le texte est considéré comme rejeté en intégralité.
+
+Le Bureau étendu peut également proposer de scinder le texte. Dans ce cas, il propose une division par partie à l'assemblée, qui se prononce sur cette division. En cas d'adoption, chaque partie est votée séparément. Les parties adoptées sont considérées comme des textes distincts.
+
+Le Bureau étendu peut proposer à l'assemblée d'adopter plusieurs textes, après l'examen des amendements de chacun des textes, par une explication de vote commune et un vote unique. En cas d'adoption, les textes sont considérés comme adoptés. En cas de rejet, les textes ne sont pas considérés comme rejetés.
 
 Procédures d'adoption spéciales
 ===============================
