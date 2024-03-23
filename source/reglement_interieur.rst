@@ -603,7 +603,7 @@ Chaque amendement doit recevoir au moins un avis, soit du rapporteur du texte, s
 
 Le rapporteur adjoint et le rapporteur général d'une commission ayant voté un amendement ont la parole pour donner l'avis de leur commission.
 
-Les temps de parole, qui peuvent être modifiés par le Bureau étendu, sont les suivants :
+Les temps de parole, qui peuvent être modifiés par texte par le Bureau étendu, sont les suivants :
 
 * auteur de l'amendement : 2 minutes ;
 * rapporteur de commission de référence : 3 minutes ;
