@@ -158,9 +158,9 @@ Le délai de ratification d'une loi après son adoption est de deux semaines.
 
 Lorsque, par suite d'un désaccord entre les deux Assemblées, une proposition de loi n'a pu être adopté après au moins deux lectures par chacune d'entre elles, le Bureau de chaque assemblée a la faculté de provoquer la réunion d'une commission mixte paritaire chargée de proposer un texte sur les dispositions restant en discussion.
 
-Cette même réunion peut être provoquée après une seule lecture par chacune des deux assemblées par une décision commune des Bureaux des deux assemblées.
+Cette même réunion peut être provoquée par une décision commune des Bureaux des deux assemblées après une seule lecture par chacune des deux assemblées.
 
-Le texte élaboré par la commission mixte est soumis pour approbation aux deux Assemblées.
+Le texte élaboré par la commission mixte est soumis pour approbation aux deux Assemblées, ou au Congrès.
 
 .. article:: adoption par une seule assemblée
 
