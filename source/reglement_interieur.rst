@@ -114,9 +114,9 @@ Réglement intérieur du Parlement
 
         x passage en plénière
 
-        séparation d'un texte en deux, jonctions de textes
-            par vote de l'assemblée placé à l'ordre du jour par le Bureau étendu
-            il faut que les textes joints en soient au même stade de procédure, ou en tout cas on ne peut pas joindre un texte ayant fait l'objet d'une CMP avec un texte n'en ayant pas fait objet
+        x séparation d'un texte en deux, jonctions de textes
+        x     par vote de l'assemblée placé à l'ordre du jour par le Bureau étendu
+        x     il faut que les textes joints en soient au même stade de procédure, ou en tout cas on ne peut pas joindre un texte ayant fait l'objet d'une CMP avec un texte n'en ayant pas fait objet
 
         adoption sans l'autre assemblée
             (AN) retrait de référendum : le processus reprend là où il en était au moment d'être porté en référendum, donc au moment du vote final
