@@ -16,20 +16,6 @@ Réglement intérieur du Parlement
 ..
     Ce règlement n'est pas tant inspiré du règlement de l'Assemblée Nationale française, que de celui de l'Assemblée Générale des Nations Unies - plus délibératif et moins autoritaire.
 
-.. le parcours d'un texte
-    tout parlementaire peut déposer un texte (loi, résolution, motion de réunion, amendement du réglement...) dont il devient automatiquement rapporteur
-    lorsqu'un texte est transmis à l'assemblée en première lecture, le rapporteur dans l'autre assemblée désigne le groupe qui désignera en son sein le rapporteur du texte dans cette assemblée
-    le texte peut avoir d'autres signataires, sans qu'ils aient de rôle particulier (ils ne sont pas rapporteurs)
-    si l'assemblée veut faire jouer le délai de refus d'office, elle le fait par un vote en plénière et le texte est reçu à ce stade de procédure (donc envoyé en commission)
-
-    le texte peut être examiné en commissions, où il peut être amendé, sur décision du bureau de l'assemblée (ou du bureau de la commission ?)
-    le rapporteur a le droit d'être présent lors de l'examen en commission (clarifier son droit de parole au moment de la discussion des amendements et des textes) et y a le droit d'amendement, mais n'a le droit de vote que si il est membre de la commission
-    le rapporteur désigne parmi les membres de chaque commission saisie un sous-rapporteur qui sera là à sa place en son absence (utile si deux commissions siègent en même temps)
-    si la commission adopte un texte, le texte adopté est discuté en plénière, sinon, tous les amendements qui y ont été adoptés (y compris des amendements de suppression pour les articles qu'elle a rejeté, si on fait des votes par article) sont déposés au nom de la commission sur le texte initialement déposé
-
-    le texte est discuté en plénière, amendé et voté
-
-    un texte peut sauter l'étape de la commission sur décision des trois quarts pondérés du Bureau, et sauter l'étape des amendements sur décision des trois quarts des membres de l'assemblée
 
 .. discussion des amendements
     les amendements sont déposés par un parlementaire et peuvent être signés par des groupes parlementaires
@@ -120,26 +106,27 @@ Réglement intérieur du Parlement
             mode de vote des amendements en discussion commune ?
 
     processus législatif
-        dépôt d'un texte
-        désignation du rapporteur
+        x dépôt d'un texte
+        x désignation du rapporteur
 
-        passage en commission
-        rôle du rapporteur en commission
+        x passage en commission
+        x rôle du rapporteur en commission
 
-        passage en plénière
+        x passage en plénière
 
-        en urgence, bypass de la commission et des amendements
-            un vote sur passer le texte avec aucun amendement
-            si refusé, vote sur bypass des commissions
-            après les commissions si refusé, vote sur une liste limitée d'amendements à considérer
-            si accepté, seuls ces amendements sont considérés avant le vote final
-            si refusé, aucun autre vote de ce type n'est recevable pour ce texte
-            tous ces votes se font à majo qualifiée
+        séparation d'un texte en deux, jonctions de textes
+            par vote de l'assemblée placé à l'ordre du jour par le Bureau étendu
+            il faut que les textes joints en soient au même stade de procédure, ou en tout cas on ne peut pas joindre un texte ayant fait l'objet d'une CMP avec un texte n'en ayant pas fait objet
 
         adoption sans l'autre assemblée
-            (AN) retrait de référendum : le processus reprend là où il en était au moment d'être porté en référendum
+            (AN) retrait de référendum : le processus reprend là où il en était au moment d'être porté en référendum, donc au moment du vote final
 
         procédures d'adoption spéciales
+            en urgence, bypass de la commission et des amendements
+                un vote sur passer le texte avec aucun amendement
+                si refusé, vote sur bypass des commissions
+                si refusé, aucun autre vote de ce type n'est recevable pour ce texte
+                tous ces votes se font à majo qualifiée
             lois de financement
                 examen par article/mission, vote sur chacun obligatoire
             lois organiques
@@ -149,6 +136,10 @@ Réglement intérieur du Parlement
         amendements
             dépôt d'amendement
                 délégation de dépôt d'amendement en commission
+                contrainte de recevabilité financière
+                contrainte(s) sur le rapport de l'amendement avec le texte
+                    différencier première et autres lectures ?
+                contraintes sur le nombre d'amendement proposées par le Bureau et votées par l'assemblée à majo simple, contrainte qui ne peut s'opposer au dépôt d'un amendement par un groupe qui, si cet amendement était déposé, aurait un nombre d'amendements rapportés proportionnellement à son effectif qui resterait inférieur à celui d'un autre groupe ; et ne peut se limiter au dépôt d'au moins un amendement par groupe
 
             ordre de considération des amendements
             mode de vote des amendements
@@ -159,10 +150,21 @@ Réglement intérieur du Parlement
             amendements identiques
             recevabilité des amendements (déplacer si ça concerne aussi les propositions)
 
+        2eme délibération / reconsidération d'amendement
+            par qui est déclenché une 2eme délibération
+            une reconsidération ne peut être demandée que par un ou des membres ayant gagné le vote sur l'amendement ou la partie du texte (voté pour si il a été adopté, voté contre si il a été rejeté)
+            les contraintes de mode de scrutin sur un vote s'appliquent aussi à sa reconsidération
+
     commissions
         composition / distribution
         thèmes des commissions permanentes / grandes commissions
+            chaque député fait partie d'une et une seule commission
+            chaque commission représente proportionnellement l'équilibre des groupes, à un membre près max pour chaque groupe
+            détailler la formule de manière à égaliser le plus possible
+            pas de contrainte que chaque commission fasse la même taille, juste une fourchette de tailles min et max
         réunions, incl. pendant les séances plénières
+        rôle de rapporteur général d'une commission, par défaut le président
+        clarifier le droit de parole du rapporteur au moment de la discussion des amendements et des textes
         commission plénière ?
         commissions spéciales ou ad hoc
         commissions d'enquête
@@ -413,13 +415,19 @@ Une semaine de séance sur six au moins, si la durée de la session est supérie
 
 Ces jours de séance sont répartis entre les groupes d'opposition en proportion de leur effectif.
 
+Lors de ces jours de séance, sauf disposition spécifique du présent réglement, les décisions normalement prises par le Bureau ou par le Bureau étendu sont prises par les membres de ce bureau issus du groupe concerné. Cette disposition s'applique notamment aux articles :artnumref:`introduction d'un texte`, :artnumref:`examen en commissions`, :artnumref:`examen en séance`.
+
 .. article:: points de l'ordre du jour
+
+..
+    retirer, et répartir dans les autres parties
 
 Les points faisant partie de l'ordre du jour sont les suivants :
 
 * l'examen d'un texte ou d'une partie d'un texte ;
 * le vote d'un texte ou d'une partie d'un texte ;
-* une ouverture de la parole des membres sans examen de texte ;
+* une période de débat libre, au sens de :artref:`parole`, où chaque membre de l'assemblée peut prendre la parole sur le sujet de son choix pendant un temps limité ;
+* une période de débat proportionnel, avec ou sans sujet défini ;
 * le vote de la considération d'un texte comme rejeté par l'autre assemblée, conformément à la loi organique appliquant :artref:`navette parlementaire et CMP` ;
 * les points prévus par d'autres articles du présent réglement ou par la Constitution.
 
@@ -543,14 +551,83 @@ Vote
 ====
 
 ..
-    le président de séance ne prend part au vote que lorsque sa voix peut en changer l'issue
+    le président de séance ne prend part au vote que lorsque sa voix peut en changer l'issue, ou pour une loi constitutionnelle ou autre loi d'importance
 
 -----------------------
 Y. Processus législatif
 -----------------------
 
+.. article:: introduction d'un texte
+
+Un texte est déposé auprès du Bureau de l'assemblée par tout membre de l'assemblée.
+
+Le rapporteur d'un texte est nommé par le groupe dont est issu le dépositaire du texte.
+
+Lorsqu'un texte est transmis à l'assemblée en première lecture, ou sans que l'assemblée n'ait été saisie du texte depuis son dernier renouvellement partiel ou total, le rapporteur du texte dans l'autre assemblée désigne le groupe qui désignera en son sein le rapporteur du texte dans cette assemblée. À défaut, un groupe de cette assemblée peut revendiquer le droit de nommer le rapporteur sur la base d'une proximité avec le groupe ayant déposé ou défendu le texte dans l'autre assemblée. À défaut, le Bureau désigne le rapporteur.
+
+Lorsque l'autre assemblée ne s'est pas prononcée sur un texte dont elle a été saisie dans le délai prévu par :artref:`navette parlementaire et CMP` et par la loi organique, le Bureau peut placer à l'ordre du jour un vote sur la considération du texte comme rejeté par l'autre assemblée. En cas de vote positif, le texte est considéré comme transmis à cette assemblée.
+
+.. article:: examen en commissions
+
+Au moment de prévoir l'inscription d'une proposition de loi ou de résolution à l'ordre du jour, le Bureau saisit du texte une commission de référence principale, qui peut être une commission ad-hoc. Le Bureau peut soumettre des parties du textes à l'examen de commissions de référence spécifiques, ou déléguer ce pouvoir à la commission de référence principale.
+
+Le temps réservé à l'examen du texte en commission est au moins de deux semaines, ou de la moitié arrondie au jour inférieur du temps dont l'assemblée dispose pour examiner le texte. Ce temps est forfait dès la fin de l'examen du texte par les commissions.
+
+Le rapporteur du texte nomme un rapporteur adjoint dans chaque commission saisie d'une partie du texte. Il peut nommer des rapporteurs adjoints dans d'autres commissions.
+
+La commission générale de référence n'est pas saisie des parties du texte dont une autre commission est saisie en tant que commission de référence spécifique.
+
+Toute commission peut examiner, même sans en être saisie, toute partie d'un texte sur laquelle l'assemblée ne s'est pas prononcée. La commission de référence générale peut en faire de même pour les parties du texte dont une autre commission est saisie de manière spécifique.
+
+Le rapporteur peut nommer au moins un rapporteur adjoint dans chaque commission, y compris celles dont il est membre.
+
+Le rapporteur du texte a le droit de parole et d'amendement dans toute commission examinant le texte. Il n'a le droit de vote que dans les commissions dont il est membre.
+
+Un rapporteur adjoint a droit de parole et d'amendement lors de l'examen par toute commission d'une partie du texte dont sa commission a été saisie.
+
+.. article:: examen en séance
+
+Le texte examiné en séance est celui adopté par les commissions de référence. À défaut d'adoption du texte ou d'une de ses parties par une commission de référence, le texte est celui initialement déposé, et les amendements adoptés par la commission sont déposés sur le texte en séance au nom de la commission, et défendus par son rapporteur adjoint, son rapporteur général, ou le dépositaire original de l'amendement.
+
+La discussion générale sur le texte est ouverte par le rapporteur du texte et par ses rapporteurs adjoints, puis par un représentant de chaque groupe. Le temps de parole est distribué entre les groupes de manière proportionnelle à leur effectif. Les rapporteurs disposent collectivement d'autant de temps de parole que le groupe ayant l'effectif le plus élevé. Le Bureau fixe la durée totale de la discussion générale, y compris en la réduisant à néant.
+
+Les amendements au texte sont examinés une fois la discussion générale close.
+
+Lors de l'examen des amendements, le rapporteur du texte prend la parole autant de fois qu'il le demande sur l'examen de l'intégralité du texte, sans limite de temps.
+
+Chaque amendement est présenté par son auteur, puis les avis sont donnés par les rapporteurs, puis la parole est donnée à autant d'orateurs pour que d'orateurs contre, puis l'amendement est mis au vote. En l'absence de décision du Bureau étendu, le nombre d'orateurs est d'un pour et d'un contre, le président de séance pouvant porter le débat à deux de chaque ou à un orateur par groupe.
+
+Le rapporteur adjoint et le rapporteur général de la commission de référence principale du texte, pour l'intégralité du texte, et le rapporteur adjoint et le rapporteur général de chaque commission de référence spécifique, pour les parties du texte dont sa commission a été saisie, disposent chacun d'un temps de parole égal par amendement.
+
+Chaque amendement doit recevoir au moins un avis, soit du rapporteur du texte, soit de la commission de référence dont il dépend, sauf lorsque l'amendement a été déposé par le rapporteur du texte ou adopté par la commission de référence. Cet avis peut être favorable, défavorable avec ou sans demande de retrait, ou de sagesse. Dans le cas où l'amendement a été voté par la commission, l'avis de la commission résulte de ce vote.
+
+Le rapporteur adjoint et le rapporteur général d'une commission ayant voté un amendement ont la parole pour donner l'avis de leur commission.
+
+Les temps de parole, qui peuvent être modifiés par le Bureau étendu, sont les suivants :
+
+* auteur de l'amendement : 2 minutes ;
+* rapporteur de commission de référence : 3 minutes ;
+* rapporteur de commission ayant examiné l'amendement sans être saisie : 1 minute ;
+* orateur ordinaire : 2 minutes.
+
+Le vote sur l'ensemble du texte a lieu une fois l'examen des amendements clos.
+
+Si le texte a été amendé par l'assemblée, il y a lieu avant le vote sur l'ensemble du texte à des explications de vote suivant la même organisation que la discussion générale.
+
+La discussion générale, l'examen des amendements et le vote sur l'ensemble du texte peuvent être placés séparément dans l'ordre du jour.
+
 Procédures d'adoption spéciales
 ===============================
+
+.. article:: examen en urgence
+
+En cas d'urgence, avant la fin de l'examen du texte en commission, le Bureau peut proposer à l'assemblée d'adopter ce texte sans passage en commission ni amendements.
+
+En l'absence d'adoption de cette mesure, le Bureau peut proposer à l'assemblée de couper court à l'examen du texte par les commissions et de passer sans délai à l'examen en séance.
+
+En l'absence d'adoption de ces mesures, le Bureau peut proposer, au terme de l'examen du texte par les commissions, l'adoption du texte tel qu'il résulte de l'examen par les commissions, sans amendement.
+
+L'adoption de ces mesures est soumise à une approbation des trois cinquièmes des membres de l'assemblée, sans préjudice de contraintes constitutionnelles, organiques ou du présent réglement requérant une majorité qualifiée plus élevée. En cas de rejet de ces mesures, le texte est examiné selon la procédure normale.
 
 Amendements
 ===========
