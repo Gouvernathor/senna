@@ -4,6 +4,7 @@
    le schéma des institutions, exporté et inclus dans le document d'explications
    déplacer les articles de la constitution qui établissent des droits fondamentaux dans la Charte
    renommer "proposition de loi" en "projet de loi"
+   organe de contrôle des parlementaires
 
 Bienvenue sur la Constitution Senna !
 =====================================
