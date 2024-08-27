@@ -1,23 +1,46 @@
 Missions du conseil constitutionnel
-1 contrôle (obligatoire) a priori des lois organiques (art "lois organiques")
-2 contrôle (obligatoire) a priori des textes référendaires (art "référendums")
+1 contrôle (obligatoire) abstrait des lois organiques (art "lois organiques")
+2 contrôle (obligatoire) abstrait des textes référendaires (art "référendums")
 - incompatibilités de mandat (art "incompatibilité de mandat représentatif")
-3 contrôle (facultatif) a priori des traités (art "constitutionnalité des traités")
+3 contrôle (facultatif) abstrait des traités (art "constitutionnalité des traités")
 - composition et modalités de nomination (art "composition du Conseil constitutionnel")
 4 contrôle actif (auto-saisine possible) et réglement des conflits de la procédure de nomination du gvt (art "contrôle de la nomination du gouvernement")
 5 réglement des conflits des élections parlementaires (art "contrôle des élections législatives")
 6 contrôle actif (auto-saisine possible) des opérations référendaires et proclamation des résultats (art "contrôle des référendums")
-7 contrôle (obligatoire) a priori des lois organiques et référendaires et (facultatif) des lois et réglements intérieurs parlementaires (art "contrôle de constitutionnalité en instance législative")
-8 contrôle a posteriori des lois en instance juridictionnelle (art "contrôle de constitutionnalité en instance juridictionnelle")
+7 contrôle (obligatoire) abstrait des lois organiques et référendaires et (facultatif) des lois et réglements intérieurs parlementaires (art "contrôle de constitutionnalité en instance législative")
+8 contrôle concret des lois, en instance juridictionnelle (art "contrôle de constitutionnalité en instance juridictionnelle")
 - conséquences du contrôle (art "conséquences du contrôle")
 - fonctionnement (art "fonctionnement du Conseil constitutionnel")
 
 Juge de la constitutionnalité des textes : 1, 2, 3, 7, 8
-(ajouter une demande de contrôle a posteriori d'une loi, en-dehors d'une instance juridictionnelle particulière)
+(ajouter une demande de contrôle a posteriori mais abstrait d'une loi, en-dehors d'une instance juridictionnelle particulière)
 
-Juge des votes et nominations : 4 (proche), 5, 6 (référendaire)
+Juge électoral et des votes nationaux : 5, 6 (référendaire)
 
-Juge des opérations parlementaires (pas encore dans la constitution)
+Juge d'opérations parlementaires : 4
+
+
+À faire:
+- Ajouter la branche administrative dans la constitution
+- Ajouter une cour suprême administrative
+- Ajouter séparément un Conseil d'État qui fait des avis consultatifs et de l'aide à la conception de la loi et du réglement (rangé à côté de la cour des comptes)
+- Ajouter un tribunal électoral, qui juge aussi les référendums
+- Définir la nomination de tout ce petit monde
+  - Déférer la nomination des juges ordinaires à une loi organique
+- Diviser le contrôleur de constitutionnalité en une chambre abstraite et une chambre concrète
+  - la chambre concrète juge la constitutionnalité d'une décision de justice basée sur la loi ou le réglement
+  - la chambre abstraite juge la constitutionnalité d'un texte de loi ou de réglement et peut l'invalider
+  - la chambre concrète peut transférer une affaire à la chambre abstraite
+  - la chambre abstraite peut être saisie de trois façons :
+    - après adoption d'un texte par le parlement (ou cas spécial du texte proposé en référendum)
+    - sur une loi déjà ratifiée, saisie (probablement) citoyenne ou gouvernementale ou parlementarire
+    - sur une affaire en cours devant la chambre concrète
+- Contrôleur de certaines opérations parlementaires, comme la procédure d'adoption d'une loi ou la nomination du gouvernement
+  - il est saisi conjointement ou sensiblement de la même façon que la chambre abstraite du contrôleur de constitutionnalité
+  - sa composition est différente
+- Le contrôle d'un texte adopté par le parlement se fait par une double saisie de la chambre abstraite du contrôleur de constitutionnalité et du juge des opérations parlementaires
+  - en cas de saisie facultative, un des deux peut se déclarer non concerné par la saisine
+  - un texte doit passer le contrôle des deux chambres pour être validé
 
 
 Cour constitutionnelle, sans loi-écran (ou limitée)
