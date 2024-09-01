@@ -326,9 +326,15 @@ La loi prime en cas de contradiction avec le règlement.
 
 Le Parlement conserve la capacité de légiférer sur les matières déléguées au domaine réglementaire.
 
+.. article:: le Conseil d'État
+
+Le Conseil d'État assiste le Parlement et le gouvernement dans l'élaboration de la législation, dans le contrôle de son exécution, ainsi que dans l'évaluation des politiques publiques. Par ses rapports publics, il contribue à l'information des citoyens.
+
+Il peut être saisi par le Parlement ou le gouvernement pour avis sur un projet de texte législatif ou réglementaire, selon les modalités prévues par le réglement des assemblées ou la loi organique dans le cas du Parlement, et de la loi dans le cas du gouvernement.
+
 .. article:: la Cour des Comptes
 
-La Cour des comptes assiste le Parlement dans le contrôle de l'action du gouvernement. Elle assiste le Parlement et le gouvernement dans le contrôle de l'exécution des lois de finances et de l'application des lois de financement de la sécurité sociale ainsi que dans l'évaluation des politiques publiques. Par ses rapports publics, elle contribue à l'information des citoyens.
+La Cour des comptes assiste le Parlement dans le contrôle de l'action du gouvernement. Elle assiste le Parlement et le gouvernement dans le contrôle de l'exécution des lois de finances et de l'application des lois de financement de la sécurité sociale ainsi que dans l'évaluation financière des politiques publiques. Par ses rapports publics, elle contribue à l'information des citoyens.
 
 Les comptes des administrations publiques sont réguliers et sincères. Ils donnent une image fidèle du résultat de leur gestion, de leur patrimoine et de leur situation financière.
 
