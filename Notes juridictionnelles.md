@@ -21,10 +21,13 @@ Juge d'opérations parlementaires : 4
 
 
 À faire:
-- Ajouter la branche administrative dans la constitution
+- Ajouter l'ordre administratif dans la constitution
+  - Traiter le statut des magistrats administratifs
 - Ajouter une cour suprême administrative
-- Ajouter séparément un Conseil d'État qui fait des avis consultatifs et de l'aide à la conception de la loi et du réglement (rangé à côté de la cour des comptes)
+  - qui remplace le CE pour la QPC et le CSM
+- Ajouter (à côté de la cour des comptes) un Conseil d'État qui fait des avis consultatifs et de l'aide à la conception de la loi et du réglement
 - Ajouter un tribunal électoral, qui juge aussi les référendums
+  - administratif a priori
 - Définir la nomination de tout ce petit monde
   - Déférer la nomination des juges ordinaires à une loi organique
 - Diviser le contrôleur de constitutionnalité en une chambre abstraite et une chambre concrète
