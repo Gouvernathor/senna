@@ -404,6 +404,66 @@ Si le Conseil constitutionnel, saisi par un nombre de citoyens fixé par loi org
 
 Les traités ou accords régulièrement ratifiés ou approuvés ont, dès leur publication, une autorité supérieure à celle des lois, sous réserve, pour chaque accord ou traité, de son application par l'autre partie ; mais cette autorité reste cependant inférieure à celle de la Constitution.
 
+-------------------------------------
+Titre VII — Le pouvoir juridictionnel
+-------------------------------------
+
+.. article:: ordres de juridiction
+
+Outre le tribunal chargé de l'attribution des affaires entre les ordres, les juridictions n'étant pas établies par la présente constitution sont divisées entre l'ordre administratif et l'ordre judiciaire.
+
+.. article:: l'autorité judiciaire
+
+L'indépendance de l'autorité judiciaire est garantie par le Conseil supérieur de la magistrature.
+
+Les magistrats du siège sont inamovibles.
+
+La loi organique porte statut des magistrats, et fixe le cadre de l'organisation des juridictions judiciaires.
+
+La Cour de cassation est la plus haute juridiction de l'ordre judiciaire.
+
+.. article:: la juridiction administrative
+
+La loi organique porte statut des magistrats de l'ordre administratifs, et fixe le cadre de l'organisation des juridictions administratives.
+
+La Cour suprême administrative est la plus haute juridiction de l'ordre administratif.
+
+.. article:: le tribunal électoral
+
+Le tribunal électoral fait partie de l'ordre administratif.
+
+Il statue, en cas de contestation, sur la régularité des opérations électorales et référendaires nationales.
+
+Il publie la liste officielle des candidats.
+
+Il proclame les résultats des référendums.
+
+La loi peut étendre ses compétences à des opérations électorales et référendaires locales.
+
+.. article:: Conseil supérieur de la magistrature
+
+Le Conseil supérieur de la magistrature comprend une formation compétente à l'égard des magistrats du siège et une formation compétente à l'égard des magistrats du parquet.
+
+La formation compétente à l'égard des magistrats du siège est présidée par le premier président de la Cour de cassation. Elle comprend, en outre, cinq magistrats du siège et un magistrat du parquet, un membre de la Cour suprême administrative désigné par elle, un avocat ainsi que six personnalités qualifiées qui n'appartiennent ni au Parlement, ni à l'ordre judiciaire, ni à l'ordre administratif. Le président de l'Assemblée nationale et le président du Sénat désignent chacun trois personnalités qualifiées, nominations soumises au seul avis de la commission permanente compétente de l'assemblée intéressée.
+
+La formation compétente à l'égard des magistrats du parquet est présidée par le procureur général près la Cour de cassation. Elle comprend, en outre, cinq magistrats du parquet et un magistrat du siège, ainsi que le membre de la Cour suprême administrative, l'avocat et les six personnalités qualifiées mentionnés au deuxième alinéa.
+
+La formation du Conseil supérieur de la magistrature compétente à l'égard des magistrats du siège fait des propositions pour les nominations des magistrats du siège à la Cour de cassation, pour celles de premier président de cour d'appel et pour celles de président de tribunal de grande instance. Les autres magistrats du siège sont nommés sur son avis conforme.
+
+La formation du Conseil supérieur de la magistrature compétente à l'égard des magistrats du parquet donne son avis sur les nominations qui concernent les magistrats du parquet.
+
+La formation du Conseil supérieur de la magistrature compétente à l'égard des magistrats du siège statue comme conseil de discipline des magistrats du siège. Elle comprend alors, outre les membres visés au deuxième alinéa, le magistrat du siège appartenant à la formation compétente à l'égard des magistrats du parquet.
+
+La formation du Conseil supérieur de la magistrature compétente à l'égard des magistrats du parquet donne son avis sur les sanctions disciplinaires qui les concernent. Elle comprend alors, outre les membres visés au troisième alinéa, le magistrat du parquet appartenant à la formation compétente à l'égard des magistrats du siège.
+
+Le Conseil supérieur de la magistrature se réunit en formation plénière au titre de :artref:`l'autorité judiciaire`. Il se prononce, dans la même formation, sur les questions relatives à la déontologie des magistrats ainsi que sur toute question relative au fonctionnement de la justice dont le saisit le gouvernement. La formation plénière comprend trois des cinq magistrats du siège mentionnés au deuxième alinéa, trois des cinq magistrats du parquet mentionnés au troisième alinéa, ainsi que le membre de la Cour suprême administrative, l'avocat et les six personnalités qualifiées mentionnés au deuxième alinéa. Elle est présidée par le premier président de la Cour de cassation, que peut suppléer le procureur général près cette cour.
+
+Sauf en matière disciplinaire ou en commission spéciale, un délégué du gouvernement désigné par le Chancelier de la République peut participer aux séances des formations du Conseil supérieur de la magistrature.
+
+Le Conseil supérieur de la magistrature peut être saisi par un justiciable dans les conditions fixées par la loi organique.
+
+La loi organique détermine les conditions d'application du présent article.
+
 --------------------------------------
 Titre VII — Le Conseil constitutionnel
 --------------------------------------
@@ -420,21 +480,15 @@ La durée de la période d'inéligibilité prévue à :artref:`inéligibilité p
 
 .. article:: contrôle de la nomination du gouvernement
 
-.. déplacer vers le titre VIII, attribuer au tribunal électoral (national) et prévoir une procédure
-
 Le Conseil constitutionnel veille au respect des modalités de :artref:`nomination du gouvernement`. Il statue sur la nomination du gouvernement, en cas de désaccord entre le président du Sénat et le président de l'Assemblée Nationale ou en cas de contestation.
 
 Il veille également à la régularité des motions de censure.
 
 .. article:: contrôle des élections législatives
 
-.. déplacer vers le titre VIII, confier au tribunal électoral (national)
-
 Le Conseil constitutionnel statue, en cas de contestation, sur la régularité de l'élection des députés et des sénateurs.
 
 .. article:: contrôle des référendums
-
-.. déplacer vers le titre VIII, confier au tribunal électoral (national)
 
 Le Conseil constitutionnel veille à la régularité des opérations de référendum prévues à :artref:`référendums`. Il en proclame les résultats qui sont aussitôt promulgués.
 
@@ -468,41 +522,9 @@ Les décisions du Conseil constitutionnel ne sont susceptibles d'aucun recours. 
 
 La loi organique détermine les règles d'organisation et de fonctionnement du Conseil constitutionnel, la procédure qui est suivie devant lui et notamment les délais ouverts pour le saisir de contestations.
 
--------------------------------------
-Titre VIII — De l'autorité judiciaire
--------------------------------------
 
-.. article:: l'autorité judiciaire
-
-Le Conseil supérieur de la magistrature est garant de l'indépendance de l'autorité judiciaire.
-
-Les magistrats du siège sont inamovibles.
-
-La loi organique porte statut des magistrats, et fixe le cadre de l'organisation des juridictions.
-
-.. article:: Conseil Supérieur de la Magistrature
-
-Le Conseil supérieur de la magistrature comprend une formation compétente à l'égard des magistrats du siège et une formation compétente à l'égard des magistrats du parquet.
-
-La formation compétente à l'égard des magistrats du siège est présidée par le premier président de la Cour de cassation. Elle comprend, en outre, cinq magistrats du siège et un magistrat du parquet, un conseiller d'État désigné par le Conseil d'État, un avocat ainsi que six personnalités qualifiées qui n'appartiennent ni au Parlement, ni à l'ordre judiciaire, ni à l'ordre administratif. Le président de l'Assemblée nationale et le président du Sénat désignent chacun trois personnalités qualifiées. Les nominations effectuées par le président de chaque assemblée du Parlement sont soumises au seul avis de la commission permanente compétente de l'assemblée intéressée.
-
-La formation compétente à l'égard des magistrats du parquet est présidée par le procureur général près la Cour de cassation. Elle comprend, en outre, cinq magistrats du parquet et un magistrat du siège, ainsi que le conseiller d'État, l'avocat et les six personnalités qualifiées mentionnés au deuxième alinéa.
-
-La formation du Conseil supérieur de la magistrature compétente à l'égard des magistrats du siège fait des propositions pour les nominations des magistrats du siège à la Cour de cassation, pour celles de premier président de cour d'appel et pour celles de président de tribunal de grande instance. Les autres magistrats du siège sont nommés sur son avis conforme.
-
-La formation du Conseil supérieur de la magistrature compétente à l'égard des magistrats du parquet donne son avis sur les nominations qui concernent les magistrats du parquet.
-
-La formation du Conseil supérieur de la magistrature compétente à l'égard des magistrats du siège statue comme conseil de discipline des magistrats du siège. Elle comprend alors, outre les membres visés au deuxième alinéa, le magistrat du siège appartenant à la formation compétente à l'égard des magistrats du parquet.
-
-La formation du Conseil supérieur de la magistrature compétente à l'égard des magistrats du parquet donne son avis sur les sanctions disciplinaires qui les concernent. Elle comprend alors, outre les membres visés au troisième alinéa, le magistrat du parquet appartenant à la formation compétente à l'égard des magistrats du siège.
-
-Le Conseil supérieur de la magistrature se réunit en formation plénière au titre de :artref:`l'autorité judiciaire`. Il se prononce, dans la même formation, sur les questions relatives à la déontologie des magistrats ainsi que sur toute question relative au fonctionnement de la justice dont le saisit le gouvernement. La formation plénière comprend trois des cinq magistrats du siège mentionnés au deuxième alinéa, trois des cinq magistrats du parquet mentionnés au troisième alinéa, ainsi que le conseiller d'État, l'avocat et les six personnalités qualifiées mentionnés au deuxième alinéa. Elle est présidée par le premier président de la Cour de cassation, que peut suppléer le procureur général près cette cour.
-
-Sauf en matière disciplinaire ou en commission spéciale, un délégué du gouvernement désigné par le Chancelier de la République peut participer aux séances des formations du Conseil supérieur de la magistrature.
-
-Le Conseil supérieur de la magistrature peut être saisi par un justiciable dans les conditions fixées par la loi organique.
-
-La loi organique détermine les conditions d'application du présent article.
+..
+    déplacer ces deux articles dans la Charte
 
 .. article:: habeas corpus
 
