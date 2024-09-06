@@ -243,32 +243,44 @@ Article unique - quorum populaire
 Le nombre de citoyens nécessaire pour la saisine prévue à :artref:`constitutionnalité des traités` est d'un centième des citoyens inscrits sur les listes électorales.
 
 ---------------------------------------------------------------------------
+Relative à :artref:`contrôle de la nomination du gouvernement`
+---------------------------------------------------------------------------
+
+Article unique - contrôle de la procédure parlementaire
+-------------------------------------------------------
+La formation parlementaire de la Cour constitutionnelle peut être saisie de contestations :
+- de la déclaration d'un amendement ou d'un texte proposé par un membre du parlement comme non-conforme à la constitution par un organe parlementaire ;
+- des conditions de déroulement d'un vote, au sein d'une assemblée parlementaire ou d'un de ses organes, n'ayant pas entraîné l'adoption d'un texte n'étant pas contrôlé par la formation au titre du même article de la Constitution ;
+
+La saisine est déposée par un groupe parlementaire, par un membre du Parlement avec l'agrément de son groupe parlementaire, ou par un membre du Parlement n'appartenant à aucun groupe parlementaire depuis six mois ou depuis le dernier renouvellement de ses fonctions. Le règlement intérieur de chaque assemblée parlementaire peut prévoir un nombre minimal de membres du Parlement déposant la saisine.
+
+Lorsque la formation parlementaire déclare la saisine comme abusive, le groupe parlementaire ayant déposé la saisine ou le groupe parlementaire du membre du Parlement l'ayant déposée ou, à défaut, le membre du Parlement lui-même, est privé de la possibilité de saisir la formation parlementaire pour une durée de six mois.
+
+---------------------------------------------------------------------------
 Relative à :artref:`contrôle de constitutionnalité en instance législative`
 ---------------------------------------------------------------------------
 
 Article unique - quorum populaire
 ----------------------------------
-Le nombre de citoyens nécessaire pour la saisine prévue à :artref:`contrôle de constitutionnalité en instance législative` est d'un centième des citoyens inscrits sur les listes électorales.
+Le nombre de citoyens nécessaire pour la saisine prévue à :artref:`contrôle de constitutionnalité en instance législative`, avant la promulgation d'une loi ou jusqu'à trois mois après sa promulgation, est d'un centième des citoyens inscrits sur les listes électorales.
+
+Le nombre de citoyens en-dehors de ces délais est de cinq centièmes des citoyens inscrits sur les listes électorales.
 
 .. --------------------------------------------------------------------------------
 .. Relative à :artref:`contrôle de constitutionnalité en instance juridictionnelle`
 .. --------------------------------------------------------------------------------
 
 --------------------------------------------------------------
-Relative à :artref:`fonctionnement du Conseil constitutionnel`
+Relative à la Cour constitutionnelle (ancre constit manquante)
 --------------------------------------------------------------
 
 Article premier - conséquences du contrôle en instance législative
 ------------------------------------------------------------------
-Dans le cas où certaines des dispositions d'un texte adopté par le Parlement seraient déclarées inconstitutionnelles avant sa promulgation, le texte est renvoyé à la dernière assemblée parlementaire à l'avoir considéré. Les autres dispositions du texte ne sont pas promulguées, sauf dans le cas où le Parlement exprimerait avant l'adoption du texte la manière dont il peut être divisé.
-
-Article 2 - contrôle de la procédure parlementaire
---------------------------------------------------
-Un texte ou une partie d'un texte réputés adoptés en violation des procédures prévues par les réglements des assemblées ne peut être considéré comme adopté par le Parlement de manière régulière. En conséquence, le contrôle du Conseil constitutionnel le reconnaît non-conforme à la Constitution.
+Dans le cas où certaines des dispositions d'un texte adopté par le Parlement seraient déclarées inconstitutionnelles avant sa promulgation, le texte est renvoyé à la dernière assemblée parlementaire à l'avoir considéré. Les autres dispositions du texte ne sont pas promulguées, sauf dans le cas où le Parlement exprimerait avant l'adoption du texte la manière dont le texte peut être divisé.
 
 .. délais ouverts pour la saisine
 
-Article 3 - contrôle de la nomination du gouvernement et des motions de censure
+Article 2 - contrôle de la nomination du gouvernement et des motions de censure
 -------------------------------------------------------------------------------
 Le Conseil constitutionnel est informé par les assemblées parlementaires de l'évolution des pétitions de gouvernement et de leurs signatures, et du dépôt de motions de censure.
 

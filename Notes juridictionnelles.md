@@ -23,15 +23,8 @@ Juge d'opérations parlementaires : 4
 À faire:
 - remplacer le CE par la cour suprême admin pour la QPC et le CSM
 - remplacer le CC par la cour constitutionnelle
-- traiter toutes les références des articles supprimés
-  - composition du Conseil constitutionnel
-  - contrôle de la nomination du gouvernement
-  - contrôle des élections législatives
-  - contrôle des référendums
-  - contrôle de constitutionnalité en instance législative
-  - contrôle de constitutionnalité en instance juridictionnelle
-  - conséquence du contrôle
-  - fonctionnement du Conseil constitutionnel
+- ajouter une ancre dans la constitution pour des misc organiques sur la CC
+- ajouter les organiques manquantes, if any
 
 
 Cour constitutionnelle, sans loi-écran (ou limitée)
