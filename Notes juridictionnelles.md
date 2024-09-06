@@ -21,32 +21,17 @@ Juge d'opérations parlementaires : 4
 
 
 À faire:
-- v Ajouter l'ordre administratif dans la constitution
-  - v Traiter le statut des magistrats administratifs (déférés à l'organique)
-- v Ajouter une cour suprême administrative
-  - qui remplace le CE pour la QPC et le CSM
-- v Ajouter (à côté de la cour des comptes) un Conseil d'État qui fait des avis consultatifs et de l'aide à la conception de la loi et du réglement
-- v Ajouter un tribunal électoral, qui juge aussi les référendums
-  - v administratif a priori
-- Définir la nomination de tout ce petit monde
-- Diviser le contrôleur de constitutionnalité en une chambre abstraite et une chambre concrète
-  - la chambre concrète juge la constitutionnalité d'une décision de justice basée sur la loi ou le réglement
-  - la chambre abstraite juge la constitutionnalité d'un texte de loi ou de réglement et peut l'invalider
-  - la chambre concrète peut transférer une affaire à la chambre abstraite
-  - la chambre abstraite peut être saisie de trois façons :
-    - après adoption d'un texte par le parlement (ou cas spécial du texte proposé en référendum)
-    - sur une loi déjà ratifiée, saisie (probablement) citoyenne ou gouvernementale ou parlementarire
-    - sur une affaire en cours devant la chambre concrète
-- Contrôleur de certaines opérations parlementaires, comme la procédure d'adoption d'une loi ou la nomination du gouvernement
-  - il est saisi conjointement ou sensiblement de la même façon que la chambre abstraite du contrôleur de constitutionnalité
-  - sa composition est différente
-- Le contrôle d'un texte adopté par le parlement se fait par une double saisie de la chambre abstraite du contrôleur de constitutionnalité et du juge des opérations parlementaires
-  - en cas de saisie facultative, un des deux peut se déclarer non concerné par la saisine
-  - un texte doit passer le contrôle des deux chambres pour être validé
-- Les membres du contrôleur parlementaire d'une part et une partie des gens chargés de réécrire la loi censurée d'autre part, sont nommés de la même manière
-  - deux pools : l'un pour la chambre juridictionnelle, l'autre pour le contrôleur parlementaire,
-  - la chambre textuelle est composée par le pool de la chambre juridictionnelle, et de membres consultatifs nommés de la même manière que le contrôleur parlementaire
+- remplacer le CE par la cour suprême admin pour la QPC et le CSM
+- remplacer le CC par la cour constitutionnelle
 - traiter toutes les références des articles supprimés
+  - composition du Conseil constitutionnel
+  - contrôle de la nomination du gouvernement
+  - contrôle des élections législatives
+  - contrôle des référendums
+  - contrôle de constitutionnalité en instance législative
+  - contrôle de constitutionnalité en instance juridictionnelle
+  - conséquence du contrôle
+  - fonctionnement du Conseil constitutionnel
 
 
 Cour constitutionnelle, sans loi-écran (ou limitée)

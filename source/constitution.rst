@@ -432,11 +432,11 @@ La Cour suprême administrative est la plus haute juridiction de l'ordre adminis
 
 Le tribunal électoral fait partie de l'ordre administratif.
 
-Il statue, en cas de contestation, sur la régularité des opérations électorales et référendaires nationales.
+Il statue, en cas de contestation, sur la régularité de l'élection des membres du Parlement.
+
+Il veille à la régularité des opérations de référendum prévues à :artref:`référendums`. Il en proclame les résultats qui sont aussitôt promulgués.
 
 Il publie la liste officielle des candidats.
-
-Il proclame les résultats des référendums.
 
 La loi peut étendre ses compétences à des opérations électorales et référendaires locales.
 
@@ -464,63 +464,81 @@ Le Conseil supérieur de la magistrature peut être saisi par un justiciable dan
 
 La loi organique détermine les conditions d'application du présent article.
 
---------------------------------------
-Titre VII — Le Conseil constitutionnel
---------------------------------------
+----------------------------------------------
+Titre VIII — Le contrôle de constitutionnalité
+----------------------------------------------
 
-.. article:: composition du Conseil constitutionnel
+.. article:: la Cour constitutionnelle
 
-Le Conseil constitutionnel veille au respect de la Constitution. Il assure, par son arbitrage, le fonctionnement régulier des pouvoirs publics.
+La Cour constitutionnelle veille au respect de la Constitution. Elle assure, par son arbitrage, le fonctionnement régulier des pouvoirs publics.
 
-Il comprend neuf membres, dont le mandat dure neuf ans. Le Conseil constitutionnel se renouvelle par tiers ; tous les trois ans, un membre est nommé par le président de l'Assemblée nationale, un par le président du Sénat, et un par une commission spéciale. Les nominations effectuées par le président de chaque assemblée sont soumises au seul avis de la commission permanente compétente de l'assemblée concernée. La commission spéciale est composée à moitié par les membres de la formation plénière du Conseil supérieur de la magistrature, et à moitié par des membres des deux assemblées parlementaires présents en nombres égaux pour chaque assemblée.
+Elle comprend une formation générale, une formation textuelle et une formation parlementaire.
 
-Le président est le plus ancien membre en date à avoir été désigné par commission spéciale. Il a voix prépondérante en cas de partage.
+.. article:: composition de la Cour constitutionnelle
 
-La durée de la période d'inéligibilité prévue à :artref:`inéligibilité post-mandature` est doublée dans le cas des membres du Conseil constitutionnel.
+Les membres de la formation générale de la Cour constitutionnelle sont nommés par une commission formée pour deux tiers de membres du Parlement, en nombre égal pour chaque assemblée et représentant les forces politiques en présence dans chaque assemblée, et pour un tiers des membres de la formation plénière du Conseil supérieur de la magistrature. La commission nomme les membres de la formation générale par multiples de trois, dont au moins un tiers étant issu du corps des magistrats judiciaires du siège, et au moins un tiers étant issu du corps des magistrats administratifs. La commission est convoquée de manière à ce que le nombre de membres de la formation générale non membres de la formation textuelle ne soit jamais inférieur à vingt-sept.
+
+Les membres de la formation textuelle de la Cour constitutionnelle sont au nombre de neuf. Ils sont nommés parmi les membres de la formation générale par les Bureaux des deux assemblées parlementaires, soit en nommant simultanément un nombre égal de membres pour chaque Bureau, soit en nommant un ou plusieurs membres par avis conjoint des deux Bureaux. En cas de vacance, la formation générale procède de manière temporaire aux remplacements nécessaires.
+
+Les membres de la formation parlementaire de la Cour constitutionnelle sont au nombre de neuf. Ils sont nommés par le Bureau des deux assemblées parlementaire de la même manière que dans le cas de la formation textuelle, de manière à ce qu'au moins une moitié des membres de la formation parlementaire soit issue d'anciens membres du Bureau d'une des assemblées parlementaires, de la formation générale de la Cour constitutionnelle, ou des corps des magistrats judiciaires du siège ou des magistrats administratifs. En cas de vacance, la formation générale procède de manière temporaire aux remplacements nécessaires parmi ses membres ; les fonctions desdits membres au sein des autres formations de la Cour constitutionnelle sont suspendues durant ce remplacement.
+
+Le président de la formation générale est nommé par la commission chargée de nommer ses membres.
+
+Le président de la formation textuelle et le président de la formation parlementaire sont chacun nommé conjointement par les deux Bureaux des deux assemblées parlementaires, la vacance étant assurée par le plus ancien membre de la formation à avoir été nommé par avis conjoint des deux Bureaux ou, en cas d'égalité, par le plus âgé de ces membres ou, à défaut, par le plus âgé des membres de la formation.
+
+Le président d'une formation a voix prépondérante en cas de partage des voix.
+
+Les fonctions de président d'une formation de la Cour constitutionnelle prennent fin après neuf ans ou à la fin de ses fonctions au sein de la formation.
+
+Chaque saisine de la formation générale de la Cour constitutionnelle est traitée par neuf de ses membres, désignés d'une manière prévue par la loi organique. Les membres récusés de l'affaire sont remplacés.
+
+Le quorum de chaque formation de la Cour constitutionnelle est de sept membres, sauf lorsque la récusation d'un ou plusieurs membres empêche d'atteindre ce quorum.
+
+Les anciens présidents des assemblées parlementaires peuvent assister, sans droit de vote, aux séances de la formation parlementaire de la Cour constitutionnelle.
+
+La loi organique peut prévoir les conditions maximales d'âge, de durée de fonctions et de nombre de nominations des membres des formations de la Cour constitutionnelle. Ces conditions doivent être identiques pour tous les membres de la formation textuelle, pour tous les membres de la formation parlementaire, et pour tous les membres de la formation générale non membres de la formation textuelle.
+
+La durée de la période d'inélégibilité prévue à :artref:`inéligibilité post-mandature` est doublée pour les membres de la Cour constitutionnelle.
 
 .. article:: contrôle de la nomination du gouvernement
 
-Le Conseil constitutionnel veille au respect des modalités de :artref:`nomination du gouvernement`. Il statue sur la nomination du gouvernement, en cas de désaccord entre le président du Sénat et le président de l'Assemblée Nationale ou en cas de contestation.
+La formation parlementaire de la Cour constitutionnelle veille au respect des modalités de :artref:`nomination du gouvernement`. Elle statue sur la nomination du gouvernement, en cas de désaccord entre le président du Sénat et le président de l'Assemblée Nationale ou en cas de contestation.
 
-Il veille également à la régularité des motions de censure.
+Elle veille également à la régularité de la censure du gouvernement.
 
-.. article:: contrôle des élections législatives
-
-Le Conseil constitutionnel statue, en cas de contestation, sur la régularité de l'élection des députés et des sénateurs.
-
-.. article:: contrôle des référendums
-
-Le Conseil constitutionnel veille à la régularité des opérations de référendum prévues à :artref:`référendums`. Il en proclame les résultats qui sont aussitôt promulgués.
+Elle peut également être saisie dans des conditions fixées par la loi organique et par les règlements des assemblées pour juger de l'application dans les assemblées des règles de procédure prévues par la Constitution.
 
 .. article:: contrôle de constitutionnalité en instance législative
 
-Les lois organiques, avant leur promulgation, doivent être soumis au Conseil constitutionnel qui se prononce sur leur conformité à la Constitution. Dans les modalités prévues par :artref:`référendums`, il en est fait de même pour les référendums.
+Les lois organiques, avant leur promulgation, doivent être soumises à la Cour constitutionnelle qui se prononce sur leur conformité à la Constitution. Dans les modalités prévues par :artref:`référendums`, il en est de même pour les référendums.
 
-Aux mêmes fins, les lois ainsi que les règlements des assemblées parlementaires et du Congrès peuvent être déférées au Conseil constitutionnel, avant leur promulgation, par le gouvernement, un nombre de citoyens fixé par loi organique, le Bureau de l'Assemblée nationale, le Bureau du Sénat ou un vingtième des membres d'une assemblée parlementaire ou du Congrès, ou si le Conseil constitutionnel s'en saisit lui-même.
+Aux mêmes fins, les lois ainsi que les règlements des assemblées parlementaires et du Congrès peuvent être déférées à la Cour constitutionnelle, avant leur promulgation, par un nombre de citoyens fixé par loi organique, le gouvernement, le Bureau de l'Assemblée nationale, le Bureau du Sénat ou un vingtième des membres d'une assemblée parlementaire ou du Congrès, ou si la Cour constitutionnelle s'en saisit elle-même.
 
-Dans les cas prévus aux alinéas précédents, le Conseil constitutionnel doit statuer dans le délai d'un mois.
+Aux mêmes fins, la Cour constitutionnelle peut être saisie d'une loi déjà promulguée par un nombre de citoyens fixé par loi organique, jusqu'à trois mois après sa promulgation et si la Cour constitutionnelle n'en a pas été précédemment saisie. Elle peut en outre être saisie d'une loi déjà promulguée après ce délai par un nombre de citoyens plus élevé fixé par loi organique, par le gouvernement, le Bureau de l'Assemblée nationale, le Bureau du Sénat ou un cinquième des membres d'une assemblée parlementaire ou du Congrès.
 
-Dans ces mêmes cas, la saisine du Conseil constitutionnel suspend le délai de promulgation.
+La formation textuelle de la Cour constitutionnelle statue sur la conformité à la Constitution du texte déféré. La formation parlementaire statue sur la conformité à la Constitution des opérations parlementaires ayant conduit à la transmission du texte à la Cour constitutionnelle. La formation générale statue de toute autre question concernant la conformité à la Constitution.
 
-Toutefois, s'il y a urgence et à la demande du Parlement, le Conseil constitutionnel doit statuer de manière préliminaire dans les huit jours, après lesquels la suspension du délai de promulgation est levée. Le Conseil constitutionnel peut amender son avis préliminaire dans le délai initial d'un mois après sa saisine, entraînant les conséquences prévues à :artref:`conséquence du contrôle`.
+Dans les cas prévus au présent article, la Cour constitutionnelle doit statuer dans le délai d'un mois, et sa saisine suspend le délai de promulgation.
+
+Toutefois, à la demande du Parlement s'il y a urgence, la Cour constitutionnelle statue de manière préliminaire dans les huit jours, après lesquels la suspension du délai de promulgation est levée. La Cour constitutionnelle peut amender son avis préliminaire dans le délai initial d'un mois après sa saisine, entraînant les conséquences prévues à :artref:`conséquence du contrôle`.
 
 .. article:: contrôle de constitutionnalité en instance juridictionnelle
 
-Lorsque, à l'occasion d'une instance en cours devant une juridiction, il est soutenu qu'une disposition législative porte atteinte à la Constitution, le Conseil constitutionnel peut être saisi de cette question sur renvoi du Conseil d'État ou de la Cour de cassation qui se prononce dans un délai déterminé.
+Lorsque, à l'occasion d'une instance en cours devant une juridiction, il est soutenu qu'une disposition législative ou réglementaire ou une décision rendue par une juridiction est contraire à la constitution, la Cour constitutionnelle peut être saisie de cette question sur renvoi de la Cour suprême administrative, de la Cour de cassation ou du tribunal électoral qui se prononcent dans un délai déterminé.
+
+Lorsque la formation générale de la Cour constitutionnelle détermine l'inconstitutionnalité d'une décision rendue en application d'une disposition législative ou réglementaire, la formation textuelle est saisie de la question de la conformité à la Constitution de la disposition législative ou réglementaire en cause.
 
 La loi organique détermine les conditions d'application du présent article.
 
 .. article:: conséquence du contrôle
 
-Une disposition déclarée inconstitutionnelle sur le fondement de :artref:`contrôle de constitutionnalité en instance législative` ne peut être promulguée ni mise en application.
+Un avis d'inconstitutionnalité par au moins une des formations de la Cour constitutionnelles saisies d'une question entraîne la déclaration d'inconstitutionnalité par la Cour constitutionnelle. Seul l'avis majoritaire de chaque formation est réputé décision de la Cour constitutionnelle.
 
-Une disposition déclarée inconstitutionnelle sur le fondement de :artref:`contrôle de constitutionnalité en instance juridictionnelle` est abrogée à compter de la publication de la décision du Conseil constitutionnel ou d'une date ultérieure fixée par cette décision. Le Conseil constitutionnel détermine les conditions et limites dans lesquelles les effets de la disposition sont susceptibles d'être remis en cause.
+Une disposition non promulguée et déclarée inconstitutionnelle ne peut être promulguée ni mise en application.
 
-Les décisions du Conseil constitutionnel ne sont susceptibles d'aucun recours. Elles s'imposent aux pouvoirs publics et à toutes les autorités administratives et juridictionnelles.
+Une disposition déjà promulguée ou mise en application et déclarée inconstitutionnelle est abrogée à compter de la déclaration d'inconstitutionnalité. Le cas échéant, le texte législatif résultant de la décision est déterminé par la formation textuelle de la Cour constitutionnelle, le texte réglementaire par la Cour suprême administrative, et toute autre disposition par la formation générale qui peut en renvoyer tout ou partie à la Cour de cassation ou à la Cour suprême administrative. Ces textes et dispositions peuvent comporter des mesures transitoires. Dans le cadre du présent alinéa, les membres des Bureaux des assemblées parlementaires peuvent assister, sans droit de vote, aux séances de la formation textuelle.
 
-.. article:: fonctionnement du Conseil constitutionnel
-
-La loi organique détermine les règles d'organisation et de fonctionnement du Conseil constitutionnel, la procédure qui est suivie devant lui et notamment les délais ouverts pour le saisir de contestations.
+Les décisions de la Cour constitutionnelle ne sont susceptibles d'aucun recours. Elles s'imposent aux pouvoirs publics et à toutes les autorités administratives et juridictionnelles.
 
 
 ..
