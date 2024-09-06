@@ -488,7 +488,7 @@ Le président de la formation textuelle et le président de la formation parleme
 
 Le président d'une formation a voix prépondérante en cas de partage.
 
-Les fonctions de président d'une formation de la Cour constitutionnelle prennent fin après neuf ans ou à la fin de ses fonctions au sein de la formation.
+Les fonctions de président d'une formation de la Cour constitutionnelle prennent fin après trois ans ou à la fin de ses fonctions au sein de la formation.
 
 Chaque saisine de la formation générale de la Cour constitutionnelle est traitée par neuf de ses membres, désignés d'une manière prévue par la loi organique. Les membres récusés de l'affaire sont remplacés.
 
