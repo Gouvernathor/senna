@@ -486,7 +486,7 @@ Le président de la formation générale est nommé par la commission chargée d
 
 Le président de la formation textuelle et le président de la formation parlementaire sont chacun nommé conjointement par les deux Bureaux des deux assemblées parlementaires, la vacance étant assurée par le plus ancien membre de la formation à avoir été nommé par avis conjoint des deux Bureaux ou, en cas d'égalité, par le plus âgé de ces membres ou, à défaut, par le plus âgé des membres de la formation.
 
-Le président d'une formation a voix prépondérante en cas de partage des voix.
+Le président d'une formation a voix prépondérante en cas de partage.
 
 Les fonctions de président d'une formation de la Cour constitutionnelle prennent fin après neuf ans ou à la fin de ses fonctions au sein de la formation.
 
