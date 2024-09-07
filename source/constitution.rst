@@ -430,11 +430,9 @@ La Cour suprême administrative est la plus haute juridiction de l'ordre adminis
 
 Le tribunal électoral fait partie de l'ordre administratif.
 
-Il statue, en cas de contestation, sur la régularité de l'élection des membres du Parlement.
+Il publie la liste officielle des candidats et statue, en cas de contestation, sur la régularité de l'élection des membres du Parlement.
 
 Il veille à la régularité des opérations de référendum prévues à :artref:`référendums`. Il en proclame les résultats qui sont aussitôt promulgués.
-
-Il publie la liste officielle des candidats.
 
 La loi peut étendre ses compétences à des opérations électorales et référendaires locales.
 
@@ -456,7 +454,7 @@ La formation du Conseil supérieur de la magistrature compétente à l'égard de
 
 Le Conseil supérieur de la magistrature se réunit en formation plénière au titre de :artref:`l'autorité judiciaire`. Il se prononce, dans la même formation, sur les questions relatives à la déontologie des magistrats ainsi que sur toute question relative au fonctionnement de la justice dont le saisit le gouvernement. La formation plénière comprend trois des cinq magistrats du siège mentionnés au deuxième alinéa, trois des cinq magistrats du parquet mentionnés au troisième alinéa, ainsi que le membre de la Cour suprême administrative, l'avocat et les six personnalités qualifiées mentionnés au deuxième alinéa. Elle est présidée par le premier président de la Cour de cassation, que peut suppléer le procureur général près cette cour.
 
-Sauf en matière disciplinaire ou en commission spéciale, un délégué du gouvernement désigné par le Chancelier de la République peut participer aux séances des formations du Conseil supérieur de la magistrature.
+Sauf en matière disciplinaire, un délégué du gouvernement désigné par le Chancelier de la République peut participer aux séances des formations du Conseil supérieur de la magistrature.
 
 Le Conseil supérieur de la magistrature peut être saisi par un justiciable dans les conditions fixées par la loi organique.
 
@@ -478,7 +476,7 @@ Les membres de la formation générale de la Cour constitutionnelle sont nommés
 
 Les membres de la formation textuelle de la Cour constitutionnelle sont au nombre de neuf. Ils sont nommés parmi les membres de la formation générale par les Bureaux des deux assemblées parlementaires, soit en nommant simultanément un nombre égal de membres pour chaque Bureau, soit en nommant un ou plusieurs membres par avis conjoint des deux Bureaux. En cas de vacance, la formation générale procède de manière temporaire aux remplacements nécessaires.
 
-Les membres de la formation parlementaire de la Cour constitutionnelle sont au nombre de neuf. Ils sont nommés par le Bureau des deux assemblées parlementaire de la même manière que dans le cas de la formation textuelle, de manière à ce qu'au moins une moitié des membres de la formation parlementaire soit issue d'anciens membres du Bureau d'une des assemblées parlementaires, de la formation générale de la Cour constitutionnelle, ou des corps des magistrats judiciaires du siège ou des magistrats administratifs. En cas de vacance, la formation générale procède de manière temporaire aux remplacements nécessaires parmi ses membres ; les fonctions desdits membres au sein des autres formations de la Cour constitutionnelle sont suspendues durant ce remplacement.
+Les membres de la formation parlementaire de la Cour constitutionnelle sont au nombre de neuf. Ils sont nommés par le Bureau des deux assemblées parlementaire selon la même procédure que dans le cas de la formation textuelle, de manière à ce qu'au moins une moitié des membres de la formation parlementaire soit issue d'anciens membres du Bureau d'une des assemblées parlementaires, de la formation générale de la Cour constitutionnelle, ou des corps des magistrats judiciaires du siège ou des magistrats administratifs. En cas de vacance, la formation générale procède de manière temporaire aux remplacements nécessaires parmi ses membres ; les fonctions desdits membres au sein des autres formations de la Cour constitutionnelle sont suspendues durant ce remplacement.
 
 Le président de la formation générale est nommé par la commission chargée de nommer ses membres.
 
@@ -490,9 +488,9 @@ Les fonctions de président d'une formation de la Cour constitutionnelle prennen
 
 Chaque saisine de la formation générale de la Cour constitutionnelle est traitée par neuf de ses membres, désignés d'une manière prévue par la loi organique. Les membres récusés de l'affaire sont remplacés.
 
-Le quorum de chaque formation de la Cour constitutionnelle est de sept membres, sauf lorsque la récusation d'un ou plusieurs membres empêche d'atteindre ce quorum.
+Le quorum de chaque formation de la Cour constitutionnelle est de sept membres, sauf lorsque la récusation d'un ou plusieurs membres empêche ce nombre d'être atteint.
 
-Les anciens présidents des assemblées parlementaires peuvent assister, sans droit de vote, aux séances de la formation parlementaire de la Cour constitutionnelle.
+Les anciens présidents des assemblées parlementaires ayant été en fonction pendant plus d'un an peuvent participer, sans droit de vote, aux séances de la formation parlementaire de la Cour constitutionnelle.
 
 La loi organique peut prévoir les conditions maximales d'âge, de durée de fonctions et de nombre de nominations des membres des formations de la Cour constitutionnelle. Ces conditions doivent être identiques pour tous les membres de la formation textuelle, pour tous les membres de la formation parlementaire, et pour tous les membres de la formation générale non membres de la formation textuelle.
 
