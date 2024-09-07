@@ -24,9 +24,7 @@ Juge d'opérations parlementaires : 4
 - remplacer le CC par la cour constitutionnelle
 - ajouter une ancre dans la constitution pour des misc organiques sur la CC
 - ajouter les organiques manquantes, if any
-- ajouter article cour constit sur la saisine pour référendum
-  - la formation textuelle analyse le texte mais la formation parlementaire peut être saisie ou auto-saisie et contester la procédure qui a saisi la formation textuelle
-  - la procédure et surtout les conséquences sont différentes d'une adoption de loi
+- nouvelle page de présentation pour les juridictions
 
 
 Cour constitutionnelle, sans loi-écran (ou limitée)

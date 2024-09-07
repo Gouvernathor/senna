@@ -508,7 +508,7 @@ Elle peut également être saisie dans des conditions fixées par la loi organiq
 
 .. article:: contrôle de constitutionnalité en instance législative
 
-Les lois organiques, avant leur promulgation, doivent être soumises à la Cour constitutionnelle qui se prononce sur leur conformité à la Constitution.
+Les lois organiques, avant leur promulgation, doivent être soumises à la Cour constitutionnelle qui se prononce sur leur conformité à la Constitution. Dans les modalités prévues par :artref:`référendums`, il en est fait de même pour les référendums.
 
 Aux mêmes fins, les lois ainsi que les règlements des assemblées parlementaires et du Congrès peuvent être déférées à la Cour constitutionnelle, avant leur promulgation, par un nombre de citoyens fixé par loi organique, le gouvernement, le Bureau de l'Assemblée nationale, le Bureau du Sénat ou un vingtième des membres d'une assemblée parlementaire ou du Congrès, ou si la Cour constitutionnelle s'en saisit elle-même.
 
@@ -516,9 +516,9 @@ Aux mêmes fins, la Cour constitutionnelle peut être saisie d'une loi déjà pr
 
 La formation textuelle de la Cour constitutionnelle statue sur la conformité à la Constitution du texte déféré. La formation parlementaire statue sur la conformité à la Constitution des opérations parlementaires ayant conduit à la transmission du texte à la Cour constitutionnelle. La formation générale statue de toute autre question concernant la conformité à la Constitution.
 
-Dans les cas prévus au présent article, la Cour constitutionnelle doit statuer dans le délai d'un mois, et sa saisine suspend le délai de promulgation.
+Dans les cas prévus au présent article, sauf dans le cadre de :artref:`référendums`, la Cour constitutionnelle doit statuer dans le délai d'un mois, et sa saisine suspend le délai de promulgation.
 
-Toutefois, à la demande du Parlement s'il y a urgence, la Cour constitutionnelle statue de manière préliminaire dans les huit jours, après lesquels la suspension du délai de promulgation est levée. La Cour constitutionnelle peut amender son avis préliminaire dans le délai initial d'un mois après sa saisine, entraînant les conséquences prévues à :artref:`conséquence du contrôle`.
+Toutefois, à la demande du Parlement s'il y a urgence, la Cour constitutionnelle statue de manière préliminaire dans les huit jours, après lesquels la suspension du délai de promulgation est levée. La Cour constitutionnelle peut amender son avis préliminaire dans le délai initial d'un mois après sa saisine.
 
 .. article:: contrôle de constitutionnalité en instance juridictionnelle
 
