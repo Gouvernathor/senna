@@ -282,9 +282,9 @@ Dans le cas où certaines des dispositions d'un texte adopté par le Parlement s
 
 Article 2 - contrôle de la nomination du gouvernement et des motions de censure
 -------------------------------------------------------------------------------
-Le Conseil constitutionnel est informé par les assemblées parlementaires de l'évolution des pétitions de gouvernement et de leurs signatures, et du dépôt de motions de censure.
+La formation parlementaire de la Cour constitutionnelle est informée par les assemblées parlementaires de l'évolution des pétitions de gouvernement et de leurs signatures, et du dépôt de motions de censure.
 
-Il peut être saisi en contestation par tout candidat à la Chancellerie dont la pétition de gouvernement reçoit le soutien d'au moins un vingtième du nombre total de parlementaires, ou par l'un des organes auxquels :artref:`contrôle de constitutionnalité en instance législative` confère le pouvoir de saisine pour le contrôle d'une loi ordinaire. Il statue ensuite dans un délai de sept jours.
+Elle peut être saisie en contestation par tout candidat à la Chancellerie dont la pétition de gouvernement reçoit le soutien d'au moins un vingtième du nombre total de parlementaires, ou par l'un des organes auxquels :artref:`contrôle de constitutionnalité en instance législative` confère le pouvoir de saisine pour le contrôle d'une loi ordinaire. Elle statue ensuite dans un délai de sept jours.
 
 .. ------------------------------------------------------------
 .. Relative à :artref:`l'autorité judiciaire`

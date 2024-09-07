@@ -176,8 +176,6 @@ La procédure des articles :artnumref:`réunion en Congrès`, :artnumref:`navett
 
 Les dispositions organiques relatives, au moins en partie, au Sénat, ou susceptibles d'altérer l'équilibre des pouvoirs entre les assemblées, doivent être votées dans les mêmes termes par les deux assemblées ou être adoptées par référendum.
 
-Les lois contenant des dispositions organiques ne peuvent être promulguées qu'après déclaration par le Conseil constitutionnel de leur conformité à la Constitution.
-
 Une disposition à laquelle la Constitution ne confère pas de caractère organique n'a pas de caractère organique, même en étant adoptée dans le même texte qu'une disposition organique. Une telle disposition peut donc être amendée ou abrogée hors de la procédure prévue au présent article.
 
 .. article:: lois de finances et de financement de la sécurité sociale
@@ -222,9 +220,9 @@ Un référendum est convoqué par le Parlement, par une assemblée constituante 
 
 Le vote doit avoir lieu dans les trois mois suivant le déclenchement du référendum, sauf par dérogation du Parlement dans le cas où le référendum est d'origine parlementaire. L'administration est responsable de sa tenue.
 
-La valeur constitutionnelle d'un texte doit être établie avant que le vote n'ait lieu. Le Conseil constitutionnel la constate par un avis public présentant, le cas échéant, les modifications de la Constitution qui résulteraient de son adoption. Si le référendum a été déclenché par l'Assemblée nationale seule et si il a valeur constitutionnelle, les dispositions contraires à la Constitution sont retirées du texte et l'Assemblée nationale peut décider d'annuler la tenue du référendum.
+La valeur constitutionnelle d'un texte doit être établie avant que le vote n'ait lieu. La Cour constitutionnelle la constate par un avis public présentant, le cas échéant, les modifications de la Constitution qui résulteraient de son adoption. Si le référendum a été déclenché par l'Assemblée nationale seule et si il a valeur constitutionnelle, le référendum ne peut avoir lieu sans que l'Assemblée nationale ne retire les dispositions contraires, et que la Cour constitutionnelle ne soit à nouveau saisie au titre du présent alinéa.
 
-Cet avis ne doit pas être rendu plus d'un mois après le déclenchement du référendum, et lorsque le texte a valeur constitutionnelle, le vote ne peut avoir lieu moins d'un mois après que l'avis soit rendu public. Toutefois, dans les cas où le référendum n'est pas d'origine populaire, le Parlement peut allonger le délai laissé au Conseil constitutionnel.
+Cet avis ne doit pas être rendu plus d'un mois après le déclenchement du référendum, et lorsque le texte a valeur constitutionnelle, le vote ne peut avoir lieu moins d'un mois après que l'avis soit rendu public. Toutefois, dans les cas où le référendum n'est pas d'origine populaire, le Parlement peut allonger le délai laissé à la Cour constitutionnelle.
 
 ---------------------------
 Titre III — Le gouvernement
@@ -360,13 +358,13 @@ La loi organique fixe le délai de tenue du référendum et peut prévoir des ca
 
 .. article:: incompatibilité de mandat représentatif
 
-Les fonctions de membre du gouvernement, de membre du Conseil constitutionnel, de Défenseur des Droits, d'élu de collectivité territoriale, ainsi que de personnalité qualifiée membre du Conseil National de la Magistrature, sont incompatibles entre elles, ainsi qu'avec toute appartenance à l'ordre judiciaire et à l'ordre administratif, et avec l'exercice de tout mandat parlementaire, de toute fonction de représentation professionnelle à caractère national, et de tout emploi public ou de toute activité professionnelle.
+Les fonctions de membre du gouvernement, de membre de la Cour constitutionnelle, de Défenseur des Droits, d'élu de collectivité territoriale, ainsi que de personnalité qualifiée membre du Conseil National de la Magistrature, sont incompatibles entre elles, ainsi qu'avec toute appartenance à l'ordre judiciaire et à l'ordre administratif, et avec l'exercice de tout mandat parlementaire, de toute fonction de représentation professionnelle à caractère national, et de tout emploi public ou de toute activité professionnelle.
 
 L'exercice de ces fonctions requiert de plus la qualité d'électeur, ainsi que l'éligibilité.
 
 La loi établit les autres conditions de prise de fonctions de membre du gouvernement, de Défenseur des Droits, d'élu de collectivité territoriale ou de personnalité qualifiée membre du Conseil National de la Magistrature.
 
-La loi organique établit les autres conditions de prise de fonctions au Conseil constitutionnel.
+La loi organique établit les autres conditions de prise de fonctions à la Cour constitutionnelle.
 
 .. article:: commission de contrôle parlementaire
 
@@ -398,7 +396,7 @@ La République peut reconnaître la juridiction de la Cour pénale international
 
 .. article:: constitutionnalité des traités
 
-Si le Conseil constitutionnel, saisi par un nombre de citoyens fixé par loi organique, par le Chancelier de la République, par le Bureau ou un vingtième des membres de l'une ou l'autre assemblée ou du Congrès, a déclaré qu'un engagement international comporte une clause contraire à la Constitution, l'autorisation de ratifier ou d'approuver l'engagement international en cause ne peut intervenir qu'après révision de la Constitution.
+Si la formation textuelle de la Cour constitutionnelle, saisie par un nombre de citoyens fixé par loi organique, par le Chancelier de la République, par le Bureau ou un vingtième des membres de l'une ou l'autre assemblée ou du Congrès, a déclaré qu'un engagement international comporte une clause contraire à la Constitution, l'autorisation de ratifier ou d'approuver l'engagement international en cause ne peut intervenir qu'après révision de la Constitution.
 
 .. article:: hiérarchie des normes
 
@@ -510,7 +508,7 @@ Elle peut également être saisie dans des conditions fixées par la loi organiq
 
 .. article:: contrôle de constitutionnalité en instance législative
 
-Les lois organiques, avant leur promulgation, doivent être soumises à la Cour constitutionnelle qui se prononce sur leur conformité à la Constitution. Dans les modalités prévues par :artref:`référendums`, il en est de même pour les référendums.
+Les lois organiques, avant leur promulgation, doivent être soumises à la Cour constitutionnelle qui se prononce sur leur conformité à la Constitution.
 
 Aux mêmes fins, les lois ainsi que les règlements des assemblées parlementaires et du Congrès peuvent être déférées à la Cour constitutionnelle, avant leur promulgation, par un nombre de citoyens fixé par loi organique, le gouvernement, le Bureau de l'Assemblée nationale, le Bureau du Sénat ou un vingtième des membres d'une assemblée parlementaire ou du Congrès, ou si la Cour constitutionnelle s'en saisit elle-même.
 
