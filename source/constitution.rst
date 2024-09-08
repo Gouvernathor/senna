@@ -168,6 +168,8 @@ Si la commission mixte paritaire ne parvient pas à l'adoption d'un texte commun
 
 Cependant, après une nouvelle lecture par l'Assemblée nationale et par le Sénat, l'Assemblée nationale peut statuer définitivement à la majorité des trois cinquièmes de ses membres, ou porter le texte à l'approbation du peuple par référendum. Dans ces deux cas, l'Assemblée nationale peut reprendre soit le texte élaboré par la commission mixte paritaire, soit le dernier texte voté par elle, modifié le cas échéant par un ou plusieurs des amendements adoptés par le Sénat, soit le dernier texte adopté par le Congrès, le cas échéant.
 
+Si l'Assemblée nationale n'engage pas les procédures prévues à l'alinéa précédent après la nouvelle lecture, une nouvelle commission mixte paritaire peut être convoquée.
+
 .. article:: lois organiques
 
 Les dispositions législatives auxquelles la Constitution confère le caractère organique sont adoptées selon les conditions suivantes.
