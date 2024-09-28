@@ -490,8 +490,6 @@ Les fonctions de président d'une formation de la Cour constitutionnelle prennen
 
 Chaque saisine de la formation générale de la Cour constitutionnelle est traitée par neuf de ses membres, désignés d'une manière prévue par la loi organique. Les membres récusés de l'affaire sont remplacés.
 
-Le quorum de chaque formation de la Cour constitutionnelle est de sept membres, sauf lorsque la récusation d'un ou plusieurs membres empêche ce nombre d'être atteint.
-
 Les anciens présidents des assemblées parlementaires ayant été en fonction pendant plus d'un an peuvent participer, sans droit de vote, aux séances de la formation parlementaire de la Cour constitutionnelle.
 
 La loi organique peut prévoir les conditions maximales d'âge, de durée de fonctions et de nombre de nominations des membres des formations de la Cour constitutionnelle. Ces conditions doivent être identiques pour tous les membres de la formation textuelle, pour tous les membres de la formation parlementaire, et pour tous les membres de la formation générale non membres de la formation textuelle.
