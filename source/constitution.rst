@@ -410,11 +410,11 @@ Titre VII — Le pouvoir juridictionnel
 
 .. article:: ordres de juridiction
 
-Outre le tribunal chargé de l'attribution des affaires entre les ordres, les juridictions n'étant pas établies par la présente constitution sont divisées entre l'ordre administratif et l'ordre judiciaire.
+Les juridictions ordinaires sont organisées entre l'ordre administratif et l'ordre judiciaire.
 
 .. article:: l'autorité judiciaire
 
-L'indépendance de l'autorité judiciaire est garantie par le Conseil supérieur de la magistrature.
+Le Conseil supérieur de la magistrature garantit l'indépendance de l'autorité judiciaire.
 
 Les magistrats du siège sont inamovibles.
 
