@@ -6,8 +6,9 @@ Cette page présente la nouvelle organisation des juridictions : ce qui change e
 
 Les objectifs des changements sont détaillés dans chaque section.
 
+----------------------------------------------------------
 La Cour Constitutionnelle (ancien Conseil constitutionnel)
-==========================================================
+----------------------------------------------------------
 
 Le Conseil constitutionnel souffre d'un certain nombre de tares : la nomination arbitraire de ses membres, non-qualifiés et perclus de conflits d'intérêt, ce qui nourrit l'opposition de ses décisions, leur compétence qui n'est assurée par rien, leurs rôles trop nombreux et trop divers qui reposent (justement) sur des compétences trop diverses.
 
@@ -53,22 +54,22 @@ Le Conseil est maintenant remplacé par une Cour, assumant son caractère de tri
       - formation générale
 
 La formation générale
----------------------
+=====================
 
 .. TODO
 
 La formation textuelle
-----------------------
+======================
 
 .. TODO
 
 La formation parlementaire
---------------------------
+==========================
 
 .. TODO
 
 Fonctionnement général
-----------------------
+======================
 
 .. TODO
 
@@ -80,20 +81,21 @@ La QPC est étendue, au lieu de ne concerner la constitutionnalité que de l'app
 
 Ce fonctionnement dual complique aussi le contrôle des actes en partie législatifs et en partie réglementaires, comme par exemple les décrets d'application des lois, ou les ordonnances non ratifiées.
 
+-----------------------------------------------------------
 La justice administrative et la Cour Suprême Administrative
-===========================================================
+-----------------------------------------------------------
 
 .. TODO
 
 Le tribunal électoral
----------------------
+=====================
 
 Un tribunal qui est intégré à la justice administrative, et placé sous la cour suprême administrative, mais inclus spécifiquement dans la constitution.
 
 Il a pour but, d'une part, de se spécialiser en contentieux électoral, et d'autre part de récupérer les compétences du conseil constitutionnel de contrôle des élections et de proclamation de leur résultat - qui n'ont rien à voir avec les autres compétences de la nouvelle cour constitutionnelle.
 
 Le Conseil d'Etat
------------------
+=================
 
 Ce n'est plus une juridiction : les attributions juridictionnelles de l'actuel Conseil d'Etat sont séparées de ses attributions de conseil et confiées à la Cour Suprême Administrative. Son rôle de conseil est détaillé sur la page principale.
 
