@@ -45,6 +45,10 @@ Toute limitation à la liberté d'expression ne peut se justifier par la nature 
 
 L'autorité publique ne s'exerce que dans les limites du territoire dont la population fonde sa souveraineté, et dans des territoires sans population. Cette limitation déroge aux considérations de :artref:`droit à l'indifférenciation`.
 
+.. article:: légalité des délits et des peines
+
+Nul ne peut être condamné pour un acte qui, au moment où il a été commis, ne constituait pas une infraction d'après la loi. De même, nul ne peut être condamné à une peine qui n'était pas prévue par la loi au moment où l'infraction a été commise.
+
 .. article:: habeas corpus
 
 Nul ne peut être arbitrairement détenu.
