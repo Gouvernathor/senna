@@ -536,20 +536,6 @@ Une disposition déjà promulguée ou mise en application et déclarée inconsti
 
 Les décisions de la Cour constitutionnelle ne sont susceptibles d'aucun recours. Elles s'imposent aux pouvoirs publics et à toutes les autorités administratives et juridictionnelles.
 
-
-..
-    déplacer ces deux articles dans la Charte
-
-.. article:: habeas corpus
-
-Nul ne peut être arbitrairement détenu.
-
-L'autorité judiciaire, gardienne de la liberté individuelle, assure le respect de ce principe dans les conditions prévues par la loi.
-
-.. article:: peine de mort
-
-Nul ne peut être condamné à la peine de mort.
-
 ------------------------------------------------------------------
 Titre IX — De la responsabilité pénale des membres du gouvernement
 ------------------------------------------------------------------
