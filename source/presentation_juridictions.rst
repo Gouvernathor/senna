@@ -11,29 +11,46 @@ La Cour Constitutionnelle (ancien Conseil constitutionnel)
 
 Le Conseil constitutionnel souffre d'un certain nombre de tares : la nomination arbitraire de ses membres, non-qualifiés et perclus de conflits d'intérêt, ce qui nourrit l'opposition de ses décisions, leur compétence qui n'est assurée par rien, leurs rôles trop nombreux et trop divers qui reposent (justement) sur des compétences trop diverses.
 
-Le Conseil constitutionnel repose sur une idée simple : maintenir une forme d'état de droit et (notamment) le respect de la constitution en limitant le pouvoir (notamment) du parlement, mais sans laisser le pouvoir judiciaire se placer au-dessus des pouvoirs politiques. D'où le Conseil, qui est une juridiction à part, spécifique, à qui on confie tout ce qu'on ne veut confier ni à la justice ordinaire, ni aux politiques (voir la liste de ses compétences plus bas), sans que ce tas de compétences n'ait particulièrement de cohérence. Il doit donc être composé d'experts en tout, et la seule manière de les nommer des de le confier à l'empereur avec contrôle du parlement. De là découlent donc les problèmes précédemment cités.
+De plus, le fait qu'il n'ait pas autorité de contrôle de la constitutionnalité des actes administratifs et réglementaires - qui peuvent pourtant ne pas être l'application d'une loi, et donc contredire la constitution - pose un problème de cohérence entre la jurisprudence constitutionnelle du Conseil d'État, qui est chargé de leur contrôle, et celle du Conseil constitutionnel qui ne s'applique qu'aux lois.
 
-Une liste des attributions du Conseil constitutionnel, avec l'organe qui en reçoit la responsabilité :
+Le Conseil constitutionnel repose sur une idée simple : ne pas laisser le pouvoir judiciaire ou juridictionnel se placer au-dessus des pouvoirs politiques, tout en maintenant une forme d'état de droit et (notamment) le respect de la constitution en limitant le pouvoir (notamment) du parlement. D'où le Conseil, qui est une juridiction à part, spécifique, à qui on confie tout ce qu'on ne veut laisser ni à la justice ordinaire, ni aux politiques, sans que ce tas de compétences n'ait particulièrement de cohérence en-dehors de ça. Il doit donc être composé d'experts en tout, et la seule manière de les nommer des de le confier à l'empereur avec contrôle du parlement. De là découlent les problèmes précédemment cités.
 
-- contrôle de constitutionnalité a priori des lois, lois organiques, réglements des assemblées et textes de référendum d'initiative partagée : formation textuelle pour la conformité du texte, formation parlementaire pour le processus d'adoption, formation générale pour le reste éventuel
-- contrôle a posteriori et en instance juridictionnelle (QPC) : formation générale et formation textuelle
-- contrôle de constitutionnalité des traités : formation textuelle
-- contrôle des élections législatives, sénatoriales et présidentielles et des opérations de référendum : le tribunal électoral (voir la partie sur la justice administrative)
-- proclamation des résultats des élections présidentielles et des opérations de référendum : sans objet pour le président, le tribunal électoral pour le référendum
-- reclassement des parties réglementaires des lois adoptées : sans objet puisque la distinction n'est plus marquée dans la constitution
-- consultation sur l'exercice des pleins pouvoirs (article 16) : sans objet
-- contrôle des lois du pays de Nouvelle-Calédonie : sans objet vu le changement de statut de l'outre-mer
+Le Conseil est maintenant remplacé par une Cour, assumant son caractère de tribunal. Ses juges sont plus nombreux et spécialisés, au sein de trois formations aux compétences distinctes. Voici un tableau résumant la répartition des attributions :
 
-Nouvelles compétences :
+.. list-table::
+    :widths: auto
 
-- contrôle de la nomination du gouvernement et des motions de censure : formation parlementaire
-- contrôle de la constitutionnalité d'une loi après sa promulgation mais en-dehors d'une application particulière (à l'inverse de la QPC) : formation textuelle (essentiellement)
-- contrôle de la constitutionnalité des actes réglementaires et amdinistratifs et des décisions judiciaires : formation générale
+    * - **Attributions actuelles du Conseil constitutionnel**
+      - **Nouveau responsable**
 
-..
-    TODO
-    lister les différents rôles actuels et leur nouvelle attribution
-    lister les pb
+    * - contrôle de constitutionnalité a priori des lois, lois organiques, réglements des assemblées et textes de référendum d'initiative partagée
+      - formation textuelle pour la conformité du texte, formation parlementaire pour le processus d'adoption, formation générale pour le reste éventuel
+    * - contrôle a posteriori et en instance juridictionnelle (QPC)
+      - formation générale et formation textuelle
+    * - contrôle de constitutionnalité des traités
+      - formation textuelle
+    * - contrôle des élections législatives, sénatoriales et présidentielles et des opérations de référendum
+      - le tribunal électoral (voir la partie sur la justice administrative)
+    * - proclamation des résultats des élections présidentielles et des opérations de référendum
+      - sans objet pour le président, le tribunal électoral pour le référendum
+    * - reclassement des parties réglementaires des lois adoptées
+      - sans objet puisque la distinction n'est plus marquée dans la constitution, pourrait être confié à la formation textuelle si un domaine réservé réglementaire devait revenir dans la constitution
+    * - consultation sur l'exercice des pleins pouvoirs (article 16)
+      - sans objet
+    * - contrôle des lois du pays de Nouvelle-Calédonie
+      - sans objet vu le changement de statut de l'outre-mer
+
+    * - **Nouvelles compétences**
+      -
+
+    * - contrôle de la nomination du gouvernement et des motions de censure
+      - formation parlementaire
+    * - contrôle de la constitutionnalité d'une loi après sa promulgation mais en-dehors d'une application particulière (à l'inverse de la QPC)
+      - formation textuelle (essentiellement)
+    * - contrôle de la constitutionnalité des actes réglementaires et administratifs (actuellement confié aux tribunaux administratifs et au Conseil d'État)
+      - formation générale
+    * - contrôle de la constitutionnalité des décisions judiciaires
+      - formation générale
 
 La formation générale
 ---------------------
