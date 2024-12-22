@@ -137,25 +137,33 @@ La QPC est étendue, au lieu de ne concerner la constitutionnalité que de l'app
 
 Ce fonctionnement dual complique aussi le contrôle des actes en partie législatifs et en partie réglementaires, comme par exemple les décrets d'application des lois, ou les ordonnances non ratifiées.
 
------------------------------------------------------------
-La justice administrative et la Cour Suprême Administrative
------------------------------------------------------------
+La Cour constitutionnelle peut maintenant être saisie sur renvoi (dans les matières qui les concernent respectivement) par la Cour de cassation, par la Cour suprême administrative (qui remplace le Conseil d'État), mais aussi directement par le tribunal électoral, quand bien même il fait partie de la justice administrative.
 
-.. TODO
+------------------
+L'ordre judiciaire
+------------------
+
+Le seul changement notable est que la Cour de cassation est désormais inscrite dans la constitution en tant que plus haute juridiction de l'ordre judiciaire, et qu'elle peut être amenée, sur décision de la Cour constitutionnelle, à réécrire une décision judiciaire déclarée inconstitutionnelle.
+
+-------------------------
+La justice administrative
+-------------------------
+
+La juridiction administrative est modifiée un peu plus substantiellement, en particulier par le fait que son existance spécifique est inscrite dans la constitution, que son instance la plus haute est désormais nommée Cour Suprême Administrative, séparée du rôle de conseil du Conseil d'État, et enfin par la création d'une juridiction particulière, le tribunal électoral.
+
+La Cour Suprême Administrative
+==============================
+
+Elle remplace le Conseil d'État en tant que plus haute juridiction de l'ordre administratif. Peu de choses à dire si ce n'est, donc, la séparation des rôles de conseil et de juridiction, et le renforcement de l'indépendance de la juridiction administrative - pour éviter le conflit d'intrêt lors du contrôle de textes que l'instance a participé à écrire, notamment les ordonnances.
+
+..
+    TODO
+    ajouter le nouveau CE à la page principale de présentation et ajouter un lien ici
+    le conseil aide le parlement au moins autant que le gouvernement, son rôle est spécifié d'une manière similaire à la Cour des Comptes
 
 Le tribunal électoral
 =====================
 
 Un tribunal qui est intégré à la justice administrative, et placé sous la cour suprême administrative, mais inclus spécifiquement dans la constitution.
 
-Il a pour but, d'une part, de se spécialiser en contentieux électoral, et d'autre part de récupérer les compétences du conseil constitutionnel de contrôle des élections et de proclamation de leur résultat - qui n'ont rien à voir avec les autres compétences de la nouvelle cour constitutionnelle.
-
-Le Conseil d'Etat
-=================
-
-Ce n'est plus une juridiction : les attributions juridictionnelles de l'actuel Conseil d'Etat sont séparées de ses attributions de conseil et confiées à la Cour Suprême Administrative. Son rôle de conseil est détaillé sur la page principale.
-
-..
-    TODO
-    ajouter le nouveau CE à la page principale de présentation et ajouter un lien ici
-    le conseil aide le parlement au moins autant que le gouvernement, son rôle est spécifié d'une manière similaire à la Cour des Comptes
+Il a pour but, d'une part, de se spécialiser en contentieux électoral (tant à une échelle locale que nationale, alors qu'actuellement ce sont deux compétences séparées respectivement entre le Conseil d'État et le Conseil constitutionnel), et d'autre part de récupérer les compétences du conseil constitutionnel de contrôle des élections et de proclamation de leur résultat, qui n'ont rien à voir avec les autres compétences de la nouvelle cour constitutionnelle.
