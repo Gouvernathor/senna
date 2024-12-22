@@ -512,7 +512,7 @@ Aux mêmes fins, les lois ainsi que les règlements des assemblées parlementair
 
 Aux mêmes fins, la Cour constitutionnelle peut être saisie d'une loi déjà promulguée par un nombre de citoyens fixé par loi organique, jusqu'à trois mois après sa promulgation et si la Cour constitutionnelle n'en a pas été précédemment saisie. Elle peut en outre être saisie d'une loi déjà promulguée après ce délai par un nombre de citoyens plus élevé fixé par loi organique, par le gouvernement, le Bureau de l'Assemblée nationale, le Bureau du Sénat ou un cinquième des membres d'une assemblée parlementaire ou du Congrès.
 
-La formation textuelle de la Cour constitutionnelle statue sur la conformité à la Constitution du texte déféré. La formation parlementaire statue sur la conformité à la Constitution des opérations parlementaires ayant conduit à la transmission du texte à la Cour constitutionnelle. La formation générale statue de toute autre question concernant la conformité à la Constitution.
+La formation textuelle de la Cour constitutionnelle statue sur la conformité à la Constitution du texte déféré. La formation parlementaire statue sur la conformité à la Constitution des opérations parlementaires concernant le texte. La formation générale statue de toute autre question concernant la conformité à la Constitution.
 
 Dans les cas prévus au présent article, sauf dans le cadre de :artref:`référendums`, la Cour constitutionnelle doit statuer dans le délai d'un mois, et sa saisine suspend le délai de promulgation.
 

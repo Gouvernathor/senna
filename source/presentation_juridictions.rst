@@ -56,22 +56,61 @@ Le Conseil est maintenant remplacé par une Cour, assumant son caractère de tri
 La formation générale
 =====================
 
-.. TODO
+Composition
+-----------
+
+La formation comprend au moins 27 juges, dont au moins un tiers est issu des juges judiciaires, et au moins un tiers des magistrats administratifs. Ils sont nommés par une commission composée pour un tiers du Conseil Supérieur de la Magistrature (dans sa formation plénière), et pour deux tiers de parlementaires des deux assemblées, qui désigne le président de la formation.
+
+Chaque affaire est traitée par 9 juges, désignés d'une manière prévue par la loi organique (probablement une sorte de tirage au sort).
+
+Rôle et compétences
+-------------------
+
+Cette formation est l'organe par défaut de la Cour constitutionnelle : elle est compétente dans les matières de contentieux constitutionnel qui ne sont pas déléguées aux deux autres formations. Elle juge par exemple de la validité de sa propre saisine. Elle est aussi spécifiquement compétente pour juger de la constitutionnalité d'une décision judiciaire ou d'un tribunal administratif, et pour réécrire une disposition inconstitutionnelle qui ne serait ni une loi ni un acte réglementaire - donc une décision de justice, en pratique - ce qu'elle peut renvoyer à la Cour de cassation ou à la Cour suprême administrative.
+
+Sans que ce soit écrit dans la constitution, on peut supposer que cette formation et son président soient responsables de l'organisation et de la gestion administrative de la Cour dans son ensemble.
 
 La formation textuelle
 ======================
 
-.. TODO
+Composition
+-----------
+
+Les 9 juges de cette formation sont tirés de la formation générale, ils continuent d'y siéger mais ne comptent pas pour le quota minimal de 27 juges. Ils sont nommés par les bureaux des assemblées parlementaires, qui désignent conjointement le président de la formation.
+
+Rôle et compétences
+-------------------
+
+Cette formation traite de la constitutionnalité abstraite (c'est à dire, en-dehors d'une application particulière dans un litige dans un tribunal) des lois, lois organiques, règlements des assemblées, textes référendaires et projets de traités internationaux. Il ne s'agit pas nécessairement d'un contrôle *a priori*, puisqu'il peut intervenir, notamment par voie de pétition (mais pas que), sur une loi déjà promulguée et mise en application, ou dans le cadre d'une application concrète dans un litige.
+
+Elle est également responsable, lorsqu'une loi déjà en application est frappée d'inconstitutionnalité, de la réécrire. Dans ce cadre, les membres des bureaux des assemblées peuvent *assister* (notez que ce n'est pas la même chose que de *participer*), évidemment sans droit de vote, aux délibérations.
 
 La formation parlementaire
 ==========================
 
-.. TODO
+Composition
+-----------
+
+La formation comprend 9 juges, dont au moins la moitié doit être issue d'anciens membres des bureaux des assemblées parlementaires, de la formation générale, ou d'anciens juges judiciaires ou magistrats administratifs. Leur nomination et cette du président de la formation se font de la même façon que pour la formation textuelle.
+
+Les anciens présidents des assemblées parlementaires (restés en fonctions au moins un an) peuvent *participer* aux délibérations de la formation parlementaire mais, au contraire des anciens présidents de la république au Conseil constitutionnel actuel, ils n'ont pas le droit de vote.
+
+Rôle et compétences
+-------------------
+
+Cette formation a des compétences de contrôle sur ce qui se passe au sein des assemblées parlementaires, dans plusieurs cas :
+
+- la nomination et la censure du gouvernement,
+- le respect de la constitution dans le processus d'adoption d'une loi contrôlée,
+- le respect général des procédures prévues par la constitution, si la loi organique et le réglement des assemblées le prévoient.
 
 Fonctionnement général
 ======================
 
 .. TODO
+
+Des avis minoritaires peuvent être émis et publiés par la Cour, à l'américaine, sans avoir évidemment force de décision.
+
 
 La QPC est étendue, au lieu de ne concerner la constitutionnalité que de l'application d'une loi, elle concerne aussi les actes réglementaires et les décisions de justice. La version actuelle, où c'est le Conseil d'État (en tant que cour suprême de l'ordre administratif) qui juge de la constitutionnalité des actes réglementaires, pose certaines absurdités :
 
