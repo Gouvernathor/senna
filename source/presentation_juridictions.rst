@@ -107,14 +107,31 @@ Cette formation a des compétences de contrôle sur ce qui se passe au sein des 
 Fonctionnement général
 ======================
 
-.. TODO
+Des avis minoritaires peuvent être émis et publiés par la Cour, à l'américaine - sans évidemment qu'ils aient force de décision.
 
-Des avis minoritaires peuvent être émis et publiés par la Cour, à l'américaine, sans avoir évidemment force de décision.
+Saisie abstraite
+----------------
 
+La saisie à propos d'un texte avant sa promulgation suit globalement le même fonctionnement que pour le Conseil constitutionnel : saisie automatique pour les lois organiques, et saisie par le gouvernement ou par des parlementaires pour une autre loi.
+
+Cependant, il y a un certain nombre de différences :
+- les textes référendaires font l'objet d'une saisine obligatoire,
+- les réglements des assemblées ne sont plus soumis à une saisine obligatoire,
+- le seuil de parlementaires requis est d'un vingtième des membres de l'assemblée, et plus un nombre fixe,
+- le bureaux d'une assemblée peut saisir la Cour,
+- la Cour peut se saisir elle-même,
+- et une pétition citoyenne peut également saisir la Cour, dans un délai un peu plus large de trois mois.
+
+De plus, la Cour peut être saisie d'une loi déjà promulguée, sans limite de durée, par une pétition dont le seuil de signatures est plus élevé, par le gouvernement ou un bureau d'une assemblée, ou par un cinquième des membres d'une assemblée.
+
+Contrairement à la cinquième république où des accords négociés pour l'adoption d'un texte peuvent être détricotés par une habile saisie du Conseil doublée d'une censure partielle, avec l'aval bienveillant de la promulgation présidentielle, la Cour constitutionnelle doit censurer un texte dans son ensemble, sauf si le parlement a spécifiquement et explicitement prévu la manière dont un texte pouvait être sectionné en cas de censure. Ceci permet également de responsabiliser le parlement, en empêchant que la juridiction constitutionnelle ne devienne une troisième chambre parlementaire.
+
+Saisie juridictionnelle
+-----------------------
 
 La QPC est étendue, au lieu de ne concerner la constitutionnalité que de l'application d'une loi, elle concerne aussi les actes réglementaires et les décisions de justice. La version actuelle, où c'est le Conseil d'État (en tant que cour suprême de l'ordre administratif) qui juge de la constitutionnalité des actes réglementaires, pose certaines absurdités :
 
-- le conseil "constitutionnel" n'est pas le seul à contrôler la constitutionnalité ;
+- le conseil pourtant "constitutionnel" n'est pas le seul à contrôler la constitutionnalité ;
 - la jurisprudence peut et a divergé entre les deux institutions, ce qui pose un problème de sûreté juridique ;
 - et quand ce n'est pas le cas (quand une juridiction a suivi l'autre) on peut se demander si la décision de la seconde était vraiment indépendante de la décision de la première.
 
