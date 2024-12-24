@@ -259,3 +259,8 @@ Justice et juridictions
 =======================
 
 Le Conseil constitutionnel subit des transformations d'ampleur, tant dans son rôle que dans son fonctionnement. Tout ceci, et certains changements concernant la justice, sont détaillés spécifiquement sur la page :doc:`presentation_juridictions`.
+
+Autres institutions
+===================
+
+Le Conseil d'état, qui n'a plus de rôle juridictionnel, se dédie uniquement à son rôle consultatif, de conseil. Il est maintenant explicitement cité dans la constitution, et la formulation est inspirée de celle concernant la Cour des Comptes. Comme elle, il assiste maintenant le parlement (au moins) autant que le gouvernement, ainsi que le public.

@@ -140,6 +140,7 @@ Ce fonctionnement dual complique aussi le contrôle des actes en partie législa
 La Cour constitutionnelle peut maintenant être saisie sur renvoi (dans les matières qui les concernent respectivement) par la Cour de cassation, par la Cour suprême administrative (qui remplace le Conseil d'État), mais aussi directement par le tribunal électoral, quand bien même il fait partie de la justice administrative.
 
 ..
+    TODO
     le principe de la loi-écran est maintenu
     seule la CC peut appliquer la constitution, pas les autres juridictions
     (le gouvernement ou le parlement aussi mais ce ne sont pas des juridictions)
@@ -161,11 +162,6 @@ La Cour Suprême Administrative
 ==============================
 
 Elle remplace le Conseil d'État en tant que plus haute juridiction de l'ordre administratif. La séparation des rôles de conseil et de juridiction permet le renforcement de l'indépendance de la juridiction administrative - pour éviter le conflit d'intrêt lors du contrôle de textes que l'instance elle-même a participé à écrire, notamment les ordonnances.
-
-..
-    TODO
-    ajouter le nouveau CE à la page principale de présentation et ajouter un lien ici
-    le conseil aide le parlement au moins autant que le gouvernement, son rôle est spécifié d'une manière similaire à la Cour des Comptes
 
 Le tribunal électoral
 =====================
