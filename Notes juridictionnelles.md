@@ -21,10 +21,8 @@ Juge d'opérations parlementaires : 4
 
 
 À faire:
-- remplacer le CC par la cour constitutionnelle
 - ajouter une ancre dans la constitution pour des misc organiques sur la CC
 - ajouter les organiques manquantes, if any
-- nouvelle page de présentation pour les juridictions
 
 
 Cour constitutionnelle, sans loi-écran (ou limitée)

@@ -284,10 +284,6 @@ Elle peut être saisie en contestation par tout candidat à la Chancellerie dont
 
 .. statut des magistrats (?)
 
-.. abolition de la dualité de juridiction
-    il y a des cours spécialisées pour le droit (anciennement) administratif, mais les cours d'appel sont unifiées ?
-    en tout cas la cour de cassation a compétence sur tout, elle fait office de cour suprême sur les questions de loi (pas de fait) et hors questions constitutionnelles
-
 .. ------------------------------------------------------------
 .. Relative à :artref:`conseil supérieur de la magistrature`
 .. ------------------------------------------------------------
