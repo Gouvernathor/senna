@@ -124,7 +124,7 @@ Cependant, il y a un certain nombre de différences :
 
 De plus, la Cour peut être saisie d'une loi déjà promulguée, sans limite de durée, par une pétition dont le seuil de signatures est plus élevé, par le gouvernement ou un bureau d'une assemblée, ou par un cinquième des membres d'une assemblée.
 
-Contrairement à la cinquième république où des accords négociés pour l'adoption d'un texte peuvent être détricotés par une habile saisie du Conseil doublée d'une censure partielle, avec l'aval bienveillant de la promulgation présidentielle, la Cour constitutionnelle doit censurer un texte dans son ensemble, sauf si le parlement a spécifiquement et explicitement prévu la manière dont un texte pouvait être sectionné en cas de censure. Ceci permet également de responsabiliser le parlement, en empêchant que la juridiction constitutionnelle ne devienne une troisième chambre parlementaire.
+Dans la cinquième république, des accords négociés pour l'adoption d'un texte peuvent être détricotés par une habile saisie du Conseil doublée d'une censure partielle, avec l'aval bienveillant de la promulgation présidentielle. Ici, la Cour constitutionnelle doit censurer un texte dans son ensemble, sauf si le parlement a spécifiquement et explicitement prévu la manière dont un texte pouvait être sectionné en cas de censure. Ceci permet également de responsabiliser le parlement, en empêchant que la juridiction constitutionnelle ne devienne une troisième chambre parlementaire.
 
 Saisie juridictionnelle
 -----------------------
