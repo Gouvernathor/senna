@@ -246,15 +246,19 @@ Le nombre de citoyens nécessaire pour la saisine prévue à :artref:`constituti
 Relative à :artref:`contrôle de la nomination du gouvernement`
 ---------------------------------------------------------------------------
 
-Article unique - contrôle de la procédure parlementaire
--------------------------------------------------------
+Article premier - contrôle de la nomination du gouvernement et des motions de censure
+-------------------------------------------------------------------------------------
+La formation parlementaire de la Cour constitutionnelle est informée par les assemblées parlementaires de l'évolution des pétitions de gouvernement et de leurs signatures, et du dépôt de motions de censure.
+
+Elle peut être saisie en contestation par tout candidat à la Chancellerie dont la pétition de gouvernement reçoit le soutien d'au moins un vingtième du nombre total de parlementaires, ou par l'un des organes auxquels :artref:`contrôle de constitutionnalité en instance législative` confère le pouvoir de saisine pour le contrôle d'une loi ordinaire. Elle statue ensuite dans un délai de sept jours.
+
+Article 2 - contrôle de la procédure parlementaire
+--------------------------------------------------
 La formation parlementaire de la Cour constitutionnelle peut être saisie de contestations :
-- de la déclaration d'un amendement ou d'un texte proposé par un membre du parlement comme non-conforme à la constitution par un organe parlementaire ;
-- des conditions de déroulement d'un vote, au sein d'une assemblée parlementaire ou d'un de ses organes, n'ayant pas entraîné l'adoption d'un texte n'étant pas contrôlé par la formation au titre du même article de la Constitution ;
+- de la déclaration par un organe parlementaire qu'un amendement ou un texte proposé par un membre du parlement est irrecevable en vertu de la Constitution ;
+- des conditions de déroulement d'une élection, au sein d'une assemblée parlementaire ou d'un de ses organes.
 
 La saisine est déposée par un groupe parlementaire, par un membre du Parlement avec l'agrément de son groupe parlementaire, ou par un membre du Parlement n'appartenant à aucun groupe parlementaire depuis six mois ou depuis le dernier renouvellement de ses fonctions. Le règlement intérieur de chaque assemblée parlementaire peut prévoir un nombre minimal de membres du Parlement déposant la saisine.
-
-Lorsque la formation parlementaire déclare la saisine comme abusive, le groupe parlementaire ayant déposé la saisine ou le groupe parlementaire du membre du Parlement l'ayant déposée ou, à défaut, le membre du Parlement lui-même, est privé de la possibilité de saisir la formation parlementaire pour une durée de six mois.
 
 ---------------------------------------------------------------------------
 Relative à :artref:`contrôle de constitutionnalité en instance législative`
@@ -269,14 +273,6 @@ Le nombre de citoyens en-dehors de ces délais est de cinq centièmes des citoye
 .. --------------------------------------------------------------------------------
 .. Relative à :artref:`contrôle de constitutionnalité en instance juridictionnelle`
 .. --------------------------------------------------------------------------------
-
-.. délais ouverts pour la saisine
-
-Article 2 - contrôle de la nomination du gouvernement et des motions de censure
--------------------------------------------------------------------------------
-La formation parlementaire de la Cour constitutionnelle est informée par les assemblées parlementaires de l'évolution des pétitions de gouvernement et de leurs signatures, et du dépôt de motions de censure.
-
-Elle peut être saisie en contestation par tout candidat à la Chancellerie dont la pétition de gouvernement reçoit le soutien d'au moins un vingtième du nombre total de parlementaires, ou par l'un des organes auxquels :artref:`contrôle de constitutionnalité en instance législative` confère le pouvoir de saisine pour le contrôle d'une loi ordinaire. Elle statue ensuite dans un délai de sept jours.
 
 .. ------------------------------------------------------------
 .. Relative à :artref:`l'autorité judiciaire`

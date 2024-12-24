@@ -502,7 +502,9 @@ La formation parlementaire de la Cour constitutionnelle veille au respect des mo
 
 Elle veille également à la régularité de la censure du gouvernement.
 
-Elle peut également être saisie dans des conditions fixées par la loi organique et par les règlements des assemblées pour juger de l'application dans les assemblées des règles de procédure prévues par la Constitution.
+Elle peut également être saisie dans des conditions fixées par les règlements des assemblées pour juger de l'application dans les assemblées des règles de procédure prévues par la Constitution.
+
+La loi organique détermine les conditions d'application du présent article.
 
 .. article:: contrôle de constitutionnalité en instance législative
 
@@ -530,7 +532,7 @@ La loi organique détermine les conditions d'application du présent article.
 
 Un avis d'inconstitutionnalité par au moins une des formations de la Cour constitutionnelles saisies d'une question entraîne la déclaration d'inconstitutionnalité par la Cour constitutionnelle. Seul l'avis majoritaire de chaque formation est réputé décision de la Cour constitutionnelle.
 
-Une disposition non promulguée et déclarée inconstitutionnelle ne peut être promulguée ni mise en application. Les autres dispositions du texte déféré ne sont pas promulguées, sauf dans le cas où le Parlement exprimerait avant l'adoption du texte la manière dont le texte peut être divisé.
+Une disposition non promulguée et déclarée inconstitutionnelle ne peut être promulguée ni mise en application. Les autres dispositions du texte déféré ne peuvent être promulguées à moins que le Parlement ait exprimé, avant le contrôle du texte, la manière dont le texte peut être divisé.
 
 Une disposition déjà promulguée ou mise en application et déclarée inconstitutionnelle est abrogée à compter de la déclaration d'inconstitutionnalité. Le cas échéant, le texte législatif résultant de la décision est déterminé par la formation textuelle de la Cour constitutionnelle, le texte réglementaire par la Cour suprême administrative, et toute autre disposition par la formation générale qui peut en renvoyer tout ou partie à la Cour de cassation ou à la Cour suprême administrative. Ces textes et dispositions peuvent comporter des mesures transitoires. Dans le cadre du présent alinéa, les membres des Bureaux des assemblées parlementaires peuvent assister, sans droit de vote, aux séances de la formation textuelle.
 
