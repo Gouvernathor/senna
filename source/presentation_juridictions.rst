@@ -139,6 +139,12 @@ Ce fonctionnement dual complique aussi le contrôle des actes en partie législa
 
 La Cour constitutionnelle peut maintenant être saisie sur renvoi (dans les matières qui les concernent respectivement) par la Cour de cassation, par la Cour suprême administrative (qui remplace le Conseil d'État), mais aussi directement par le tribunal électoral, quand bien même il fait partie de la justice administrative.
 
+..
+    le principe de la loi-écran est maintenu
+    seule la CC peut appliquer la constitution, pas les autres juridictions
+    (le gouvernement ou le parlement aussi mais ce ne sont pas des juridictions)
+    le contrôle de tous les actes pris directement en application de la constitution est exclusivement confié aux différentes formations de la CC
+
 ------------------
 L'ordre judiciaire
 ------------------
