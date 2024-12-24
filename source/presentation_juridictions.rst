@@ -154,7 +154,7 @@ La juridiction administrative est modifiée un peu plus substantiellement, en pa
 La Cour Suprême Administrative
 ==============================
 
-Elle remplace le Conseil d'État en tant que plus haute juridiction de l'ordre administratif. Peu de choses à dire si ce n'est, donc, la séparation des rôles de conseil et de juridiction, et le renforcement de l'indépendance de la juridiction administrative - pour éviter le conflit d'intrêt lors du contrôle de textes que l'instance a participé à écrire, notamment les ordonnances.
+Elle remplace le Conseil d'État en tant que plus haute juridiction de l'ordre administratif. La séparation des rôles de conseil et de juridiction permet le renforcement de l'indépendance de la juridiction administrative - pour éviter le conflit d'intrêt lors du contrôle de textes que l'instance elle-même a participé à écrire, notamment les ordonnances.
 
 ..
     TODO
@@ -164,6 +164,8 @@ Elle remplace le Conseil d'État en tant que plus haute juridiction de l'ordre a
 Le tribunal électoral
 =====================
 
-Un tribunal qui est intégré à la justice administrative, et placé sous la cour suprême administrative, mais inclus spécifiquement dans la constitution.
+Un tribunal qui est intégré à l'ordre administratif (et placé sous la cour suprême administrative), mais inclus spécifiquement dans la constitution.
 
 Il a pour but, d'une part, de se spécialiser en contentieux électoral (tant à une échelle locale que nationale, alors qu'actuellement ce sont deux compétences séparées respectivement entre le Conseil d'État et le Conseil constitutionnel), et d'autre part de récupérer les compétences du conseil constitutionnel de contrôle des élections et de proclamation de leur résultat, qui n'ont rien à voir avec les autres compétences de la nouvelle cour constitutionnelle.
+
+Sa spécificité par rapport au reste de l'ordre administratif est sa capacité à saisir directement la Cour constitutionnelle, sans avoir à passer par la Cour suprême administrative.
