@@ -20,11 +20,6 @@ Juge électoral et des votes nationaux : 5, 6 (référendaire)
 Juge d'opérations parlementaires : 4
 
 
-À faire:
-- ajouter une ancre dans la constitution pour des misc organiques sur la CC
-- ajouter les organiques manquantes, if any
-
-
 Cour constitutionnelle, sans loi-écran (ou limitée)
     certains tribunaux (au moins) ont compétence constitutionnelle
     quand ils ont jugé la validité d'une loi (quel que soit leur verdict), ils envoient une notification à la CC
