@@ -270,14 +270,6 @@ Le nombre de citoyens en-dehors de ces délais est de cinq centièmes des citoye
 .. Relative à :artref:`contrôle de constitutionnalité en instance juridictionnelle`
 .. --------------------------------------------------------------------------------
 
---------------------------------------------------------------
-Relative à la Cour constitutionnelle (ancre constit manquante)
---------------------------------------------------------------
-
-Article premier - conséquences du contrôle en instance législative
-------------------------------------------------------------------
-Dans le cas où certaines des dispositions d'un texte adopté par le Parlement seraient déclarées inconstitutionnelles avant sa promulgation, le texte est renvoyé à la dernière assemblée parlementaire à l'avoir considéré. Les autres dispositions du texte ne sont pas promulguées, sauf dans le cas où le Parlement exprimerait avant l'adoption du texte la manière dont le texte peut être divisé.
-
 .. délais ouverts pour la saisine
 
 Article 2 - contrôle de la nomination du gouvernement et des motions de censure
