@@ -218,7 +218,7 @@ Aucune procédure de révision ne peut être engagée ou poursuivie lorsqu'il es
 
 .. article:: référendums
 
-Un référendum est convoqué par le Parlement, par l'Assemblée nationale seule dans le cadre prévu par :artref:`adoption par une seule assemblée`, par une assemblée constituante ou par une pétition rassemblant trois centièmes des citoyens, afin de soumettre un texte à l'approbation du peuple. La loi organique en prévoit les modalités.
+Un référendum est convoqué par le Parlement, par l'Assemblée nationale seule dans le cadre prévu par :artref:`adoption par une seule assemblée`, par une assemblée constituante, ou par une pétition rassemblant trois centièmes des citoyens, afin de soumettre un texte à l'approbation du peuple. La loi organique en prévoit les modalités.
 
 Le vote doit avoir lieu dans les trois mois suivant le déclenchement du référendum, sauf par dérogation du Parlement dans le cas où le référendum est d'origine parlementaire. L'administration est responsable de sa tenue.
 
@@ -492,7 +492,7 @@ Chaque saisine de la formation générale de la Cour constitutionnelle est trait
 
 Les anciens présidents des assemblées parlementaires ayant été en fonction pendant plus d'un an peuvent participer, sans droit de vote, aux séances de la formation parlementaire de la Cour constitutionnelle.
 
-La loi organique peut prévoir les conditions maximales d'âge, de durée de fonctions et de nombre de nominations des membres des formations de la Cour constitutionnelle. Ces conditions doivent être identiques pour tous les membres de la formation textuelle, pour tous les membres de la formation parlementaire, et pour tous les membres de la formation générale non membres de la formation textuelle.
+La loi organique peut prévoir les conditions maximales d'âge, de durée de fonctions et de nombre de renouvellement des fonctions des membres des formations de la Cour constitutionnelle. Ces conditions doivent être identiques pour tous les membres de la formation textuelle, pour tous les membres de la formation parlementaire, et pour tous les membres de la formation générale non membres de la formation textuelle.
 
 La durée de la période d'inélégibilité prévue à :artref:`inéligibilité post-mandature` est doublée pour les membres de la Cour constitutionnelle.
 
@@ -510,7 +510,7 @@ Les lois organiques, avant leur promulgation, doivent être soumises à la Cour 
 
 Aux mêmes fins, les lois ainsi que les règlements des assemblées parlementaires et du Congrès peuvent être déférées à la Cour constitutionnelle, avant leur promulgation, par un nombre de citoyens fixé par loi organique, le gouvernement, le Bureau de l'Assemblée nationale, le Bureau du Sénat ou un vingtième des membres d'une assemblée parlementaire ou du Congrès, ou si la Cour constitutionnelle s'en saisit elle-même.
 
-Aux mêmes fins, la Cour constitutionnelle peut être saisie d'une loi déjà promulguée par un nombre de citoyens fixé par loi organique, jusqu'à trois mois après sa promulgation et si la Cour constitutionnelle n'en a pas été précédemment saisie. Elle peut en outre être saisie d'une loi déjà promulguée après ce délai par un nombre de citoyens plus élevé fixé par loi organique, par le gouvernement, le Bureau de l'Assemblée nationale, le Bureau du Sénat ou un cinquième des membres d'une assemblée parlementaire ou du Congrès.
+Aux mêmes fins, la Cour constitutionnelle peut être saisie d'une loi déjà promulguée par le même nombre de citoyens jusqu'à trois mois après sa promulgation et si la Cour constitutionnelle n'en a pas été précédemment saisie. Elle peut en outre être saisie d'une loi déjà promulguée après ce délai par un nombre de citoyens plus élevé fixé par loi organique, par le gouvernement, le Bureau de l'Assemblée nationale, le Bureau du Sénat ou un cinquième des membres d'une assemblée parlementaire ou du Congrès.
 
 La formation textuelle de la Cour constitutionnelle statue sur la conformité à la Constitution du texte déféré. La formation parlementaire statue sur la conformité à la Constitution des opérations parlementaires concernant le texte. La formation générale statue de toute autre question concernant la conformité à la Constitution.
 

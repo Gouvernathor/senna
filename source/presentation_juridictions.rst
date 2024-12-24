@@ -145,6 +145,7 @@ La Cour constitutionnelle peut maintenant être saisie sur renvoi (dans les mati
     seule la CC peut appliquer la constitution, pas les autres juridictions
     (le gouvernement ou le parlement aussi mais ce ne sont pas des juridictions)
     le contrôle de tous les actes pris directement en application de la constitution est exclusivement confié aux différentes formations de la CC
+    conditions de durée de mandat données en organique
 
 ------------------
 L'ordre judiciaire
