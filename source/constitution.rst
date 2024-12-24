@@ -404,9 +404,9 @@ Si la formation textuelle de la Cour constitutionnelle, saisie par un nombre de 
 
 Les traités ou accords régulièrement ratifiés ou approuvés ont, dès leur publication, une autorité supérieure à celle des lois, sous réserve, pour chaque accord ou traité, de son application par l'autre partie ; mais cette autorité reste cependant inférieure à celle de la Constitution.
 
--------------------------------------
-Titre VII — Le pouvoir juridictionnel
--------------------------------------
+----------------------------
+Titre VII — Les juridictions
+----------------------------
 
 .. article:: ordres de juridiction
 
