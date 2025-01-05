@@ -68,11 +68,15 @@ En plus de tout ça, et en s'inspirant vaguement des 47 et 47-1 de la 5ème, la 
 Amendement de la Constitution
 -----------------------------
 
-La Constitution peut être amendée de trois manières :
+La Constitution peut être amendée de quatre manières :
 
 - La voie purement parlementaire nécessite une majorité simple dans chaque chambre, et une majorité des 3/5 au sein du Congrès. C'est la seule voie qui ne passe pas par un référendum.
 
   - Cependant, en utilisant cette procédure, le changement n'entre en vigueur que trois mois après l'adoption par le Congrès, et pendant un an il est plus facilement possible de déclencher un référendum pour annuler cette révision (le seuil de signature pour une pétition référendaire passe de 3% à 1% des citoyens).
+
+- Un référendum peut être déclenché par le Parlement par une loi ordinaire. La loi référendaire contient en annexe le texte sur lequel le référendum porte, et ce texte peut avoir valeur constitutionnelle.
+
+  - La loi référendaire est adoptée par la procédure ordinaire, donc soit à la majorité simple dans chaque chambre ou au Congrès, soit à la majorité des 3/5 des membres de l'Assemblée nationale.
 
 - Une pétition référendaire peut être déposée par des citoyens. Le texte est fourni par la pétition, et le référendum se suffit à lui-même.
 - Une assemblée constituante. J'en parle un peu plus loin, mais en deux mots : elle est déclenchée par une pétition qui rassemble 3% des citoyens, ou par la loi, c'est à dire par le Parlement. La modification de la constitution qui résulte de ses travaux est portée en référendum, sans amendement ou blocage possible par le Parlement.
