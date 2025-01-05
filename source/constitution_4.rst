@@ -48,7 +48,7 @@ Fidèle à sa mission traditionnelle, la France entend conduire les peuples dont
 Des Institutions de la République
 ---------------------------------
 
-Titre I - De la Souveraineté
+Titre I — De la Souveraineté
 ============================
 
 Article 1
@@ -83,7 +83,7 @@ Article 4
 
 Sont électeurs, dans les conditions déterminées par la loi, tous les nationaux et ressortissants français majeurs des deux sexes, jouissant de leurs droits civils et politiques.
 
-Titre II - Du Parlement
+Titre II — Du Parlement
 =======================
 
 Article 5
@@ -234,7 +234,7 @@ Nul ne peut appartenir à la fois à l'Assemblée nationale et au Conseil de la 
 
 Les membres du Parlement ne peuvent faire partie du Conseil économique, ni de l'Assemblée de l'Union française.
 
-Titre III - Du Conseil Économique
+Titre III — Du Conseil Économique
 =================================
 
 Article 25
@@ -244,7 +244,7 @@ Un Conseil économique, dont le statut est réglé par la loi, examine, pour avi
 
 Le Conseil économique peut, en outre, être consulté par le Conseil des ministres. Il l'est obligatoirement sur l'établissement d'un plan économique national ayant pour objet le plein emploi des hommes et l'utilisation rationnelle des ressources matérielles.
 
-Titre IV - Des traités diplomatiques
+Titre IV — Des traités diplomatiques
 ====================================
 
 Article 26
@@ -264,7 +264,7 @@ Article 28
 
 Les traités diplomatiques régulièrement ratifiés et publiés ayant une autorité supérieure à celle des lois internes, leurs dispositions ne peuvent être abrogées, modifiées ou suspendues qu'à la suite d'une dénonciation régulière, notifiée par voie diplomatique. Lorsqu'il s'agit d'un des traités visés à l'article 27, la dénonciation doit être autorisée par l'Assemblée nationale, exception faite pour les traités de commerce.
 
-Titre V - Du Président de la République
+Titre V — Du Président de la République
 =======================================
 
 Article 29
@@ -361,7 +361,7 @@ Article 44
 
 Les membres des familles ayant régné sur la France sont inéligibles à la Présidence de la République.
 
-Titre VI - Du Conseil des ministres
+Titre VI — Du Conseil des ministres
 ===================================
 
 Article 45
@@ -457,7 +457,7 @@ Article 55
 
 En cas de vacance par décès ou pour toute autre cause, le Conseil des ministres charge un de ses membres d'exercer provisoirement les fonctions de président du Conseil des ministres.
 
-Titre VII - De la responsabilité pénale des ministres
+Titre VII — De la responsabilité pénale des ministres
 =====================================================
 
 Article 56
@@ -482,10 +482,10 @@ Article 59
 
 L'organisation de la Haute Cour de justice et la procédure suivie sont déterminées par une loi spéciale.
 
-Titre VIII - De l'Union Française
+Titre VIII — De l'Union Française
 =================================
 
-Section I. - Principes
+Section I. — Principes
 ----------------------
 
 Article 60.
@@ -503,7 +503,7 @@ Article 62
 
 Les membres de l'Union française mettent en commun la totalité de leurs moyens pour garantir la défense de l'ensemble de l'Union. Le Gouvernement de la République assume la coordination de ces moyens et la direction de la politique propre à préparer et à assurer cette défense.
 
-Section II. - Organisation
+Section II. — Organisation
 --------------------------
 
 Article 63
@@ -570,7 +570,7 @@ En toutes autres matières, la loi française n'est applicable dans les territoi
 
 En outre, par dérogation à l'article 13, des dispositions particulières à chaque territoire pourront être édictées par le président de la République en Conseil des ministres sur avis préalable de l'Assemblée de l'Union.
 
-Section III. - Des départements et territoires d'outre-mer
+Section III. — Des départements et territoires d'outre-mer
 ----------------------------------------------------------
 
 Article 73
@@ -633,7 +633,7 @@ Les citoyens qui n'ont pas le statut civil français conservent leur statut pers
 
 Ce statut ne peut en aucun cas constituer un motif pour refuser ou limiter les droits et libertés attachés à la qualité de citoyen français.
 
-Titre IX - Du Conseil supérieur de la magistrature
+Titre IX — Du Conseil supérieur de la magistrature
 ==================================================
 
 Article 83
@@ -664,7 +664,7 @@ Le Conseil supérieur de la magistrature assure, conformément à la loi, la dis
 
 Les magistrats du siège sont inamovibles.
 
-Titre X - Des collectivités territoriales
+Titre X — Des collectivités territoriales
 =========================================
 
 Article 85
@@ -698,7 +698,7 @@ Des lois organiques étendront les libertés départementales et municipales ; e
 
 Des lois détermineront également les conditions dans lesquelles fonctionneront les services locaux des administrations centrales, de manière à rapprocher l'administration des administrés.
 
-Titre XI - De la révision de la Constitution
+Titre XI — De la révision de la Constitution
 ============================================
 
 Article 90
