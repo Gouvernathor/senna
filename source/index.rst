@@ -3,8 +3,8 @@
    les annotations à la constitution
    le schéma des institutions, exporté et inclus dans le document d'explications
    déplacer les articles de la constitution qui établissent des droits fondamentaux dans la Charte
-   renommer "proposition de loi" en "projet de loi"
-   organe de contrôle des parlementaires
+   remplacer "proposition(s) de loi" en "projet de loi"
+   casse "Conseil constitutionnel", "Parlement", "Cour constitutionnelle"
 
 Bienvenue sur la Constitution Senna !
 =====================================
@@ -17,6 +17,7 @@ Elle est accompagnée de textes organiques et du règlement des assemblées parl
    :titlesonly:
 
    presentation
+   presentation_juridictions
 
 .. toctree::
    :maxdepth: 2

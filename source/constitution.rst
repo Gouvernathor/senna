@@ -168,6 +168,8 @@ Si la commission mixte paritaire ne parvient pas à l'adoption d'un texte commun
 
 Cependant, après une nouvelle lecture par l'Assemblée nationale et par le Sénat, l'Assemblée nationale peut statuer définitivement à la majorité des trois cinquièmes de ses membres, ou porter le texte à l'approbation du peuple par référendum. Dans ces deux cas, l'Assemblée nationale peut reprendre soit le texte élaboré par la commission mixte paritaire, soit le dernier texte voté par elle, modifié le cas échéant par un ou plusieurs des amendements adoptés par le Sénat, soit le dernier texte adopté par le Congrès, le cas échéant.
 
+Si l'Assemblée nationale n'engage pas les procédures prévues à l'alinéa précédent après la nouvelle lecture, une nouvelle commission mixte paritaire peut être convoquée.
+
 .. article:: lois organiques
 
 Les dispositions législatives auxquelles la Constitution confère le caractère organique sont adoptées selon les conditions suivantes.
@@ -175,8 +177,6 @@ Les dispositions législatives auxquelles la Constitution confère le caractère
 La procédure des articles :artnumref:`réunion en Congrès`, :artnumref:`navette parlementaire et CMP` et :artnumref:`adoption par une seule assemblée` est applicable. Toutefois, faute d'accord entre les deux Assemblées, le texte contenant des dispositions organiques ne peut être adopté par l'Assemblée nationale en dernière lecture qu'à la majorité des trois quarts de ses membres.
 
 Les dispositions organiques relatives, au moins en partie, au Sénat, ou susceptibles d'altérer l'équilibre des pouvoirs entre les assemblées, doivent être votées dans les mêmes termes par les deux assemblées ou être adoptées par référendum.
-
-Les lois contenant des dispositions organiques ne peuvent être promulguées qu'après déclaration par le Conseil constitutionnel de leur conformité à la Constitution.
 
 Une disposition à laquelle la Constitution ne confère pas de caractère organique n'a pas de caractère organique, même en étant adoptée dans le même texte qu'une disposition organique. Une telle disposition peut donc être amendée ou abrogée hors de la procédure prévue au présent article.
 
@@ -218,13 +218,13 @@ Aucune procédure de révision ne peut être engagée ou poursuivie lorsqu'il es
 
 .. article:: référendums
 
-Un référendum est convoqué par le Parlement, par une assemblée constituante ou par une pétition rassemblant trois centièmes des citoyens, afin de soumettre un texte à l'approbation du peuple. Toutefois, dans le cadre prévu par :artref:`adoption par une seule assemblée`, l'Assemblée nationale peut le déclencher seule. La loi organique en prévoit les modalités.
+Un référendum est convoqué par le Parlement, par l'Assemblée nationale seule dans le cadre prévu par :artref:`adoption par une seule assemblée`, par une assemblée constituante, ou par une pétition rassemblant trois centièmes des citoyens, afin de soumettre un texte à l'approbation du peuple. La loi organique en prévoit les modalités.
 
 Le vote doit avoir lieu dans les trois mois suivant le déclenchement du référendum, sauf par dérogation du Parlement dans le cas où le référendum est d'origine parlementaire. L'administration est responsable de sa tenue.
 
-La valeur constitutionnelle d'un texte doit être établie avant que le vote n'ait lieu. Le Conseil constitutionnel la constate par un avis public présentant, le cas échéant, les modifications de la Constitution qui résulteraient de son adoption. Si le référendum a été déclenché par l'Assemblée nationale seule et si il a valeur constitutionnelle, les dispositions contraires à la Constitution sont retirées du texte et l'Assemblée nationale peut décider d'annuler la tenue du référendum.
+La valeur constitutionnelle d'un texte doit être établie avant que le vote n'ait lieu. La Cour constitutionnelle la constate par un avis public présentant, le cas échéant, les modifications de la Constitution qui résulteraient de son adoption. Dans le cas de l'usage de :artref:`adoption par une seule assemblée`, si le texte est contraire à la constitution, le référendum ne peut avoir lieu ; l'Assemblée nationale en est saisie pour retirer les dispositions contraires, puis la procédure prévue aux articles :artnumref:`navette parlementaire et CMP` et :artnumref:`adoption par une seule assemblée` reprend à l'étape de la nouvelle lecture par l'Assemblée nationale et le Sénat.
 
-Cet avis ne doit pas être rendu plus d'un mois après le déclenchement du référendum, et lorsque le texte a valeur constitutionnelle, le vote ne peut avoir lieu moins d'un mois après que l'avis soit rendu public. Toutefois, dans les cas où le référendum n'est pas d'origine populaire, le Parlement peut allonger le délai laissé au Conseil constitutionnel.
+Cet avis ne doit pas être rendu plus d'un mois après le déclenchement du référendum, et lorsque le texte a valeur constitutionnelle, le vote ne peut avoir lieu moins d'un mois après que l'avis soit rendu public. Toutefois, dans les cas où le référendum n'est pas d'origine populaire, le Parlement peut allonger le délai laissé à la Cour constitutionnelle.
 
 ---------------------------
 Titre III — Le gouvernement
@@ -326,9 +326,15 @@ La loi prime en cas de contradiction avec le règlement.
 
 Le Parlement conserve la capacité de légiférer sur les matières déléguées au domaine réglementaire.
 
+.. article:: le Conseil d'État
+
+Le Conseil d'État assiste le Parlement et le gouvernement dans l'élaboration de la législation, dans le contrôle de son exécution, ainsi que dans l'évaluation des politiques publiques. Par ses rapports publics, il contribue à l'information des citoyens.
+
+Il peut être saisi par le Parlement ou le gouvernement pour avis sur un projet de texte législatif ou réglementaire, selon les modalités prévues par le réglement des assemblées ou la loi organique dans le cas du Parlement, et de la loi dans le cas du gouvernement.
+
 .. article:: la Cour des Comptes
 
-La Cour des comptes assiste le Parlement dans le contrôle de l'action du gouvernement. Elle assiste le Parlement et le gouvernement dans le contrôle de l'exécution des lois de finances et de l'application des lois de financement de la sécurité sociale ainsi que dans l'évaluation des politiques publiques. Par ses rapports publics, elle contribue à l'information des citoyens.
+La Cour des comptes assiste le Parlement dans le contrôle de l'action du gouvernement. Elle assiste le Parlement et le gouvernement dans le contrôle de l'exécution des lois de finances et de l'application des lois de financement de la sécurité sociale ainsi que dans l'évaluation financière des politiques publiques. Par ses rapports publics, elle contribue à l'information des citoyens.
 
 Les comptes des administrations publiques sont réguliers et sincères. Ils donnent une image fidèle du résultat de leur gestion, de leur patrimoine et de leur situation financière.
 
@@ -354,13 +360,13 @@ La loi organique fixe le délai de tenue du référendum et peut prévoir des ca
 
 .. article:: incompatibilité de mandat représentatif
 
-Les fonctions de membre du gouvernement, de membre du Conseil constitutionnel, de Défenseur des Droits, d'élu de collectivité territoriale, ainsi que de personnalité qualifiée membre du Conseil National de la Magistrature, sont incompatibles entre elles, ainsi qu'avec toute appartenance à l'ordre judiciaire et à l'ordre administratif, et avec l'exercice de tout mandat parlementaire, de toute fonction de représentation professionnelle à caractère national, et de tout emploi public ou de toute activité professionnelle.
+Les fonctions de membre du gouvernement, de membre de la Cour constitutionnelle, de Défenseur des Droits, d'élu de collectivité territoriale, ainsi que de personnalité qualifiée membre du Conseil National de la Magistrature, sont incompatibles entre elles, ainsi qu'avec toute appartenance à l'ordre judiciaire et à l'ordre administratif, et avec l'exercice de tout mandat parlementaire, de toute fonction de représentation professionnelle à caractère national, et de tout emploi public ou de toute activité professionnelle.
 
 L'exercice de ces fonctions requiert de plus la qualité d'électeur, ainsi que l'éligibilité.
 
 La loi établit les autres conditions de prise de fonctions de membre du gouvernement, de Défenseur des Droits, d'élu de collectivité territoriale ou de personnalité qualifiée membre du Conseil National de la Magistrature.
 
-La loi organique établit les autres conditions de prise de fonctions au Conseil constitutionnel.
+La loi organique établit les autres conditions de prise de fonctions à la Cour constitutionnelle.
 
 .. article:: commission de contrôle parlementaire
 
@@ -392,89 +398,53 @@ La République peut reconnaître la juridiction de la Cour pénale international
 
 .. article:: constitutionnalité des traités
 
-Si le Conseil constitutionnel, saisi par un nombre de citoyens fixé par loi organique, par le Chancelier de la République, par le Bureau ou un vingtième des membres de l'une ou l'autre assemblée ou du Congrès, a déclaré qu'un engagement international comporte une clause contraire à la Constitution, l'autorisation de ratifier ou d'approuver l'engagement international en cause ne peut intervenir qu'après révision de la Constitution.
+Si la formation textuelle de la Cour constitutionnelle, saisie par un nombre de citoyens fixé par loi organique, par le Chancelier de la République, par le Bureau ou un vingtième des membres de l'une ou l'autre assemblée ou du Congrès, a déclaré qu'un engagement international comporte une clause contraire à la Constitution, l'autorisation de ratifier ou d'approuver l'engagement international en cause ne peut intervenir qu'après révision de la Constitution.
 
 .. article:: hiérarchie des normes
 
 Les traités ou accords régulièrement ratifiés ou approuvés ont, dès leur publication, une autorité supérieure à celle des lois, sous réserve, pour chaque accord ou traité, de son application par l'autre partie ; mais cette autorité reste cependant inférieure à celle de la Constitution.
 
---------------------------------------
-Titre VII — Le Conseil constitutionnel
---------------------------------------
+----------------------------
+Titre VII — Les juridictions
+----------------------------
 
-.. article:: composition du Conseil constitutionnel
+.. article:: ordres de juridiction
 
-Le Conseil constitutionnel veille au respect de la Constitution. Il assure, par son arbitrage, le fonctionnement régulier des pouvoirs publics.
-
-Il comprend neuf membres, dont le mandat dure neuf ans. Le Conseil constitutionnel se renouvelle par tiers ; tous les trois ans, un membre est nommé par le président de l'Assemblée nationale, un par le président du Sénat, et un par une commission spéciale. Les nominations effectuées par le président de chaque assemblée sont soumises au seul avis de la commission permanente compétente de l'assemblée concernée. La commission spéciale est composée à moitié par les membres de la formation plénière du Conseil supérieur de la magistrature, et à moitié par des membres des deux assemblées parlementaires présents en nombres égaux pour chaque assemblée.
-
-Le président est le plus ancien membre en date à avoir été désigné par commission spéciale. Il a voix prépondérante en cas de partage.
-
-La durée de la période d'inéligibilité prévue à :artref:`inéligibilité post-mandature` est doublée dans le cas des membres du Conseil constitutionnel.
-
-.. article:: contrôle de la nomination du gouvernement
-
-Le Conseil constitutionnel veille au respect des modalités de :artref:`nomination du gouvernement`. Il statue sur la nomination du gouvernement, en cas de désaccord entre le président du Sénat et le président de l'Assemblée Nationale ou en cas de contestation.
-
-Il veille également à la régularité des motions de censure.
-
-.. article:: contrôle des élections législatives
-
-Le Conseil constitutionnel statue, en cas de contestation, sur la régularité de l'élection des députés et des sénateurs.
-
-.. article:: contrôle des référendums
-
-Le Conseil constitutionnel veille à la régularité des opérations de référendum prévues à :artref:`référendums`. Il en proclame les résultats qui sont aussitôt promulgués.
-
-.. article:: contrôle de constitutionnalité en instance législative
-
-Les lois organiques, avant leur promulgation, doivent être soumis au Conseil constitutionnel qui se prononce sur leur conformité à la Constitution. Dans les modalités prévues par :artref:`référendums`, il en est fait de même pour les référendums.
-
-Aux mêmes fins, les lois ainsi que les règlements des assemblées parlementaires et du Congrès peuvent être déférées au Conseil constitutionnel, avant leur promulgation, par le gouvernement, un nombre de citoyens fixé par loi organique, le Bureau de l'Assemblée nationale, le Bureau du Sénat ou un vingtième des membres d'une assemblée parlementaire ou du Congrès, ou si le Conseil constitutionnel s'en saisit lui-même.
-
-Dans les cas prévus aux alinéas précédents, le Conseil constitutionnel doit statuer dans le délai d'un mois.
-
-Dans ces mêmes cas, la saisine du Conseil constitutionnel suspend le délai de promulgation.
-
-Toutefois, s'il y a urgence et à la demande du Parlement, le Conseil constitutionnel doit statuer de manière préliminaire dans les huit jours, après lesquels la suspension du délai de promulgation est levée. Le Conseil constitutionnel peut amender son avis préliminaire dans le délai initial d'un mois après sa saisine, entraînant les conséquences prévues à :artref:`conséquence du contrôle`.
-
-.. article:: contrôle de constitutionnalité en instance juridictionnelle
-
-Lorsque, à l'occasion d'une instance en cours devant une juridiction, il est soutenu qu'une disposition législative porte atteinte à la Constitution, le Conseil constitutionnel peut être saisi de cette question sur renvoi du Conseil d'État ou de la Cour de cassation qui se prononce dans un délai déterminé.
-
-La loi organique détermine les conditions d'application du présent article.
-
-.. article:: conséquence du contrôle
-
-Une disposition déclarée inconstitutionnelle sur le fondement de :artref:`contrôle de constitutionnalité en instance législative` ne peut être promulguée ni mise en application.
-
-Une disposition déclarée inconstitutionnelle sur le fondement de :artref:`contrôle de constitutionnalité en instance juridictionnelle` est abrogée à compter de la publication de la décision du Conseil constitutionnel ou d'une date ultérieure fixée par cette décision. Le Conseil constitutionnel détermine les conditions et limites dans lesquelles les effets de la disposition sont susceptibles d'être remis en cause.
-
-Les décisions du Conseil constitutionnel ne sont susceptibles d'aucun recours. Elles s'imposent aux pouvoirs publics et à toutes les autorités administratives et juridictionnelles.
-
-.. article:: fonctionnement du Conseil constitutionnel
-
-La loi organique détermine les règles d'organisation et de fonctionnement du Conseil constitutionnel, la procédure qui est suivie devant lui et notamment les délais ouverts pour le saisir de contestations.
-
--------------------------------------
-Titre VIII — De l'autorité judiciaire
--------------------------------------
+Les juridictions ordinaires sont organisées entre l'ordre administratif et l'ordre judiciaire.
 
 .. article:: l'autorité judiciaire
 
-Le Conseil supérieur de la magistrature est garant de l'indépendance de l'autorité judiciaire.
-
-La loi organique porte statut des magistrats.
+Le Conseil supérieur de la magistrature garantit l'indépendance de l'autorité judiciaire.
 
 Les magistrats du siège sont inamovibles.
 
-.. article:: Conseil Supérieur de la Magistrature
+La loi organique porte statut des magistrats, et fixe le cadre de l'organisation des juridictions judiciaires.
+
+La Cour de cassation est la plus haute juridiction de l'ordre judiciaire.
+
+.. article:: la juridiction administrative
+
+La loi organique porte statut des magistrats de l'ordre administratifs, et fixe le cadre de l'organisation des juridictions administratives.
+
+La Cour suprême administrative est la plus haute juridiction de l'ordre administratif.
+
+.. article:: le tribunal électoral
+
+Le tribunal électoral fait partie de l'ordre administratif.
+
+Il publie la liste officielle des candidats et statue, en cas de contestation, sur la régularité de l'élection des membres du Parlement.
+
+Il veille à la régularité des opérations de référendum prévues à :artref:`référendums`. Il en proclame les résultats qui sont aussitôt promulgués.
+
+La loi peut étendre ses compétences à des opérations électorales et référendaires locales.
+
+.. article:: Conseil supérieur de la magistrature
 
 Le Conseil supérieur de la magistrature comprend une formation compétente à l'égard des magistrats du siège et une formation compétente à l'égard des magistrats du parquet.
 
-La formation compétente à l'égard des magistrats du siège est présidée par le premier président de la Cour de cassation. Elle comprend, en outre, cinq magistrats du siège et un magistrat du parquet, un conseiller d'État désigné par le Conseil d'État, un avocat ainsi que six personnalités qualifiées qui n'appartiennent ni au Parlement, ni à l'ordre judiciaire, ni à l'ordre administratif. Le président de l'Assemblée nationale et le président du Sénat désignent chacun trois personnalités qualifiées. Les nominations effectuées par le président de chaque assemblée du Parlement sont soumises au seul avis de la commission permanente compétente de l'assemblée intéressée.
+La formation compétente à l'égard des magistrats du siège est présidée par le premier président de la Cour de cassation. Elle comprend, en outre, cinq magistrats du siège et un magistrat du parquet, un membre de la Cour suprême administrative désigné par elle, un avocat ainsi que six personnalités qualifiées qui n'appartiennent ni au Parlement, ni à l'ordre judiciaire, ni à l'ordre administratif. Le président de l'Assemblée nationale et le président du Sénat désignent chacun trois personnalités qualifiées, nominations soumises au seul avis de la commission permanente compétente de l'assemblée intéressée.
 
-La formation compétente à l'égard des magistrats du parquet est présidée par le procureur général près la Cour de cassation. Elle comprend, en outre, cinq magistrats du parquet et un magistrat du siège, ainsi que le conseiller d'État, l'avocat et les six personnalités qualifiées mentionnés au deuxième alinéa.
+La formation compétente à l'égard des magistrats du parquet est présidée par le procureur général près la Cour de cassation. Elle comprend, en outre, cinq magistrats du parquet et un magistrat du siège, ainsi que le membre de la Cour suprême administrative, l'avocat et les six personnalités qualifiées mentionnés au deuxième alinéa.
 
 La formation du Conseil supérieur de la magistrature compétente à l'égard des magistrats du siège fait des propositions pour les nominations des magistrats du siège à la Cour de cassation, pour celles de premier président de cour d'appel et pour celles de président de tribunal de grande instance. Les autres magistrats du siège sont nommés sur son avis conforme.
 
@@ -484,23 +454,89 @@ La formation du Conseil supérieur de la magistrature compétente à l'égard de
 
 La formation du Conseil supérieur de la magistrature compétente à l'égard des magistrats du parquet donne son avis sur les sanctions disciplinaires qui les concernent. Elle comprend alors, outre les membres visés au troisième alinéa, le magistrat du parquet appartenant à la formation compétente à l'égard des magistrats du siège.
 
-Le Conseil supérieur de la magistrature se réunit en formation plénière au titre de :artref:`l'autorité judiciaire`. Il se prononce, dans la même formation, sur les questions relatives à la déontologie des magistrats ainsi que sur toute question relative au fonctionnement de la justice dont le saisit le gouvernement. La formation plénière comprend trois des cinq magistrats du siège mentionnés au deuxième alinéa, trois des cinq magistrats du parquet mentionnés au troisième alinéa, ainsi que le conseiller d'État, l'avocat et les six personnalités qualifiées mentionnés au deuxième alinéa. Elle est présidée par le premier président de la Cour de cassation, que peut suppléer le procureur général près cette cour.
+Le Conseil supérieur de la magistrature se réunit en formation plénière au titre de :artref:`l'autorité judiciaire`. Il se prononce, dans la même formation, sur les questions relatives à la déontologie des magistrats ainsi que sur toute question relative au fonctionnement de la justice dont le saisit le gouvernement. La formation plénière comprend trois des cinq magistrats du siège mentionnés au deuxième alinéa, trois des cinq magistrats du parquet mentionnés au troisième alinéa, ainsi que le membre de la Cour suprême administrative, l'avocat et les six personnalités qualifiées mentionnés au deuxième alinéa. Elle est présidée par le premier président de la Cour de cassation, que peut suppléer le procureur général près cette cour.
 
-Sauf en matière disciplinaire ou en commission spéciale, un délégué du gouvernement désigné par le Chancelier de la République peut participer aux séances des formations du Conseil supérieur de la magistrature.
+Sauf en matière disciplinaire, un délégué du gouvernement désigné par le Chancelier de la République peut participer aux séances des formations du Conseil supérieur de la magistrature.
 
 Le Conseil supérieur de la magistrature peut être saisi par un justiciable dans les conditions fixées par la loi organique.
 
 La loi organique détermine les conditions d'application du présent article.
 
-.. article:: habeas corpus
+----------------------------------------------
+Titre VIII — Le contrôle de constitutionnalité
+----------------------------------------------
 
-Nul ne peut être arbitrairement détenu.
+.. article:: la Cour constitutionnelle
 
-L'autorité judiciaire, gardienne de la liberté individuelle, assure le respect de ce principe dans les conditions prévues par la loi.
+La Cour constitutionnelle veille au respect de la Constitution. Elle assure, par son arbitrage, le fonctionnement régulier des pouvoirs publics.
 
-.. article:: peine de mort
+Elle comprend une formation générale, une formation textuelle et une formation parlementaire.
 
-Nul ne peut être condamné à la peine de mort.
+.. article:: composition de la Cour constitutionnelle
+
+Les membres de la formation générale de la Cour constitutionnelle sont nommés par une commission formée pour deux tiers de membres du Parlement, en nombre égal pour chaque assemblée et représentant les forces politiques en présence dans chaque assemblée, et pour un tiers des membres de la formation plénière du Conseil supérieur de la magistrature. La commission nomme les membres de la formation générale de manière à ce qu'au moins un tiers des membres de la formation soit issu du corps des magistrats judiciaires du siège, et au moins un tiers soit issu du corps des magistrats administratifs. La commission est convoquée de manière à ce que le nombre de membres de la formation générale non membres de la formation textuelle ne soit jamais inférieur à vingt-sept.
+
+Les membres de la formation textuelle de la Cour constitutionnelle sont au nombre de neuf. Ils sont nommés parmi les membres de la formation générale par les Bureaux des deux assemblées parlementaires, soit en nommant simultanément un nombre égal de membres pour chaque Bureau, soit en nommant un ou plusieurs membres par avis conjoint des deux Bureaux. En cas de vacance, la formation générale procède de manière temporaire aux remplacements nécessaires.
+
+Les membres de la formation parlementaire de la Cour constitutionnelle sont au nombre de neuf. Ils sont nommés par le Bureau des deux assemblées parlementaire selon la même procédure que dans le cas de la formation textuelle, de manière à ce qu'au moins une moitié des membres de la formation parlementaire soit issue d'anciens membres du Bureau d'une des assemblées parlementaires, de la formation générale de la Cour constitutionnelle, ou des corps des magistrats judiciaires du siège ou des magistrats administratifs. En cas de vacance, la formation générale procède de manière temporaire aux remplacements nécessaires parmi ses membres ; les fonctions desdits membres au sein des autres formations de la Cour constitutionnelle sont suspendues durant ce remplacement.
+
+Le président de la formation générale est nommé par la commission chargée de nommer ses membres.
+
+Le président de la formation textuelle et le président de la formation parlementaire sont chacun nommé conjointement par les deux Bureaux des deux assemblées parlementaires, la vacance étant assurée par le plus ancien membre de la formation à avoir été nommé par avis conjoint des deux Bureaux ou, en cas d'égalité, par le plus âgé de ces membres ou, à défaut, par le plus âgé des membres de la formation.
+
+Le président d'une formation a voix prépondérante en cas de partage.
+
+Les fonctions de président d'une formation de la Cour constitutionnelle prennent fin après trois ans ou à la fin de ses fonctions au sein de la formation.
+
+Chaque saisine de la formation générale de la Cour constitutionnelle est traitée par neuf de ses membres, désignés d'une manière prévue par la loi organique. Les membres récusés de l'affaire sont remplacés.
+
+Les anciens présidents des assemblées parlementaires ayant été en fonction pendant plus d'un an peuvent participer, sans droit de vote, aux séances de la formation parlementaire de la Cour constitutionnelle.
+
+La loi organique peut prévoir les conditions maximales d'âge, de durée de fonctions et de nombre de renouvellement des fonctions des membres des formations de la Cour constitutionnelle. Ces conditions doivent être identiques pour tous les membres de la formation textuelle, pour tous les membres de la formation parlementaire, et pour tous les membres de la formation générale non membres de la formation textuelle.
+
+La durée de la période d'inélégibilité prévue à :artref:`inéligibilité post-mandature` est doublée pour les membres de la Cour constitutionnelle.
+
+.. article:: contrôle de la nomination du gouvernement
+
+La formation parlementaire de la Cour constitutionnelle veille au respect des modalités de :artref:`nomination du gouvernement`. Elle statue sur la nomination du gouvernement, en cas de désaccord entre le président du Sénat et le président de l'Assemblée Nationale ou en cas de contestation.
+
+Elle veille également à la régularité de la censure du gouvernement.
+
+Elle peut également être saisie dans des conditions fixées par les règlements des assemblées pour juger de l'application dans les assemblées des règles de procédure prévues par la Constitution.
+
+La loi organique détermine les conditions d'application du présent article.
+
+.. article:: contrôle de constitutionnalité en instance législative
+
+Les lois organiques, avant leur promulgation, doivent être soumises à la Cour constitutionnelle qui se prononce sur leur conformité à la Constitution. Dans les modalités prévues par :artref:`référendums`, il en est fait de même pour les référendums.
+
+Aux mêmes fins, les lois ainsi que les règlements des assemblées parlementaires et du Congrès peuvent être déférées à la Cour constitutionnelle, avant leur promulgation, par un nombre de citoyens fixé par loi organique, le gouvernement, le Bureau de l'Assemblée nationale, le Bureau du Sénat ou un vingtième des membres d'une assemblée parlementaire ou du Congrès, ou si la Cour constitutionnelle s'en saisit elle-même.
+
+Aux mêmes fins, la Cour constitutionnelle peut être saisie d'une loi déjà promulguée par le même nombre de citoyens jusqu'à trois mois après sa promulgation et si la Cour constitutionnelle n'en a pas été précédemment saisie. Elle peut en outre être saisie d'une loi déjà promulguée après ce délai par un nombre de citoyens plus élevé fixé par loi organique, par le gouvernement, le Bureau de l'Assemblée nationale, le Bureau du Sénat ou un cinquième des membres d'une assemblée parlementaire ou du Congrès.
+
+La formation textuelle de la Cour constitutionnelle statue sur la conformité à la Constitution du texte déféré. La formation parlementaire statue sur la conformité à la Constitution des opérations parlementaires concernant le texte. La formation générale statue de toute autre question concernant la conformité à la Constitution.
+
+Dans les cas prévus au présent article, sauf dans le cadre de :artref:`référendums`, la Cour constitutionnelle doit statuer dans le délai d'un mois, et sa saisine suspend le délai de promulgation.
+
+Toutefois, à la demande du Parlement s'il y a urgence, la Cour constitutionnelle statue de manière préliminaire dans les huit jours, après lesquels la suspension du délai de promulgation est levée. La Cour constitutionnelle peut amender son avis préliminaire dans le délai initial d'un mois après sa saisine.
+
+.. article:: contrôle de constitutionnalité en instance juridictionnelle
+
+Lorsque, à l'occasion d'une instance en cours devant une juridiction, il est soutenu qu'une disposition législative ou réglementaire ou une décision rendue par une juridiction est contraire à la constitution, la Cour constitutionnelle peut être saisie de cette question sur renvoi de la Cour suprême administrative, de la Cour de cassation ou du tribunal électoral qui se prononcent dans un délai déterminé.
+
+Lorsque la formation générale de la Cour constitutionnelle détermine l'inconstitutionnalité d'une décision rendue en application d'une disposition législative ou réglementaire, la formation textuelle est saisie de la question de la conformité à la Constitution de la disposition législative ou réglementaire en cause.
+
+La loi organique détermine les conditions d'application du présent article.
+
+.. article:: conséquence du contrôle
+
+Un avis d'inconstitutionnalité par au moins une des formations de la Cour constitutionnelles saisies d'une question entraîne la déclaration d'inconstitutionnalité par la Cour constitutionnelle. Seul l'avis majoritaire de chaque formation est réputé décision de la Cour constitutionnelle.
+
+Une disposition non promulguée et déclarée inconstitutionnelle ne peut être promulguée ni mise en application. Les autres dispositions du texte déféré ne peuvent être promulguées à moins que le Parlement ait exprimé, avant le contrôle du texte, la manière dont le texte peut être divisé.
+
+Une disposition déjà promulguée ou mise en application et déclarée inconstitutionnelle est abrogée à compter de la déclaration d'inconstitutionnalité. Le cas échéant, le texte législatif résultant de la décision est déterminé par la formation textuelle de la Cour constitutionnelle, le texte réglementaire par la Cour suprême administrative, et toute autre disposition par la formation générale qui peut en renvoyer tout ou partie à la Cour de cassation ou à la Cour suprême administrative. Ces textes et dispositions peuvent comporter des mesures transitoires. Dans le cadre du présent alinéa, les membres des Bureaux des assemblées parlementaires peuvent assister, sans droit de vote, aux séances de la formation textuelle.
+
+Les décisions de la Cour constitutionnelle ne sont susceptibles d'aucun recours. Elles s'imposent aux pouvoirs publics et à toutes les autorités administratives et juridictionnelles.
 
 ------------------------------------------------------------------
 Titre IX — De la responsabilité pénale des membres du gouvernement

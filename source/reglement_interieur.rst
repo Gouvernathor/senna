@@ -368,7 +368,7 @@ Le retrait de la part d'un nominé au poste de Chancelier entraîne l'invalidati
 
 Lorsque le Bureau de l'assemblée détermine que les conditions prévues par la Constitution pour qu'une pétition soit nommée au gouvernement sont réunies, le président de l'assemblée transmet une requête de nomination de cette pétition au Bureau de l'autre assemblée.
 
-En cas de réception d'une requête de nomination, si le Bureau restreint ne décide pas d'un recours auprès du Conseil constitutionnel concernant la validité de la requête, le président confirme la nomination de la pétition comme nouveau gouvernement.
+En cas de réception d'une requête de nomination, si le Bureau restreint ne décide pas d'un recours auprès de la Cour constitutionnelle concernant la validité de la requête, le président confirme la nomination de la pétition comme nouveau gouvernement.
 
 ------------------------------
 IX. Comptes-rendus des séances
@@ -671,7 +671,7 @@ Au plus une de ces motions peut être adoptée. Le vote se fait par approbation.
 
 .. article:: (AN) retrait de référendum
 
-Après une décision du Conseil constitutionnel portant non-conformité partielle d'un texte proposé en référendum conformément à :artref:`(AN, S) adoption sans l'autre assemblée`, une motion portant retrait du référendum est placée d'office en priorité dans l'ordre du jour de la séance suivante.
+Après une décision de la Cour constitutionnelle portant non-conformité partielle d'un texte proposé en référendum conformément à :artref:`(AN, S) adoption sans l'autre assemblée`, une motion portant retrait du référendum est placée d'office en priorité dans l'ordre du jour de la séance suivante.
 
 En cas de non-conformité totale, le référendum est considéré d'office comme retiré par l'Assemblée Nationale.
 

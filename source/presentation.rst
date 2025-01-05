@@ -24,12 +24,12 @@ Une petite liste, dont les différents points seront développés plus en détai
 - référendums : initiative citoyenne, du parlement, ou de l'assemblée nationale dans certains cas (pas de plébiscite, et droit d'amendement du parlement sur les projets de référendums)
 - révision de la constitution : initiative citoyenne ou du parlement, adoption par Congrès ou par référendum (avec par pétition citoyenne un recours obligatoire au référendum)
 - dissolution : prévu uniquement par loi organique, mais par pétition, ou par décision de l'assemblée elle-même, facilitée voire automatique sans majorité gouvernementale pendant un certain temps
-- nomination du Conseil Constitutionnel : le Parlement et le Conseil Supérieur de la Magistrature (plus de siège à vie évidemment)
+- nomination de la Cour Constitutionnelle : surtout le Parlement, et le Conseil Supérieur de la Magistrature (plus de siège à vie évidemment)
 - nomination aux emplois civils et militaires : Chancellerie
 - chef des armées : le gouvernement
-- promulgation des lois : automatique après un délai pendant lequel le Conseil Constitutionnel peut être saisi
+- promulgation des lois : automatique après un délai pendant lequel la Cour Constitutionnelle peut être saisie
 - ratification des traités : le Parlement seul, ou le gouvernement sur certains sujets
-- "veiller au respect de la constitution" et assurer un arbitrage : le Conseil Constitutionnel
+- "veiller au respect de la constitution" et assurer un arbitrage : la Cour Constitutionnelle
 - garant de l'indépendance de l'autorité judiciaire : le Conseil Supérieur de la Magistrature
 - "assurer la continuité de l'état" : le gouvernement
 - article 16 et pouvoir illimité : non
@@ -117,7 +117,7 @@ Les travaux de la constituante peuvent aboutir à plusieurs choses :
 - un texte amendant la constitution
 - plusieurs amendements dont un ou plusieurs peuvent être adoptés
 
-  - par exemples deux amendements à des parties différentes de la constitution sans rapport entre eux, comme le seuil de signatures pour une pétition référendaire et la composition du Conseil constitutionnel
+  - par exemples deux amendements à des parties différentes de la constitution sans rapport entre eux, comme le seuil de signatures pour une pétition référendaire et la composition de la Cour constitutionnelle
   - dans ce cas le référendum sera une série de questions indépendantes posées aux citoyens
 
 - plusieurs propositions alternatives d'amendements dont un seul peut être adopté
@@ -151,7 +151,7 @@ Parmi les détails :
 
 - Les pétitions qui sont majoritaires dans les deux assemblées à la fois priment, parce que c'est quand même mieux de mettre tout le monde d'accord. Faute de ça l'assemblée nationale prime sur le sénat, et si aucune pétition n'est majoritaire dans aucune chambre, c'est l'assemblée nationale qui désigne un gouvernement minoritaire, cas que je détaillerai plus loin. C'est ce qu'on appelle la "priorité" des pétitions. Ensuite, entre deux pétitions ayant la même priorité, c'est celle qui réunit simplement le plus de signatures (au sein des assemblées dans lesquelles elle est majoritaire (sinon de l'assemblée nationale), pour simplifier les calculs).
 - Une certaine stabilité est garantie par deux éléments : un remplacement n'est obligatoire que quand une pétition a une priorité plus grande que le gouvenement en place (voir point précédent), ce qui logiquement ne peut arriver que trois fois de suite, et en plus il y a une période de carence fixée par loi organique pour le remplacement du gouvernement, donc le gouvernement ne peut pas changer trois fois par jour.
-- La pétition gagnante est annoncée par les présidents des assemblées, et tout ça est arbitré par le Conseil Constitutionnel en cas de désaccord (= en cas de mauvaise foi des présidents).
+- La pétition gagnante est annoncée par les présidents des assemblées, et tout ça est arbitré par la formation parlementaire de la Cour Constitutionnelle en cas de désaccord (= en cas de mauvaise foi des présidents).
 - La loi est là comme filet pour les cas extrêmes, pour nommer les remplaçants de secours.
 - Les pétitions et les approbations des parlementaires sont publiques.
 - Personne ne peut être nommé au gouvernement sans son accord, ou être nommé Chancelier avec quelqu'un qu'on n'approuve pas dans son gouvernement, à cause de la manière dont les pétitions sont signées par ceux qu'elles citent : chacun signe sa propre présence, et le (futur) Chancelier signe le tout et chaque modification.
@@ -255,27 +255,12 @@ Je n'ai pas prévu, par exemple, de "principes" qui ne seraient pas des droits, 
 
 Les droits à y placer sont une grande interrogation pour moi - principalement parce que ce n'est pas une tâche de constitutionnaliste, ça n'a rien à voir avec le reste de l'organisation des pouvoirs publics à part certains cas précis comme le droit de vote - mais j'ai essayé d'y mettre deux éléments qui me semblent importants : d'une part, le droit à la vie dans un environnement sain, d'où découle tout l'impératif à valeur constitutionnelle de protection de l'environment, et d'autre part le droit fondamental à l'indifférenciation, qui est le contraire de la discrimination.
 
-Le Conseil Constitutionnel
-==========================
+Justice et juridictions
+=======================
 
-Composition
------------
+Le Conseil constitutionnel subit des transformations d'ampleur, tant dans son rôle que dans son fonctionnement. Tout ceci, et certains changements concernant la justice, sont détaillés spécifiquement sur la page :doc:`presentation_juridictions`.
 
-Pour changer le moins de choses possible, j'ai conservé un Conseil à neuf membres nommés par tiers tous les trois ans.
+Autres institutions
+===================
 
-Avec la disparition du président, la nomination des membres du Conseil change forcément un peu. Les commissions compétentes de l'Assemblée et du Sénat nomment toujours trois membres chacune sur proposition du président de la chambre, mais les trois membres restants (dont le président) sont désignés par une commission spéciale, composée à moitié du Conseil supérieur de la magistrature et à moitié de représentants de l'Assemblée et du Sénat.
-
-La loi organique peut en plus de ça limiter qui peut être nommé au Conseil Constitutionnel (c'est à :artref:`incompatibilité de mandat représentatif`).
-
-L'objectif est - en-dehors de trouver une solution à l'absence de président - de recentrer la composition du conseil sur des juristes, en tout cas pour au moins un tiers d'entre eux.
-
-Rôles
------
-
-Le Conseil conserve son rôle principal de contrôle de la constitutionnalité des lois, soit a priori quand une loi est adoptée, soit a posteriori avec une QPC. Ceci dit, il est précisé en loi organique d'une part que le respect des réglements des assemblées est nécessaire pour l'adoption régulière d'une loi, donc on garantit bien les droits de la minorité parlementaire. D'autre part, une loi considérée comme partiellement inconstitutionnelle doit être entièrement renvoyée au Parlement, sauf si le Parlement a explicitement dit comment la loi pouvait être divisée : quand deux mesures viennent d'un compromis, il est injuste que l'une puisse être censurée et pas l'autre alors qu'aucune n'aurait pu être adoptée seule. Si deux mesures sont indépendantes, le législateur peut soit en faire des lois différentes, soit préciser explicitement qu'elles sont indépendantes. Ça peut prendre la forme d'une résolution conjointe aux deux chambres votée en même temps que la loi, par exemple.
-
-Le rôle de juge électoral des élections parlementaires (et des référendums) lui est pour l'instant toujours réservé, quoique je réfléchis au fait de le confier à un tribunal plus ordinaire.
-
-En plus de ça, il lui est confié le rôle d'arbitre dans la nomination du gouvernement, de vérifier le respect des procédures décrites plus haut, concernant principalement les pétitions de gouvernement et les motions de censure. Si les présidents des assemblées jouent leur rôle sérieusement, ça ne devrait pas être nécessaire très souvent. Si la compétence de juge électoral est transférée, celle-ci le sera probablement aussi.
-
-.. possibles évolutions, cour suprême, cour constitutionnelle, séparation d'un tribunal électoral...
+Le Conseil d'état, qui n'a plus de rôle juridictionnel, se dédie uniquement à son rôle consultatif, de conseil. Il est maintenant explicitement cité dans la constitution, et la formulation est inspirée de celle concernant la Cour des Comptes. Comme elle, il assiste maintenant le parlement (au moins) autant que le gouvernement, ainsi que le public.

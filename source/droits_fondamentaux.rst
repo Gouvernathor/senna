@@ -9,15 +9,15 @@ Charte des droits fondamentaux
 
     Néanmoins, j'ai une opinion sur le sujet, donc j'écris quelques idées de droits qui me semblent fondamentaux dans cette Charte. Gardez simplement à l'esprit que c'est détachable du reste, et que ça ne cherche en aucun cas à être exhaustif.
 
-    Sur la forme *(et je remets ma casquette de constitutionnaliste)* : cette Charte est nouvelle, pourquoi ? Simplement parce que le modèle de la Cinquième est catastrophique. La plupart des droits fondamentaux à valeur constitutionnelle sont liés indirectement, en étant inscrits dans le préambule de la constitution de 1946, lui-même mentionné dans le *préambule* de la Cinquième... On a donc un texte qu'on ne peut pas amender, ni pour le clarifier, ni pour le reformuler, ni pour le compléter : typiquement, les nouveaux droits ajoutés à la constitution ont été mis dans des articles supplémentaires, les 66-1 sur la peine de mort et bientôt, peut-être, 66-2 sur l'avortement. En plein milieu d'articles qui n'ont rien à voir avec des droits fondamentaux, et séparé des autres droits fondamentaux reconnus par la constitution. Ça a aussi été fait en référençant une charte de l'environnement, là aussi non-amendable, dans le préambule de la Cinquième.
+    Sur la forme *(et je remets ma casquette de constitutionnaliste)* : cette Charte est nouvelle, pourquoi ? Simplement parce que le modèle de la Cinquième est catastrophique. La plupart des droits fondamentaux à valeur constitutionnelle sont liés indirectement, en étant inscrits dans le préambule de la constitution de 1946, lui-même mentionné dans le *préambule* de la Cinquième... On a donc un texte qu'on ne peut pas amender, ni pour le clarifier, ni pour le reformuler, ni pour le compléter : typiquement, les nouveaux droits ajoutés à la constitution ont été mis dans des articles supplémentaires comme le 66-1 sur la peine de mort, et l'avortement dans l'article 34 sur les limites du domaine de la loi. En plein milieu d'articles qui n'ont rien à voir avec des droits fondamentaux, et séparé des autres droits fondamentaux reconnus par la constitution. Ça a aussi été fait en référençant une charte de l'environnement, là aussi non-amendable, dans le préambule de la Cinquième.
 
-    Avec cette nouvelle forme, on se retrouve avec deux textes constitutionnels, le premier étant la Constitution elle-même et faisant référence au second, la Charte. Le premier concerne le fonctionnement de la république, le second les droits fondamentaux. Ils ne se mélangent pas et les deux sont amendables.
+    Avec cette nouvelle forme, on se retrouve avec deux textes constitutionnels, le premier étant la Constitution elle-même et faisant référence au second, la Charte. Le premier concerne le fonctionnement de la république, le second les droits fondamentaux. Ils ne se mélangent pas, les deux sont amendables, les deux ont la même valeur.
 
 .. article:: droit à l'indifférenciation
 
 Les êtres humains naissent et demeurent libres et égaux en droits. Les distinctions sociales ne peuvent être fondées que sur l'utilité commune.
 
-Chaque individu a le droit à l'indifférenciation vis-à-vis de son lieu de naissance, de vie ou de résidence, de ses idées, pensées ou opinions, et de toute qualité issue de sa naissance, découlant d'une telle qualité, ou dont il n'a pas le pouvoir de se défaire. L'autorité publique ne peut traiter différemment les individus selon ces critères.
+Chaque individu a le droit à l'indifférenciation vis-à-vis de son lieu de naissance, d'origine, de vie ou de résidence, de ses idées, pensées ou opinions, et de toute qualité issue de sa naissance, découlant d'une telle qualité, ou dont il n'a pas le pouvoir de se défaire. L'autorité publique ne peut traiter différemment les individus selon ces critères.
 
 .. Aucun individu ne peut être sujet à un traitement spécifique ou différent de la part de l'autorité publique sur la base de caractéristiques innées ou indépendantes de sa volonté. Toute mesure prise par l'État ou les autorités publiques pour lutter contre la discrimination doit être adaptée au préjudice subi par l'individu qui en a été victime, et ne peut pas être appliquée à des groupes ou des collectivités sur la base de caractéristiques protégées par cet article.
 
@@ -43,7 +43,21 @@ Toute limitation à la liberté d'expression ne peut se justifier par la nature 
 
 .. article:: circonscription de l'autorité publique
 
-L'autorité publique ne s'exerce que dans les limites du territoire dont la population fonde sa souveraineté, et dans des territoires sans population. Cette limitation déroge aux considérations de :artref:`droit à l'indifférenciation`.
+L'autorité publique ne s'exerce que dans les limites du territoire dont la population fonde la souveraineté de cette autorité, et dans des territoires sans population. Cette limitation déroge aux considérations de :artref:`droit à l'indifférenciation`.
+
+.. article:: légalité des délits et des peines
+
+Nul ne peut être condamné pour un acte qui, au moment où il a été commis, ne constituait pas une infraction d'après la loi. De même, nul ne peut être condamné à une peine qui n'était pas prévue par la loi au moment où l'infraction a été commise.
+
+.. article:: habeas corpus
+
+Nul ne peut être arbitrairement détenu.
+
+L'autorité judiciaire, gardienne de la liberté individuelle, assure le respect de ce principe dans les conditions prévues par la loi.
+
+.. article:: peine de mort
+
+Nul ne peut être condamné à la peine de mort.
 
 
 ..

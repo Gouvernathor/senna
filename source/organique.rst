@@ -243,40 +243,42 @@ Article unique - quorum populaire
 Le nombre de citoyens nécessaire pour la saisine prévue à :artref:`constitutionnalité des traités` est d'un centième des citoyens inscrits sur les listes électorales.
 
 ---------------------------------------------------------------------------
+Relative à :artref:`contrôle de la nomination du gouvernement`
+---------------------------------------------------------------------------
+
+Article premier - contrôle de la nomination du gouvernement et des motions de censure
+-------------------------------------------------------------------------------------
+La formation parlementaire de la Cour constitutionnelle est informée par les assemblées parlementaires de l'évolution des pétitions de gouvernement et de leurs signatures, et du dépôt de motions de censure.
+
+Elle peut être saisie en contestation par tout candidat à la Chancellerie dont la pétition de gouvernement reçoit le soutien d'au moins un vingtième du nombre total de parlementaires, ou par l'un des organes auxquels :artref:`contrôle de constitutionnalité en instance législative` confère le pouvoir de saisine pour le contrôle d'une loi ordinaire. Elle statue ensuite dans un délai de sept jours.
+
+Article 2 - contrôle de la procédure parlementaire
+--------------------------------------------------
+La formation parlementaire de la Cour constitutionnelle peut être saisie de contestations :
+- de la déclaration par un organe parlementaire qu'un amendement ou un texte proposé par un membre du parlement est irrecevable en vertu de la Constitution ;
+- des conditions de déroulement d'une élection, au sein d'une assemblée parlementaire ou d'un de ses organes.
+
+La saisine est déposée par un groupe parlementaire, par un membre du Parlement avec l'agrément de son groupe parlementaire, ou par un membre du Parlement n'appartenant à aucun groupe parlementaire depuis six mois ou depuis le dernier renouvellement de ses fonctions. Le règlement intérieur de chaque assemblée parlementaire peut prévoir un nombre minimal de membres du Parlement déposant la saisine.
+
+---------------------------------------------------------------------------
 Relative à :artref:`contrôle de constitutionnalité en instance législative`
 ---------------------------------------------------------------------------
 
 Article unique - quorum populaire
 ----------------------------------
-Le nombre de citoyens nécessaire pour la saisine prévue à :artref:`contrôle de constitutionnalité en instance législative` est d'un centième des citoyens inscrits sur les listes électorales.
+Le nombre de citoyens nécessaire pour la saisine prévue à :artref:`contrôle de constitutionnalité en instance législative`, avant la promulgation d'une loi ou jusqu'à trois mois après sa promulgation, est d'un centième des citoyens inscrits sur les listes électorales.
+
+Le nombre de citoyens en-dehors de ces délais est de cinq centièmes des citoyens inscrits sur les listes électorales.
 
 .. --------------------------------------------------------------------------------
 .. Relative à :artref:`contrôle de constitutionnalité en instance juridictionnelle`
 .. --------------------------------------------------------------------------------
 
---------------------------------------------------------------
-Relative à :artref:`fonctionnement du Conseil constitutionnel`
---------------------------------------------------------------
-
-Article premier - conséquences du contrôle en instance législative
-------------------------------------------------------------------
-Dans le cas où certaines des dispositions d'un texte adopté par le Parlement seraient déclarées inconstitutionnelles avant sa promulgation, le texte est renvoyé à la dernière assemblée parlementaire à l'avoir considéré. Les autres dispositions du texte ne sont pas promulguées, sauf dans le cas où le Parlement exprimerait avant l'adoption du texte la manière dont il peut être divisé.
-
-Article 2 - contrôle de la procédure parlementaire
---------------------------------------------------
-Un texte ou une partie d'un texte réputés adoptés en violation des procédures prévues par les réglements des assemblées ne peut être considéré comme adopté par le Parlement de manière régulière. En conséquence, le contrôle du Conseil constitutionnel le reconnaît non-conforme à la Constitution.
-
-.. délais ouverts pour la saisine
-
-Article 3 - contrôle de la nomination du gouvernement et des motions de censure
--------------------------------------------------------------------------------
-Le Conseil constitutionnel est informé par les assemblées parlementaires de l'évolution des pétitions de gouvernement et de leurs signatures, et du dépôt de motions de censure.
-
-Il peut être saisi en contestation par tout candidat à la Chancellerie dont la pétition de gouvernement reçoit le soutien d'au moins un vingtième du nombre total de parlementaires, ou par l'un des organes auxquels :artref:`contrôle de constitutionnalité en instance législative` confère le pouvoir de saisine pour le contrôle d'une loi ordinaire. Il statue ensuite dans un délai de sept jours.
-
 .. ------------------------------------------------------------
 .. Relative à :artref:`l'autorité judiciaire`
 .. ------------------------------------------------------------
+
+.. statut des magistrats (?)
 
 .. ------------------------------------------------------------
 .. Relative à :artref:`conseil supérieur de la magistrature`
