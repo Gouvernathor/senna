@@ -234,9 +234,7 @@ Nul ne peut appartenir à la fois à l'Assemblée nationale et au Conseil de la 
 
 Les membres du Parlement ne peuvent faire partie du Conseil économique, ni de l'Assemblée de l'Union française.
 
-Titre III
-
- - Du Conseil Économique
+Titre III - Du Conseil Économique
 =================================
 
 Article 25
