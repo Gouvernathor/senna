@@ -28,15 +28,15 @@ Elle est accompagnée de textes organiques et du règlement des assemblées parl
    reglement_interieur
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: Pour comparaison :
 
-   constitution_4
+   constitution_5
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
-   constitution_5
+   constitution_4
 
 .. reglement_unga
 
