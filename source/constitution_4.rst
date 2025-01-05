@@ -105,7 +105,7 @@ Le nombre des membres du Conseil de la République ne peut être inférieur à d
 Article 7
 ---------
 
-La guerre ne peut être déclarée sans un vote de l'Assemblée nationale et l'avis préalable du Conseil de la République.
+La guerre ne peut être déclarée sans un vote de l'Assemblée nationale et l'avis préalable du Conseil de la République. L'état de siège est déclaré dans les conditions prévues par la loi.
 
 Article 8
 ---------
@@ -115,9 +115,9 @@ Chacune des deux Chambres est juge de l'éligibilité de ses membres et de la r�
 Article 9
 ---------
 
-L'Assemblée nationale se réunit de plein droit en session annuelle le second mardi de janvier.
+L'Assemblée nationale se réunit de plein droit le premier mardi d'octobre.
 
-La durée totale des interruptions de la session ne peut excéder quatre mois. Sont considérés comme interruptions de séances les ajournements de session supérieurs à dix jours.
+Lorsque cette session a duré sept mois au moins, le président du conseil peut en prononcer la clôture par décret pris en conseil des ministres. Dans cette durée de sept mois ne sont pas comprises les interruptions de sessions. Sont considérés comme interruptions de séances les ajournements de séance supérieurs à huit jours francs.
 
 Le Conseil de la République siège en même temps que l'Assemblée nationale.
 
@@ -131,14 +131,18 @@ Chacune des deux Chambres peut se constituer en comité secret.
 Article 11
 ----------
 
-Chacune des deux Chambres élit son bureau chaque année, au début de la session, à la représentation proportionnelle des groupes.
+Chacune des deux Chambres élit son bureau chaque année au début de la session ordinaire et dans les conditions prévues par son règlement.
 
 Lorsque les deux Chambres se réunissent pour l'élection du président de la République, leur bureau est celui de l'Assemblée nationale.
 
 Article 12
 ----------
 
-Quand l'Assemblée nationale ne siège pas, son bureau, contrôlant l'action du Cabinet, peut convoquer le Parlement ; il doit le faire à la demande du tiers des députés ou à celle du président du Conseil des ministres.
+Quand l'Assemblée nationale ne siège pas, son bureau peut convoquer le Parlement en session extraordinaire ; le président de l'Assemblée nationale doit le faire à la demande du président du conseil des ministres ou à celle de la majorité des membres composant l'Assemblée nationale.
+
+Le président du conseil prononce la clôture de la session extraordinaire dans les formes prévues à l'article 9.
+
+Lorsque la session extraordinaire a lieu à la demande de la majorité de l'Assemblée nationale ou de son bureau, le décret de clôture ne peut être pris avant que le Parlement n'ait épuisé l'ordre du jour limité pour lequel il a été convoqué.
 
 Article 13
 ----------
@@ -150,9 +154,9 @@ Article 14
 
 Le président du Conseil des ministres et les membres du Parlement ont l'initiative des lois.
 
-Les projets de loi et les propositions de loi formulés par les membres de l'Assemblée nationale sont déposés sur le bureau de celle-ci.
+Les projets de loi sont déposés sur le bureau de l'Assemblée nationale ou sur le bureau du Conseil de la République. Toutefois, les projets de loi tendant à autoriser la ratification des traités prévus à l'article 27, les projets de loi budgétaires ou de finances et les projets comportant diminution de recettes ou création de dépenses doivent être déposées au bureau de l'Assemblée nationale.
 
-Les propositions de loi formulées par les membres du Conseil de la République sont déposées sur le bureau de celui-ci et transmises sans débat au bureau de l'Assemblée nationale. Elles ne sont pas recevables lorsqu'elles auraient pour conséquence une diminution de recettes ou une création de dépenses.
+Les propositions de loi formulées par les membres du Parlement sont déposées sur le bureau de la Chambre dont ils font partie, et transmises après adoption à l'autre Chambre. Les propositions de loi formulées par les membres du Conseil de la République ne sont pas recevables lorsqu'elles auraient pour conséquence une diminution de recettes ou une création de dépenses.
 
 Article 15
 ----------
@@ -192,13 +196,21 @@ L'amnistie ne peut être accordée que par une loi.
 Article 20
 ----------
 
-Le Conseil de la République examine, pour avis, les projets et propositions de loi votés en première lecture par l'Assemblée nationale.
+Tout projet ou proposition de loi est examiné successivement par les deux Chambres du Parlement en vue de parvenir à l'adoption d'un texte identique.
 
-Il donne son avis au plus tard dans les deux mois qui suivent la transmission par l'Assemblée nationale. Quand il s'agit de la loi du budget, ce délai est abrégé, le cas échéant, de façon à ne pas excéder le temps utilisé par l'Assemblée nationale pour son examen et son vote. Quand l'Assemblée nationale décide l'adoption d'une procédure d'urgence, le Conseil de la République donne son avis dans le même délai que celui prévu pour les débats de l'Assemblée nationale par le règlement de celle-ci. Les délais prévus au présent article sont suspendus pendant les interruptions de session. Ils peuvent être prolongés par décision de l'Assemblée nationale.
+A moins que le projet ou la proposition n'ait été examiné par lui en première lecture, le Conseil de la République se prononce au plus tard dans les deux mois qui suivent la transmission du texte adopté en première lecture par l'Assemblée nationale.
 
-Si l'avis du Conseil de la République est conforme ou s'il n'a pas été donné dans les délais prévus à l'alinéa précédent, la loi est promulguée dans le texte voté par l'Assemblée nationale.
+En ce qui concerne les textes budgétaires et la loi de finances, le délai imparti au Conseil de la République ne doit pas excéder le temps précédemment utilisé par l'Assemblée nationale pour leur examen et leur vote. En cas de procédure d'urgence déclarée par l'Assemblée nationale, le délai est le double de celui prévu pour les débats de l'Assemblée nationale par le règlement de celle-ci.
 
-Si l'avis n'est pas conforme, l'Assemblée nationale examine le projet ou la proposition de loi en seconde lecture. Elle statue définitivement et souverainement sur les seuls amendements proposés par le Conseil de la République, en les acceptant ou en les rejetant en tout ou en partie. En cas de rejet total ou partiel de ces amendements, le vote en seconde lecture de la loi a lieu au scrutin public, à la majorité absolue des membres composant l'Assemblée nationale, lorsque le vote sur l'ensemble a été émis par le Conseil de la République dans les mêmes conditions.
+Si le Conseil de la République ne s'est pas prononcé dans les délais prévus au précédents alinéas, la loi est en état d'être promulguée dans le texte voté par l'Assemblée nationale.
+
+Si l'accord n'est pas intervenu, l'examen se poursuit devant chacune des deux Chambres. Après deux lectures par le Conseil de la République, chaque Chambre dispose, à cet effet, du délai utilisé par l'autre Chambre lors de la lecture précédente, sans que ce délai puisse être inférieur à sept jours ou à un jour pour les textes visés au troisième alinéa.
+
+A défaut d'accord dans un délai de cent jours à compter de la transmission du texte au Conseil de la République pour deuxième lecture, ramené à un mois pour les textes budgétaires et la loi de finances et à quinze jours en cas de procédure applicable aux affaires urgentes, l'Assemblée nationale peut statuer définitivement en reprenant le dernier texte voté par elle ou en le modifiant par l'adoption d'un ou plusieurs amendements proposés à ce texte par le Conseil de la République.
+
+Si l'Assemblée nationale dépasse ou prolonge les délais d'examen dont elle dispose, le délai prévu pour l'accord des deux Chambres est augmenté d'autant.
+
+Les délais au présent article sont suspendus pendant les interruptions de session. Ils peuvent être prolongés par décision de l'Assemblée nationale.
 
 Article 21
 ----------
@@ -208,7 +220,7 @@ Aucun membre du Parlement ne peut être poursuivi, recherché, arrêté, détenu
 Article 22
 ----------
 
-Aucun membre du Parlement ne peut, pendant la durée de son mandat, être poursuivi ou arrêté en matière criminelle ou correctionnelle qu'avec l'autorisation de la Chambre dont il fait partie, sauf le cas de flagrant délit. La détention ou la poursuite d'un membre du Parlement est suspendue si la Chambre dont il fait partie le requiert.
+Aucun membre du Parlement ne peut, pendant la durée des sessions, être poursuivi ou arrêté en matière criminelle ou correctionnelle qu'avec l'autorisation de la Chambre dont il fait partie, sauf en cas de flagrant délit. Tout parlementaire arrêté hors session peut voter par délégation tant que la Chambre dont il fait partie ne s'est pas prononcée sur la levée de son immunité parlementaire. Si elle ne s'est pas prononcée dans les trente jours qui suivront l'ouverture de la session, le parlementaire arrêté sera libéré de plein droit. Sauf les cas de flagrant délit, de poursuites autorisées ou de condamnation définitive, aucun membre du Parlement ne peut, hors session, être arrêté qu'avec l'autorisation du bureau de la Chambre dont il fait partie. La détention ou la poursuite d'un membre du Parlement est suspendue si la Chambre dont il fait partie le requiert.
 
 Article 23
 ----------
@@ -222,7 +234,9 @@ Nul ne peut appartenir à la fois à l'Assemblée nationale et au Conseil de la 
 
 Les membres du Parlement ne peuvent faire partie du Conseil économique, ni de l'Assemblée de l'Union française.
 
-Titre III - Du Conseil Économique
+Titre III
+
+ - Du Conseil Économique
 =================================
 
 Article 25
@@ -357,9 +371,11 @@ Article 45
 
 Au début de chaque législature, le président de la République, après les consultations d'usage, désigne le président du Conseil.
 
-Celui-ci soumet à l'Assemblée nationale le programme et la politique du Cabinet qu'il se propose de constituer.
+Celui-ci choisit les membres de son Cabinet et en fait connaître la liste à l'Assemblée nationale devant laquelle il se présente afin d'obtenir sa confiance sur le programme et la politique qu'il compte poursuivre, sauf en cas de force majeure empêchant la réunion de l'Assemblée nationale.
 
-Le président du Conseil et les ministres ne peuvent être nommés qu'après que le président du Conseil ait été investi de la confiance de l'Assemblée au scrutin public et à la majorité absolue des députés, sauf cas de force majeure empêchant la réunion de l'Assemblée nationale.
+Le vote a lieu au scrutin secret et à la majorité simple.
+
+Il en est de même au cours de la législature, en cas de vacance de la présidence du Conseil, sauf ce qui est dit à l'article 52.
 
 Il en est de même au cours de la législature, en cas de vacance par décès, démission ou toute autre cause, sauf en ce qui est dit à l'article 52 ci-dessous.
 
@@ -393,9 +409,9 @@ Article 49
 
 La question de confiance ne peut être posée qu'après délibération du Conseil des ministres ; elle ne peut l'être que par le président du Conseil.
 
-Le vote sur la question de confiance ne peut intervenir qu'un jour franc après qu'elle a été posée devant l'Assemblée. Il a lieu au scrutin public.
+Le vote sur la question de confiance ne peut intervenir que vingt-quatre heures après qu'elle a été posée devant l'Assemblée. Il a lieu au scrutin public.
 
-La confiance ne peut être refusée au Cabinet qu'à la majorité absolue des députés à l'Assemblée.
+La confiance est refusée au Cabinet à la majorité absolue des députés à l'Assemblée.
 
 Ce refus entraîne la démission collective du Cabinet.
 
@@ -404,7 +420,7 @@ Article 50
 
 Le vote par l'Assemblée nationale d'une motion de censure entraîne la démission collective du Cabinet.
 
-Ce vote ne peut intervenir qu'un jour franc après le dépôt de la motion. Il a lieu au scrutin public.
+Le vote sur la motion de censure a lieu dans les mêmes conditions et les mêmes formes que le scrutin sur la question de confiance.
 
 La motion de censure ne peut être adoptée qu'à la majorité absolue des députés à l'Assemblée.
 
@@ -418,9 +434,9 @@ Les dispositions de l'alinéa précédent ne sont applicables qu'à l'expiration
 Article 52
 ----------
 
-En cas de dissolution, le Cabinet, à l'exception du président du Conseil et du ministre de l'intérieur, reste en fonction pour expédier les affaires courantes.
+En cas de dissolution, le Cabinet reste en fonction.
 
-Le président de la République désigne le président de l'Assemblée nationale comme président du Conseil. Celui-ci désigne le nouveau ministre de l'intérieur en accord avec le bureau de l'Assemblée nationale. Il désigne comme ministres d'Etat des membres des groupes non représentés au Gouvernement.
+Toutefois, si la dissolution a été précédée de l'adoption d'une motion de censure, le président de la République nomme le président de l'Assemblée nationale président du conseil et ministre de l'intérieur.
 
 Les élections générales ont lieu vingt jours au moins, trente jours au plus après la dissolution.
 
