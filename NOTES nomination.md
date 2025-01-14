@@ -71,8 +71,8 @@ Lorsque le poste de chancelier est vacant, le président de l'assemblée nationa
 ### première option/version
 
 Les motions de censure et de nomination sont mises au vote successivement, dans l'ordre :
-- toutes les partielles avant toutes les entières,
-- celles de nomination sont votées par approbation, avant celles de censure sans remplacement (qui sont votées séparément a priori, mais en fonction des déposants),
+- toutes les partielles avant toutes les entières, [peut-être obsolète avec la prop Beta]
+- celles de nomination sont votées par approbation, avant celles de censure sans remplacement (qui sont votées séparément a priori, mais les déposants peuvent s'arranger),
 - sous réserve du point précédent, les partielles sont ordonnées par ordre de dépôt et les entières par nombre décroissant de signataires.
 
 Une motion de censure sans remplacement n'est caduque que si aucun des membres du gvt qu'elle vise n'est encore au gouvernement,
@@ -81,23 +81,7 @@ Les motions partielles ne font donc pas forcément tomber les motions entières,
 
 ### deuxième version/option, baptisée Beta
 
-Une période de nomination est ouverte lors du dépôt d'une pétition de nomination du gouvernement par un certain nombre de membres d'une chambre (disons 1/10 ou 1/12) jointe d'une déclaration qu'il y a lieu de nommer un gouvernement. Le réglement peut prévoir des périodes pendant lesquelles le seuil est plus haut ou la période est plus longue.
-
-La clôture de la période de nomination survient :
-- automatiquement, à midi, le huitième jour calendaire suivant le dépôt de la pétition,
-- ou après l'adoption par vote de la motion de nomination d'une pétition de gouvernement par la majorité absolue des membres de la chambre. Le vote est convoqué par le bureau de la chambre conformément à son réglement. Seuls les votes pour sont comptés. En cas d'adoption, les membres considérés comme signataires sont ceux ayant voté pour la pétition, et les autres pétitions sont caduques.
-
-La pétition adoptée, ou à défaut, la pétition ayant reçu le plus grand nombre de signatures de membres de la chambre, est nommée par l'assemblée nationale au gouvernement dans les conditions suivantes :
-- si la majorité absolue des députés est atteinte par cette pétition (ce qui est le cas si elle a été adoptée par vote),
-- ou si le chancelier a donné son accord/démission, ou éventuellement si validé par la CJR,
-- ou si le poste est vacant (mort, voire destitué-impeachment)
-- ou si l'assemblée, depuis son dernier renouvellement, n'a pas nommé de gouvernement
-- ou si son dernier renouvellement date de moins d'un mois et que l'assemblée a nommé maximum deux autres gouvernements depuis,
-- ou si elle n'a nommé aucun gouvernement depuis plus de trois mois.
-
-Le sénat ne peut ouvrir une période de nomination que si le gouvernement n'est pas majoritaire à l'assemblée nationale. Le sénat ne peut nommer une pétition au gouvernement que si elle réunit la majorité absolue des sénateurs.
-
-Si le gouvernement est majoritaire à l'assemblée, le sénat a en revanche la faculté de voter sa pétition de gouvernement. Si ce gouvernement perd la majorité absolue à l'assemblée nationale, il devient responsable devant le sénat (plutôt que minoritaire devant l'assemblée).
+*Voir fichier annexe*
 
 problème : comment constater qu'un gouvernement initialement majoritaire, ne l'est plus ?
 -> réponse pour l'assemblée : l'opposition dépose une pétition de gouvernement, et même si la pétition du gouvenement sortant reste en tête, si elle n'obtient pas la majorité absolue, le gouvernement devient minoritaire.
