@@ -102,22 +102,22 @@ Les gouvernements m et a sont responsables devant l'assemblée nationale et nomm
 
 Pour chaque cas de figure, à numéroter sur Sphinx, présenter comment Senna y répond, avec des renvois internes. Les situations sont :
 
-- il existe une pétition de plus grande priorité que le gouvernement en place
+A il existe une pétition de plus grande priorité que le gouvernement en place
   - gouvernement m, pétition s
   - gouvernement s, pétition a
-- le gouvernement perd sa majorité
+B le gouvernement perd sa majorité
   - gouvernement a
   - gouvernement s
-- l'assemblée est renouvelée
+C l'assemblée est renouvelée
   - en partant d'un gouvernement a
   - d'un gouvernement s
   - d'un gouvernement m
-- la majorité relative à l'assemblée change (création ou rupture d'une alliance minoritaire)
+D1 la majorité relative à l'assemblée change (création ou rupture d'une alliance minoritaire)
   - avec un gouvernement m
-- la majorité absolue change au sein de la chambre dans laquelle le gouvernement est majoritaire
+D2 la majorité absolue change au sein de la chambre dans laquelle le gouvernement est majoritaire
   - avec un gouvernement a
   - avec un gouvernement s
-- sans changement de majorité, un changement de composition du gouvernement à l'initiative de la chambre devant laquelle il est majoritaire
+E1 sans changement de majorité, un changement de composition du gouvernement à l'initiative de la chambre devant laquelle il est majoritaire
   - parmi les ministres
     - avec l'accord du concerné
       - avec l'accord du chancelier
@@ -128,29 +128,29 @@ Pour chaque cas de figure, à numéroter sur Sphinx, présenter comment Senna y 
   - du chancelier
     - avec son accord
     - sans son accord
-- idem pour un gouvernement minoritaire
-- le chancelier veut remplacer un de ses ministres au sein d'un gouvernement majoritaire
+E2 idem pour un gouvernement minoritaire
+F1 le chancelier veut remplacer un de ses ministres au sein d'un gouvernement majoritaire
   - avec l'accord du concerné
     - avec l'accord de la chambre
     - sans l'accord de la chambre
   - sans l'accord du concerné
     - avec l'accord de la chambre
     - sans l'accord de la chambre
-- idem pour un gouvernement minoritaire
-- une démission
+F2 idem pour un gouvernement minoritaire
+G une démission
   - d'un ministre
     - avec l'accord du chancelier
     - sans l'accord du chancelier
   - du chancelier, individuellement
   - du chancelier, avec son gouvernement
-- une affaire judiciaire devant la CJR
+H une affaire judiciaire devant la CJR
   - sur le chancelier
     - gouvernement m
     - gouvernement majoritaire
   - sur un ministre
     - gouvernement m
     - gouvernement majoritaire
-- un scandale sans implication de la CJR
+I un scandale sans implication de la CJR
   - sur le chancelier
     - gouvernement m
     - gouvernement majoritaire
