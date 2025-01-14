@@ -4,7 +4,7 @@ Les motions de censure et de nomination sont divisées entre:
 - celles qui concernent le chancelier et l'ensemble du gouvernement, dites entières (E)
 - celles qui concernent un seul membre du gouvernement hors chancelier, dites partielles (P)
 
-(Ensuite le réglementde l'assemblée peut faire des arrangements comme soumettre plusieurs motions partielles à un vote unique groupé.
+(Ensuite le réglement de l'assemblée peut faire des arrangements comme soumettre plusieurs motions partielles à un vote unique groupé.
 Et rien n'empêche à une motion entière de re-nommer un ministre à son poste actuel.
 Ou même de renommer sans aucune modification l'ensemble d'un gouvernement qui était responsable devant l'autre assemblée.)
 
@@ -13,6 +13,8 @@ Les motions de censure et de nomination se divisent aussi entre:
 - celles qui n'en prévoient pas, appelées motions de censure sans remplacement (C)
 
 CE?, CP, NE, NP.
+
+## Vrac
 
 Peut-être juste ne pas faire de pétitions avec signatures permanentes, et faire des motions recevablse ou pas recevables en fonction des circonstances ?
 
@@ -61,6 +63,7 @@ Une motion de censure partielle sans remplacement (CP) est recevable :
 
 Lorsque la CJR lève les conditions et que la censure est adoptée (quelle que soit la chambre), le visé ne peut plus être nommé au gouvernement pendant une certaine durée (1 an).
 
+
 ## Vote des motions
 
 ### première option/version
@@ -98,3 +101,70 @@ Lorsque 1/10 des membres de la chambre présentent une pétition, décider, soit
     - mais c'est danhereux si l'assemblée vote contre,
     - ou (si seuls les votes pour sont comptés) si il y a des contestations comme quoi c'était pas la bonne
     - enfin ça c'est si elle est minoritaire, mais au pire pour les minoritaires on peut se permettre de laisser échoir la deadline d'une semaine
+
+
+## Toutes les situations possibles
+
+Les situations de majorité sont, par priorité croissante :
+
+m) gouvernement minoritaire dans les deux chambres, responsable devant l'assemblée
+s) gouvernement majoritaire au sénat, responsable devant le sénat, minoritaire à l'assemblée
+a) gouvernement majoritaire à l'assemblée, responsable devant l'assemblée, minoritaire ou majoritaire au sénat
+
+Pour chaque cas de figure, à numéroter sur Sphinx, présenter comment Senna y répond, avec des renvois internes. Les situations sont :
+
+- il existe une pétition de plus grande priorité que le gouvernement en place
+  - gouvernement m, pétition s
+  - gouvernement s, pétition a
+- le gouvernement perd sa majorité
+  - gouvernement a
+  - gouvernement s
+- l'assemblée est renouvelée
+  - en partant d'un gouvernement a
+  - d'un gouvernement s
+  - d'un gouvernement m
+- la majorité relative à l'assemblée change (création ou rupture d'une alliance minoritaire)
+  - avec un gouvernement m
+- la majorité absolue change au sein de la chambre dans laquelle le gouvernement est majoritaire
+  - avec un gouvernement a
+  - avec un gouvernement s
+- sans changement de majorité, un changement de composition du gouvernement à l'initiative de la chambre devant laquelle il est majoritaire
+  - parmi les ministres
+    - avec l'accord du concerné
+      - avec l'accord du chancelier
+      - sans l'accord du chancelier
+    - sans l'accord du concerné
+      - avec l'accord du chancelier
+      - sans l'accord du chancelier
+  - du chancelier
+    - avec son accord
+    - sans son accord
+- idem pour un gouvernement minoritaire
+- le chancelier veut remplacer un de ses ministres au sein d'un gouvernement majoritaire
+  - avec l'accord du concerné
+    - avec l'accord de la chambre
+    - sans l'accord de la chambre
+  - sans l'accord du concerné
+    - avec l'accord de la chambre
+    - sans l'accord de la chambre
+- idem pour un gouvernement minoritaire
+- une démission
+  - d'un ministre
+    - avec l'accord du chancelier
+    - sans l'accord du chancelier
+  - du chancelier, individuellement
+  - du chancelier, avec son gouvernement
+- une affaire judiciaire devant la CJR
+  - sur le chancelier
+    - gouvernement m
+    - gouvernement majoritaire
+  - sur un ministre
+    - gouvernement m
+    - gouvernement majoritaire
+- un scandale sans implication de la CJR
+  - sur le chancelier
+    - gouvernement m
+    - gouvernement majoritaire
+  - sur un ministre
+    - gouvernement m
+    - gouvernement majoritaire
