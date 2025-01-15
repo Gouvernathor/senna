@@ -49,3 +49,49 @@ Le réglement des assemblées et la loi peuvent aussi prévoir une durée, coura
 (Réglement intérieur)
 
 Lorsque le gouvernement en poste n'est majoritaire dans aucune des deux chambres, ni sa pétition, ni aucune autre pétition ne nommant le même candidat au poste de chancelier, ne peuvent être déposées ni signées à l'assemblée nationale. Cependant, ces pétitions peuvent être votées en application de l'alinéa 3 (de l'article de la constitution).
+
+## Motions de censure et de nomination individuelles
+
+## Impeachment-Destitution du chancelier
+
+## Responsabilité pénale des membres du gouvernement
+
+# Bilan sur les différentes situations possibles
+
+A) il existe une pétition de plus grande priorité que le gouvernement en place
+
+cas 1) le gouvernement est minoritaire à l'assemblée nationale, une pétition de gouvernement est majoritaire au sénat
+
+-> la pétition est adoptée par le sénat à la majorité absolue, le gouvernement majoritaire au sénat est nommé
+
+cas 2) le gouvernement est majoritaire au sénat, une pétition de gouvernement est majoritaire à l'assemblée nationale
+
+-> la pétition est adoptée par l'assemblée nationale à la majorité absolue, le gouvernement majoritaire à l'assemblée nationale est nommé
+
+B) le gouvernement perd sa majorité (absolue)
+
+-> une déclaration est déposée par l'opposition (au gouvernement sortant), le cycle des pétitions est lancé, et celle du gouvernement sortant est minoritaire. Soit il arrive en tête ou les conditions ne sont pas remplies pour nommer un gouvernement minoritaire, et il reste en place en tant que minoritaire, soit c'est un autre gouvernement minoritaire qui est nommé. Si c'était un gouvernement majoritaire à l'assemblée, le sénat a l'opportunité de nommer un gouvernement.
+
+C) l'assemblée est renouvelée
+
+cas 0) c'est l'assemblée devant laquelle le gouvernement n'est pas responsable qui est renouvelée : aucune conséquence
+
+cas 1) le gouvernement était majoritaire à l'assemblée nationale, elle est renouvelée
+
+-> si le gouvernement avait été approuvé par le sénat, il devient responsable devant lui, sinon il est minoritaire et responsable devant l'assemblée nationale. Il reste en place tant que la nouvelle assemblée ne nomme pas un gouvernement, majoritaire dans le premier cas, ou n'importe quel gouvernement dans le second.
+
+cas 2) le gouvernement était majoritaire au sénat, il est renouvelé
+
+-> il devient minoritaire et responsable devant l'assemblée nationale, jusqu'à ce que le nouveau sénat, ou l'assemblée nationale, nomment éventuellement un gouvernement majoritaire.
+
+cas 3) le gouvernement était minoritaire à l'assemblée nationale
+
+-> il reste minoritaire et responsable devant l'assemblée nationale, jusqu'à ce qu'un autre gouvernement soit nommé.
+
+D1) la majorité relative soutenant un gouvernement minoritaire change à l'assemblée nationale
+
+-> le gouvernement reste en place pendant jusqu'à 3 mois avant que l'autre minoritaire le remplace, ou alors le chancelier démissionne.
+
+D2) la majorité absolue change au sein de la chambre dans laquelle le gouvernement est minoritaire
+
+-> la pétition du nouveau gouvernement est déposée avec une déclaration, et il gagne le cycle de signatures max une semaine plus tard.
