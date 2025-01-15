@@ -4,7 +4,7 @@ On peut éventuellement y ajouter l'impeachment-destitution du chancelier, par v
 
 ## Problème ?
 
-Si le gouvernement sortant arrive 2ème à la fin du cycle de pétition, et que la sienne et la première sont minoritaires, comment justifier qu'il reste en place et que la première ne soit pas nommée ? Et à l'inverse, si quand le gouvernement sortant est minoritaire, on n'autorise pas
+Si le gouvernement sortant arrive 2ème à la fin du cycle de pétition, et que la sienne et la première sont minoritaires, comment justifier qu'il reste en place et que la première ne soit pas nommée ?
 
 Solution possible : Lorsque le gouvernement est déjà minoritaire, on ne peut pas déposer sa pétition, et il gagne par l'échec des autres ?
 2 problèmes :
@@ -18,6 +18,12 @@ Autre question : comment empêcher ou limiter le nombre de déclarations pour em
 Solution possible : laisser ouverts le dépôt et le retrait de signatures de la pétition du gouvernement en poste, comme ça les députés/sénateurs de la majo n'ont rien à faire pour garder le pouvoir, donc seule l'opposition perd son temps et ça ne bloque rien.
 Mais ça aggrave le problème précédent, ou alors on doit faire deux fonctionnements différents en fonction de si le gouvernement est majoritaire ou non... et si il devient minoritaire en cours de route ?
 Ou alors, la pétition du gouvernement (majoritaire ?) sortant n'est pas maintenue ouverte pendant son mandat, elle est seulement *ré*ouverte au moment de la déclaration par l'opposition.
+
+Ne pas oublier que ce qui fournit l'instabilité, c'est principalement le fait que dans un système aux motions de censure non-constructives, un gouvernement minoritaire est par nature instable, alors que si il faut une proposition constructive plus large pour le renverser, il y a forcément plus de stabilité une fois qu'on a identifié un groupe à la majorité relative.
+Sauf que si en fait : dans la troisième république, les gouvernements étaient tous investis à la majorité au moins relative, mais une majorité opportuniste (qui voulait juste se mettre au gouvernement), même temporairement absolue (voir l'exemple de la XVIe et dernière législature) se cassait dès la première difficulté. Donc c'était pas si stable que ça.
+La solution à ça est double : c'est de donner plus de viabilité au gouvernement minoritaire, avec la nomination de la première pétition sans compter ceux qui pourraient être contre, donc le fait de trouver une majorité absolue à court terme sans qu'elle soit viable à plus long terme ; et c'est aussi de protéger le gouvernement majoritaire en rendant plus difficile de le renverser sans rassemblée de majorité absolue.
+
+Nouvelle proposition : le cycle ne peut être démarré qu'en présentant une pétition majoritaire, sauf si on est dans les circonstances dans lesquelle un gouvernement minoritaire peut être nommé ?
 
 ## Procédure de nomination, rédaction de l'article
 
