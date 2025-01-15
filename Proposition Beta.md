@@ -38,7 +38,7 @@ Lorsque la pétition ne réunit pas le soutien de la majorité absolue des membr
 
 La déclaration prévue au premier alinéa n'est recevable au sénat que lorsque le gouvernement en fonctions n'est pas majoritaire à l'assemblée nationale. Le sénat ne peut nommer un gouvernement que si sa pétition réunit le soutien de la majorité absolue des membres du sénat, auquel cas ce gouvernement est réputé majoritaire au sénat.
 
-Lorsque le gouvernement est majoritaire à l'assemblée nationale, le sénat a en revanche la faculté de voter la pétition de gouvernement. En cas d'adoption, dans le cas où ce gouvernement perdrait sa majorité à l'assemblée nationale, il serait réputé majoritaire au sénat.
+Lorsque le gouvernement est majoritaire à l'assemblée nationale, le sénat a en revanche la faculté de voter la pétition du gouvernement. En cas d'adoption, dans le cas où ce gouvernement perdrait le soutien majoritaire de l'assemblée nationale, il serait réputé majoritaire au sénat.
 
 Le gouvernement est responsable devant l'assemblée dans laquelle il est majoritaire ou, à défaut, devant l'assemblée nationale.
 
