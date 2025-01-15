@@ -37,10 +37,9 @@ L'assemblée a la possibilité de voter une pétition de gouvernement, à la maj
 
 À défaut, la clôture du dépôt de pétitions de gouvernement intervient le huitième jour suivant la déclaration prévue au premier alinéa. Les pétitions déposées, sauf celle réunissant le plus grand nombre de signatures de membres de l'assemblée, sont caduques.
 
-<!-- préciser que la nomination est automatique, que c'est pas "doit être nommé" -->
-Lorsque la pétition résultant de l'application des deux derniers alinéas est soutenue par la majorité absolue des membres de l'assemblée, le gouvernement prévu par la pétition est nommé par cette assemblée, et il y est réputé majoritaire.
+Lorsque la pétition résultant de l'application des deux derniers alinéas réunit l'approbation de la majorité absolue des membres de l'assemblée, le gouvernement prévu par la pétition est nommé au nom de cette assemblée, et il y est réputé majoritaire.
 
-Lorsque la pétition ne réunit pas le soutien de la majorité absolue des membres de l'assemblée nationale, le gouvernement prévu par la pétition est nommé par cette assemblée, sans y être majoritaire, lorsqu'au moins une des conditions suivantes est satisfaite :
+Dans le cas contraire, le gouvernement prévu par la pétition est nommé au nom de l'assemblée nationale, sans y être majoritaire, lorsqu'au moins une des conditions suivantes est satisfaite :
 - le poste de chancelier est vacant ;
 - le chancelier en poste a présenté sa démission ;
 - [la Cour de Justice de la République a autorisé le renouvellement du chancelier ;]
@@ -48,9 +47,9 @@ Lorsque la pétition ne réunit pas le soutien de la majorité absolue des membr
 - l'assemblée nationale a nommé moins de trois gouvernements ont été nommés depuis son dernier renouvellement, et ce renouvellement a eu lieu moins de trois mois auparavant ;
 - l'assemblée nationale n'a nommé aucun gouvernement depuis plus de trois mois.
 
-La déclaration prévue au premier alinéa n'est recevable au sénat que lorsque le gouvernement en fonctions n'est pas majoritaire à l'assemblée nationale. Le sénat ne peut nommer un gouvernement que si sa pétition réunit le soutien de la majorité absolue des membres du sénat, auquel cas ce gouvernement est réputé majoritaire au sénat.
+La déclaration prévue au premier alinéa n'est recevable au sénat que lorsque le gouvernement en fonctions n'est pas majoritaire à l'assemblée nationale. Les pétitions ne réunissant pas l'approbation d'une majorité absolue en son sein ne peuvent mener à la nomination d'un gouvernement par le sénat.
 
-Lorsque le gouvernement est majoritaire à l'assemblée nationale, le sénat a en revanche la faculté de voter la pétition du gouvernement. En cas d'adoption, dans le cas où ce gouvernement perdrait le soutien majoritaire de l'assemblée nationale, il serait réputé majoritaire au sénat.
+Lorsque le gouvernement est majoritaire à l'assemblée nationale, le sénat a en revanche la faculté de voter la pétition du gouvernement. En cas d'adoption, si ce gouvernement perd par la suite le soutien majoritaire de l'assemblée nationale, il devient majoritaire au sénat.
 
 Le gouvernement est responsable devant l'assemblée dans laquelle il est majoritaire ou, à défaut, devant l'assemblée nationale.
 
