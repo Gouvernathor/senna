@@ -16,6 +16,8 @@ Sur-solution : la pétition ne peut pas être déposée ni signée, mais elle pe
 Autre question : comment empêcher ou limiter le nombre de déclarations pour empêcher leur spam par l'opposition ?
 
 Solution possible : laisser ouverts le dépôt et le retrait de signatures de la pétition du gouvernement en poste, comme ça les députés/sénateurs de la majo n'ont rien à faire pour garder le pouvoir, donc seule l'opposition perd son temps et ça ne bloque rien.
+Mais ça aggrave le problème précédent, ou alors on doit faire deux fonctionnements différents en fonction de si le gouvernement est majoritaire ou non... et si il devient minoritaire en cours de route ?
+Ou alors, la pétition du gouvernement (majoritaire ?) sortant n'est pas maintenue ouverte pendant son mandat, elle est seulement *ré*ouverte au moment de la déclaration par l'opposition.
 
 ## Procédure de nomination, rédaction de l'article
 
