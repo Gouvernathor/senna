@@ -43,8 +43,7 @@ Dans le cas contraire, le gouvernement prévu par la pétition est nommé au nom
 - le poste de chancelier est vacant ;
 - le chancelier en poste a présenté sa démission ;
 - [la Cour de Justice de la République a autorisé le renouvellement du chancelier ;]
-- l'assemblée nationale, depuis son dernier renouvellement, n'a pas nommé de gouvernement ;
-- l'assemblée nationale a nommé moins de trois gouvernements ont été nommés depuis son dernier renouvellement, et ce renouvellement a eu lieu moins de trois mois auparavant ;
+- l'assemblée nationale, depuis son dernier renouvellement, n'a pas nommé de gouvernement ; ou a nommé moins de trois gouvernements si ce renouvellement a eu lieu il y a moins d'un mois ;
 - l'assemblée nationale n'a nommé aucun gouvernement depuis plus de trois mois.
 
 La déclaration prévue au premier alinéa n'est recevable au sénat que lorsque le gouvernement en fonctions n'est pas majoritaire à l'assemblée nationale. Les pétitions ne réunissant pas l'approbation d'une majorité absolue en son sein ne peuvent mener à la nomination d'un gouvernement par le sénat.
