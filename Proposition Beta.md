@@ -39,9 +39,9 @@ L'assemblée a la possibilité de voter une pétition de gouvernement, à la maj
 
 Lorsque la pétition résultant de l'application des deux derniers alinéas réunit l'approbation de la majorité absolue des membres de l'assemblée, le gouvernement prévu par la pétition est nommé au nom de cette assemblée, et il y est réputé majoritaire.
 
-Dans le cas contraire, le gouvernement prévu par la pétition est nommé au nom de l'assemblée nationale, sans y être majoritaire, lorsqu'au moins une des conditions suivantes est satisfaite :
-- le poste de chancelier est vacant ;
-- le chancelier en poste a présenté sa démission ;
+À défaut de cette adoption, le gouvernement prévu par la pétition est nommé au nom de l'assemblée nationale, sans y être majoritaire, lorsqu'aucun gouvernement n'est majoritaire au sénat et si au moins une des conditions suivantes est satisfaite :
+- le poste de chancelier de la république est vacant ;
+- le chancelier a présenté sa démission ;
 - [la Cour de Justice de la République a autorisé le renouvellement du chancelier ;]
 - l'assemblée nationale, depuis son dernier renouvellement, n'a pas nommé de gouvernement ; ou a nommé moins de trois gouvernements si ce renouvellement a eu lieu il y a moins d'un mois ;
 - l'assemblée nationale n'a nommé aucun gouvernement depuis plus de trois mois.
