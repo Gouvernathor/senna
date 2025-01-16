@@ -55,8 +55,6 @@ Le gouvernement est responsable devant l'assemblée dans laquelle il est majorit
 
 Le réglement des assemblées peut, lorsque l'assemblée n'est pas en session, relever le nombre de membres nécessaires pour déposer une déclaration prévue au premier alinéa, ou repousser l'échéance décrite à l'alinéa 4, sans dépasser le huitième jour de la session suivante.
 
-Le réglement des assemblées et la loi peuvent aussi prévoir une durée, courant après la nomination d'un gouvernement majoritaire, pendant laquelle une nouvelle déclaration prévue au premier alinéa ne peut être déposée sans que les conditions de nomination prévues à l'alinéa 6 ne soient réunies. Cette durée ne peut excéder trois mois.
-
 (Réglement intérieur)
 
 Lorsque le gouvernement en poste n'est majoritaire dans aucune des deux chambres, ni sa pétition, ni aucune autre pétition ne nommant le même candidat au poste de chancelier, ne peuvent être déposées ni signées à l'assemblée nationale. Cependant, ces pétitions peuvent être votées en application de l'alinéa 3 (de l'article de la constitution).
