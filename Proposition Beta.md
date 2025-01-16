@@ -57,7 +57,9 @@ Le réglement des assemblées peut, lorsque l'assemblée n'est pas en session, r
 
 (Réglement intérieur)
 
-Lorsque le gouvernement en poste n'est majoritaire dans aucune des deux chambres, ni sa pétition, ni aucune autre pétition ne nommant le même candidat au poste de chancelier, ne peuvent être déposées ni signées à l'assemblée nationale. Cependant, ces pétitions peuvent être votées en application de l'alinéa 3 (de l'article de la constitution).
+~Lorsque le gouvernement en poste n'est majoritaire dans aucune des deux chambres, ni sa pétition, ni aucune autre pétition ne nommant le même candidat au poste de chancelier, ne peuvent être déposées ni signées à l'assemblée nationale. Cependant, ces pétitions peuvent être votées en application de l'alinéa 3 (de l'article de la constitution).~
+
+Lorsqu'une déclaration est déposée, la pétition du gouvernement en poste ~(sauf contradiction avec le précédent)~ est considérée comme déposée, et les députés qui en étaient signataires sont considérés comme tels.
 
 ## Motions de censure et de nomination individuelles
 
