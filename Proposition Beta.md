@@ -25,6 +25,10 @@ La solution à ça est double : c'est de donner plus de viabilité au gouverneme
 
 Nouvelle proposition : le cycle ne peut être démarré qu'en présentant une pétition majoritaire, sauf si on est dans les circonstances dans lesquelle un gouvernement minoritaire peut être nommé ?
 
+Le processus doit rester "humain". Les règles ne peuvent pas être à la fois trop compliquées et auto-applicatives, sans que personne en particulier ne soit chargé de les appliquer, sinon c'est trop facile de jouer au con ou de les ignorer. Il faut mettre des limites strictes à ce que peuvent faire les acteurs publics, mais les laisser faire ces actions eux-même autant que possible.
+
+Trouver un nom à la période qui s'ouvre avec la déclaration et qui se clot ensuite.
+
 ## Procédure de nomination, rédaction de l'article
 
 (constitution)
@@ -35,7 +39,7 @@ Une pétition de gouvernement présente une proposition de composition du gouver
 
 L'assemblée a la possibilité de voter une pétition de gouvernement, à la majorité absolue de ses membres et en ne décomptant que les votes en faveur de la pétition. En cas d'adoption, les membres considérés comme signataires de la pétition sont ceux qui l'ont votée, le dépôt de pétitions de gouvernement est clos, et les autres pétitions sont caduques.
 
-À défaut, la clôture du dépôt de pétitions de gouvernement intervient le huitième jour suivant la déclaration prévue au premier alinéa. Les pétitions déposées, sauf celle réunissant le plus grand nombre de signatures de membres de l'assemblée, sont caduques.
+À défaut, la clôture du dépôt de pétitions de gouvernement intervient au moins vingt-quatre heures après la déclaration prévue au premier alinéa, et par décision de l'assemblée par un vote ou au plus tard le huitième jour suivant cette déclaration. Les pétitions déposées, sauf celle réunissant le plus grand nombre de signatures de membres de l'assemblée, sont caduques.
 
 Lorsque la pétition résultant de l'application des deux derniers alinéas réunit l'approbation de la majorité absolue des membres de l'assemblée, le gouvernement prévu par la pétition est nommé au nom de cette assemblée, et il y est réputé majoritaire.
 
