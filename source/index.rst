@@ -33,6 +33,12 @@ Elle est accompagnée de textes organiques et du règlement des assemblées parl
    :caption: Pour comparaison :
 
    constitution_5
+
+.. toctree::
+   :maxdepth: 3
+
+   constitution_4
+
 .. reglement_unga
 
 `Règlement intérieur de l'Assemblée Générale des Nations-Unies <https://digitallibrary.un.org/record/3896201/files/A_520_Rev.19-FR.pdf>`__
