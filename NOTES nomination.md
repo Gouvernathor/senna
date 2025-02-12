@@ -157,3 +157,10 @@ I un scandale sans implication de la CJR
   - sur un ministre
     - gouvernement m
     - gouvernement majoritaire
+J spam d'une opposition minoritaire (même relative)
+  - gouvernement m, spam à l'assemblée
+  - gouvernement m, spam au sénat
+  - gouvernement s, spam à l'assemblée
+  - gouvernement s, spam au sénat
+  - gouvernement a, spam à l'assemblée
+  - gouvernement a, spam au sénat
