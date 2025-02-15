@@ -31,4 +31,6 @@ Lorsque la pétition désignée par l'un des deux alinéas précédents réunit 
 
 ## Bonus
 
+Lorsqu'une assemblée est renouvelée, le gouvernement perd le soutien majoritaire de cette assemblée.
+
 Lorsque le gouvernement est majoritaire à l'assemblée, le sénat a la faculté de voter la pétition du gouvernement. Si la majorité absolue des membres du sénat approuve la pétition, si ce gouvernement perd par la suite le soutien majoritaire de l'assemblée nationale, il devient majoritaire au sénat.
