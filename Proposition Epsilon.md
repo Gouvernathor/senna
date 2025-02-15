@@ -6,7 +6,7 @@ La procédure est ouverte :
 Au sénat, elle peut être ouverte même si le gouvernement sortant est majo à l'assemblée.
 
 À la fin de la procédure, le gouvernement de la première pétition est nommé (ou reconduit), sauf si :
-- c'est au sénat et la majo absolue n'est pas réunie
+- c'est au sénat et la majo absolue n'est pas réunie ou le gouvernement sortant est majo à l'assemblée
 - c'est à l'assemblée et la majo absolue n'est pas réunie, et le gouvernement sortant est majo au sénat
 
 Il y a un nombre minimal de signataires de la motion, et un nombre maximal de motions qui peuvent être déposées, ou signées par un même membre, "contre" le même gouvernement.
