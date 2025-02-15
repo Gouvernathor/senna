@@ -12,12 +12,27 @@ Une situation de plus dans laquelle une procédure spéciale peut être ouverte 
 
 Lorsqu'un siège de / mandat parlementaire est renouvelé, sa signature est retirée des pétitions du gouvernement.
 
+## Pistes
+
+Motion de censure ou de destitution style impeachment contre le chancelier, pour cas de force majeure, avec signature obligatoire des signataires originels de la pétition du gouvernement, et/ou concours du sénat, et le président de l'assemblée prend l'intérim.
+
 
 # Notes
 
 Avec le système des procédures ordinaires et spéciales (Gamma, Delta +), le gouvernement n'est nommé que par la clôture d'une procédure de nomination. Deux presque-exceptions à la règle :
 - la continuity of government : le remplacement du chancelier ou d'un ministre quand il meurt ou démissionne avec effet immédiat (ou affaire judiciaire, destitution pour situation particulière...), défini par la loi, et le président de la chambre remplace a priori le chancelier
 - les possibles motions de nomination/remplacement individuelles par l'assemblée devant laquelle le gouvernement est responsable
+
+
+# Points à fixer
+
+- motions de nomination / remplacement individuelles
+  - à l'initiative de l'assemblée devant laquelle le gouvernement est responsable
+    - y compris dans le cas minoritaire
+  - à l'initiative du chancelier
+- impeachment, destitution d'urgence d'initiative parlementaire
+- affaire judiciaire d'origine judiciaire (possible procédure spéciale)
+- mort du chancelier et des ministres, cog et ligne de succession
 
 
 # Formulation propre / standalone
