@@ -3,7 +3,7 @@ La procédure est ouverte :
 - immédiatement si la majo absolue a signé la motion
 - après 24h sauf si la majo absolue s'y oppose par confiance au gouvernement sortant (par vote plénier ou par pétition). Dans ce cas, le gouvernement devient majo dans cette assemblée.
 
-Au sénat, elle ne peut pas être ouverte du tout si le gouvernement sortant est majo à l'assemblée.
+Au sénat, elle peut être ouverte même si le gouvernement sortant est majo à l'assemblée.
 
 À la fin de la procédure, le gouvernement de la première pétition est nommé (ou reconduit), sauf si :
 - c'est au sénat et la majo absolue n'est pas réunie
