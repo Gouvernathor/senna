@@ -5,7 +5,7 @@ La procédure est ouverte :
 
 Au sénat, elle ne peut pas être ouverte du tout si le gouvernement sortant est majo à l'assemblée.
 
-À la fin de la procédure, le gouvernement de la première pétition est nommé, sauf si :
+À la fin de la procédure, le gouvernement de la première pétition est nommé (ou reconduit), sauf si :
 - c'est au sénat et la majo absolue n'est pas réunie
 - c'est à l'assemblée et la majo absolue n'est pas réunie, et le gouvernement sortant est majo au sénat
 
