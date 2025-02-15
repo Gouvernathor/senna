@@ -2,7 +2,7 @@
 
 Pareil, mais la pétition du gouvernement reste ouverte à dépôt et retrait de signatures. Si une pétition majoritaire descend en-dessous du seuil de minorité ou au contraire le dépasse (pendant 8j de suite, mettons), le statut du gouvernement est actualisé.
 
-Le seuil de déclenchement d'une procédure ordinaire n'est pas de 10% sur une seule pétition, elle est d'un nombre de membres supérieur ou égal à la majo absolue des membres de l'assemblée.
+Le seuil de déclenchement d'une procédure ordinaire n'est pas de 10% sur une seule pétition, elle est d'un nombre de membres supérieur ou égal à la majo absolue des membres de l'assemblée, [sur une ou plusieurs pétitions ?].
 
 (pourquoi pas supérieur ou égal au nombre de signataires de la pétition du gouvernement : parce que si elle est majo, ça revient au même et c'est même simplifié donc mieux, et si elle est minoritaire ça empêche l'instabilité : les conditions pour la procédure spéciale sont là pour ça)
 
@@ -23,6 +23,10 @@ Avec le système des procédures ordinaires et spéciales (Gamma, Delta +), le g
 - la continuity of government : le remplacement du chancelier ou d'un ministre quand il meurt ou démissionne avec effet immédiat (ou affaire judiciaire, destitution pour situation particulière...), défini par la loi, et le président de la chambre remplace a priori le chancelier
 - les possibles motions de nomination/remplacement individuelles par l'assemblée devant laquelle le gouvernement est responsable
 
+La procédure ordinaire est là pour nommer un gouvernement majoritaire, la procédure spéciale est là pour nommer un gouvernement minoritaire.
+Les règles sur la procédure spéciales permettent de remplacer un gouvernement qui de toute façon est illégitime et/ou minoritaire, donc ça ne crée pas d'instabilité.
+L'idée globalement est d'éviter que la priorité du gouvernement baisse : qu'un gouvernement majoritaire soit désavoué à la suite d'une manoeuvre de l'opposition ou qu'il soot remplacé par un gouvernement minoritaire.
+
 
 # Points à fixer
 
@@ -33,6 +37,10 @@ Avec le système des procédures ordinaires et spéciales (Gamma, Delta +), le g
 - impeachment, destitution d'urgence d'initiative parlementaire
 - affaire judiciaire d'origine judiciaire (possible procédure spéciale)
 - mort du chancelier et des ministres, cog et ligne de succession
+
+La majo absolue pour déclencher une proc ordinaire : sur une seule pétition ou en cumulé ?
+- Si c'est sur une seule, alors ça ajoute une 2eme sécurité pour empêcher de nommer un gouvernement minoritaire quand le gouvernement actuel est majoritaire.
+- Si c'est en cumulé, ça permet à la majo de laisser les oppositions se ridiculiser avec des pétitions toutes minoritaires, et de rester en place sans avoir à présenter de pétition.
 
 
 # Formulation propre / standalone
