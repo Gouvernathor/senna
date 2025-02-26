@@ -27,11 +27,11 @@ Le gouvernement est minoritaire à l'assemblée nationale et au sénat, mais l'a
 
 # Événements
 
-## 1
+## Priorité
 
 Un accord de gouvernement de plus grande priorité que le gouvernement sortant est conclu.
 
-### Variante 1MS
+### Variante Prio MS
 
 Situation M, accord trouvé au Sénat.
 
@@ -39,7 +39,7 @@ Situation M, accord trouvé au Sénat.
 
 L'accord de gouvernement nomme le gouvernement, transition vers situation S.
 
-### Variante 1MA
+### Variante Prio MA
 
 Situation M, accord trouvé à l'Assemblée nationale.
 
@@ -47,7 +47,7 @@ Situation M, accord trouvé à l'Assemblée nationale.
 
 L'accord de gouvernement nomme le gouvernement, transition vers situation AA.
 
-### Variante 1SA
+### Variante Prio SA
 
 Situation S, accord trouvé à l'Assemblée nationale.
 
@@ -55,11 +55,11 @@ Situation S, accord trouvé à l'Assemblée nationale.
 
 L'accord de gouvernement nomme le gouvernement, transition vers situation AA.
 
-## 2
+## Rupture
 
 La majorité absolue soutenant le gouvernement est rompue.
 
-### Variante 2AS
+### Variante Rupture AS
 
 Situation AS.
 
@@ -67,7 +67,7 @@ Situation AS.
 
 Le gouvernement reste en place, transition vers situation S.
 
-### Variante 2AA
+### Variante Rupture AA
 
 Situation AA.
 
@@ -75,7 +75,7 @@ Situation AA.
 
 Le gouvernement reste en place et devient minoritaire (situation M), l'assemblée nationale a cependant temporairement l'opportunité de nommer un nouveau gouvernement minoritaire (situation M+).
 
-### Variante 2S
+### Variante Rupture S
 
 Situation S.
 
@@ -83,11 +83,11 @@ Situation S.
 
 Le gouvernement reste en place et devient minoritaire (situation M), l'assemblée nationale a cependant temporairement l'opportunité de nommer un nouveau gouvernement minoritaire (situation M+).
 
-## 3A
+## Élections A
 
 L'assemblée nationale est renouvelée.
 
-### Variante 3AM
+### Variante Élections AM
 
 Situation M.
 
@@ -95,7 +95,7 @@ Situation M.
 
 Le gouvernement reste en place et reste minoritaire (situation M), l'assemblée nationale a cependant temporairement l'opportunité de nommer un nouveau gouvernement minoritaire (situation M+).
 
-### Variante 3AS
+### Variante Élections AS
 
 Situation S.
 
@@ -103,27 +103,27 @@ Situation S.
 
 Rien ne se passe concernant le gouvernement. Situation S.
 
-### Variante 3AAS
+### Variante Élections AAS
 
 Situation AS.
 
 #### Résultat attendu
 
-Idem à l'événement 2AS. Le gouvernement reste en place, situation S.
+Idem à l'événement Rupture AS. Le gouvernement reste en place, situation S.
 
-### Variante 3AAA
+### Variante Élections AAA
 
 Situation AA.
 
 #### Résultat attendu
 
-Idem à l'événement 2AA. Le gouvernement reste en place et devient minoritaire (situation M), l'assemblée nationale a cependant temporairement l'opportunité de nommer un nouveau gouvernement minoritaire (situation M+).
+Idem à l'événement Rupture AA. Le gouvernement reste en place et devient minoritaire (situation M), l'assemblée nationale a cependant temporairement l'opportunité de nommer un nouveau gouvernement minoritaire (situation M+).
 
-## 3S
+## Élections S
 
-Le sénat est renouvelé. (Événements potentiellement impossibles, suivant le fonctionnement du sénat. Peut-être couverts par les événements 2.)
+Le sénat est renouvelé. (Événements potentiellement impossibles, suivant le fonctionnement du sénat. Peut-être couverts par les événements Rupture.)
 
-### Variante 3SM
+### Variante Élections SM
 
 Situation M.
 
@@ -131,7 +131,7 @@ Situation M.
 
 Rien ne se passe concernant le gouvernement. Situation M.
 
-### Variante 3SA
+### Variante Élections SA
 
 Situation AA ou AS.
 
@@ -139,15 +139,15 @@ Situation AA ou AS.
 
 Le gouvernement reste investi par l'assemblée nationale, mais n'a pas le soutien du Sénat. Situation AA.
 
-### Variante 3SS
+### Variante Élections SS
 
 Situation S.
 
 #### Résultat attendu
 
-Idem à l'événement 2S. Le gouvernement reste en place et devient minoritaire (situation M), l'assemblée nationale a cependant temporairement l'opportunité de nommer un nouveau gouvernement minoritaire (situation M+).
+Idem à l'événement Rupture S. Le gouvernement reste en place et devient minoritaire (situation M), l'assemblée nationale a cependant temporairement l'opportunité de nommer un nouveau gouvernement minoritaire (situation M+).
 
-## 4
+## Approbation du Sénat
 
 Situation AA. Une majorité au Sénat soutient le gouvernement.
 
@@ -155,11 +155,11 @@ Situation AA. Une majorité au Sénat soutient le gouvernement.
 
 Transition vers situation AS.
 
-## 5
+## Elevate
 
 Le gouvernement actuel est repris tel quel par une majorité à une assemblée supérieure.
 
-### Variante 5MS
+### Variante Elevate MS
 
 Situation M, repris par le Sénat.
 
@@ -167,7 +167,7 @@ Situation M, repris par le Sénat.
 
 Transition vers situation S.
 
-### Variante 5MA
+### Variante Elevate MA
 
 Situation M, repris par la majorité absolue de l'assemblée nationale.
 
@@ -175,7 +175,7 @@ Situation M, repris par la majorité absolue de l'assemblée nationale.
 
 Transition vers situation AA.
 
-### Variante 5SA
+### Variante Elevate SA
 
 Situation S, repris par l'assemblée nationale.
 
@@ -185,7 +185,7 @@ Transition vers situation AS.
 
 ## 6
 
-Situation M+. Changement de gouvernement minoritaire par l'assemblée nationale.
+Situation M+. Nomination d'un nouveau gouvernement minoritaire par l'assemblée nationale.
 
 #### Résultat attendu
 
@@ -199,11 +199,11 @@ Situation M. Au bout d'un certain temps (ou de certaines circonstances particuli
 
 Transition vers situation M+.
 
-## 8
+## Changement
 
-Conclusion et/ou rupture d'alliance au sein d'une chambre sans changement de priorité du gouvernement.
+Conclusion et/ou rupture de coalition au sein d'une chambre sans changement de priorité du gouvernement.
 
-### Variante 8A
+### Variante Changement A
 
 Situation AA ou AS.
 
@@ -211,15 +211,15 @@ Situation AA ou AS.
 
 Le gouvernement change. Situation AA.
 
-### Variante 8S
+### Variante Changement S
 
 Situation S.
 
 #### Résultat attendu
 
-Le gouvernement change. Situation S. (5SA possible.)
+Le gouvernement change. Situation S. (Elevate SA possible.)
 
-### Variante 8M
+### Variante Changement M
 
 Situation M.
 
@@ -227,7 +227,7 @@ Situation M.
 
 Le gouvernement reste en place. Situation M.
 
-### Variante 8M+
+### Variante Changement M+
 
 Situation M+.
 
@@ -235,11 +235,11 @@ Situation M+.
 
 Idem à l'événement 6. Le gouvernement change. Transition vers situation M.
 
-## 9
+## Vacance
 
 Toutes situations. Vacance de la chancellerie.
 
-### Variante 9I
+### Variante Vacance I
 
 Décès du chancelier, destitution, ou démission ayant pris son effet.
 
@@ -247,7 +247,7 @@ Décès du chancelier, destitution, ou démission ayant pris son effet.
 
 Le vice-chancelier, si il existe, sinon le président de l'assemblée nationale, assure l'intérim de la chancellerie. Le reste du gouvernement reste en place. Transition vers situation M+.
 
-### Variante 9D
+### Variante Vacance D
 
 Démission du chancelier, n'ayant pas encore pris son effet.
 

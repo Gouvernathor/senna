@@ -17,76 +17,81 @@ digraph G {
         "M+";
     }
 
-    // 1MS
-    M -> S [ltail=cluster_M, label="1MS", color=red];
+    // Priorité entre l'origine des gouvernements
+    // Priorité MS
+    M -> S [ltail=cluster_M, label="Priorité MS", color=red];
 
-    // 1MA
-    M -> AA [ltail=cluster_M, label="1MA", color=red];
+    // Priorité MA
+    M -> AA [ltail=cluster_M, label="Priorité MA", color=red];
 
-    // 1SA
-    S -> AA [label="1SA", color=red];
+    // Priorité SA
+    S -> AA [label="Priorité SA", color=red];
 
-    // 2AS
-    AS -> S [label="2AS"]
+    // Rupture de majorité
+    // Rupture AS
+    AS -> S [label="Rupture AS"]
 
-    // 2AA
-    AA -> "M+" [label="2AA"]
+    // Rupture AA
+    AA -> "M+" [label="Rupture AA"]
 
-    // 2S
-    S -> "M+" [label="2S"]
+    // Rupture S
+    S -> "M+" [label="Rupture S"]
 
-    // 3AM
-    M -> "M+" [ltail=cluster_M, label="3AM"]
+    // Élections et renouvellement
+    // Élections AM
+    M -> "M+" [ltail=cluster_M, label="Élections AM"]
 
-    // 3AS
-    S -> S [label="3AS"]
+    // Élections AS
+    S -> S [label="Élections AS"]
 
-    // 3AAS
-    AS -> S [label="3AAS"]
+    // Élections AAS
+    AS -> S [label="Élections AAS"]
 
-    // 3AAA
-    AA -> "M+" [label="3AAA"]
+    // Élections AAA
+    AA -> "M+" [label="Élections AAA"]
 
-    // 3SM
-    M -> M [ltail=cluster_M, lhead=cluster_M, label="3SM"]
+    // Élections SM
+    M -> M [ltail=cluster_M, lhead=cluster_M, label="Élections SM"]
 
-    // 3SA
-    AA -> AA [label="3SAA"]
-    AS -> AA [label="3SAS"]
+    // Élections SA
+    AA -> AA [label="Élections SAA"]
+    AS -> AA [label="Élections SAS"]
 
-    // 3SS
-    S -> "M+" [label="3SS"]
+    // Élections SS
+    S -> "M+" [label="Élections SS"]
 
-    // 4
-    AA -> AS [label="4"]
+    // Approbation Sénat
+    AA -> AS [label="Approbation Sénat"]
 
-    // 5MS
-    M -> S [ltail=cluster_M, label="5MS"]
+    // Reprise du gouvernement à une priorité plus élevée
+    // Elevate MS
+    M -> S [ltail=cluster_M, label="Elevate MS"]
 
-    // 5MA
-    M -> AA [ltail=cluster_M, label="5MA"]
+    // Elevate MA
+    M -> AA [ltail=cluster_M, label="Elevate MA"]
 
-    // 5SA
-    S -> AS [label="5SA"]
+    // Elevate SA
+    S -> AS [label="Elevate SA"]
 
-    // 6
-    "M+" -> M [label="6", color=red]
+    // Nomination de gouvernement minoritaire
+    "M+" -> M [label="Nomination de gouvernement minoritaire", color=red]
 
     // 7
     M -> "M+" [label="7"]
 
-    // 8A
-    AA -> AS [label="8AS", color=red]
-    AA -> AA [label="8AA", color=red]
+    // Changement de coalition sans changement de priorité
+    // Changement A
+    AA -> AS [label="Changement AS", color=red]
+    AA -> AA [label="Changement AA", color=red]
 
-    // 8S
-    S -> S [label="8S", color=red]
+    // Changement S
+    S -> S [label="Changement S", color=red]
 
-    // 8M
+    // Changement M
     // pas de transition, no-op
 
-    // 8M+
-    "M+" -> M [label="8M+", color=red]
+    // Changement M+
+    "M+" -> M [label="Changement M+", color=red]
 
-    // 9 : non représentés, pas besoin
+    // Vacance : non représentés, pas besoin
 }
