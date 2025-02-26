@@ -183,7 +183,7 @@ Situation S, repris par l'assemblée nationale.
 
 Transition vers situation AS.
 
-## 6
+## Nomination de gouvernement minoritaire
 
 Situation M+. Nomination d'un nouveau gouvernement minoritaire par l'assemblée nationale.
 
@@ -191,7 +191,7 @@ Situation M+. Nomination d'un nouveau gouvernement minoritaire par l'assemblée 
 
 Transition vers situation M. (Potentiellement re-transition immédiate vers M+, mais a priori juste M.)
 
-## 7
+## Expiration du gouvernement minoritaire
 
 Situation M. Au bout d'un certain temps (ou de certaines circonstances particulières autres que le renouvellement de l'assemblée).
 

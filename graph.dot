@@ -1,20 +1,20 @@
 digraph G {
     compound=true;
-    style="rounded";
 
     subgraph cluster_A {
-        label="A";
-        style=dotted
-        AS;
-        AA;
+        label="Gouvernement majoritaire à l'Assemblée"
+        style="dotted, rounded"
+        AS [label="Assemblée + Sénat"]
+        AA [label="Assemblée sans Sénat"]
     }
 
-    S;
+    S [label="Gouvernement majoritaire au Sénat"]
 
     subgraph cluster_M {
-        label=M;
-        M [shape=point, style=invis];
-        "M+";
+        label="Gouvernement minoritaire"
+        style="dotted, rounded"
+        M [label="Simplement minoritaire"]
+        "M+" [label="Démissionnaire ou circonstances spéciales"]
     }
 
     // Nomination prioritaire d'un gouvernement
@@ -76,8 +76,8 @@ digraph G {
     // Nomination de gouvernement minoritaire
     "M+" -> M [label="Nomination de gouvernement minoritaire", color=red]
 
-    // 7
-    M -> "M+" [label="7"]
+    // Expiration du gouvernement minoritaire
+    M -> "M+" [label="Expiration"]
 
     // Changement de coalition sans changement de priorité
     // Changement A
