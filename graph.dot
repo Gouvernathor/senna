@@ -4,6 +4,7 @@ digraph G {
 
     subgraph cluster_A {
         label="A";
+        style=dotted
         AS;
         AA;
     }
@@ -17,13 +18,13 @@ digraph G {
     }
 
     // 1MS
-    M -> S [ltail=cluster_M, label="1MS"];
+    M -> S [ltail=cluster_M, label="1MS", color=red];
 
     // 1MA
-    M -> AA [ltail=cluster_M, label="1MA"];
+    M -> AA [ltail=cluster_M, label="1MA", color=red];
 
     // 1SA
-    S -> AA [label="1SA"];
+    S -> AA [label="1SA", color=red];
 
     // 2AS
     AS -> S [label="2AS"]
@@ -34,8 +35,8 @@ digraph G {
     // 2S
     S -> "M+" [label="2S"]
 
-    // 3M
-    M -> "M+" [ltail=cluster_M, label="3M"]
+    // 3AM
+    M -> "M+" [ltail=cluster_M, label="3AM"]
 
     // 3AS
     S -> S [label="3AS"]
@@ -69,23 +70,23 @@ digraph G {
     S -> AS [label="5SA"]
 
     // 6
-    "M+" -> M [label="6"]
+    "M+" -> M [label="6", color=red]
 
     // 7
     M -> "M+" [label="7"]
 
     // 8A
-    AA -> AS [label="8AS"]
-    AA -> AA [label="8AA"]
+    AA -> AS [label="8AS", color=red]
+    AA -> AA [label="8AA", color=red]
 
     // 8S
-    S -> S [label="8S"]
+    S -> S [label="8S", color=red]
 
     // 8M
     // pas de transition, no-op
 
     // 8M+
-    "M+" -> M [label="8M+"]
+    "M+" -> M [label="8M+", color=red]
 
     // 9 : non représentés, pas besoin
 }

@@ -24,6 +24,7 @@ Le gouvernement est minoritaire à l'assemblée nationale et au sénat.
 
 Le gouvernement est minoritaire à l'assemblée nationale et au sénat, mais l'assemblée nationale a le pouvoir de nommer un gouvernement minoritaire.
 
+
 # Événements
 
 ## 1
@@ -86,7 +87,7 @@ Le gouvernement reste en place et devient minoritaire (situation M), l'assemblé
 
 L'assemblée nationale est renouvelée.
 
-### Variante 3M
+### Variante 3AM
 
 Situation M.
 
@@ -255,7 +256,6 @@ Démission du chancelier, n'ayant pas encore pris son effet.
 Le chancelier reste en place jusqu'à la prise d'effet de sa démission. Transition vers situation M+.
 
 
-marquer les cas de changement de gouvernement avec une couleur particulière
 Utiliser des noms particuliers à la place des numéros
 
 
