@@ -81,7 +81,7 @@ digraph G {
 
     // Changement de coalition sans changement de priorité
     // Changement A
-    AA -> AS [label="Changement AS", color=red]
+    AS -> AA [label="Changement AS", color=red]
     AA -> AA [label="Changement AA", color=red]
 
     // Changement S
