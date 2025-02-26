@@ -1,3 +1,24 @@
+# Dispositions communes
+
+Lorsque le poste de chancelier est vacant (démission immédiate, mort, destitution...), le vice-chancelier prévu par la pétition, si il existe, assure l'intérim.
+Sinon, c'est le président de l'assemblée nationale qui assure l'intérim de la chancellerie.
+
+Lorsqu'un autre poste est vacant au sein du gouvernement :
+- soit c'est à l'initiative du parlement, et la chambre a prévu un remplacement, dans ce cas on amende la pétition et c'est fini,
+- soit non, et le chancelier nomme quelqu'un pour l'intérim, ensuite la chambre peut soit approuver ce choix, soit choisir quelqu'un d'autre.
+
+L'assemblée nationale nomme le gouvernement minoritaire quand aucun majoritaire ne peut être nommé, mais elle ne peut pas changer de gouvernement minoritaire tout le temps non plus.
+Elle peut donc en nommer un nouveau quand aucun gouvernement n'est majo au sénat, et :
+- le gouvernement/chancelier est démissionnaire,
+- l'assemblée vient d'être renouvelée,
+- le poste de chancelier est vacant (ou assuré par intérim)
+- le gouvernement en place avait été nommé de manière majoritaire, par l'assemblée ou le sénat, mais il vient de devenir minoritaire.
+
+Le sénat peut voter la confiance à un gouvernement nommé par l'assemblée, de manière à ce qu'il ne finisse pas minoritaire même si il devait perdre la majorité de l'assemblée.
+
+
+# old
+
 ## Types de motions
 
 Les motions de censure et de nomination sont divisées entre:
@@ -96,7 +117,7 @@ m) gouvernement minoritaire dans les deux chambres, responsable devant l'assembl
 s) gouvernement majoritaire au sénat, minoritaire à l'assemblée, responsable devant le sénat
 a) gouvernement majoritaire à l'assemblée, responsable devant l'assemblée
 
-Les gouvernements m et a sont responsables devant l'assemblée nationale et nommée par elle. L'approbation du sénat, pour un gouvernement m, est facultative et ne sert que de filet de sécurité si il perd sa majorité absolue à l'assemblée.
+Les gouvernements m et a sont responsables devant l'assemblée nationale et nommée par elle. L'approbation du sénat, pour un gouvernement a, est facultative et ne sert que de filet de sécurité si il perd sa majorité absolue à l'assemblée.
 
 ## Toutes les situations possibles
 
