@@ -17,61 +17,61 @@ digraph G {
         "M+";
     }
 
-    // Priorité entre l'origine des gouvernements
-    // Priorité MS
-    M -> S [ltail=cluster_M, label="Priorité MS", color=red];
+    // Nomination prioritaire d'un gouvernement
+    // Nomination prioritaire MS
+    M -> S [ltail=cluster_M, label="Nomination prioritaire", color=red];
 
-    // Priorité MA
-    M -> AA [ltail=cluster_M, label="Priorité MA", color=red];
+    // Nomination prioritaire MA
+    M -> AA [ltail=cluster_M, label="Nomination prioritaire", color=red];
 
-    // Priorité SA
-    S -> AA [label="Priorité SA", color=red];
+    // Nomination prioritaire SA
+    S -> AA [label="Nomination prioritaire", color=red];
 
     // Rupture de majorité
     // Rupture AS
-    AS -> S [label="Rupture AS"]
+    AS -> S [label="Rupture de coalition"]
 
     // Rupture AA
-    AA -> "M+" [label="Rupture AA"]
+    AA -> "M+" [label="Rupture de coalition"]
 
     // Rupture S
-    S -> "M+" [label="Rupture S"]
+    S -> "M+" [label="Rupture de coalition"]
 
     // Élections et renouvellement
-    // Élections AM
-    M -> "M+" [ltail=cluster_M, label="Élections AM"]
+    // Élections Assemblée M
+    M -> "M+" [ltail=cluster_M, label="Élections Assemblée"]
 
-    // Élections AS
-    S -> S [label="Élections AS"]
+    // Élections Assemblée S
+    // S -> S [label="Élections Assemblée"]
 
-    // Élections AAS
-    AS -> S [label="Élections AAS"]
+    // Élections Assemblée AS
+    AS -> S [label="Élections Assemblée"]
 
-    // Élections AAA
-    AA -> "M+" [label="Élections AAA"]
+    // Élections Assemblée AA
+    AA -> "M+" [label="Élections Assemblée"]
 
-    // Élections SM
-    M -> M [ltail=cluster_M, lhead=cluster_M, label="Élections SM"]
+    // Élections Sénat M
+    M -> M [ltail=cluster_M, lhead=cluster_M, label="Élections Sénat"]
 
-    // Élections SA
-    AA -> AA [label="Élections SAA"]
-    AS -> AA [label="Élections SAS"]
+    // Élections Sénat A
+    AA -> AA [label="Élections Sénat"]
+    AS -> AA [label="Élections Sénat"]
 
-    // Élections SS
-    S -> "M+" [label="Élections SS"]
+    // Élections Sénat S
+    S -> "M+" [label="Élections Sénat"]
 
     // Approbation Sénat
     AA -> AS [label="Approbation Sénat"]
 
-    // Reprise du gouvernement à une priorité plus élevée
-    // Elevate MS
-    M -> S [ltail=cluster_M, label="Elevate MS"]
+    // Reprise/Approbation du gouvernement à une priorité plus élevée
+    // Approbation MS
+    M -> S [ltail=cluster_M, label="Approbation Sénat"]
 
-    // Elevate MA
-    M -> AA [ltail=cluster_M, label="Elevate MA"]
+    // Approbation MA
+    M -> AA [ltail=cluster_M, label="Approbation Assemblée"]
 
-    // Elevate SA
-    S -> AS [label="Elevate SA"]
+    // Approbation SA
+    S -> AS [label="Approbation Assemblée"]
 
     // Nomination de gouvernement minoritaire
     "M+" -> M [label="Nomination de gouvernement minoritaire", color=red]
@@ -91,7 +91,7 @@ digraph G {
     // pas de transition, no-op
 
     // Changement M+
-    "M+" -> M [label="Changement M+", color=red]
+    // identique à "Nomination de gouvernement minoritaire"
 
     // Vacance : non représentés, pas besoin
 }

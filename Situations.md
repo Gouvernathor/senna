@@ -27,11 +27,11 @@ Le gouvernement est minoritaire à l'assemblée nationale et au sénat, mais l'a
 
 # Événements
 
-## Priorité
+## Nomination prioritaire
 
 Un accord de gouvernement de plus grande priorité que le gouvernement sortant est conclu.
 
-### Variante Prio MS
+### Variante Nomination Prioritaire MS
 
 Situation M, accord trouvé au Sénat.
 
@@ -39,7 +39,7 @@ Situation M, accord trouvé au Sénat.
 
 L'accord de gouvernement nomme le gouvernement, transition vers situation S.
 
-### Variante Prio MA
+### Variante Nomination Prioritaire MA
 
 Situation M, accord trouvé à l'Assemblée nationale.
 
@@ -47,7 +47,7 @@ Situation M, accord trouvé à l'Assemblée nationale.
 
 L'accord de gouvernement nomme le gouvernement, transition vers situation AA.
 
-### Variante Prio SA
+### Variante Nomination Prioritaire SA
 
 Situation S, accord trouvé à l'Assemblée nationale.
 
@@ -83,11 +83,11 @@ Situation S.
 
 Le gouvernement reste en place et devient minoritaire (situation M), l'assemblée nationale a cependant temporairement l'opportunité de nommer un nouveau gouvernement minoritaire (situation M+).
 
-## Élections A
+## Élections Assemblée nationale
 
 L'assemblée nationale est renouvelée.
 
-### Variante Élections AM
+### Variante Élections Assemblée nationale M
 
 Situation M.
 
@@ -95,7 +95,7 @@ Situation M.
 
 Le gouvernement reste en place et reste minoritaire (situation M), l'assemblée nationale a cependant temporairement l'opportunité de nommer un nouveau gouvernement minoritaire (situation M+).
 
-### Variante Élections AS
+### Variante Élections Assemblée nationale S
 
 Situation S.
 
@@ -103,7 +103,7 @@ Situation S.
 
 Rien ne se passe concernant le gouvernement. Situation S.
 
-### Variante Élections AAS
+### Variante Élections Assemblée nationale AS
 
 Situation AS.
 
@@ -111,7 +111,7 @@ Situation AS.
 
 Idem à l'événement Rupture AS. Le gouvernement reste en place, situation S.
 
-### Variante Élections AAA
+### Variante Élections Assemblée nationale AA
 
 Situation AA.
 
@@ -119,11 +119,11 @@ Situation AA.
 
 Idem à l'événement Rupture AA. Le gouvernement reste en place et devient minoritaire (situation M), l'assemblée nationale a cependant temporairement l'opportunité de nommer un nouveau gouvernement minoritaire (situation M+).
 
-## Élections S
+## Élections Sénat
 
 Le sénat est renouvelé. (Événements potentiellement impossibles, suivant le fonctionnement du sénat. Peut-être couverts par les événements Rupture.)
 
-### Variante Élections SM
+### Variante Élections Sénat M
 
 Situation M.
 
@@ -131,7 +131,7 @@ Situation M.
 
 Rien ne se passe concernant le gouvernement. Situation M.
 
-### Variante Élections SA
+### Variante Élections Sénat A
 
 Situation AA ou AS.
 
@@ -139,7 +139,7 @@ Situation AA ou AS.
 
 Le gouvernement reste investi par l'assemblée nationale, mais n'a pas le soutien du Sénat. Situation AA.
 
-### Variante Élections SS
+### Variante Élections Sénat S
 
 Situation S.
 
