@@ -1,0 +1,91 @@
+digraph G {
+    compound=true;
+    style="rounded";
+
+    subgraph cluster_A {
+        label="A";
+        AS;
+        AA;
+    }
+
+    S;
+
+    subgraph cluster_M {
+        label=M;
+        M [shape=point, style=invis];
+        "M+";
+    }
+
+    // 1MS
+    M -> S [ltail=cluster_M, label="1MS"];
+
+    // 1MA
+    M -> AA [ltail=cluster_M, label="1MA"];
+
+    // 1SA
+    S -> AA [label="1SA"];
+
+    // 2AS
+    AS -> S [label="2AS"]
+
+    // 2AA
+    AA -> "M+" [label="2AA"]
+
+    // 2S
+    S -> "M+" [label="2S"]
+
+    // 3M
+    M -> "M+" [ltail=cluster_M, label="3M"]
+
+    // 3AS
+    S -> S [label="3AS"]
+
+    // 3AAS
+    AS -> S [label="3AAS"]
+
+    // 3AAA
+    AA -> "M+" [label="3AAA"]
+
+    // 3SM
+    M -> M [ltail=cluster_M, lhead=cluster_M, label="3SM"]
+
+    // 3SA
+    AA -> AA [label="3SAA"]
+    AS -> AA [label="3SAS"]
+
+    // 3SS
+    S -> "M+" [label="3SS"]
+
+    // 4
+    AA -> AS [label="4"]
+
+    // 5MS
+    M -> S [ltail=cluster_M, label="5MS"]
+
+    // 5MA
+    M -> AA [ltail=cluster_M, label="5MA"]
+
+    // 5SA
+    S -> AS [label="5SA"]
+
+    // 6
+    "M+" -> M [label="6"]
+
+    // 7
+    M -> "M+" [label="7"]
+
+    // 8A
+    AA -> AS [label="8AS"]
+    AA -> AA [label="8AA"]
+
+    // 8S
+    S -> S [label="8S"]
+
+    // 8M
+    // pas de transition, no-op
+
+    // 8M+
+    "M+" -> M [label="8M+"]
+
+    // 9 : non représentés, pas besoin
+}
