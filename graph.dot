@@ -87,8 +87,8 @@ digraph G {
     // Changement S
     S -> S [label="Changement S", color=blue, fontcolor=blue]
 
-    // Changement M
-    // pas de transition, no-op
+    // Changement M (impossible)
+    M -> M [ltail=cluster_M, lhead=cluster_M, label="Changement M", color=red, fontcolor=red]
 
     // Changement M+
     // identique à "Nomination de gouvernement minoritaire"
