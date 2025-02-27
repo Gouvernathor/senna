@@ -19,13 +19,13 @@ digraph G {
 
     // Nomination prioritaire d'un gouvernement
     // Nomination prioritaire MS
-    M -> S [ltail=cluster_M, label="Nomination prioritaire par le Sénat", color=red, fontcolor=red];
+    M -> S [ltail=cluster_M, label="Nomination prioritaire par le Sénat", color=blue, fontcolor=blue];
 
     // Nomination prioritaire MA
-    M -> AA [ltail=cluster_M, label="Nomination prioritaire par l'Assemblée", color=red, fontcolor=red];
+    M -> AA [ltail=cluster_M, label="Nomination prioritaire par l'Assemblée", color=blue, fontcolor=blue];
 
     // Nomination prioritaire SA
-    S -> AA [label="Nomination prioritaire par l'Assemblée", color=red, fontcolor=red];
+    S -> AA [label="Nomination prioritaire par l'Assemblée", color=blue, fontcolor=blue];
 
     // Rupture de majorité
     // Rupture AS
@@ -74,18 +74,18 @@ digraph G {
     S -> AS [label="Approbation Assemblée"]
 
     // Nomination de gouvernement minoritaire
-    "M+" -> M [label="Nomination de gouvernement minoritaire", color=red, fontcolor=red]
+    "M+" -> M [label="Nomination de gouvernement minoritaire", color=blue, fontcolor=blue]
 
     // Expiration du gouvernement minoritaire
     M -> "M+" [label="Expiration"]
 
     // Changement de coalition sans changement de priorité
     // Changement A
-    AS -> AA [label="Changement AS", color=red, fontcolor=red]
-    AA -> AA [label="Changement AA", color=red, fontcolor=red]
+    AS -> AA [label="Changement AS", color=blue, fontcolor=blue]
+    AA -> AA [label="Changement AA", color=blue, fontcolor=blue]
 
     // Changement S
-    S -> S [label="Changement S", color=red, fontcolor=red]
+    S -> S [label="Changement S", color=blue, fontcolor=blue]
 
     // Changement M
     // pas de transition, no-op
