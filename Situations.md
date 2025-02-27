@@ -193,7 +193,8 @@ Transition vers situation M. (Potentiellement re-transition immédiate vers M+, 
 
 ## Expiration du gouvernement minoritaire
 
-Situation M. Au bout d'un certain temps (ou de certaines circonstances particulières autres que le renouvellement de l'assemblée).
+Situation M. Au bout d'un certain temps ou de certaines circonstances particulières autres que le renouvellement de l'assemblée (couvert dans Élections), la démission ou destitution du Chancelier (Vacance) ou l'intervention de la CJR.
+Optionnel et discutable.
 
 #### Résultat attendu
 

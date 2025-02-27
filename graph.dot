@@ -78,7 +78,7 @@ digraph G {
     "M+" -> M [label="Nomination de gouvernement minoritaire", color=blue, fontcolor=blue]
 
     // Expiration du gouvernement minoritaire
-    M -> "M+" [label="Expiration"]
+    M -> "M+" [label="Expiration", color=orange, fontcolor=orange]
 
     // Changement de coalition sans changement de priorité
     // Changement A
