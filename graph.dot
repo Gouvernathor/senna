@@ -18,6 +18,11 @@ digraph G {
         "M+" [label="Démissionnaire ou circonstances spéciales"]
     }
 
+    // bleu : changement/nomination de gouvernement
+    // noir : le gouvernement reste le même
+    // orange : événement optionnel
+    // rouge : événement impossible
+
     // Nomination prioritaire d'un gouvernement
     // Nomination prioritaire MS
     M -> S [ltail=cluster_M, label="Nomination prioritaire par le Sénat", color=blue, fontcolor=blue];
