@@ -23,7 +23,7 @@ digraph G {
     // orange : événement optionnel
     // rouge : événement impossible
 
-    // Nomination prioritaire d'un gouvernement
+    // 1 Nomination prioritaire d'un gouvernement
     // Nomination prioritaire MS
     M -> S [ltail=cluster_M, label="Nomination prioritaire par le Sénat", color=blue, fontcolor=blue];
 
@@ -33,7 +33,7 @@ digraph G {
     // Nomination prioritaire SA
     S -> AA [label="Nomination prioritaire par l'Assemblée", color=blue, fontcolor=blue];
 
-    // Rupture de majorité
+    // 2 Rupture de majorité
     // Rupture AS
     AS -> S [label="Rupture de coalition"]
 
@@ -43,7 +43,7 @@ digraph G {
     // Rupture S
     S -> "M+" [label="Rupture de coalition"]
 
-    // Élections et renouvellement
+    // 3 Élections et renouvellement
     // Élections Assemblée M
     M -> "M+" [ltail=cluster_M, label="Élections Assemblée"]
 
@@ -66,10 +66,10 @@ digraph G {
     // Élections Sénat S
     S -> "M+" [label="Élections Sénat"]
 
-    // Approbation Sénat
+    // 4 Approbation Sénat
     AA -> AS [label="Approbation Sénat"]
 
-    // Reprise/Approbation du gouvernement à une priorité plus élevée
+    // 4 Reprise/Approbation du gouvernement à une priorité plus élevée
     // Approbation MS
     M -> S [ltail=cluster_M, label="Approbation Sénat"]
 
@@ -79,13 +79,13 @@ digraph G {
     // Approbation SA
     S -> AS [label="Approbation Assemblée"]
 
-    // Nomination de gouvernement minoritaire
+    // 5 Nomination de gouvernement minoritaire
     "M+" -> M [label="Nomination de gouvernement minoritaire", color=blue, fontcolor=blue]
 
-    // Expiration du gouvernement minoritaire
+    // 6 Expiration du gouvernement minoritaire
     M -> "M+" [label="Expiration", color=orange, fontcolor=orange]
 
-    // Changement de coalition sans changement de priorité
+    // 7 Changement de coalition sans changement de priorité
     // Changement A
     AS -> AA [label="Changement AS", color=blue, fontcolor=blue]
     AA -> AA [label="Changement AA", color=blue, fontcolor=blue]
@@ -99,5 +99,5 @@ digraph G {
     // Changement M+
     // identique à "Nomination de gouvernement minoritaire"
 
-    // Vacance : non représentés, pas besoin
+    // 8 Vacance : non représentés, pas besoin
 }

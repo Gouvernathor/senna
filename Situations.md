@@ -27,7 +27,7 @@ Le gouvernement est minoritaire à l'assemblée nationale et au sénat, mais l'a
 
 # Événements
 
-## Nomination prioritaire
+## 1 Nomination prioritaire
 
 Un accord de gouvernement de plus grande priorité que le gouvernement sortant est conclu.
 
@@ -55,7 +55,7 @@ Situation S, accord trouvé à l'Assemblée nationale.
 
 L'accord de gouvernement nomme le gouvernement, transition vers situation AA.
 
-## Rupture
+## 2 Rupture
 
 La majorité absolue soutenant le gouvernement est rompue.
 
@@ -83,7 +83,7 @@ Situation S.
 
 Le gouvernement reste en place et devient minoritaire (situation M), l'assemblée nationale a cependant temporairement l'opportunité de nommer un nouveau gouvernement minoritaire (situation M+).
 
-## Élections Assemblée nationale
+## 3 Élections Assemblée nationale
 
 L'assemblée nationale est renouvelée.
 
@@ -119,7 +119,7 @@ Situation AA.
 
 Idem à l'événement Rupture AA. Le gouvernement reste en place et devient minoritaire (situation M), l'assemblée nationale a cependant temporairement l'opportunité de nommer un nouveau gouvernement minoritaire (situation M+).
 
-## Élections Sénat
+## 3 Élections Sénat
 
 Le sénat est renouvelé. (Événements potentiellement impossibles, suivant le fonctionnement du sénat. Peut-être couverts par les événements Rupture.)
 
@@ -147,7 +147,7 @@ Situation S.
 
 Idem à l'événement Rupture S. Le gouvernement reste en place et devient minoritaire (situation M), l'assemblée nationale a cependant temporairement l'opportunité de nommer un nouveau gouvernement minoritaire (situation M+).
 
-## Approbation du Sénat
+## 4 Approbation du Sénat
 
 Situation AA. Une majorité au Sénat soutient le gouvernement.
 
@@ -155,7 +155,7 @@ Situation AA. Une majorité au Sénat soutient le gouvernement.
 
 Transition vers situation AS.
 
-## Elevate
+## 4 Elevate
 
 Le gouvernement actuel est repris tel quel par une majorité à une assemblée supérieure.
 
@@ -183,7 +183,7 @@ Situation S, repris par l'assemblée nationale.
 
 Transition vers situation AS.
 
-## Nomination de gouvernement minoritaire
+## 5 Nomination de gouvernement minoritaire
 
 Situation M+. Nomination d'un nouveau gouvernement minoritaire par l'assemblée nationale.
 
@@ -191,7 +191,7 @@ Situation M+. Nomination d'un nouveau gouvernement minoritaire par l'assemblée 
 
 Transition vers situation M. (Potentiellement re-transition immédiate vers M+, mais a priori juste M.)
 
-## Expiration du gouvernement minoritaire
+## 6 Expiration du gouvernement minoritaire
 
 Situation M. Au bout d'un certain temps ou de certaines circonstances particulières autres que le renouvellement de l'assemblée (couvert dans Élections), la démission ou destitution du Chancelier (Vacance) ou l'intervention de la CJR.
 Optionnel et discutable.
@@ -200,7 +200,7 @@ Optionnel et discutable.
 
 Transition vers situation M+.
 
-## Changement
+## 7 Changement
 
 Conclusion et/ou rupture de coalition au sein d'une chambre sans changement de priorité du gouvernement.
 
@@ -236,7 +236,7 @@ Situation M+.
 
 Idem à l'événement 6. Le gouvernement change. Transition vers situation M.
 
-## Vacance
+## 8 Vacance
 
 Toutes situations. Vacance de la chancellerie.
 
