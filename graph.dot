@@ -1,5 +1,6 @@
 digraph G {
-    compound=true;
+    compound=true
+    K=3
 
     subgraph cluster_A {
         label="Gouvernement majoritaire à l'Assemblée"
