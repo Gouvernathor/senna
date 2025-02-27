@@ -42,7 +42,7 @@ digraph G {
     M -> "M+" [ltail=cluster_M, label="Élections Assemblée"]
 
     // Élections Assemblée S
-    // S -> S [label="Élections Assemblée"]
+    S -> S [label="Élections Assemblée"]
 
     // Élections Assemblée AS
     AS -> S [label="Élections Assemblée"]
