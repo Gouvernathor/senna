@@ -11,7 +11,7 @@ L'assemblée nationale nomme le gouvernement minoritaire quand aucun majoritaire
 Elle peut donc en nommer un nouveau quand aucun gouvernement n'est majo au sénat, et :
 - le gouvernement/chancelier est démissionnaire,
 - l'assemblée vient d'être renouvelée,
-- le poste de chancelier est vacant (ou assuré par intérim)
+- le poste de chancelier est vacant (ou assuré par intérim) (cas de mort, de démission ayant pris son effet, de destitution...),
 - le gouvernement en place avait été nommé de manière majoritaire, par l'assemblée ou le sénat, mais il vient de devenir minoritaire.
 
 Le sénat peut voter la confiance à un gouvernement nommé par l'assemblée, de manière à ce qu'il ne finisse pas minoritaire même si il devait perdre la majorité de l'assemblée.
