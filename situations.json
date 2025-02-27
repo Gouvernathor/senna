@@ -1,0 +1,195 @@
+{
+    "situations": {
+        "A": {
+            "desc": "Le gouvernement est majoritaire à l'assemblée nationale."
+        },
+        "AS": {
+            "parent": "A",
+            "desc": "Une majorité au Sénat soutient le gouvernement."
+        },
+        "AA": {
+            "parent": "A",
+            "desc": "Aucune majorité ne soutient le gouvernement au Sénat."
+        },
+        "S": {
+            "desc": "Le gouvernement est majoritaire au Sénat, sans être majoritaire à l'assemblée nationale."
+        },
+        "M": {
+            "desc": "Le gouvernement est minoritaire à l'assemblée nationale et au Sénat."
+        },
+        "M+": {
+            "parent": "M",
+            "desc": "Le gouvernement est minoritaire à l'assemblée nationale et au Sénat, mais l'assemblée nationale a le pouvoir de nommer un gouvernement minoritaire."
+        }
+    },
+    "événements": [{
+        "n": 1,
+        "name": "Nomination prioritaire",
+        "desc": "Un accord de gouvernement est conclu avec une plus grande priorité que le gouvernement sortant.",
+        "variantes": [{
+            "id": "MS",
+            "situations": ["M"],
+            "condition": "Accord trouvé au Sénat",
+            "résultat": "S",
+            "nomination": true
+        }, {
+            "id": "MA",
+            "situations": ["M"],
+            "condition": "Accord trouvé à l'Assemblée nationale",
+            "résultat": "AA",
+            "nomination": true
+        }, {
+            "id": "SA",
+            "situations": ["S"],
+            "condition": "Accord trouvé à l'Assemblée nationale",
+            "résultat": "AA",
+            "nomination": true
+        }]
+    }, {
+        "n": 2,
+        "name": "Rupture",
+        "desc": "La majorité absolue soutenant le gouvernement est rompue.",
+        "variantes": [{
+            "id": "AS",
+            "situations": ["AS"],
+            "résultat": "S",
+            "nomination": false
+        }, {
+            "id": "AA",
+            "situations": ["AA"],
+            "résultat": "M+",
+            "nomination": false
+        }, {
+            "id": "S",
+            "situations": ["S"],
+            "résultat": "M+",
+            "nomination": false
+        }]
+    }, {
+        "n": 3,
+        "name": "Élections Assemblée nationale",
+        "desc": "L'Assemblée nationale est renouvelée.",
+        "variantes": [{
+            "id": "AM",
+            "situations": ["M"],
+            "résultat": "M+",
+            "nomination": false
+        }, {
+            "id": "AS",
+            "situations": ["S"],
+            "résultat": "S",
+            "nomination": false
+        }, {
+            "id": "AAS",
+            "situations": ["AS"],
+            "résultat": "S",
+            "nomination": false
+        }, {
+            "id": "AAA",
+            "situations": ["AA"],
+            "résultat": "M+",
+            "nomination": false
+        }]
+    }, {
+        "n": 3,
+        "name": "Élections Sénat",
+        "desc": "Le Sénat est renouvelé. (Événements potentiellement impossibles, suivant le fonctionnement du Sénat.)",
+        "variantes": [{
+            "id": "SM",
+            "situations": ["M"],
+            "résultat": "M",
+            "nomination": false
+        }, {
+            "id": "SA",
+            "situations": ["AA", "AS"],
+            "résultat": "AA",
+            "nomination": false
+        }, {
+            "id": "SS",
+            "situations": ["S"],
+            "résultat": "M+",
+            "nomination": false
+        }]
+    }, {
+        "n": 4,
+        "name": "Approbation et reprise",
+        "desc": "Le gouvernement en place est approuvé tel quel par une majorité dans la chambre au nom duquel il n'est pas investi.",
+        "variantes": [{
+            "id": "AS",
+            "situations": ["AA"],
+            "condition": "Majorité au Sénat",
+            "résultat": "AS",
+            "nomination": false
+        }, {
+            "id": "MS",
+            "situations": ["M"],
+            "condition": "Majorité au Sénat",
+            "résultat": "S",
+            "nomination": false
+        }, {
+            "id": "MA",
+            "situations": ["M"],
+            "condition": "Majorité à l'Assemblée nationale",
+            "résultat": "AA",
+            "nomination": false
+        }, {
+            "id": "SA",
+            "situations": ["S"],
+            "condition": "Majorité à l'Assemblée nationale",
+            "résultat": "AS",
+            "nomination": false
+        }]
+    }, {
+        "n": 5,
+        "name": "Nomination de gouvernement minoritaire",
+        "desc": "Nomination d'un nouveau gouvernement minoritaire par l'Assemblée nationale.",
+        "variantes": [{
+            "situations": ["M+"],
+            "résultat": "M",
+            "nomination": true
+        }]
+    }, {
+        "n": 6,
+        "name": "Expiration du gouvernement minoritaire",
+        "desc": "L'Assemblée nationale regagne le pouvoir de nommer un nouveau gouvernement minoritaire au bout d'un certain temps, ou de certaines circonstances particulières autres que le renouvellement de l'assemblée (couvert en 3), la démission ou destitution du Chancelier (Vacance), ou l'intervention de la CJR.",
+        "optional": true,
+        "variantes": [{
+            "situations": ["M"],
+            "résultat": "M+",
+            "nomination": false
+        }]
+    }, {
+        "n": 7,
+        "name": "Changement",
+        "desc": "Conclusion et/ou rupture de cialition au sein d'une chambre, sans changement de priorité du gouvernement.",
+        "variantes": [{
+            "id": "A",
+            "situations": ["AA", "AS"],
+            "résultat": "A",
+            "nomination": true
+        }, {
+            "id": "S",
+            "situations": ["S"],
+            "résultat": "S",
+            "nomination": true
+        }, {
+            "id": "M",
+            "situations": ["M"],
+            "résultat": "M",
+            "nomination": false
+        }, {
+            "id": "M+",
+            "situations": ["M+"],
+            "résultat": "M",
+            "nomination": true
+        }]
+    }, {
+        "n": 8,
+        "name": "Vacance",
+        "desc": "Vacance de la chancellerie.\nSi décès, destitution, ou démission ayant pris son effet, alors le vice-chancelier, si il existe, sinon le président de l'Assemblée nationale, assure l'intérim de la chancellerie.",
+        "variantes": [{
+            "résultat": "M+",
+            "nomination": false
+        }]
+    }]
+}

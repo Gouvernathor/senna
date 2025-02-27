@@ -1,3 +1,14 @@
+(voir situations.json, plus standardisé)
+
+cas non-graphés ou spéciaux :
+changements dans la composition du gouvernement sans changer tout le gouvernement, que ce soit à l'initiative du chancelier ou du parlement, ou par démission/décès d'un ministre ordinaire
+(important quand même, surtout dans le cas minoritaire)
+impact et rôle de la CJR (peut-être à voir plus tard)
+spam des oppositions (leur non-représentation est l'information que ça ne doit pas avoir d'impact)
+cas de scandale sans décision de la CJR
+cas de destitution d'urgence
+
+
 # Situations
 
 ## A
@@ -234,7 +245,7 @@ Situation M+.
 
 #### Résultat attendu
 
-Idem à l'événement 6. Le gouvernement change. Transition vers situation M.
+Idem à l'événement 5. Le gouvernement change. Transition vers situation M.
 
 ## 8 Vacance
 
@@ -255,15 +266,3 @@ Démission du chancelier, n'ayant pas encore pris son effet.
 #### Résultat attendu
 
 Le chancelier reste en place jusqu'à la prise d'effet de sa démission. Transition vers situation M+.
-
-
-Utiliser des noms particuliers à la place des numéros
-
-
-cas non-graphés ou spéciaux :
-changements dans la composition du gouvernement sans changer tout le gouvernement, que ce soit à l'initiative du chancelier ou du parlement, ou par démission/décès d'un ministre ordinaire
-(important quand même, surtout dans le cas minoritaire)
-impact et rôle de la CJR (peut-être à voir plus tard)
-spam des oppositions
-cas de scandale sans décision de la CJR
-cas de destitution d'urgence
