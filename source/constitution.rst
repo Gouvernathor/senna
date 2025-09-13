@@ -218,13 +218,13 @@ Aucune procédure de révision ne peut être engagée ou poursuivie lorsqu'il es
 
 .. article:: référendums
 
-Un référendum est convoqué par le Parlement, par l'Assemblée nationale seule dans le cadre prévu par :artref:`adoption par une seule assemblée`, par une assemblée constituante, ou par une pétition rassemblant trois centièmes des citoyens, afin de soumettre un texte à l'approbation du peuple. La loi organique en prévoit les modalités.
+Un référendum est convoqué par le Parlement par l'adoption d'une loi référendaire. Il y est annexé le texte porté à l'approbation du peuple ; elle est adoptée selon la procédure législative ordinaire. Un référendum peut aussi être convoqué par l'Assemblée nationale seule dans le cadre prévu par :artref:`adoption par une seule assemblée`, par une assemblée constituante, ou par une pétition rassemblant trois centièmes des citoyens. La loi organique en prévoit les modalités.
 
-Le vote doit avoir lieu dans les trois mois suivant la convocation du référendum, sauf par dérogation du Parlement dans le cas où le référendum est d'origine parlementaire. L'administration est responsable de sa tenue.
+Le vote doit avoir lieu dans les trois mois suivant la convocation du référendum, sauf par dérogation prévue par la loi référendaire qui en est à l'origine. L'administration est responsable de sa tenue.
 
 La valeur constitutionnelle d'un texte doit être établie avant que le vote n'ait lieu. La Cour constitutionnelle la constate par un avis public présentant, le cas échéant, les modifications de la Constitution qui résulteraient de son adoption. Dans le cas de l'usage de :artref:`adoption par une seule assemblée`, si le texte n'est pas conforme à la constitution, le référendum ne peut avoir lieu ; l'Assemblée nationale en est saisie pour retirer les dispositions contraires, puis la procédure prévue aux articles :artnumref:`navette parlementaire et CMP` et :artnumref:`adoption par une seule assemblée` reprend à l'étape de la nouvelle lecture par l'Assemblée nationale et le Sénat.
 
-Cet avis ne doit pas être rendu plus d'un mois après la convocation du référendum, et lorsque le texte a valeur constitutionnelle, le vote ne peut avoir lieu moins d'un mois après que l'avis soit rendu public. Toutefois, dans les cas où le référendum n'est pas d'origine populaire, le Parlement peut allonger le délai laissé à la Cour constitutionnelle.
+Cet avis ne doit pas être rendu plus d'un mois après la convocation du référendum, et lorsque le texte a valeur constitutionnelle, le vote ne peut avoir lieu moins d'un mois après que l'avis soit rendu public. Toutefois, la loi référendaire peut allonger le délai laissé à la Cour constitutionnelle.
 
 ---------------------------
 Titre III — Le gouvernement
