@@ -116,9 +116,9 @@ Le bureau du Congrès est celui de l'Assemblée nationale, sauf si le règlement
 
 Un texte adopté par le Congrès, de manière conforme au réglement du Congrès et à sa motion de réunion, est considéré comme adopté par le Parlement. Le délai de ratification de ces textes est doublé, sauf en cas de vote réunissant le soutien des trois cinquièmes des membres du Congrès.
 
-La session expire dans les modalités prévues par son règlement intérieur et de sa motion de réunion, sur décision du Congrès, ou en cas de renouvellement partiel ou total d'une des assemblées parlementaires.
+La session expire dans les modalités prévues par son règlement intérieur et de sa motion de réunion, sur décision du Congrès, en cas de renouvellement partiel ou total d'une des assemblées parlementaires, ou en cas de vote à cet effet par une des deux assemblées parlementaires.
 
-Les deux assemblées parlementaires se réunissent de plein droit pendant la session commune de Congrès, notamment afin d'amender la motion de réunion de la session en cours.
+Les deux assemblées parlementaires se réunissent de plein droit pendant la session commune de Congrès, notamment afin d'amender la motion de réunion de la session en cours ou dans le cadre du précédent alinéa.
 
 .. article:: résolutions parlementaires
 
