@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Constitution Senna'
-copyright = '2021-2024, Pierre Pavia'
-author = 'Pierre Pavia'
+copyright = '2021-2025, Gouvernathor'
+author = 'Gouvernathor'
 
 import sys, os.path
 sys.path.append(os.path.abspath('.'))
