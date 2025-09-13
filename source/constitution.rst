@@ -212,7 +212,7 @@ La révision est adoptée par référendum selon les modalités prévues à :art
 
 Le Congrès ne peut considérer une proposition de révision que si le texte de la proposition de révision est inclus en intégralité dans la motion de réunion de la session commune adoptée en termes identiques par les deux assemblées. Le Congrès adopte une révision en réunissant la majorité des trois cinquièmes des suffrages exprimés.
 
-Le délai de ratification d'une révision adoptée sans référendum est de trois mois à compter de son adoption. Une pétition pour l'annulation de cette révision recevant le soutien d'un centième des citoyens moins d'un an après son adoption, suspend l'application de la révision, ainsi que le délai de ratification le cas échéant, et la porte en référendum en dérogation du premier alinéa de :artref:`référendums`.
+Le délai de ratification d'une révision adoptée sans référendum est de trois mois à compter de son adoption. Une pétition pour l'annulation de cette révision recevant le soutien d'un centième des citoyens moins d'un an après son adoption, suspend le délai de ratification de la révision, ou son application le cas échéant, et la porte en référendum en dérogation du premier alinéa de :artref:`référendums`.
 
 Aucune procédure de révision ne peut être engagée ou poursuivie lorsqu'il est porté atteinte à l'intégrité du territoire.
 
