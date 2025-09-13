@@ -156,7 +156,7 @@ Si après l'adoption d'un texte par une des deux assemblées parlementaires, l'a
 
 Le délai de ratification d'une loi après son adoption est de deux semaines.
 
-Lorsque, par suite d'un désaccord entre les deux Assemblées, une proposition de loi n'a pu être adopté après au moins une lecture par chaque assemblée, les Bureaux des deux assemblées peuvent, par une décision commune, réunir une commission mixte paritaire chargée de proposer un texte sur les dispositions restant en discussion.
+Lorsque, par suite d'un désaccord entre les deux Assemblées, une proposition de loi n'a pu être adoptée après au moins une lecture par chaque assemblée, les Bureaux des deux assemblées peuvent, par une décision commune, réunir une commission mixte paritaire chargée de proposer un texte sur les dispositions restant en discussion.
 
 Cette même réunion peut être convoquée par le Bureau d'une seule assemblée après au moins deux lectures par chacune des assemblées, ou après une lecture si le texte correspond à des conditions fixées par la loi organique.
 
