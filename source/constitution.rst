@@ -214,7 +214,7 @@ Le Congrès ne peut considérer une proposition de révision que si le texte de 
 
 Le délai de ratification d'une révision adoptée sans référendum est de trois mois à compter de son adoption. Une pétition pour l'annulation de cette révision recevant le soutien d'un centième des citoyens moins d'un an après son adoption, suspend le délai de ratification de la révision, ou son application le cas échéant, et la porte en référendum en dérogation du premier alinéa de :artref:`référendums`.
 
-Aucune procédure de révision ne peut être engagée ou poursuivie lorsqu'il est porté atteinte à l'intégrité du territoire.
+Aucune procédure de révision ne peut être engagée ou poursuivie lorsqu'il est porté atteinte à l'intégrité du territoire ou à l'ordre constitutionnel des institutions.
 
 .. article:: référendums
 
