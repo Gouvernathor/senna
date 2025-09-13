@@ -1,0 +1,48 @@
+# Changements par rapport à Gamma
+
+Pareil, mais la pétition du gouvernement reste ouverte à dépôt et retrait de signatures. Si une pétition majoritaire descend en-dessous du seuil de minorité ou au contraire le dépasse (pendant 8j de suite, mettons), le statut du gouvernement est actualisé.
+
+Le seuil de déclenchement d'une procédure simple n'est pas de 10% sur une seule pétition, elle est d'un nombre de membres supérieur ou égal à la majo absolue des membres de l'assemblée, [sur une ou plusieurs pétitions ?].
+
+(pourquoi pas supérieur ou égal au nombre de signataires de la pétition du gouvernement : parce que si elle est majo, ça revient au même et c'est même simplifié donc mieux, et si elle est minoritaire ça empêche l'instabilité : les conditions pour la procédure prioritaire sont là pour ça)
+
+Les signatures ne peuvent être qu'ajoutées à la pétition initialement déposée, pas retirées (pour éviter les pétitions bidon qui ouvrent une procédure pour rien).
+
+Une situation de plus dans laquelle une procédure prioritaire peut être ouverte : le gouvernement est minoritaire mais il a été majoritaire dans l'une ou l'autre des chambres depuis la dernière procédure de nomination (cas du gvt qui perd sa majorité).
+
+Lorsqu'un siège de / mandat parlementaire est renouvelé, sa signature est retirée des pétitions du gouvernement.
+
+## Pistes
+
+Motion de censure ou de destitution style impeachment contre le chancelier, pour cas de force majeure, avec signature obligatoire des signataires originels de la pétition du gouvernement, et/ou concours du sénat, et le président de l'assemblée prend l'intérim.
+
+
+# Notes
+
+Avec le système des procédures simples et prioritaires (Gamma, Delta +), le gouvernement n'est nommé que par la clôture d'une procédure de nomination. Deux presque-exceptions à la règle :
+- la continuity of government : le remplacement du chancelier ou d'un ministre quand il meurt ou démissionne avec effet immédiat (ou affaire judiciaire, destitution pour situation particulière...), défini par la loi, et le président de la chambre remplace a priori le chancelier
+- les possibles motions de nomination/remplacement individuelles par l'assemblée devant laquelle le gouvernement est responsable
+
+La procédure simple est là pour nommer un gouvernement majoritaire, la procédure prioritaire est là pour nommer un gouvernement minoritaire.
+Les règles sur la procédure prioritaires permettent de remplacer un gouvernement qui de toute façon est illégitime et/ou minoritaire, donc ça ne crée pas d'instabilité.
+L'idée globalement est d'éviter que la priorité du gouvernement baisse : qu'un gouvernement majoritaire soit désavoué à la suite d'une manoeuvre de l'opposition ou qu'il soot remplacé par un gouvernement minoritaire.
+
+
+# Points à fixer
+
+- motions de nomination / remplacement individuelles
+  - à l'initiative de l'assemblée devant laquelle le gouvernement est responsable
+    - y compris dans le cas minoritaire
+  - à l'initiative du chancelier
+- impeachment, destitution d'urgence d'initiative parlementaire
+- affaire judiciaire d'origine judiciaire (possible procédure prioritaire)
+- mort du chancelier et des ministres, cog et ligne de succession
+
+La majo absolue pour déclencher une proc simple : sur une seule pétition ou en cumulé ?
+- Si c'est sur une seule, alors ça ajoute une 2eme sécurité pour empêcher de nommer un gouvernement minoritaire quand le gouvernement actuel est majoritaire.
+- Si c'est en cumulé, ça permet à la majo de laisser les oppositions se ridiculiser avec des pétitions toutes minoritaires, et de rester en place sans avoir à présenter de pétition.
+
+
+# Formulation propre / standalone
+
+(TODO)

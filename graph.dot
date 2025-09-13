@@ -1,0 +1,103 @@
+digraph G {
+    compound=true
+    K=3
+
+    subgraph cluster_A {
+        label="Gouvernement majoritaire à l'Assemblée"
+        style="dotted, rounded"
+        AS [label="Assemblée + Sénat"]
+        AA [label="Assemblée sans Sénat"]
+    }
+
+    S [label="Gouvernement majoritaire au Sénat"]
+
+    subgraph cluster_M {
+        label="Gouvernement minoritaire"
+        style="dotted, rounded"
+        M [label="Simplement minoritaire"]
+        "M+" [label="Démissionnaire ou circonstances spéciales"]
+    }
+
+    // bleu : changement/nomination de gouvernement
+    // noir : le gouvernement reste le même
+    // orange : événement optionnel
+    // rouge : événement impossible
+
+    // 1 Nomination prioritaire d'un gouvernement
+    // Nomination prioritaire MS
+    M -> S [ltail=cluster_M, label="Nomination prioritaire par le Sénat", color=blue, fontcolor=blue];
+
+    // Nomination prioritaire MA
+    M -> AA [ltail=cluster_M, label="Nomination prioritaire par l'Assemblée", color=blue, fontcolor=blue];
+
+    // Nomination prioritaire SA
+    S -> AA [label="Nomination prioritaire par l'Assemblée", color=blue, fontcolor=blue];
+
+    // 2 Rupture de majorité
+    // Rupture AS
+    AS -> S [label="Rupture de coalition"]
+
+    // Rupture AA
+    AA -> "M+" [label="Rupture de coalition"]
+
+    // Rupture S
+    S -> "M+" [label="Rupture de coalition"]
+
+    // 3 Élections et renouvellement
+    // Élections Assemblée M
+    M -> "M+" [ltail=cluster_M, label="Élections Assemblée"]
+
+    // Élections Assemblée S
+    S -> S [label="Élections Assemblée"]
+
+    // Élections Assemblée AS
+    AS -> S [label="Élections Assemblée"]
+
+    // Élections Assemblée AA
+    AA -> "M+" [label="Élections Assemblée"]
+
+    // Élections Sénat M
+    M -> M [ltail=cluster_M, lhead=cluster_M, label="Élections Sénat"]
+
+    // Élections Sénat A
+    AA -> AA [label="Élections Sénat"]
+    AS -> AA [label="Élections Sénat"]
+
+    // Élections Sénat S
+    S -> "M+" [label="Élections Sénat"]
+
+    // 4 Approbation Sénat
+    AA -> AS [label="Approbation Sénat"]
+
+    // 4 Reprise/Approbation du gouvernement à une priorité plus élevée
+    // Approbation MS
+    M -> S [ltail=cluster_M, label="Approbation Sénat"]
+
+    // Approbation MA
+    M -> AA [ltail=cluster_M, label="Approbation Assemblée"]
+
+    // Approbation SA
+    S -> AS [label="Approbation Assemblée"]
+
+    // 5 Nomination de gouvernement minoritaire
+    "M+" -> M [label="Nomination de gouvernement minoritaire", color=blue, fontcolor=blue]
+
+    // 6 Expiration du gouvernement minoritaire
+    M -> "M+" [label="Expiration", color=orange, fontcolor=orange]
+
+    // 7 Changement de coalition sans changement de priorité
+    // Changement A
+    AS -> AA [label="Changement AS", color=blue, fontcolor=blue]
+    AA -> AA [label="Changement AA", color=blue, fontcolor=blue]
+
+    // Changement S
+    S -> S [label="Changement S", color=blue, fontcolor=blue]
+
+    // Changement M (impossible)
+    M -> M [ltail=cluster_M, lhead=cluster_M, label="Changement M", color=red, fontcolor=red]
+
+    // Changement M+
+    // identique à "Nomination de gouvernement minoritaire"
+
+    // 8 Vacance : non représentés, pas besoin
+}
