@@ -108,11 +108,11 @@ Le Parlement a la faculté de réunir ses membres en session commune de Congrès
 
 Le règlement intérieur du Congrès est adopté en termes identiques par les deux assemblées.
 
-La motion de réunion peut outrepasser des dispositions du règlement intérieur, en particulier pour fixer de manière limitative des textes ou des domaines à considérer, ou pour fixer une date de fin de session.
+La motion de réunion peut outrepasser des dispositions du règlement intérieur, en particulier pour contraindre son ordre du jour, ou pour fixer une date de fin de session.
 
 Le règlement intérieur ne peut pas être amendé par le Congrès en session, sauf dans les cas que le règlement intérieur a prévu au préalable. Une motion de réunion ne peut pas être amendée par le Congrès.
 
-Le bureau du Congrès est celui de l'Assemblée nationale, sauf si le règlement intérieur du Congrès, ou la motion de réunion, en disposent autrement.
+Le bureau du Congrès est celui de l'Assemblée nationale, sauf si le règlement intérieur du Congrès ou la motion de réunion en disposent autrement.
 
 Un texte adopté par le Congrès, de manière conforme au réglement du Congrès et à sa motion de réunion, est considéré comme adopté par le Parlement. Le délai de ratification de ces textes est doublé, sauf en cas de vote réunissant le soutien des trois cinquièmes des membres du Congrès.
 
