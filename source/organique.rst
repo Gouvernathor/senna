@@ -8,7 +8,7 @@ Relative à :artref:`principe du parlement`
 
 Article unique
 --------------
-Le renouvellement anticipé d'une assemblée est ordonné dans les conditions prévues par son règlement intérieur, ou par réception d'un recours citoyen en dissolution.
+Le renouvellement anticipé d'une assemblée est ordonné dans les conditions prévues par son règlement intérieur.
 
 De plus, si aucun gouvernement n'est majoritaire dans au moins une assemblée dans les trois mois suivant le dernier renouvellement, partiel ou total, d'une des assemblées, les deux assemblées sont renouvelées de manière anticipée. Le renouvellement du Sénat est partiel. Après un tel renouvellement, cette durée est portée à huit mois.
 
@@ -16,9 +16,7 @@ En outre, le Sénat a le pouvoir d'ordonner un renouvellement de l'Assemblée Na
 
 Le Parlement peut ordonner par la loi un renouvellement anticipé des deux assemblées à la fois, partiel ou intégral dans le cas du Sénat.
 
-Sauf disposition contraire issue du recours en étant à l'origine, un recours citoyen entraîne au Sénat un renouvellement intégral.
-
-Les conditions de recevabilité d'un recours citoyen en dissolution sont celles prévues pour les pétitions référendaires prévues par :artref:`référendums`.
+Un recours citoyen en renouvellement peut être constitué de la même manière qu'une pétition référendaire prévue à :artref:`référendums`, et déposé auprès d'une des assemblées. Les signatures comptabilisées sont celles recueillies après le renouvellement le plus récent de l'assemblée concernée. Sauf disposition contraire issue du recours en étant à l'origine, un recours citoyen entraîne au Sénat un renouvellement intégral.
 
 Le scrutin qui résulte d'un renouvellement anticipé doit avoir lieu dans un délai d'un mois.
 
