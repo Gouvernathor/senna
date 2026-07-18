@@ -33,6 +33,11 @@ export function convertData(data: DataRoot): ElementsDefinition {
 }
 
 export const styleOptions: StylesheetJson = [{
+    selector: "edge",
+    style: {
+        "target-arrow-shape": "chevron",
+    },
+}, {
     selector: "[name]",
     style: {
         label: "data(name)",
@@ -42,11 +47,13 @@ export const styleOptions: StylesheetJson = [{
     style: {
         color: "blue",
         "line-color": "blue",
+        "target-arrow-color": "blue",
     },
 }, {
     selector: ".optional",
     style: {
         color: "orange",
         "line-color": "orange",
+        "target-arrow-color": "orange",
     },
 }];
