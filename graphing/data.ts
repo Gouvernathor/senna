@@ -1,6 +1,6 @@
 type OptionalKeys<T, Keys extends keyof T> = Omit<T, Keys> & Partial<Pick<T, Keys>>;
 
-interface Root {
+export interface DataRoot {
     situations: Situations;
     "événements": Evenement[];
 }
@@ -224,4 +224,4 @@ export default {
             "nomination": false
         }]
     }]
-} satisfies Root;
+} satisfies DataRoot;
