@@ -10,6 +10,7 @@ type Situations<Id extends string = string> = {
 };
 
 interface Situation {
+    name: string;
     desc: string;
     parent?: string;
 }
@@ -33,24 +34,30 @@ interface Variante<SituationId extends string = string> {
 export default {
     "situations": {
         "A": {
+            "name": "Gouvernement majoritaire à l'Assemblée",
             "desc": "Le gouvernement est majoritaire à l'assemblée nationale."
         },
         "AS": {
             "parent": "A",
+            "name": "Assemblée + Sénat",
             "desc": "Une majorité au Sénat soutient le gouvernement."
         },
         "AA": {
             "parent": "A",
+            "name": "Assemblée sans Sénat",
             "desc": "Aucune majorité ne soutient le gouvernement au Sénat."
         },
         "S": {
+            "name": "Gouvernement majoritaire au Sénat",
             "desc": "Le gouvernement est majoritaire au Sénat, sans être majoritaire à l'assemblée nationale."
         },
         "M": {
+            "name": "Gouvernement minoritaire",
             "desc": "Le gouvernement est minoritaire à l'assemblée nationale et au Sénat."
         },
         "M+": {
             "parent": "M",
+            "name": "Démissionnaire ou circonstances spéciales",
             "desc": "Le gouvernement est minoritaire à l'assemblée nationale et au Sénat, mais l'assemblée nationale a le pouvoir de nommer un nouveau gouvernement minoritaire."
         }
     },
