@@ -7,6 +7,7 @@
     "typescript": "^7.0.2"
   },
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "serve": "npm run build && npx http-server"
   }
 }
