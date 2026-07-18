@@ -3,7 +3,7 @@ import { DataRoot } from "./data.js";
 
 export function convertData(data: DataRoot): ElementsDefinition {
     return {
-        nodes: Object.keys(data.situations).map(id => ({ id, data: data.situations[id] })),
+        nodes: Object.keys(data.situations).map(id => ({ id, data: data.situations[id]! })),
         edges: data["événements"].flatMap(({ n, name, desc, variantes, optional }) => {
             return variantes.flatMap(({ id, name: varianteName, situations = [], condition, "résultat": resultat, nomination }) => {
                 const classes: string[] = [];

@@ -1,5 +1,9 @@
 {
   "dependencies": {
     "cytoscape": "^3.34.0"
+  },
+  "devDependencies": {
+    "@tsconfig/strictest": "^2.0.8",
+    "typescript": "^7.0.2"
   }
 }
