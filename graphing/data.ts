@@ -25,6 +25,7 @@ interface Evenement {
 
 interface Variante<SituationId extends string = string> {
     id: string;
+    name?: string;
     situations: SituationId[];
     condition?: string;
     "résultat": SituationId;
@@ -67,18 +68,21 @@ export default {
         "desc": "Un accord de gouvernement est conclu avec une plus grande priorité que le gouvernement sortant.",
         "variantes": [{
             "id": "MS",
+            "name": "Nomination prioritaire par le Sénat",
             "situations": ["M"],
             "condition": "Accord trouvé au Sénat",
             "résultat": "S",
             "nomination": true
         }, {
             "id": "MA",
+            "name": "Nomination prioritaire par l'Assemblée",
             "situations": ["M"],
             "condition": "Accord trouvé à l'Assemblée nationale",
             "résultat": "AA",
             "nomination": true
         }, {
             "id": "SA",
+            "name": "Nomination prioritaire par l'Assemblée",
             "situations": ["S"],
             "condition": "Accord trouvé à l'Assemblée nationale",
             "résultat": "AA",
@@ -86,7 +90,7 @@ export default {
         }]
     }, {
         "n": 2,
-        "name": "Rupture",
+        "name": "Rupture de coalition",
         "desc": "La majorité absolue soutenant le gouvernement est rompue.",
         "variantes": [{
             "id": "AS",
@@ -155,24 +159,28 @@ export default {
         "desc": "Le gouvernement en place est approuvé tel quel par une majorité dans la chambre au nom duquel il n'est pas investi.",
         "variantes": [{
             "id": "AS",
+            "name": "Approbation Sénat",
             "situations": ["AA"],
             "condition": "Majorité au Sénat",
             "résultat": "AS",
             "nomination": false
         }, {
             "id": "MS",
+            "name": "Approbation Sénat",
             "situations": ["M"],
             "condition": "Majorité au Sénat",
             "résultat": "S",
             "nomination": false
         }, {
             "id": "MA",
+            "name": "Approbation Assemblée",
             "situations": ["M"],
             "condition": "Majorité à l'Assemblée nationale",
             "résultat": "AA",
             "nomination": false
         }, {
             "id": "SA",
+            "name": "Approbation Assemblée",
             "situations": ["S"],
             "condition": "Majorité à l'Assemblée nationale",
             "résultat": "AS",
@@ -193,6 +201,7 @@ export default {
         "desc": "L'Assemblée nationale regagne le pouvoir de nommer un nouveau gouvernement minoritaire au bout d'un certain temps, ou de certaines circonstances particulières autres que le renouvellement de l'assemblée (couvert en 3), la démission ou destitution du Chancelier (Vacance), ou l'intervention de la CJR.",
         "optional": true,
         "variantes": [{
+            "name": "Expiration",
             "situations": ["M"],
             "résultat": "M+",
             "nomination": false
@@ -216,12 +225,12 @@ export default {
             "situations": ["M"],
             "résultat": "M",
             "nomination": false
-        }, {
+        }/*, { // identique à la nomination du gouvernement minoritaire
             "id": "M+",
             "situations": ["M+"],
             "résultat": "M",
             "nomination": true
-        }]
+        }*/]
     }, {
         "n": 8,
         "name": "Vacance",

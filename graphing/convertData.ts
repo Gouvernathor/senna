@@ -5,7 +5,7 @@ export function convertData(data: DataRoot): ElementsDefinition {
     return {
         nodes: Object.keys(data.situations).map(id => ({ id, data: data.situations[id] })),
         edges: data["événements"].flatMap(({ n, name, desc, variantes, optional }) => {
-            return variantes.flatMap(({ id, situations = [], condition, "résultat": resultat, nomination }) => {
+            return variantes.flatMap(({ id, name: varianteName, situations = [], condition, "résultat": resultat, nomination }) => {
                 const classes: string[] = [];
                 if (optional) {
                     classes.push("optional");
@@ -18,7 +18,7 @@ export function convertData(data: DataRoot): ElementsDefinition {
                         source: situation,
                         target: resultat,
 
-                        name,
+                        name: varianteName ?? name,
                         nomination,
                         optional,
                         // nothing is done with these yet
