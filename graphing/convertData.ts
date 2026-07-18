@@ -32,11 +32,21 @@ export function convertData(data: DataRoot): ElementsDefinition {
     };
 }
 
-export const styleOptions: StylesheetJson = [
-    {
-        selector: "[name]",
-        style: {
-            label: "data(name)",
-        },
-    }
-];
+export const styleOptions: StylesheetJson = [{
+    selector: "[name]",
+    style: {
+        label: "data(name)",
+    },
+}, {
+    selector: ".nomination",
+    style: {
+        color: "blue",
+        "background-color": "blue",
+    },
+}, {
+    selector: ".optional",
+    style: {
+        color: "orange",
+        "background-color": "orange",
+    },
+}];
