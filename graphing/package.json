@@ -5,5 +5,8 @@
   "devDependencies": {
     "@tsconfig/strictest": "^2.0.8",
     "typescript": "^7.0.2"
+  },
+  "scripts": {
+    "build": "tsc"
   }
 }
