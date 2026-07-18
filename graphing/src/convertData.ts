@@ -35,24 +35,49 @@ export function convertData(data: DataRoot): ElementsDefinition {
 export const styleOptions: StylesheetJson = [{
     selector: "edge",
     style: {
-        "target-arrow-shape": "chevron",
+        "target-arrow-shape": "triangle",
+        "curve-style": "bezier",
+        "control-point-step-size": 100,
+        // "control-point-weight": .7,
+        "text-rotation": "autorotate",
+        // "text-margin-y": -16,
     },
 }, {
-    selector: "[name]",
+    selector: "node[name]",
+    style: {
+        label: "data(name)",
+    },
+}, {
+    selector: "node:parent",
+    style: {
+        shape: "round-rectangle",
+        // "text-valign": "top-inside",
+    },
+}, {
+    selector: "node:childless",
+    style: {
+        shape: "ellipse",
+        width: "label",
+        padding: "20px",
+        "text-valign": "center",
+        "text-halign": "center",
+    },
+}, {
+    selector: "edge[name]",
     style: {
         label: "data(name)",
     },
 }, {
     selector: ".nomination",
     style: {
-        color: "blue",
+        color: "darkslateblue",
         "line-color": "blue",
         "target-arrow-color": "blue",
     },
 }, {
     selector: ".optional",
     style: {
-        color: "orange",
+        color: "orangered",
         "line-color": "orange",
         "target-arrow-color": "orange",
     },

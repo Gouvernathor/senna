@@ -6,4 +6,8 @@ cytoscape({
     container: document.getElementById("cy"),
     elements: convertData(data),
     style: styleOptions,
+    layout: {
+        name: "grid",
+        nodeDimensionsIncludeLabels: true,
+    },
 });
