@@ -5,7 +5,7 @@ export interface DataRoot {
     "événements": Evenement[];
 }
 
-type Situations<Id extends string = string> = {
+export type Situations<Id extends string = string> = {
     [id in Id]: Situation;
 };
 
@@ -15,7 +15,7 @@ interface Situation {
     parent?: string;
 }
 
-interface Evenement {
+export interface Evenement {
     n: number;
     name: string;
     desc: string;
