@@ -1,5 +1,5 @@
 import { ElementsDefinition, StylesheetJson } from "cytoscape";
-import { DataRoot } from "./data.js";
+import { DataRoot } from "../data.js";
 
 export function convertData(data: DataRoot): ElementsDefinition {
     return {

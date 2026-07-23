@@ -1,6 +1,6 @@
 import cytoscape from "cytoscape";
-import data from "./data.js";
-import { convertData, styleOptions } from "./convertData.js";
+import data from "../data.js";
+import { convertData, styleOptions } from "./convert-data.js";
 
 cytoscape({
     container: document.getElementById("cy"),
