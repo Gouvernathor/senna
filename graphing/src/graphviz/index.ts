@@ -7,7 +7,8 @@ async function getSVG() {
 
     using graph = graphviz.createGraph();
     addData(graph, data);
-    return graph.layout();
+    console.log(graph.toDot());
+    return graph.layout(undefined, "dot");
 }
 
 export default await getSVG();
