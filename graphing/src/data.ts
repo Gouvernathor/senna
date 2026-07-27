@@ -1,0 +1,243 @@
+type OptionalKeys<T, Keys extends keyof T> = Omit<T, Keys> & Partial<Pick<T, Keys>>;
+
+export interface DataRoot {
+    situations: Situations;
+    "événements": Evenement[];
+}
+
+export type Situations<Id extends string = string> = {
+    [id in Id]: Situation;
+};
+
+interface Situation {
+    name: string;
+    desc: string;
+    parent?: string;
+}
+
+export interface Evenement {
+    n: number;
+    name: string;
+    desc: string;
+    variantes: Variante[] | [OptionalKeys<Variante, "id"|"situations">];
+    optional?: boolean;
+}
+
+interface Variante<SituationId extends string = string> {
+    id: string;
+    name?: string;
+    situations: SituationId[];
+    condition?: string;
+    "résultat": SituationId;
+    nomination: boolean;
+}
+
+export default {
+    "situations": {
+        "A": {
+            "name": "Gouvernement majoritaire à l'Assemblée",
+            "desc": "Le gouvernement est majoritaire à l'assemblée nationale."
+        },
+        "AS": {
+            "parent": "A",
+            "name": "Assemblée + Sénat",
+            "desc": "Une majorité au Sénat soutient le gouvernement."
+        },
+        "AA": {
+            "parent": "A",
+            "name": "Assemblée sans Sénat",
+            "desc": "Aucune majorité ne soutient le gouvernement au Sénat."
+        },
+        "S": {
+            "name": "Gouvernement majoritaire au Sénat",
+            "desc": "Le gouvernement est majoritaire au Sénat, sans être majoritaire à l'assemblée nationale."
+        },
+        "M": {
+            "name": "Gouvernement minoritaire",
+            "desc": "Le gouvernement est minoritaire à l'assemblée nationale et au Sénat."
+        },
+        "M+": {
+            "parent": "M",
+            "name": "Démissionnaire ou circonstances spéciales",
+            "desc": "Le gouvernement est minoritaire à l'assemblée nationale et au Sénat, mais l'assemblée nationale a le pouvoir de nommer un nouveau gouvernement minoritaire."
+        }
+    },
+    "événements": [{
+        "n": 1,
+        "name": "Nomination prioritaire",
+        "desc": "Un accord de gouvernement est conclu avec une plus grande priorité que le gouvernement sortant.",
+        "variantes": [{
+            "id": "MS",
+            "name": "Nomination prioritaire par le Sénat",
+            "situations": ["M"],
+            "condition": "Accord trouvé au Sénat",
+            "résultat": "S",
+            "nomination": true
+        }, {
+            "id": "MA",
+            "name": "Nomination prioritaire par l'Assemblée",
+            "situations": ["M"],
+            "condition": "Accord trouvé à l'Assemblée nationale",
+            "résultat": "AA",
+            "nomination": true
+        }, {
+            "id": "SA",
+            "name": "Nomination prioritaire par l'Assemblée",
+            "situations": ["S"],
+            "condition": "Accord trouvé à l'Assemblée nationale",
+            "résultat": "AA",
+            "nomination": true
+        }]
+    }, {
+        "n": 2,
+        "name": "Rupture de coalition",
+        "desc": "La majorité absolue soutenant le gouvernement est rompue.",
+        "variantes": [{
+            "id": "AS",
+            "situations": ["AS"],
+            "résultat": "S",
+            "nomination": false
+        }, {
+            "id": "AA",
+            "situations": ["AA"],
+            "résultat": "M+",
+            "nomination": false
+        }, {
+            "id": "S",
+            "situations": ["S"],
+            "résultat": "M+",
+            "nomination": false
+        }]
+    }, {
+        "n": 3,
+        "name": "Élections Assemblée nationale",
+        "desc": "L'Assemblée nationale est renouvelée.",
+        "variantes": [{
+            "id": "AM",
+            "situations": ["M"],
+            "résultat": "M+",
+            "nomination": false
+        }, {
+            "id": "AS",
+            "situations": ["S"],
+            "résultat": "S",
+            "nomination": false
+        }, {
+            "id": "AAS",
+            "situations": ["AS"],
+            "résultat": "S",
+            "nomination": false
+        }, {
+            "id": "AAA",
+            "situations": ["AA"],
+            "résultat": "M+",
+            "nomination": false
+        }]
+    }, {
+        "n": 3,
+        "name": "Élections Sénat",
+        "desc": "Le Sénat est renouvelé. (Événements potentiellement impossibles, suivant le fonctionnement du Sénat.)",
+        "variantes": [{
+            "id": "SM",
+            "situations": ["M"],
+            "résultat": "M",
+            "nomination": false
+        }, {
+            "id": "SA",
+            "situations": ["AA", "AS"],
+            "résultat": "AA",
+            "nomination": false
+        }, {
+            "id": "SS",
+            "situations": ["S"],
+            "résultat": "M+",
+            "nomination": false
+        }]
+    }, {
+        "n": 4,
+        "name": "Approbation et reprise",
+        "desc": "Le gouvernement en place est approuvé tel quel par une majorité dans la chambre au nom duquel il n'est pas investi.",
+        "variantes": [{
+            "id": "AS",
+            "name": "Approbation Sénat",
+            "situations": ["AA"],
+            "condition": "Majorité au Sénat",
+            "résultat": "AS",
+            "nomination": false
+        }, {
+            "id": "MS",
+            "name": "Approbation Sénat",
+            "situations": ["M"],
+            "condition": "Majorité au Sénat",
+            "résultat": "S",
+            "nomination": false
+        }, {
+            "id": "MA",
+            "name": "Approbation Assemblée",
+            "situations": ["M"],
+            "condition": "Majorité à l'Assemblée nationale",
+            "résultat": "AA",
+            "nomination": false
+        }, {
+            "id": "SA",
+            "name": "Approbation Assemblée",
+            "situations": ["S"],
+            "condition": "Majorité à l'Assemblée nationale",
+            "résultat": "AS",
+            "nomination": false
+        }]
+    }, {
+        "n": 5,
+        "name": "Nomination de gouvernement minoritaire",
+        "desc": "Nomination d'un nouveau gouvernement minoritaire par l'Assemblée nationale.",
+        "variantes": [{
+            "situations": ["M+"],
+            "résultat": "M",
+            "nomination": true
+        }]
+    }, {
+        "n": 6,
+        "name": "Expiration du gouvernement minoritaire",
+        "desc": "L'Assemblée nationale regagne le pouvoir de nommer un nouveau gouvernement minoritaire au bout d'un certain temps, ou de certaines circonstances particulières autres que le renouvellement de l'assemblée (couvert en 3), la démission ou destitution du Chancelier (Vacance), ou l'intervention de la CJR.",
+        "optional": true,
+        "variantes": [{
+            "name": "Expiration",
+            "situations": ["M"],
+            "résultat": "M+",
+            "nomination": false
+        }]
+    }, {
+        "n": 7,
+        "name": "Changement",
+        "desc": "Conclusion et/ou rupture de coalition au sein d'une chambre, sans changement de priorité du gouvernement.",
+        "variantes": [{
+            "id": "A",
+            "situations": ["AA", "AS"],
+            "résultat": "A",
+            "nomination": true
+        }, {
+            "id": "S",
+            "situations": ["S"],
+            "résultat": "S",
+            "nomination": true
+        }, {
+            "id": "M",
+            "situations": ["M"],
+            "résultat": "M",
+            "nomination": false
+        }/*, { // identique à la nomination du gouvernement minoritaire
+            "id": "M+",
+            "situations": ["M+"],
+            "résultat": "M",
+            "nomination": true
+        }*/]
+    }, {
+        "n": 8,
+        "name": "Vacance",
+        "desc": "Vacance de la chancellerie.\nSi décès, destitution, ou démission ayant pris son effet, alors le vice-chancelier, si il existe, sinon le président de l'Assemblée nationale, assure l'intérim de la chancellerie.",
+        "variantes": [{
+            "résultat": "M+",
+            "nomination": false
+        }]
+    }]
+} satisfies DataRoot;

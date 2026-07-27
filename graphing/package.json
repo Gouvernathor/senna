@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@hpcc-js/wasm-graphviz": "^1.27.3",
+    "cytoscape": "^3.34.0"
+  },
+  "devDependencies": {
+    "@tsconfig/strictest": "^2.0.8",
+    "typescript": "^7.0.2"
+  },
+  "scripts": {
+    "build": "tsc",
+    "serve": "npm run build && npx http-server",
+    "generate": "npm run build && node ./dist/graphviz/node.js"
+  }
+}

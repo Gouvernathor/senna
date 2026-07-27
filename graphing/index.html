@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title>Nomination Senna</title>
+        <script type="importmap">{
+            "imports": {
+                "cytoscape": "./node_modules/cytoscape/dist/cytoscape.esm.min.mjs",
+                "@hpcc-js/wasm-graphviz": "./node_modules/@hpcc-js/wasm-graphviz/dist/index.js"
+            }
+        }</script>
+        <script type="module" src="dist/graphviz/browser.js"></script>
+        <style>
+            #cy {
+                position: absolute;
+                left: 0;
+                top: 0;
+                right: 0;
+                bottom: 0;
+                z-index: -1;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- <h1>Représentation en graphe des transitions de Gouvernement dans la constitution Senna</h1> -->
+        <div id="cy"></div>
+    </body>
+</html>
