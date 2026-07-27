@@ -1,5 +1,13 @@
 # Dispositions communes
 
+Un gouvernement est nommé, ou approuvé par une chambre (sous réserve de recevabilité, priorité…) :
+- par un vote de la majorité absolue des membres de la chambre
+- par la première pétition lors d'un processus de pétition de gouvernement
+
+La chambre auprès de laquelle le gouvernement est responsable peut changer sa composition (de façon constructive), par un vote de la majorité absolue de ses membres.
+
+Le sénat peut voter la confiance à un gouvernement nommé par l'assemblée (à la majorité absolue de ses membres), de manière à ce qu'il ne finisse pas minoritaire même si il devait perdre la majorité de l'assemblée.
+
 Lorsque le poste de chancelier est vacant (démission immédiate, mort, destitution...), le vice-chancelier prévu par la pétition, si il existe, assure l'intérim.
 Sinon, c'est le président de l'assemblée nationale qui assure l'intérim de la chancellerie.
 
@@ -13,8 +21,6 @@ Elle peut donc en nommer un nouveau quand aucun gouvernement n'est majo au séna
 - l'assemblée vient d'être renouvelée,
 - le poste de chancelier est vacant (ou assuré par intérim) (cas de mort, de démission ayant pris son effet, de destitution...),
 - le gouvernement en place avait été nommé de manière majoritaire, par l'assemblée ou le sénat, mais il vient de devenir minoritaire.
-
-Le sénat peut voter la confiance à un gouvernement nommé par l'assemblée, de manière à ce qu'il ne finisse pas minoritaire même si il devait perdre la majorité de l'assemblée.
 
 
 # old
